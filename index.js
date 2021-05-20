@@ -1,4 +1,5 @@
 const express = require("express");
+require("dotenv").config();
 const fs = require("fs");
 
 const app = express();
@@ -7,7 +8,7 @@ app.get("/api_oxygen_ranchi", (req, res) => {
   try {
     fs.readFile(`./jsonFiles/ranchi.json`, "utf-8", (error, data) => {
       res.send(JSON.parse(data));
-    }); 
+    });
   } catch (error) {
     console.log(error);
   }
@@ -93,5 +94,6 @@ app.get("/api_oxygen_chattisgarh", (req, res) => {
   }
 });
 
-const PORT = 4000;
-app.listen(PORT, () => console.log(`listening on port ${PORT}`));
+app.listen(process.env.PORT || 3001, () =>
+  console.log(`listening`)
+);
