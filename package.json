@@ -1,0 +1,21 @@
+{
+  "name": "webScraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon  index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Talha shamim",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "puppeteer": "^9.1.1",
+    "request": "^2.88.2"
+  }
+}
