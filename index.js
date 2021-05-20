@@ -26,7 +26,7 @@ app.get("/api_oxygen_uttrakhand", (req, res) => {
 
 app.get("/api_oxygen_uttarpradesh", (req, res) => {
   try {
-    fs.readFile(`./jsonFiles/uttarpradesh.json`, "utf-8", (error, data) => {
+    fs.readFile(`./jsonFiles/uttarPradesh.json`, "utf-8", (error, data) => {
       res.send(data);
     });
   } catch (error) {
@@ -66,7 +66,7 @@ app.get("/api_oxygen_gurugram", (req, res) => {
 
 app.get("/api_oxygen_kerela", (req, res) => {
   try {
-    fs.readFile(`./jsonFiles/kerela.json`, "utf-8", (error, data) => {
+    fs.readFile(`./jsonFiles/kerala.json`, "utf-8", (error, data) => {
       res.send(data);
     });
   } catch (error) {
