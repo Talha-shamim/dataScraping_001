@@ -14,8 +14,8 @@ app.get("/api_covinet", (req, res) => {
   } else {
     try {
       fs.readFile(`./jsonFiles/${place}.json`, "utf-8", (error, data) => {
-        res.send(data);
         res.status(200);
+        res.send(data);
       });
     } catch (error) {
       console.log(error);
