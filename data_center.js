@@ -7,13 +7,13 @@ const Goa = require("./cheerios/Goa.js");
 const Puducherry = require("./cheerios/Puducherry.js");
 const Navi = require("./cheerios/Navimumbai.js");
 const Ahmedabad = require("./puppeteer/Ahmedabad.js");
-const Haryana = require("./puppeteer/Haryana.js");
-const Madhya = require("./puppeteer/Madhyapradesh");
+// const Haryana = require("./puppeteer/Haryana.js");
+// const Madhya = require("./puppeteer/Madhyapradesh");
 const kerala = require("./puppeteer/kerala.js");
 const delhi = require("./puppeteer/delhi.js");
 const chattisgarh = require("./puppeteer/chattisgarh.js");
 
-setTimeout(() => {
+setInterval(() => {
   allahabad.getAllahabad();
   uttarpradesh.getuttarpradesh();
   uttrakhand.getuttrakhand();
@@ -23,9 +23,9 @@ setTimeout(() => {
   Puducherry.getpuducherry();
   Navi.getnavi();
   Ahmedabad.getahmadabad();
-  Haryana.getharyana();
-  Madhya.getmadhyapradesh();
+  // Haryana.getharyana();
+  // Madhya.getmadhyapradesh();
   kerala.getKerala();
   delhi.getdelhi();
   chattisgarh.getchattisgarh();
-}, 10000);
+}, 120000);

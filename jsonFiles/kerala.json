@@ -7,93 +7,9 @@
   },
   {
     "district": "ERNAKULAM",
-    "oxygenBedTotal": "1761",
-    "oxygenBedAvailable": "708",
-    "oxygenBedOccupied": 1053
-  },
-  {
-    "district": "IDUKKI",
-    "oxygenBedTotal": "244",
-    "oxygenBedAvailable": "40",
-    "oxygenBedOccupied": 204
-  },
-  {
-    "district": "KANNUR",
-    "oxygenBedTotal": "561",
-    "oxygenBedAvailable": "169",
-    "oxygenBedOccupied": 392
-  },
-  {
-    "district": "KASARAGOD",
-    "oxygenBedTotal": "171",
-    "oxygenBedAvailable": "52",
-    "oxygenBedOccupied": 119
-  },
-  {
-    "district": "KOLLAM",
-    "oxygenBedTotal": "502",
-    "oxygenBedAvailable": "40",
-    "oxygenBedOccupied": 462
-  },
-  {
-    "district": "KOTTAYAM",
-    "oxygenBedTotal": "306",
-    "oxygenBedAvailable": "37",
-    "oxygenBedOccupied": 269
-  },
-  {
-    "district": "KOZHIKODE",
-    "oxygenBedTotal": "809",
-    "oxygenBedAvailable": "166",
-    "oxygenBedOccupied": 643
-  },
-  {
-    "district": "MALAPPURAM",
-    "oxygenBedTotal": "511",
-    "oxygenBedAvailable": "116",
-    "oxygenBedOccupied": 395
-  },
-  {
-    "district": "PALAKKAD",
-    "oxygenBedTotal": "578",
-    "oxygenBedAvailable": "145",
-    "oxygenBedOccupied": 433
-  },
-  {
-    "district": "PATHANAMTHITTA",
-    "oxygenBedTotal": "295",
-    "oxygenBedAvailable": "76",
-    "oxygenBedOccupied": 219
-  },
-  {
-    "district": "THIRUVANANTHAPURAM",
-    "oxygenBedTotal": "724",
-    "oxygenBedAvailable": "33",
-    "oxygenBedOccupied": 691
-  },
-  {
-    "district": "THRISSUR",
-    "oxygenBedTotal": "921",
-    "oxygenBedAvailable": "413",
-    "oxygenBedOccupied": 508
-  },
-  {
-    "district": "WAYANAD",
-    "oxygenBedTotal": "184",
-    "oxygenBedAvailable": "87",
-    "oxygenBedOccupied": 97
-  },
-  {
-    "district": "ALAPPUZHA",
-    "oxygenBedTotal": "284",
-    "oxygenBedAvailable": "136",
-    "oxygenBedOccupied": 148
-  },
-  {
-    "district": "ERNAKULAM",
-    "oxygenBedTotal": "1761",
-    "oxygenBedAvailable": "708",
-    "oxygenBedOccupied": 1053
+    "oxygenBedTotal": "1749",
+    "oxygenBedAvailable": "713",
+    "oxygenBedOccupied": 1036
   },
   {
     "district": "IDUKKI",
@@ -188,15 +104,15 @@
     "state": "Kerala",
     "HospitalName": "NA",
     "HospitalAddress": "NA",
-    "normalBedTotal": "3882",
-    "normalBedAvailable": "1389",
-    "normalBedOccupied": 2493,
+    "normalBedTotal": "3867",
+    "normalBedAvailable": "1400",
+    "normalBedOccupied": 2467,
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "1761",
-    "oxygenBedAvailable": "708",
-    "oxygenBedOccupied": 1053,
+    "oxygenBedTotal": "1749",
+    "oxygenBedAvailable": "713",
+    "oxygenBedOccupied": 1036,
     "googleSearch": "NA"
   },
   {
@@ -258,9 +174,7 @@
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "502",
-    "oxygenBedAvailable": "40",
-    "oxygenBedOccupied": 462,
+    "oxygenBedOccupied": null,
     "googleSearch": "NA"
   },
   {
@@ -274,9 +188,7 @@
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "306",
-    "oxygenBedAvailable": "37",
-    "oxygenBedOccupied": 269,
+    "oxygenBedOccupied": null,
     "googleSearch": "NA"
   },
   {
@@ -290,9 +202,7 @@
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "809",
-    "oxygenBedAvailable": "166",
-    "oxygenBedOccupied": 643,
+    "oxygenBedOccupied": null,
     "googleSearch": "NA"
   },
   {
@@ -306,9 +216,7 @@
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "511",
-    "oxygenBedAvailable": "116",
-    "oxygenBedOccupied": 395,
+    "oxygenBedOccupied": null,
     "googleSearch": "NA"
   },
   {
@@ -322,9 +230,7 @@
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "578",
-    "oxygenBedAvailable": "145",
-    "oxygenBedOccupied": 433,
+    "oxygenBedOccupied": null,
     "googleSearch": "NA"
   },
   {
@@ -338,9 +244,7 @@
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "295",
-    "oxygenBedAvailable": "76",
-    "oxygenBedOccupied": 219,
+    "oxygenBedOccupied": null,
     "googleSearch": "NA"
   },
   {
@@ -354,9 +258,7 @@
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "724",
-    "oxygenBedAvailable": "33",
-    "oxygenBedOccupied": 691,
+    "oxygenBedOccupied": null,
     "googleSearch": "NA"
   },
   {
@@ -370,9 +272,7 @@
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "921",
-    "oxygenBedAvailable": "413",
-    "oxygenBedOccupied": 508,
+    "oxygenBedOccupied": null,
     "googleSearch": "NA"
   },
   {
@@ -386,9 +286,7 @@
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
     "phoneNo": "NA",
-    "oxygenBedTotal": "184",
-    "oxygenBedAvailable": "87",
-    "oxygenBedOccupied": 97,
+    "oxygenBedOccupied": null,
     "googleSearch": "NA"
   }
 ]

@@ -958,8 +958,6 @@
     "normalBedOccupied": 10,
     "lastUpdatedDate": "21/05/2021",
     "lastUpdatedTime": "18:00"
-<<<<<<< HEAD
-=======
   },
   {
     "district": "BILASPUR",
@@ -1035,108 +1033,10 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "21/05/2021",
     "lastUpdatedTime": "11:45"
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
   },
   {
     "district": "BILASPUR",
     "state": "Chattisgarh",
-    "HospitalName": "Mahadev Hospital Bilaspur",
-    "HospitalAddress": "NA",
-    "phoneNo": "SUJEET KUMAR TIWARI 8878812002",
-    "oxygenBedTotal": "0",
-    "oxygenBedAvailable": "0",
-    "oxygenBedOccupied": 0,
-    "normalBedTotal": "0",
-    "normalBedAvailable": "0",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "21/05/2021",
-    "lastUpdatedTime": "10:18"
-  },
-  {
-    "district": "BILASPUR",
-    "state": "Chattisgarh",
-    "HospitalName": "J J Hospital",
-    "HospitalAddress": "NA",
-<<<<<<< HEAD
-    "phoneNo": "Priyanka 9303812196",
-    "oxygenBedTotal": "12",
-    "oxygenBedAvailable": "4",
-    "oxygenBedOccupied": 8,
-    "normalBedTotal": "4",
-    "normalBedAvailable": "3",
-    "normalBedOccupied": 1,
-    "lastUpdatedDate": "21/05/2021",
-    "lastUpdatedTime": "19:29"
-=======
-    "phoneNo": "Kashmita Dutta 7002797274",
-    "oxygenBedTotal": "4",
-    "oxygenBedAvailable": "1",
-    "oxygenBedOccupied": 3,
-    "normalBedTotal": "8",
-    "normalBedAvailable": "8",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "21/05/2021",
-    "lastUpdatedTime": "18:00"
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
-  },
-  {
-    "district": "BILASPUR",
-    "state": "Chattisgarh",
-    "HospitalName": "New vandana hospital",
-    "HospitalAddress": "NA",
-    "phoneNo": "Dr. C.S. Uike 9425548090",
-    "oxygenBedTotal": "10",
-    "oxygenBedAvailable": "5",
-    "oxygenBedOccupied": 5,
-    "normalBedTotal": "0",
-    "normalBedAvailable": "0",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "21/05/2021",
-    "lastUpdatedTime": "22:34"
-  },
-  {
-    "district": "BILASPUR",
-    "state": "Chattisgarh",
-    "HospitalName": "Shri Shishu Bhawan Children’s Hospital",
-    "HospitalAddress": "NA",
-    "phoneNo": "MRS. JYOTI SHARMA 877098035 8770984035",
-    "oxygenBedTotal": "0",
-    "oxygenBedAvailable": "0",
-    "oxygenBedOccupied": 0,
-    "normalBedTotal": "0",
-    "normalBedAvailable": "0",
-    "normalBedOccupied": 0,
-<<<<<<< HEAD
-    "lastUpdatedDate": "21/05/2021",
-    "lastUpdatedTime": "19:44"
-=======
-    "lastUpdatedDate": "20/05/2021",
-    "lastUpdatedTime": "11:39"
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
-  },
-  {
-    "district": "BILASPUR",
-    "state": "Chattisgarh",
-    "HospitalName": "Shriram care hospital unit 2",
-    "HospitalAddress": "NA",
-    "phoneNo": "MOHAMMAD KAISH 9039850891",
-    "oxygenBedTotal": "0",
-    "oxygenBedAvailable": "0",
-    "oxygenBedOccupied": 0,
-    "normalBedTotal": "0",
-    "normalBedAvailable": "0",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "21/05/2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "11:45"
-=======
-    "lastUpdatedTime": "10:40"
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
-  },
-  {
-    "district": "BILASPUR",
-    "state": "Chattisgarh",
-<<<<<<< HEAD
     "HospitalName": "Surya Hospital maharana pratap chowk bilaspur",
     "HospitalAddress": "NA",
     "phoneNo": "Dr Ritesh 9098515326",
@@ -1148,34 +1048,6 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "20/05/2021",
     "lastUpdatedTime": "13:04"
-=======
-    "HospitalName": "Ganga hospital Takhatpur",
-    "HospitalAddress": "NA",
-    "phoneNo": "ARGHA MUKHERJI 9340190072",
-    "oxygenBedTotal": "10",
-    "oxygenBedAvailable": "9",
-    "oxygenBedOccupied": 1,
-    "normalBedTotal": "0",
-    "normalBedAvailable": "0",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "21/05/2021",
-    "lastUpdatedTime": "14:15"
-  },
-  {
-    "district": "BILASPUR",
-    "state": "Chattisgarh",
-    "HospitalName": "Wasudeo clinic and nursing home",
-    "HospitalAddress": "NA",
-    "phoneNo": "Dr. Akhilesh Dewras 9329387100",
-    "oxygenBedTotal": "8",
-    "oxygenBedAvailable": "2",
-    "oxygenBedOccupied": 6,
-    "normalBedTotal": "0",
-    "normalBedAvailable": "0",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "21/05/2021",
-    "lastUpdatedTime": "08:56"
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
   },
   {
     "district": "BILASPUR",
@@ -1190,16 +1062,11 @@
     "normalBedAvailable": "8",
     "normalBedOccupied": 0,
     "lastUpdatedDate": "21/05/2021",
-<<<<<<< HEAD
     "lastUpdatedTime": "18:00"
-=======
-    "lastUpdatedTime": "13:18"
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
   },
   {
     "district": "BILASPUR",
     "state": "Chattisgarh",
-<<<<<<< HEAD
     "HospitalName": "New vandana hospital",
     "HospitalAddress": "NA",
     "phoneNo": "Dr. C.S. Uike 9425548090",
@@ -1218,18 +1085,12 @@
     "HospitalName": "Shri Shishu Bhawan Children’s Hospital",
     "HospitalAddress": "NA",
     "phoneNo": "MRS. JYOTI SHARMA 877098035 8770984035",
-=======
-    "HospitalName": "Narayani Hospital , mangla chowk bilaspur",
-    "HospitalAddress": "NA",
-    "phoneNo": "Dr Pawan Agrawal 9893008639",
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
     "oxygenBedTotal": "0",
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-<<<<<<< HEAD
     "lastUpdatedDate": "20/05/2021",
     "lastUpdatedTime": "11:39"
   },
@@ -1305,8 +1166,6 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-=======
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
     "lastUpdatedDate": "21/05/2021",
     "lastUpdatedTime": "07:12"
   },
@@ -1594,24 +1453,6 @@
     "normalBedOccupied": 49,
     "lastUpdatedDate": "20/05/2021",
     "lastUpdatedTime": "17:24"
-<<<<<<< HEAD
-=======
-  },
-  {
-    "district": "Dantewada",
-    "state": "Chattisgarh",
-    "HospitalName": "MCH Geedam Dantewada",
-    "HospitalAddress": "NA",
-    "phoneNo": "Dr Devendra Pratap Singh 9584749412",
-    "oxygenBedTotal": "70",
-    "oxygenBedAvailable": "51",
-    "oxygenBedOccupied": 19,
-    "normalBedTotal": "0",
-    "normalBedAvailable": "0",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "20/05/2021",
-    "lastUpdatedTime": "17:22"
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
   },
   {
     "district": "Dantewada",
@@ -1687,7 +1528,6 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "21/05/2021",
     "lastUpdatedTime": "17:07"
-<<<<<<< HEAD
   },
   {
     "district": "DHAMTARI",
@@ -7223,7 +7063,5 @@
     "normalBedOccupied": 3974,
     "lastUpdatedDate": "",
     "lastUpdatedTime": ""
-=======
->>>>>>> 373c9bcf1f8f0155a39b4432a231887bdc55980a
   }
 ]
