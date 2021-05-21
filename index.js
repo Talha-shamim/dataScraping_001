@@ -9,6 +9,7 @@ app.use(cors());
 app.get("/api_oxynet", (req, res) => {
   try {
     const place = req.query.placename;
+    console.log(place);
     fs.readFile(`./jsonFiles/${place}.json`, "utf-8", (error, data) => {
       res.send(data);
     });

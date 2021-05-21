@@ -7,7 +7,7 @@ var kerala = [];
 
 async function capture() {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
   });
   const page = await browser.newPage();
   await page.setDefaultNavigationTimeout(0);
@@ -74,61 +74,12 @@ async function capture() {
 
 capture();
 
-async function capture() {
-  const browser = await puppeteer.launch({
-    headless: false,
-  });
-  const page = await browser.newPage();
-
-  await page.goto(
-    "https://covid19jagratha.kerala.nic.in/home/addHospitalDashBoard",
-    { waitUntil: "networkidle2" }
-  );
-
-  await page.click(
-    "#services > div > div:nth-child(4) > div:nth-child(3) > div > h4 > a"
-  );
-
-  await page.waitFor(5000);
-
-  data = await page.evaluate(() =>
-    Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
-      (datas) => datas.innerText
-    )
-  );
-
-  await page.click("#hosTable_next");
-
-  await page.waitFor(5000);
-
-  data1 = await page.evaluate(() =>
-    Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
-      (datas) => datas.innerText
-    )
-  );
-
-  await page.waitFor(5000);
-  await page.click("#hosTable_next");
-
-  data2 = await page.evaluate(() =>
-    Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
-      (datas) => datas.innerText
-    )
-  );
-
-  data = data.concat(data1);
-  data = data.concat(data2);
-
-  await browser.close();
-}
-
-capture();
-
 async function capture_() {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
   });
   const page = await browser.newPage();
+  await page.setDefaultNavigationTimeout(0);
 
   await page.goto(
     "https://covid19jagratha.kerala.nic.in/home/addHospitalDashBoard",
