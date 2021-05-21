@@ -76,6 +76,16 @@ async function get() {
           } else console.log("File written ranchi");
         }
       );
+
+      fs.writeFile(
+        "jsonFiles/jharkhand.json",
+        JSON.stringify(ranchi, null, 2),
+        (error) => {
+          if (error) {
+            console.log(error);
+          } else console.log("File written Jharkhand");
+        }
+      );
     })
 
     .catch((error) => {
