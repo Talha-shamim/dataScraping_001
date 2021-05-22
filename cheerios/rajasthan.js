@@ -26,8 +26,8 @@ async function get() {
       x = 23;
       y = 24;
       z = 25;
-      o = 29;
-      t = 31;
+      o = 32;
+      t = 34;
       for (var i = 0; t < data.length; i++) {
         var objData = {
           district: data[m],
