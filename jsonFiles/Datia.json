@@ -4,12 +4,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "70 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "51",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "25",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "07:14:55",
+=======
+    "normalBedAvailable": "50",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "24",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "19:42:48",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Dh+Datia - DCHC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Dh+Datia - DCHC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -36,12 +45,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "145 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "93",
+=======
+    "normalBedAvailable": "110",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "82",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "06:34:02",
+=======
+    "lastUpdatedTime": "19:34:46",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=GMC+Datia - DCH+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=GMC+Datia - DCH+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -52,12 +69,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "15 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "7",
+=======
+    "normalBedAvailable": "10",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "3",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "08:02:57",
+=======
+    "lastUpdatedTime": "20:07:37",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=VEDIKA+MULTISPECILITY HOSPITAL+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=VEDIKA+MULTISPECILITY HOSPITAL+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -73,7 +98,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "06:51:54",
+=======
+    "lastUpdatedTime": "21:08:25",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=RAWATPURA+NURSING COLLEGE AND ASSOCIATED SHANTIMEMORIAL HOSPITAL JHASHI ROAD+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=RAWATPURA+NURSING COLLEGE AND ASSOCIATED SHANTIMEMORIAL HOSPITAL JHASHI ROAD+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -89,7 +118,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "3",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "07:08:55",
+=======
+    "lastUpdatedTime": "20:12:50",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=MAA+PITAMBRA HOSPITAL+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=MAA+PITAMBRA HOSPITAL+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -105,7 +138,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "06:41:02",
+=======
+    "lastUpdatedTime": "21:16:01",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=BHAMA+NURSING COLLEGE AND ASSOSIATED HOSPITAL CHIRULA+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=BHAMA+NURSING COLLEGE AND ASSOSIATED HOSPITAL CHIRULA+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -121,7 +158,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "06:49:21",
+=======
+    "lastUpdatedTime": "21:11:20",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=SWAMI+JI MAHARAJ NURSING COLLEGE AND ASSOSIATE HOSPITAL UANO ROAD DATIA+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=SWAMI+JI MAHARAJ NURSING COLLEGE AND ASSOSIATE HOSPITAL UANO ROAD DATIA+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -137,7 +178,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "06:43:56",
+=======
+    "lastUpdatedTime": "21:14:35",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=LORD+KRISHNA PUBLIC SCHOOL+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=LORD+KRISHNA PUBLIC SCHOOL+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

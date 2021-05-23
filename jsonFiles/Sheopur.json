@@ -4,12 +4,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "97 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "52",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "43",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "08:06:47",
+=======
+    "normalBedAvailable": "65",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "56",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "18:12:43",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=DH+Sheopur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+Sheopur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -25,7 +34,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "18",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "08:08:10",
+=======
+    "lastUpdatedTime": "18:17:00",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Dccc+dhengda+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Dccc+dhengda+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -41,7 +54,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "08:08:51",
+=======
+    "lastUpdatedTime": "18:17:52",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=ITI+karahal+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=ITI+karahal+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -57,7 +74,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "08:07:30",
+=======
+    "lastUpdatedTime": "18:15:49",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CCC+Vijaypur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CCC+Vijaypur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

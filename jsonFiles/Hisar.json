@@ -8,8 +8,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "26",
     "oxygenBedAvailable": "0",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:38 PM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:00 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=AADHAR+Hospital, Hisar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=AADHAR+Hospital, Hisar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -20,12 +25,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "2",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "24",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:02 PM ",
+=======
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "24",
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:41 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Bharat+Multispeciality Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Bharat+Multispeciality Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -41,7 +55,11 @@
     "oxygenBedOccupied": "47",
     "oxygenBedAvailable": "1",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:55 PM ",
+=======
+    "lastUpdatedTime": "8:40 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Central+Medical Centre (CMC)+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Central+Medical Centre (CMC)+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -57,7 +75,11 @@
     "oxygenBedOccupied": "200",
     "oxygenBedAvailable": "132",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "3:07 PM ",
+=======
+    "lastUpdatedTime": "4:11 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Ch.+Devi Lal Sanjeevani Make Shift Covid Hopsital Hisar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Ch.+Devi Lal Sanjeevani Make Shift Covid Hopsital Hisar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -80,6 +102,25 @@
     "phoneNo": "01162231914"
   },
   {
+<<<<<<< HEAD
+=======
+    "hospitalName": "District Civil Hospital Hisar",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "72",
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "7:04 PM ",
+    "district": "Hisar",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=District+Civil Hospital Hisar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=District+Civil Hospital Hisar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01662278102"
+  },
+  {
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "DR. ANANTRAM JANTA HOSPITAL PVT LTD BARWALA",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -100,12 +141,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "0",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "40",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:58 PM ",
+=======
+    "normalBedAvailable": "1",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "40",
+    "oxygenBedAvailable": "1",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:09 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Geetanjali+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Geetanjali+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -121,7 +171,11 @@
     "oxygenBedOccupied": "4",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "2:26 PM ",
+=======
+    "lastUpdatedTime": "8:47 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Goswami+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Goswami+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -132,12 +186,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "17",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "30",
     "oxygenBedAvailable": "17",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "11:34 AM",
+=======
+    "normalBedAvailable": "20",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "30",
+    "oxygenBedAvailable": "20",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "6:41 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Gupta+Hospital Hisar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Gupta+Hospital Hisar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -148,12 +211,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "1",
+=======
+    "normalBedAvailable": "2",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "2:02 PM ",
+=======
+    "lastUpdatedTime": "9:10 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=GURU+JAMBHESHWAR MULTISPECIALITY HOSPITAL, AGROHA+Haryana&rlz=1C1CHBF_enIN859IN859&oq=GURU+JAMBHESHWAR MULTISPECIALITY HOSPITAL, AGROHA+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -169,7 +240,11 @@
     "oxygenBedOccupied": "25",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:41 PM ",
+=======
+    "lastUpdatedTime": "8:42 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Holy+Help Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Holy+Help Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -185,7 +260,11 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "2:07 PM ",
+=======
+    "lastUpdatedTime": "5:09 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Janki+Children Hospital Hisar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Janki+Children Hospital Hisar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -200,8 +279,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "19",
     "oxygenBedAvailable": "0",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:35 PM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:04 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Mahatma+Gandhi Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Mahatma+Gandhi Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -217,7 +301,11 @@
     "oxygenBedOccupied": "85",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:42 PM ",
+=======
+    "lastUpdatedTime": "8:33 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=MAMC+Agroha+Haryana&rlz=1C1CHBF_enIN859IN859&oq=MAMC+Agroha+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -256,6 +344,25 @@
     "phoneNo": "09896768373"
   },
   {
+<<<<<<< HEAD
+=======
+    "hospitalName": "NEKIRAM HOSPITAL",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "14",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "5",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "3:33 PM ",
+    "district": "Hisar",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=NEKIRAM+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=NEKIRAM+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "8813055575"
+  },
+  {
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "Noble Super Specialty Hospital",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -264,8 +371,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "12",
     "oxygenBedAvailable": "5",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "10:23 AM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "6:36 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Noble+Super Specialty Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Noble+Super Specialty Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -276,12 +388,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "4",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "100",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "7:57 AM ",
+=======
+    "normalBedAvailable": "12",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "100",
+    "oxygenBedAvailable": "8",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:42 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=OPJindal+Institute of Cancer & Research Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=OPJindal+Institute of Cancer & Research Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -297,7 +418,11 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:21 AM ",
+=======
+    "lastUpdatedTime": "8:47 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=PARDEEP+KANSAL MULTISPECIALITY HOSPITAL FOR CHILDREN+Haryana&rlz=1C1CHBF_enIN859IN859&oq=PARDEEP+KANSAL MULTISPECIALITY HOSPITAL FOR CHILDREN+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -313,7 +438,11 @@
     "oxygenBedOccupied": "21",
     "oxygenBedAvailable": "9",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "2:43 PM ",
+=======
+    "lastUpdatedTime": "8:26 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Parnami+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Parnami+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -329,13 +458,36 @@
     "oxygenBedOccupied": "19",
     "oxygenBedAvailable": "8",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "8:01 AM ",
+=======
+    "lastUpdatedTime": "8:42 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Ravindra+Hospital Hisar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Ravindra+Hospital Hisar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01662223120"
   },
   {
+<<<<<<< HEAD
+=======
+    "hospitalName": "Samayara Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "3:14 PM ",
+    "district": "Hisar",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Samayara+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Samayara+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9812066164"
+  },
+  {
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "Sapra Hospital",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -361,7 +513,11 @@
     "oxygenBedOccupied": "24",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:58 PM ",
+=======
+    "lastUpdatedTime": "8:41 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Sarvodya+Hospital, Hisar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sarvodya+Hospital, Hisar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -377,7 +533,11 @@
     "oxygenBedOccupied": "16",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:56 PM ",
+=======
+    "lastUpdatedTime": "8:40 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Sewak+Sabha Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sewak+Sabha Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -388,12 +548,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "18",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "26",
     "oxygenBedAvailable": "16",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:57 PM ",
+=======
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "26",
+    "oxygenBedAvailable": "8",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:48 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Shanti+Devi Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Shanti+Devi Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -420,12 +589,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "2",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "17",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:59 PM ",
+=======
+    "normalBedAvailable": "7",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "17",
+    "oxygenBedAvailable": "7",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:46 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SINGLA+MULTISPECIALITY HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SINGLA+MULTISPECIALITY HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -440,8 +618,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "6",
     "oxygenBedAvailable": "2",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:22 PM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "4:31 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SL+Minda Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SL+Minda Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -452,12 +635,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "2",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "2:46 PM ",
+=======
+    "normalBedAvailable": "6",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "9",
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:56 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Sonakshi+Children Hospital Hansi+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sonakshi+Children Hospital Hansi+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -468,12 +660,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "7",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "46",
     "oxygenBedAvailable": "3",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:56 PM ",
+=======
+    "normalBedAvailable": "22",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "46",
+    "oxygenBedAvailable": "15",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "7:52 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Sukhda+Multispeciality Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sukhda+Multispeciality Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -488,8 +689,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "5",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "11:21 AM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:41 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Hisar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Vardaan+Hospital Hisar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Vardaan+Hospital Hisar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

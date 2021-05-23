@@ -51,14 +51,14 @@ async function get() {
         var withouto2Avail = availableData[j + 4];
 
         objData.icuCapacity = icuCap;
-        objData.icuAvailability = icuAvail;
+        objData.icuAvailable = icuAvail;
 
-        objData.oxygenBedCapacity = o2Cap;
-        objData.oxygenBedAvailability = o2Avail;
+        objData.oxygenBedTotal = o2Cap;
+        objData.oxygenBedAvailable = o2Avail;
         objData.oxygenBedOccupied = o2Cap - o2Avail;
 
-        objData.normalBedCapacity = withouto2Cap;
-        objData.normalBedAvailability = withouto2Avail;
+        objData.normalBedTotal = withouto2Cap;
+        objData.normalBedAvailable = withouto2Avail;
         objData.normalBedOccupied = withouto2Cap - withouto2Avail;
 
         allahabad.push(objData);

@@ -4,12 +4,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "7",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "12",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "9:02 AM ",
+=======
+    "normalBedAvailable": "11",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "12",
+    "oxygenBedAvailable": "7",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:38 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Apex+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Apex+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -20,12 +29,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "5",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "15",
     "oxygenBedAvailable": "5",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "9:24 AM ",
+=======
+    "normalBedAvailable": "7",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "15",
+    "oxygenBedAvailable": "6",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:12 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Astha+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Astha+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -52,12 +70,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "0",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "8:22 AM ",
+=======
+    "normalBedAvailable": "2",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "9",
+    "oxygenBedAvailable": "2",
+    "lastUpdatedDate": "21st May,21",
+    "lastUpdatedTime": "10:05 PM",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Dayal+Nursing Home, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Dayal+Nursing Home, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -73,7 +100,11 @@
     "oxygenBedOccupied": "4",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:51 AM ",
+=======
+    "lastUpdatedTime": "4:29 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Gupta+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Gupta+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -89,7 +120,11 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "8:38 AM ",
+=======
+    "lastUpdatedTime": "5:27 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Jagdish+Nursing Home, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Jagdish+Nursing Home, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -105,7 +140,11 @@
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:38 AM ",
+=======
+    "lastUpdatedTime": "4:43 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=jCD+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=jCD+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -121,7 +160,11 @@
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:00 AM ",
+=======
+    "lastUpdatedTime": "4:37 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Jeevan+Jyoti Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Jeevan+Jyoti Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -137,7 +180,11 @@
     "oxygenBedOccupied": "6",
     "oxygenBedAvailable": "5",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "8:33 AM ",
+=======
+    "lastUpdatedTime": "5:09 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Khurana+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Khurana+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -153,7 +200,11 @@
     "oxygenBedOccupied": "13",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:47 AM ",
+=======
+    "lastUpdatedTime": "5:04 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Lalgarhia+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Lalgarhia+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -168,8 +219,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "0",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "10:12 AM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "6:08 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Medicare+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Medicare+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -185,7 +241,11 @@
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "1",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "7:23 AM ",
+=======
+    "lastUpdatedTime": "4:20 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Metro+Health Care Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Metro+Health Care Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -196,12 +256,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "5",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "14",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "7:40 AM ",
+=======
+    "normalBedAvailable": "7",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "14",
+    "oxygenBedAvailable": "6",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "3:59 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Mittal+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Mittal+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -212,12 +281,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "1",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "1",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "9:05 AM ",
+=======
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "7",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:04 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=New+Life Care Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=New+Life Care Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -228,12 +306,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "16",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "14",
     "oxygenBedAvailable": "9",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "9:12 AM ",
+=======
+    "normalBedAvailable": "14",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "14",
+    "oxygenBedAvailable": "7",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "4:10 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Poonia+COVID Care Center, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Poonia+COVID Care Center, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -249,7 +336,11 @@
     "oxygenBedOccupied": "45",
     "oxygenBedAvailable": "5",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:31 AM ",
+=======
+    "lastUpdatedTime": "4:16 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Sanjeevni+Hospital, Sirsa (Wing -2, 1 & 2nd Floor)+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sanjeevni+Hospital, Sirsa (Wing -2, 1 & 2nd Floor)+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -260,12 +351,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "14",
+=======
+    "normalBedAvailable": "11",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "8:22 AM ",
+=======
+    "lastUpdatedTime": "4:53 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SDCH+Dabwali+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SDCH+Dabwali+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -276,12 +375,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "8",
+=======
+    "normalBedAvailable": "11",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "21",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "8:03 AM ",
+=======
+    "lastUpdatedTime": "5:20 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Shah+Satnam Dera Hospital (Wing -2, 2nd floor), Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Shah+Satnam Dera Hospital (Wing -2, 2nd floor), Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -297,7 +404,11 @@
     "oxygenBedOccupied": "15",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:39 AM ",
+=======
+    "lastUpdatedTime": "4:16 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Shri+Baba Tara Hospital & Research Center, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Shri+Baba Tara Hospital & Research Center, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -308,12 +419,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "1",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "12",
     "oxygenBedAvailable": "1",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:44 PM ",
+=======
+    "normalBedAvailable": "2",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "12",
+    "oxygenBedAvailable": "2",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "4:00 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SPS+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SPS+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -329,7 +449,11 @@
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "8:42 AM ",
+=======
+    "lastUpdatedTime": "4:50 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Suraksha+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Suraksha+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -340,12 +464,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "2",
+=======
+    "normalBedAvailable": "1",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "8:18 AM ",
+=======
+    "lastUpdatedTime": "4:42 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Swastik+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Swastik+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -361,7 +493,11 @@
     "oxygenBedOccupied": "12",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "8:50 AM ",
+=======
+    "lastUpdatedTime": "4:24 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Talwar+Nursing Home, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Talwar+Nursing Home, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -372,12 +508,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "12",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "12",
     "oxygenBedAvailable": "8",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "9:48 AM ",
+=======
+    "normalBedAvailable": "8",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "12",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "4:22 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Tomar+Nursing Home, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Tomar+Nursing Home, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -388,12 +533,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "9",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "9:06 AM ",
+=======
+    "normalBedAvailable": "11",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "9",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:08 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Vardan+Hospital, Sirsa+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Vardan+Hospital, Sirsa+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -409,7 +563,11 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21\n",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:40 AM ",
+=======
+    "lastUpdatedTime": "4:45 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Facility+Center, Sirsa +Haryana&rlz=1C1CHBF_enIN859IN859&oq=Facility+Center, Sirsa +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -425,7 +583,11 @@
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "1",
     "lastUpdatedDate": "1st May,21\n",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:28 AM ",
+=======
+    "lastUpdatedTime": "4:00 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sirsa",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SDCH+Ellenabad +Haryana&rlz=1C1CHBF_enIN859IN859&oq=SDCH+Ellenabad +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

@@ -368,7 +368,11 @@ const merge = () => {
     var it51= it50.concat(Harda)
  
     fs.writeFile(
+<<<<<<< HEAD
         `../States/Madhyapradesh.json`,
+=======
+        `../Madhyapradesh.json`,
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
         JSON.stringify(it51, null, 2),
         (error) => {
           if (error) {

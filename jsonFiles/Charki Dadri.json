@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "hospitalName": "GH Charkhi Dadri",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -78,6 +79,86 @@
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Pradhan+Medicare Centre+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Pradhan+Medicare Centre+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "911250221800"
+=======
+    "hospitalName": "Murari Lal Rasiwasia Ayurvedic Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "35",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "60",
+    "oxygenBedAvailable": "25",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "9:03 PM ",
+    "district": "Charki Dadri",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Murari+Lal Rasiwasia Ayurvedic Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Murari+Lal Rasiwasia Ayurvedic Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01250222333"
+  },
+  {
+    "hospitalName": "GH Charkhi Dadri",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "26",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "30",
+    "oxygenBedAvailable": "10",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "9:03 PM ",
+    "district": "Charki Dadri",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=GH+Charkhi Dadri+Haryana&rlz=1C1CHBF_enIN859IN859&oq=GH+Charkhi Dadri+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01250222333"
+  },
+  {
+    "hospitalName": "Pradhan Medicare Centre",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "11",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "16",
+    "oxygenBedAvailable": "10",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "9:17 PM ",
+    "district": "Charki Dadri",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Pradhan+Medicare Centre+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Pradhan+Medicare Centre+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "911250221800"
+  },
+  {
+    "hospitalName": "Jaihind Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "7",
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "9:21 PM ",
+    "district": "Charki Dadri",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Jaihind+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Jaihind+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": ""
+  },
+  {
+    "hospitalName": "Oscar Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "9:20 PM ",
+    "district": "Charki Dadri",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Oscar+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Oscar+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": ""
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
   },
   {
     "hospitalName": "Sunflag Hospital",
@@ -88,8 +169,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "6",
     "oxygenBedAvailable": "1",
+<<<<<<< HEAD
     "lastUpdatedDate": "20th May,21",
     "lastUpdatedTime": "12:48 PM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "9:20 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Charki Dadri",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Sunflag+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sunflag+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -104,14 +190,20 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "25",
     "oxygenBedAvailable": "25",
+<<<<<<< HEAD
     "lastUpdatedDate": "20th May,21",
     "lastUpdatedTime": "12:50 PM",
+=======
+    "lastUpdatedDate": "1st May,21\n",
+    "lastUpdatedTime": "9:24 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Charki Dadri",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=MCH+Unit +Haryana&rlz=1C1CHBF_enIN859IN859&oq=MCH+Unit +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": ""
   },
   {
+<<<<<<< HEAD
     "hospitalName": "PHC Badhra ",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -141,6 +233,37 @@
     "district": "Charki Dadri",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=PHC+Imlota +Haryana&rlz=1C1CHBF_enIN859IN859&oq=PHC+Imlota +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+=======
+    "hospitalName": "PHC Imlota ",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "49",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "25",
+    "oxygenBedAvailable": "24",
+    "lastUpdatedDate": "1st May,21\n",
+    "lastUpdatedTime": "9:19 PM ",
+    "district": "Charki Dadri",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=PHC+Imlota +Haryana&rlz=1C1CHBF_enIN859IN859&oq=PHC+Imlota +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": ""
+  },
+  {
+    "hospitalName": "PHC Badhra ",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "44",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "25",
+    "oxygenBedAvailable": "19",
+    "lastUpdatedDate": "1st May,21\n",
+    "lastUpdatedTime": "9:17 PM ",
+    "district": "Charki Dadri",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=PHC+Badhra +Haryana&rlz=1C1CHBF_enIN859IN859&oq=PHC+Badhra +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "phoneNo": ""
   },
   {
@@ -152,8 +275,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "20",
     "oxygenBedAvailable": "20",
+<<<<<<< HEAD
     "lastUpdatedDate": "20th May,21",
     "lastUpdatedTime": "12:46 PM",
+=======
+    "lastUpdatedDate": "1st May,21\n",
+    "lastUpdatedTime": "9:19 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Charki Dadri",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=PHC+Sanwar +Haryana&rlz=1C1CHBF_enIN859IN859&oq=PHC+Sanwar +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

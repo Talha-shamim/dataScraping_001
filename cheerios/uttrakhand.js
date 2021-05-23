@@ -12,6 +12,7 @@ async function get() {
       const $ = cheerio.load(res.data);
       $(`#grdhospitalbeds > tbody > tr > td`).each((index, element) => {
         data.push($(element).text().trim());
+        console.log($(element).text().trim());
       });
 
       m = 0;
@@ -26,13 +27,13 @@ async function get() {
           state: "Uttrakhand",
           hospitalName: data[k].split("\n")[0],
           hospitalAddress: "NA",
-          normalBedTotal: data[a].split("/")[1].trim(),
-          normalBedOccupied: data[a].split("/")[0].trim(),
+          normalBedTotal: data[a].split("/")[1],
+          normalBedOccupied: data[a].split("/")[0],
           normalBedAvailable: "-",
-          oxygenBedTotal: data[b].split("/")[1].trim(),
-          oxygenBedOccupied: data[b].split("/")[0].trim(),
+          oxygenBedTotal: data[b].split("/")[1],
+          oxygenBedOccupied: data[b].split("/")[0],
           oxygenBedAvailable: "-",
-          phoneNo: data[o].split("\n")[1].trim(),
+          phoneNo: data[o].split("\n")[1],
           lastUpdatedDate: data[t].split(" ")[0],
           lastUpdatedTime: data[t].split(" ")[1],
         };
@@ -62,7 +63,7 @@ async function get() {
       }
 
       fs.writeFile(
-        "jsonFiles/uttrakhand.json",
+        "jsonFiles/uttarakhand.json",
         JSON.stringify(uttrakhand, null, 2),
         (error) => {
           if (error) {

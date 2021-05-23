@@ -4,12 +4,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "200 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "87",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "87",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "13:22:37",
+=======
+    "normalBedAvailable": "95",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "95",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "18:14:45",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=DH+Narsinghpur - DCHC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+Narsinghpur - DCHC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -20,12 +29,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "30 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "16",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "9",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "10:24:24",
+=======
+    "normalBedAvailable": "18",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "10",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "18:13:43",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=AGRAWAL+HOSPITAL CCC NARASINGHPUR+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=AGRAWAL+HOSPITAL CCC NARASINGHPUR+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -41,7 +59,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "07:36:25",
+=======
+    "lastUpdatedTime": "18:42:58",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=NRLM+BHAWAN CCC SAIKHEDA+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=NRLM+BHAWAN CCC SAIKHEDA+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -57,7 +79,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "09:56:57",
+=======
+    "lastUpdatedTime": "19:30:50",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=PARADKAR+HOSPITAL NARSINGHPUR+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=PARADKAR+HOSPITAL NARSINGHPUR+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -73,7 +99,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "08:43:22",
+=======
+    "lastUpdatedTime": "18:05:19",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=SEN.+ANUSUCHIT JATI CHTRAWASH TENDUKHEDA+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=SEN.+ANUSUCHIT JATI CHTRAWASH TENDUKHEDA+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -89,7 +119,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "08:37:02",
+=======
+    "lastUpdatedTime": "18:52:24",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=GIRLS+HOSTEL P.G.COLLEGE NARSINGHPUR+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=GIRLS+HOSTEL P.G.COLLEGE NARSINGHPUR+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -100,12 +134,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "50 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "36",
+=======
+    "normalBedAvailable": "40",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "09:34:37",
+=======
+    "lastUpdatedTime": "19:14:23",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=JIVAN+JYOTI HOSPITAL NTPC GADARWARA+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=JIVAN+JYOTI HOSPITAL NTPC GADARWARA+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -121,7 +163,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "09:20:01",
+=======
+    "lastUpdatedTime": "18:48:52",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=ADIVASHI+GIRLS HOSTEL KUMRAKHEDA BLOCK GOTEGAON CCC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=ADIVASHI+GIRLS HOSTEL KUMRAKHEDA BLOCK GOTEGAON CCC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -137,7 +183,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "10:05:24",
+=======
+    "lastUpdatedTime": "20:55:26",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=NEEKHRA+HOSPITAL CCC NARSINGHPUR+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=NEEKHRA+HOSPITAL CCC NARSINGHPUR+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -148,12 +198,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "100 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "76",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "26",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "07:37:41",
+=======
+    "normalBedAvailable": "77",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "27",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "18:38:17",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CIVIL+HOSPITAL GADARWARA+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CIVIL+HOSPITAL GADARWARA+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -169,7 +228,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "08:09:02",
+=======
+    "lastUpdatedTime": "18:57:01",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CHC+KARELI+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+KARELI+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -185,7 +248,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "8",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "08:45:14",
+=======
+    "lastUpdatedTime": "18:03:01",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CHC+TENDUKHEDA CCC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+TENDUKHEDA CCC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -196,12 +263,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "10 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "9",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "9",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "09:30:30",
+=======
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "10",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "20:38:15",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CHC+GOTEGAON CCC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+GOTEGAON CCC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -217,7 +293,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "1",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "14:33:50",
+=======
+    "lastUpdatedTime": "19:04:21",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CHC+SAIKHEDA CCC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+SAIKHEDA CCC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -228,12 +308,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "30 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "20",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "20",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "15:35:40",
+=======
+    "normalBedAvailable": "19",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "19",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "19:22:47",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=SHRIDHAM+HOSPITAL DCHC GOTEGAON+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=SHRIDHAM+HOSPITAL DCHC GOTEGAON+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -244,12 +333,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "10 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "3",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "10:01:40",
+=======
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "3",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "19:02:19",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=PHC+CHICHALI CCC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=PHC+CHICHALI CCC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -260,12 +358,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "10 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "10",
+=======
+    "normalBedAvailable": "7",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "5",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "09:12:47",
+=======
+    "lastUpdatedTime": "18:33:05",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CHC+SALICHOUKA CCC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+SALICHOUKA CCC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -276,12 +382,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "10 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "7",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "09:39:50",
+=======
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "19:55:36",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CHC+ROSHRA RAGMARG+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+ROSHRA RAGMARG+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

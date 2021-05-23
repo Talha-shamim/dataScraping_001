@@ -8,8 +8,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
+<<<<<<< HEAD
     "lastUpdatedDate": "0th May,21 ",
     "lastUpdatedTime": "5:00 PM ",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:15 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Amar+Hospotal+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Amar+Hospotal+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -24,8 +29,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "38",
     "oxygenBedAvailable": "4",
+<<<<<<< HEAD
     "lastUpdatedDate": "0th May,21 ",
     "lastUpdatedTime": "4:58 PM ",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:15 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=AMRITDHARA,+Chaura Bazar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=AMRITDHARA,+Chaura Bazar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -36,18 +46,46 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "13",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "16",
     "oxygenBedAvailable": "13",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "9:25 AM ",
+=======
+    "normalBedAvailable": "12",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "16",
+    "oxygenBedAvailable": "12",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "7:11 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Arpana+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Arpana+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "911842380801"
   },
   {
+<<<<<<< HEAD
+=======
+    "hospitalName": "Arsh Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "15",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "9",
+    "oxygenBedAvailable": "9",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "3:59 PM ",
+    "district": "Karnal",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Arsh+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Arsh+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9541685000"
+  },
+  {
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "CHC Assandh",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -168,8 +206,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "200",
     "oxygenBedAvailable": "1",
+<<<<<<< HEAD
     "lastUpdatedDate": "0th May,21 ",
     "lastUpdatedTime": "5:00 PM ",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:15 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Kalpana+Chawla Government Medical College, Karnal+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Kalpana+Chawla Government Medical College, Karnal+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -192,6 +235,25 @@
     "phoneNo": "9138102092"
   },
   {
+<<<<<<< HEAD
+=======
+    "hospitalName": "Park Hospital karnal",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "30",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "10",
+    "oxygenBedAvailable": "10",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "6:06 PM ",
+    "district": "Karnal",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Park+Hospital karnal+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Park+Hospital karnal+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9643000000"
+  },
+  {
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "Rama Superspeciality Hospital",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -200,8 +262,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "8",
     "oxygenBedAvailable": "0",
+<<<<<<< HEAD
     "lastUpdatedDate": "0th May,21 ",
     "lastUpdatedTime": "5:01 PM ",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:16 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Rama+Superspeciality Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Rama+Superspeciality Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -224,6 +291,25 @@
     "phoneNo": "9215331497"
   },
   {
+<<<<<<< HEAD
+=======
+    "hospitalName": "Sanidhya Nursing Home",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "15",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "10",
+    "oxygenBedAvailable": "10",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "4:13 PM ",
+    "district": "Karnal",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Sanidhya+Nursing Home+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sanidhya+Nursing Home+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "8529028105"
+  },
+  {
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "Sanjiv Bansal Cygnus Hospital , Karnal",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -232,8 +318,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "20",
     "oxygenBedAvailable": "2",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "10:11 AM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:53 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Sanjiv+Bansal Cygnus Hospital , Karnal+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sanjiv+Bansal Cygnus Hospital , Karnal+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -280,8 +371,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "8",
     "oxygenBedAvailable": "0",
+<<<<<<< HEAD
     "lastUpdatedDate": "0th May,21 ",
     "lastUpdatedTime": "5:00 PM ",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:13 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Shri+Ram Chand Memorial Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Shri+Ram Chand Memorial Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -296,8 +392,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "12",
     "oxygenBedAvailable": "6",
+<<<<<<< HEAD
     "lastUpdatedDate": "0th May,21 ",
     "lastUpdatedTime": "5:01 PM ",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:14 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Shri+Sanatan Dharam Mahabir Dal+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Shri+Sanatan Dharam Mahabir Dal+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -308,12 +409,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "3",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "2:37 PM ",
+=======
+    "normalBedAvailable": "2",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "7",
+    "oxygenBedAvailable": "1",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "6:54 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SS+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SS+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -328,8 +438,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "6",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:47 PM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "8:23 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Swastik+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Swastik+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -340,12 +455,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "9",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "37",
     "oxygenBedAvailable": "9",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "2:36 PM ",
+=======
+    "normalBedAvailable": "12",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "37",
+    "oxygenBedAvailable": "12",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:16 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Karnal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Virk+Hospital Karnal+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Virk+Hospital Karnal+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

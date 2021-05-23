@@ -4,12 +4,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "264 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "156",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "122",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "07:19:56",
+=======
+    "normalBedAvailable": "164",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "123",
+    "lastUpdatedDate": "22-05-2021",
+    "lastUpdatedTime": "00:07:24",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=DH+Damoh - DCHC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+Damoh - DCHC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -25,7 +34,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "1",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "07:17:01",
+=======
+    "lastUpdatedTime": "20:55:11",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Paras+Hospital Damoh+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Paras+Hospital Damoh+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -36,12 +49,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "30 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "18",
+=======
+    "normalBedAvailable": "17",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "12",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "07:15:26",
+=======
+    "lastUpdatedTime": "20:57:42",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Sanjeevani+Hospital+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Sanjeevani+Hospital+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -52,12 +73,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "70 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "50",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "38",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "07:27:44",
+=======
+    "normalBedAvailable": "47",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "32",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "20:53:00",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=MISSION+HOSPITAL DAMOH+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=MISSION+HOSPITAL DAMOH+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -68,12 +98,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "25 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "3",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "3",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "10:13:52",
+=======
+    "normalBedAvailable": "6",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "6",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "20:49:56",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Atharwa+Nursing Home Damoh+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Atharwa+Nursing Home Damoh+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -89,7 +128,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "15",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "07:21:43",
+=======
+    "lastUpdatedTime": "21:00:01",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=City+Hospital Damoh+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=City+Hospital Damoh+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -100,12 +143,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "100 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "84",
+=======
+    "normalBedAvailable": "87",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "07:08:51",
+=======
+    "lastUpdatedTime": "21:02:20",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=OBC+Post Matric Girls Hostel Vivekanand Nagar Damoh+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=OBC+Post Matric Girls Hostel Vivekanand Nagar Damoh+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -116,12 +167,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "30 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "28",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "18",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "06:52:12",
+=======
+    "normalBedAvailable": "27",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "19",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "21:06:28",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=SC+Boy's Hostel Hindoria+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=SC+Boy's Hostel Hindoria+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -132,12 +192,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "50 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "40",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "6",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "06:55:33",
+=======
+    "normalBedAvailable": "39",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "3",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "22:17:37",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Madhav+Rao Sapre Boys Hostel Patharia+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Madhav+Rao Sapre Boys Hostel Patharia+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -148,12 +217,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "50 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "42",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "06:57:11",
+=======
+    "normalBedAvailable": "44",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "21:10:45",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Government+College Batiyagarh+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Government+College Batiyagarh+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -167,9 +245,15 @@
     "normalBedAvailable": "45",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
+<<<<<<< HEAD
     "oxygenBedAvailable": "8",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "06:58:51",
+=======
+    "oxygenBedAvailable": "6",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "22:21:59",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Kasturba+Gandhi Girls Hostel Tendukheda+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Kasturba+Gandhi Girls Hostel Tendukheda+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -185,7 +269,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "5",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "07:00:38",
+=======
+    "lastUpdatedTime": "22:24:27",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Government+College Hostel Jabera+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Government+College Hostel Jabera+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -196,12 +284,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "50 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "46",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "6",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "07:04:00",
+=======
+    "normalBedAvailable": "45",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "21:08:33",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Girls+Hostel Block Patera+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Girls+Hostel Block Patera+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -212,12 +309,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "50 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "37",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "11",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "07:02:15",
+=======
+    "normalBedAvailable": "43",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "14",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "21:04:39",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Kasturba+Gandhi Girls Hostel Hatta+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Kasturba+Gandhi Girls Hostel Hatta+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -228,12 +334,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "100 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "96",
+=======
+    "normalBedAvailable": "98",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "07:06:06",
+=======
+    "lastUpdatedTime": "21:03:15",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Govt+MLB School Damoh+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Govt+MLB School Damoh+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

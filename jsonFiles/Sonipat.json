@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "hospitalName": "ASHIRWAD BHAGAT HOSPITAL",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -32,6 +33,8 @@
     "phoneNo": "9899151927"
   },
   {
+=======
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "BPS MEDICAL COLLEGE KHANPUR , SONIPAT ( 01263283088)",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -48,6 +51,7 @@
     "phoneNo": "1263298534"
   },
   {
+<<<<<<< HEAD
     "hospitalName": "CHC GANUR",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -96,6 +100,8 @@
     "phoneNo": "7206652666"
   },
   {
+=======
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "Civil Hospital, Sonipat (9050007668 )",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -112,6 +118,7 @@
     "phoneNo": "01302231932"
   },
   {
+<<<<<<< HEAD
     "hospitalName": "CYGNUS HOSPITAL, Sonipat",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -158,6 +165,54 @@
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=FIIMS+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=FIIMS+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9996667001"
+=======
+    "hospitalName": "FIIMS Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "46",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "63",
+    "oxygenBedAvailable": "32",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "7:06 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=FIIMS+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=FIIMS+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9996667001"
+  },
+  {
+    "hospitalName": "Bhagwan Dass Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "32",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "27",
+    "oxygenBedAvailable": "23",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "6:47 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Bhagwan+Dass Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Bhagwan+Dass Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9899151927"
+  },
+  {
+    "hospitalName": "PHC PURKHAS",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "30",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "2th May,21 ",
+    "lastUpdatedTime": "8:55 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=PHC+PURKHAS+Haryana&rlz=1C1CHBF_enIN859IN859&oq=PHC+PURKHAS+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9416084115"
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
   },
   {
     "hospitalName": "GAJRAJ HOSPITAL",
@@ -169,7 +224,11 @@
     "oxygenBedOccupied": "20",
     "oxygenBedAvailable": "18",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "2:40 PM ",
+=======
+    "lastUpdatedTime": "4:26 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sonipat",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=GAJRAJ+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=GAJRAJ+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -180,18 +239,27 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "15",
+=======
+    "normalBedAvailable": "16",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "9:59 AM ",
+=======
+    "lastUpdatedTime": "5:49 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sonipat",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=HARYANA+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=HARYANA+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "7082086975"
   },
   {
+<<<<<<< HEAD
     "hospitalName": "MEMORIAL HOSPITAL",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -270,6 +338,102 @@
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SANJIVNI+HOSPITAL, SONIPAT+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SANJIVNI+HOSPITAL, SONIPAT+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9871128511"
+=======
+    "hospitalName": "Dayanand Hospital-Sonepat",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "15",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "20",
+    "oxygenBedAvailable": "13",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:37 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Dayanand+Hospital-Sonepat+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Dayanand+Hospital-Sonepat+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9467575442"
+  },
+  {
+    "hospitalName": "CYGNUS HOSPITAL, Sonipat",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "14",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "18",
+    "oxygenBedAvailable": "14",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:06 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=CYGNUS+HOSPITAL, Sonipat+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CYGNUS+HOSPITAL, Sonipat+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "8800252638"
+  },
+  {
+    "hospitalName": "SITA HOSPITAL SONIPAT",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "14",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "20",
+    "oxygenBedAvailable": "14",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "9:28 AM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=SITA+HOSPITAL SONIPAT+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SITA+HOSPITAL SONIPAT+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9812600847"
+  },
+  {
+    "hospitalName": "SANJIVNI HOSPITAL, SONIPAT",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "13",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "14",
+    "oxygenBedAvailable": "13",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "7:57 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=SANJIVNI+HOSPITAL, SONIPAT+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SANJIVNI+HOSPITAL, SONIPAT+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9871128511"
+  },
+  {
+    "hospitalName": "SUNHERI DEVI HOSPITAL",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "13",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "15",
+    "oxygenBedAvailable": "10",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:22 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=SUNHERI+DEVI HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SUNHERI+DEVI HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9812303197"
+  },
+  {
+    "hospitalName": "CHC Kharkhoda",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "5",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "2th May,21 ",
+    "lastUpdatedTime": "8:29 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=CHC+Kharkhoda+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kharkhoda+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9050909333"
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
   },
   {
     "hospitalName": "SAXSENA HOSPITAL",
@@ -304,6 +468,7 @@
     "phoneNo": "9416285550"
   },
   {
+<<<<<<< HEAD
     "hospitalName": "SITA HOSPITAL SONIPAT",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -337,11 +502,79 @@
   },
   {
     "hospitalName": "TULIP HOSPITAL",
+=======
+    "hospitalName": "CHC, JUAN, SONIPAT, HARYANA",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "3",
+    "oxygenBedAvailable": "3",
+    "lastUpdatedDate": "2th May,21 ",
+    "lastUpdatedTime": "8:53 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=CHC,+JUAN, SONIPAT, HARYANA+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC,+JUAN, SONIPAT, HARYANA+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "7206652666"
+  },
+  {
+    "hospitalName": "OSCAR HOSPITAL",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "12",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "21st May,21",
+    "lastUpdatedTime": "11:01 AM",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=OSCAR+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=OSCAR+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9992300019"
+  },
+  {
+    "hospitalName": "CHC GANUR",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "8",
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "1:17 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=CHC+GANUR+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+GANUR+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9416084115"
+  },
+  {
+    "hospitalName": "ASHIRWAD BHAGAT HOSPITAL",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "1",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "12",
+    "oxygenBedAvailable": "1",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "9:28 AM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=ASHIRWAD+BHAGAT HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=ASHIRWAD+BHAGAT HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9416012508"
+  },
+  {
+    "hospitalName": "MEMORIAL HOSPITAL",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "0",
     "oxygenBedTotal": "-",
+<<<<<<< HEAD
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "9th May,21 ",
@@ -382,24 +615,94 @@
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=CHC+FIROZPUR BANGAR +Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+FIROZPUR BANGAR +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9812027219"
+=======
+    "oxygenBedOccupied": "16",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "4:59 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=MEMORIAL+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=MEMORIAL+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "8395917744"
+  },
+  {
+    "hospitalName": "NIDAAN HOSPITAL PVT.",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "22",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "9:41 AM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=NIDAAN+HOSPITAL PVT.+Haryana&rlz=1C1CHBF_enIN859IN859&oq=NIDAAN+HOSPITAL PVT.+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9416015991"
+  },
+  {
+    "hospitalName": "TULIP HOSPITAL",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "9th May,21 ",
+    "lastUpdatedTime": "9:34 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=TULIP+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=TULIP+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9729042823"
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
   },
   {
     "hospitalName": "DCRUST UNIVERSITY HOSTEL ",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "955",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "50",
     "oxygenBedAvailable": "29",
     "lastUpdatedDate": "1st May,21\n",
     "lastUpdatedTime": "8:53 AM ",
+=======
+    "normalBedAvailable": "960",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "50",
+    "oxygenBedAvailable": "35",
+    "lastUpdatedDate": "1st May,21\n",
+    "lastUpdatedTime": "5:01 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Sonipat",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=DCRUST+UNIVERSITY HOSTEL +Haryana&rlz=1C1CHBF_enIN859IN859&oq=DCRUST+UNIVERSITY HOSTEL +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "8059557905"
   },
   {
+<<<<<<< HEAD
+=======
+    "hospitalName": "BPS UNIVERSITY HOSTEL KHANPUR ",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "900",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "2th May,21\n",
+    "lastUpdatedTime": "8:44 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=BPS+UNIVERSITY HOSTEL KHANPUR +Haryana&rlz=1C1CHBF_enIN859IN859&oq=BPS+UNIVERSITY HOSTEL KHANPUR +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9812208111"
+  },
+  {
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "JHINJHOLI KKD ",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -414,5 +717,24 @@
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=JHINJHOLI+KKD +Haryana&rlz=1C1CHBF_enIN859IN859&oq=JHINJHOLI+KKD +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9812042931"
+<<<<<<< HEAD
+=======
+  },
+  {
+    "hospitalName": "CHC FIROZPUR BANGAR ",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "30",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "3",
+    "oxygenBedAvailable": "3",
+    "lastUpdatedDate": "2th May,21\n",
+    "lastUpdatedTime": "8:47 PM ",
+    "district": "Sonipat",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=CHC+FIROZPUR BANGAR +Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+FIROZPUR BANGAR +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9812027219"
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
   }
 ]

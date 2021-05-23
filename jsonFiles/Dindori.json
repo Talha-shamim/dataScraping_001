@@ -4,12 +4,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "20 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "3",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "3",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "09:26:47",
+=======
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "20:02:12",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=SHAHPURA+DCHC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=SHAHPURA+DCHC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -20,12 +29,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "105 ",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "60",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "53",
     "lastUpdatedDate": "21-05-2021",
     "lastUpdatedTime": "08:41:50",
+=======
+    "normalBedAvailable": "64",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "58",
+    "lastUpdatedDate": "21-05-2021",
+    "lastUpdatedTime": "20:30:20",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=DH+Dindori - DCHC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+Dindori - DCHC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -41,7 +59,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "14:11:35",
+=======
+    "lastUpdatedTime": "22:35:52",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=DIET+CCC DINDORI+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=DIET+CCC DINDORI+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -57,7 +79,11 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21-05-2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "09:06:18",
+=======
+    "lastUpdatedTime": "20:43:18",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CCC+URBAN SHAHPURA+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CCC+URBAN SHAHPURA+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

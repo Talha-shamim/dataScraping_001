@@ -116,12 +116,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "29",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "18",
     "oxygenBedAvailable": "14",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "11:25 AM",
+=======
+    "normalBedAvailable": "30",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "18",
+    "oxygenBedAvailable": "15",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "4:30 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Palwal",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Gurunanak+Hospital, Palwal+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Gurunanak+Hospital, Palwal+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

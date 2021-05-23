@@ -1,96 +1,25 @@
 const express = require("express");
 require("dotenv").config();
 const fs = require("fs");
+const cors = require("cors");
 
 const app = express();
+app.use(cors());
 
-app.get("/api_oxygen_ranchi", (req, res) => {
-  try {
-    fs.readFile(`./jsonFiles/ranchi.json`, "utf-8", (error, data) => {
-      res.send(data);
-    });
-  } catch (error) {
-    console.log(error);
-  }
-});
-
-app.get("/api_oxygen_uttrakhand", (req, res) => {
-  try {
-    fs.readFile(`./jsonFiles/uttrakhand.json`, "utf-8", (error, data) => {
-      res.send(data);
-    });
-  } catch (error) {
-    console.log(error);
-  }
-});
-
-app.get("/api_oxygen_uttarpradesh", (req, res) => {
-  try {
-    fs.readFile(`./jsonFiles/uttarPradesh.json`, "utf-8", (error, data) => {
-      res.send(data);
-    });
-  } catch (error) {
-    console.log(error);
-  }
-});
-
-app.get("/api_oxygen_rajasthan", (req, res) => {
-  try {
-    fs.readFile(`./jsonFiles/rajasthan.json`, "utf-8", (error, data) => {
-      res.send(data);
-    });
-  } catch (error) {
-    console.log(error);
-  }
-});
-
-app.get("/api_oxygen_allahabad", (req, res) => {
-  try {
-    fs.readFile(`./jsonFiles/allahabad.json`, "utf-8", (error, data) => {
-      res.send(data);
-    });
-  } catch (error) {
-    console.log(error);
-  }
-});
-
-app.get("/api_oxygen_gurugram", (req, res) => {
-  try {
-    fs.readFile(`./jsonFiles/gurugram.json`, "utf-8", (error, data) => {
-      res.send(data);
-    });
-  } catch (error) {
-    console.log(error);
-  }
-});
-
-app.get("/api_oxygen_kerela", (req, res) => {
-  try {
-    fs.readFile(`./jsonFiles/kerala.json`, "utf-8", (error, data) => {
-      res.send(data);
-    });
-  } catch (error) {
-    console.log(error);
-  }
-});
-
-app.get("/api_oxygen_delhi", (req, res) => {
-  try {
-    fs.readFile(`./jsonFiles/delhi.json`, "utf-8", (error, data) => {
-      res.send(data);
-    });
-  } catch (error) {
-    console.log(error);
-  }
-});
-
-app.get("/api_oxygen_chattisgarh", (req, res) => {
-  try {
-    fs.readFile(`./jsonFiles/chattisgarh.json`, "utf-8", (error, data) => {
-      res.send(data);
-    });
-  } catch (error) {
-    console.log(error);
+app.get("/api_covinet", (req, res) => {
+  const place = req.query.placename;
+  if (!fs.existsSync(`./jsonFiles/${place}.json`)) {
+    res.status(400);
+    res.send("File not found");
+  } else {
+    try {
+      fs.readFile(`./jsonFiles/${place}.json`, "utf-8", (error, data) => {
+        res.status(200);
+        res.send(data);
+      });
+    } catch (error) {
+      console.log(error);
+    }
   }
 });
 

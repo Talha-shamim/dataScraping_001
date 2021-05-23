@@ -143,12 +143,19 @@ catch(err){
 const mapfunction = async () => {
 
     let districts = await gatherDistrict()
+<<<<<<< HEAD
     console.log(districts)
+=======
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     districts.map((dt) => {
         const data = gatherdata(dt.url)
         data.then( x=> {
             fs.writeFile(
+<<<<<<< HEAD
                 `../jsonFiles/${dt.district}.json`,
+=======
+                `jsonFiles/${dt.district}.json`,
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
                 JSON.stringify(x, null, 2),
                 (error) => {
                   if (error) {
@@ -179,6 +186,7 @@ const mapfunction = async () => {
 }
 
 
+<<<<<<< HEAD
 const final = async () => {
  
     const dt = await mapfunction();
@@ -188,3 +196,15 @@ const final = async () => {
 final()
 exports.madhyaPradesh = final
 
+=======
+// const final = async () => {
+ 
+    // const dt = await mapfunction();
+    // return dt
+// }
+
+// final()
+// exports.madhyaPradesh = final
+
+exports.getmadhyapradesh = mapfunction;
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a

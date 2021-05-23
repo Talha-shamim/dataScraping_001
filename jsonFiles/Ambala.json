@@ -233,7 +233,11 @@
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "1",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "8:34 AM ",
+=======
+    "lastUpdatedTime": "3:27 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Ambala",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Sant+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sant+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

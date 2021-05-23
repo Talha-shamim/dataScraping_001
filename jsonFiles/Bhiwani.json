@@ -24,7 +24,11 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "146",
     "oxygenBedAvailable": "52",
+<<<<<<< HEAD
     "lastUpdatedDate": "1st May,21 ",
+=======
+    "lastUpdatedDate": "1st May,21",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "lastUpdatedTime": "9:57 AM ",
     "district": "Bhiwani",
     "state": "Haryana",
@@ -88,14 +92,38 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "6",
+<<<<<<< HEAD
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "2:42 PM ",
+=======
+    "lastUpdatedDate": "1st May,21",
+    "lastUpdatedTime": "5:40 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Bhiwani",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Jangra+Multispecilaity Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Jangra+Multispecilaity Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
+<<<<<<< HEAD
+=======
+    "hospitalName": "Jeevan Nursing Home-Bhiwani",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "6",
+    "oxygenBedAvailable": "6",
+    "lastUpdatedDate": "1st May,21",
+    "lastUpdatedTime": "4:48 PM ",
+    "district": "Bhiwani",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Jeevan+Nursing Home-Bhiwani+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Jeevan+Nursing Home-Bhiwani+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9992298115"
+  },
+  {
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "Kadam Hospital",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -160,6 +188,25 @@
     "phoneNo": "01664242130"
   },
   {
+<<<<<<< HEAD
+=======
+    "hospitalName": "Sharma Nursing and Maternity Home Tosham",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "7",
+    "oxygenBedAvailable": "7",
+    "lastUpdatedDate": "1st May,21",
+    "lastUpdatedTime": "4:48 PM ",
+    "district": "Bhiwani",
+    "state": "Haryana",
+    "googleSearch": "https://www.google.com/search?q=Sharma+Nursing and Maternity Home Tosham+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sharma+Nursing and Maternity Home Tosham+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9416087605"
+  },
+  {
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalName": "Shree Ganesha Hospital",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
@@ -224,7 +271,11 @@
     "phoneNo": "01664242130"
   },
   {
+<<<<<<< HEAD
     "hospitalName": "BRCM Behal ",
+=======
+    "hospitalName": "BRCM Behal",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -236,11 +287,19 @@
     "lastUpdatedTime": "11:11 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=BRCM+Behal +Haryana&rlz=1C1CHBF_enIN859IN859&oq=BRCM+Behal +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "8295996430"
   },
   {
     "hospitalName": "CHC Dhanana ",
+=======
+    "googleSearch": "https://www.google.com/search?q=BRCM+Behal+Haryana&rlz=1C1CHBF_enIN859IN859&oq=BRCM+Behal+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "8295996430"
+  },
+  {
+    "hospitalName": "CHC Dhanana",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -252,11 +311,19 @@
     "lastUpdatedTime": "11:08 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Dhanana +Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Dhanana +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "CHC Jamalpur ",
+=======
+    "googleSearch": "https://www.google.com/search?q=CHC+Dhanana+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Dhanana+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "CHC Jamalpur",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -268,11 +335,19 @@
     "lastUpdatedTime": "11:09 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Jamalpur +Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Jamalpur +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "CHC Kairu ",
+=======
+    "googleSearch": "https://www.google.com/search?q=CHC+Jamalpur+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Jamalpur+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "CHC Kairu",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -284,11 +359,19 @@
     "lastUpdatedTime": "11:09 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Kairu +Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kairu +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "CHC Loharu ",
+=======
+    "googleSearch": "https://www.google.com/search?q=CHC+Kairu+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kairu+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "CHC Loharu",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -300,11 +383,19 @@
     "lastUpdatedTime": "11:08 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Loharu +Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Loharu +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "CHC Manheru ",
+=======
+    "googleSearch": "https://www.google.com/search?q=CHC+Loharu+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Loharu+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "CHC Manheru",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -316,11 +407,19 @@
     "lastUpdatedTime": "11:09 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Manheru +Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Manheru +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "CHC Miran ",
+=======
+    "googleSearch": "https://www.google.com/search?q=CHC+Manheru+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Manheru+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "CHC Miran",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -332,11 +431,19 @@
     "lastUpdatedTime": "11:09 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Miran +Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Miran +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "CHC Tosham ",
+=======
+    "googleSearch": "https://www.google.com/search?q=CHC+Miran+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Miran+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "CHC Tosham",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -348,11 +455,19 @@
     "lastUpdatedTime": "11:08 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Tosham +Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Tosham +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "Devsar dharamsala ",
+=======
+    "googleSearch": "https://www.google.com/search?q=CHC+Tosham+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Tosham+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "Devsar dharamsala",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -364,11 +479,19 @@
     "lastUpdatedTime": "11:11 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Devsar+dharamsala +Haryana&rlz=1C1CHBF_enIN859IN859&oq=Devsar+dharamsala +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "7015470170"
   },
   {
     "hospitalName": "ITI Bhiwani ",
+=======
+    "googleSearch": "https://www.google.com/search?q=Devsar+dharamsala+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Devsar+dharamsala+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "7015470170"
+  },
+  {
+    "hospitalName": "ITI Bhiwani",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -380,11 +503,19 @@
     "lastUpdatedTime": "11:10 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ITI+Bhiwani +Haryana&rlz=1C1CHBF_enIN859IN859&oq=ITI+Bhiwani +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "ITI Tosham, ",
+=======
+    "googleSearch": "https://www.google.com/search?q=ITI+Bhiwani+Haryana&rlz=1C1CHBF_enIN859IN859&oq=ITI+Bhiwani+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "ITI Tosham,",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -396,11 +527,19 @@
     "lastUpdatedTime": "11:09 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ITI+Tosham, +Haryana&rlz=1C1CHBF_enIN859IN859&oq=ITI+Tosham, +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "M.K Hospital ",
+=======
+    "googleSearch": "https://www.google.com/search?q=ITI+Tosham,+Haryana&rlz=1C1CHBF_enIN859IN859&oq=ITI+Tosham,+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "M.K Hospital",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -412,11 +551,19 @@
     "lastUpdatedTime": "11:11 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=M.K+Hospital +Haryana&rlz=1C1CHBF_enIN859IN859&oq=M.K+Hospital +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9896206370"
   },
   {
     "hospitalName": "Panchayati Raj Institute ",
+=======
+    "googleSearch": "https://www.google.com/search?q=M.K+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=M.K+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9896206370"
+  },
+  {
+    "hospitalName": "Panchayati Raj Institute",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -428,11 +575,19 @@
     "lastUpdatedTime": "11:10 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Panchayati+Raj Institute +Haryana&rlz=1C1CHBF_enIN859IN859&oq=Panchayati+Raj Institute +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "Radha swami satsang ",
+=======
+    "googleSearch": "https://www.google.com/search?q=Panchayati+Raj Institute+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Panchayati+Raj Institute+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "Radha swami satsang",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -444,11 +599,19 @@
     "lastUpdatedTime": "11:11 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Radha+swami satsang +Haryana&rlz=1C1CHBF_enIN859IN859&oq=Radha+swami satsang +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9416194309"
   },
   {
     "hospitalName": "SDH Bawani Khera ",
+=======
+    "googleSearch": "https://www.google.com/search?q=Radha+swami satsang+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Radha+swami satsang+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "9416194309"
+  },
+  {
+    "hospitalName": "SDH Bawani Khera",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -460,11 +623,19 @@
     "lastUpdatedTime": "11:10 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=SDH+Bawani Khera +Haryana&rlz=1C1CHBF_enIN859IN859&oq=SDH+Bawani Khera +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "01664242130"
   },
   {
     "hospitalName": "SDH Siwani ",
+=======
+    "googleSearch": "https://www.google.com/search?q=SDH+Bawani Khera+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SDH+Bawani Khera+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "01664242130"
+  },
+  {
+    "hospitalName": "SDH Siwani",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
@@ -476,7 +647,11 @@
     "lastUpdatedTime": "11:10 AM",
     "district": "Bhiwani",
     "state": "Haryana",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=SDH+Siwani +Haryana&rlz=1C1CHBF_enIN859IN859&oq=SDH+Siwani +Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+=======
+    "googleSearch": "https://www.google.com/search?q=SDH+Siwani+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SDH+Siwani+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "phoneNo": "01664242130"
   }
 ]

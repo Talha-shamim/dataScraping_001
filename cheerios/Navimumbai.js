@@ -177,9 +177,15 @@ axios.get('https://nmmchealthfacilities.com/HospitalInfo/showhospitalist')
         console.log(capacity)
         console.log(occupied)
        console.log(vaccant) */}
+<<<<<<< HEAD
        console.log("navmum",naviMumbai)
        fs.writeFile(
         `../jsonFiles/States/Maharastra.json`,
+=======
+    
+       fs.writeFile(
+        `jsonFiles/Maharastra.json`,
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
         JSON.stringify(naviMumbai, null, 2),
         (error) => {
           if (error) {
@@ -197,6 +203,10 @@ axios.get('https://nmmchealthfacilities.com/HospitalInfo/showhospitalist')
      
 }
 
+<<<<<<< HEAD
 naviData()
+=======
+exports.getnavi = naviData;
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
 
 

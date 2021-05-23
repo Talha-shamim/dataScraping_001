@@ -4,12 +4,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "10",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "6",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:11 PM",
+=======
+    "normalBedAvailable": "11",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "7",
+    "oxygenBedAvailable": "6",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "7:40 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Jhajjar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Adiyogi+Arogya Avenue+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Adiyogi+Arogya Avenue+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -20,12 +29,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "39",
+=======
+    "normalBedAvailable": "40",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "24",
     "oxygenBedAvailable": "24",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "2:24 PM ",
+=======
+    "lastUpdatedTime": "4:33 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Jhajjar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Advanta+Hospital, Jhajjar city+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Advanta+Hospital, Jhajjar city+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -120,8 +137,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "5",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "10:46 AM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:29 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Jhajjar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=JK+Hospital, Bahadurgarh+Haryana&rlz=1C1CHBF_enIN859IN859&oq=JK+Hospital, Bahadurgarh+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -148,12 +170,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "40",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "14",
     "oxygenBedAvailable": "9",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "10:20 AM",
+=======
+    "normalBedAvailable": "38",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "14",
+    "oxygenBedAvailable": "9",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "3:17 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Jhajjar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Mission+Hospital, Bahadurgarh+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Mission+Hospital, Bahadurgarh+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -200,8 +231,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "18",
     "oxygenBedAvailable": "18",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "10:02 AM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:56 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Jhajjar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Rana+Hospital, Bahadurgarh+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Rana+Hospital, Bahadurgarh+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -228,12 +264,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "20",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "19",
     "oxygenBedAvailable": "12",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:52 PM",
+=======
+    "normalBedAvailable": "21",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "19",
+    "oxygenBedAvailable": "12",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "6:29 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Jhajjar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=RS+GAUR GLOBAL MULTISPECIALITY HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=RS+GAUR GLOBAL MULTISPECIALITY HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -264,8 +309,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "30",
     "oxygenBedAvailable": "24",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "10:29 AM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:12 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Jhajjar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Shivam+Hospital, B.garh+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Shivam+Hospital, B.garh+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -292,12 +342,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "207",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "90",
     "oxygenBedAvailable": "72",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "10:07 AM",
+=======
+    "normalBedAvailable": "208",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "90",
+    "oxygenBedAvailable": "73",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "6:11 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Jhajjar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=World+College Of Medical Sciences And Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=World+College Of Medical Sciences And Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

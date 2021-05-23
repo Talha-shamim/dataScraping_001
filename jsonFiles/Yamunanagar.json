@@ -4,12 +4,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "8",
+=======
+    "normalBedAvailable": "10",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "8",
     "oxygenBedAvailable": "7",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:11 PM ",
+=======
+    "lastUpdatedTime": "5:40 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=BALAJI+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=BALAJI+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -25,7 +33,11 @@
     "oxygenBedOccupied": "140",
     "oxygenBedAvailable": "138",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:09 PM ",
+=======
+    "lastUpdatedTime": "5:39 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Ch+Lekh Raj Multispeciality Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Ch+Lekh Raj Multispeciality Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -39,9 +51,15 @@
     "normalBedAvailable": "16",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "8",
+<<<<<<< HEAD
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:53 PM",
+=======
+    "oxygenBedAvailable": "1",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:33 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=CHC+Bilaspur+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Bilaspur+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -52,12 +70,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "11",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:54 PM",
+=======
+    "normalBedAvailable": "12",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "10",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:34 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=CHC+Chhachharuli+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Chhachharuli+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -73,7 +100,11 @@
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "10",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:10 PM ",
+=======
+    "lastUpdatedTime": "5:39 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=CHC+Naharpur+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Naharpur+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -84,12 +115,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "13",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "6",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:54 PM",
+=======
+    "normalBedAvailable": "14",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "6",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:34 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=CHC+Partap Nagar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Partap Nagar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -105,7 +145,11 @@
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "10",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:10 PM ",
+=======
+    "lastUpdatedTime": "5:39 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=CHC+Radaur+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Radaur+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -116,12 +160,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "15",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "14",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:55 PM",
+=======
+    "normalBedAvailable": "16",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "14",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:34 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=CHC+Saraswati Nagar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=CHC+Saraswati Nagar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -132,12 +185,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "18",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "11",
     "oxygenBedAvailable": "10",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:00 PM ",
+=======
+    "normalBedAvailable": "21",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "11",
+    "oxygenBedAvailable": "11",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:35 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=DABRA+HOSPITAL Yamunanagar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=DABRA+HOSPITAL Yamunanagar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -148,12 +210,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "13",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "50",
     "oxygenBedAvailable": "10",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:43 PM",
+=======
+    "normalBedAvailable": "14",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "50",
+    "oxygenBedAvailable": "11",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:32 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=ESI+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=ESI+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -164,12 +235,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "5",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "60",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:36 PM",
+=======
+    "normalBedAvailable": "17",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "60",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:32 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Gaba+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Gaba+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -185,7 +265,11 @@
     "oxygenBedOccupied": "25",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:00 PM ",
+=======
+    "lastUpdatedTime": "5:35 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=GULATI+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=GULATI+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -200,8 +284,13 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "2",
+<<<<<<< HEAD
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:52 PM",
+=======
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:33 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Heart+Care Center Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Heart+Care Center Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -215,9 +304,15 @@
     "normalBedAvailable": "7",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "15",
+<<<<<<< HEAD
     "oxygenBedAvailable": "3",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:44 PM",
+=======
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:32 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=JP+Hospital Pvt+Haryana&rlz=1C1CHBF_enIN859IN859&oq=JP+Hospital Pvt+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -228,12 +323,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "6",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "4",
     "oxygenBedAvailable": "3",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:03 PM ",
+=======
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "4",
+    "oxygenBedAvailable": "2",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:37 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=KAPOOR+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=KAPOOR+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -249,7 +353,11 @@
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:12 PM ",
+=======
+    "lastUpdatedTime": "5:40 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=KESHWANI+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=KESHWANI+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -265,7 +373,11 @@
     "oxygenBedOccupied": "10",
     "oxygenBedAvailable": "10",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:01 PM ",
+=======
+    "lastUpdatedTime": "5:35 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Maxxwell+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Maxxwell+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -276,12 +388,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "17",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "18",
     "oxygenBedAvailable": "11",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:01 PM ",
+=======
+    "normalBedAvailable": "15",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "18",
+    "oxygenBedAvailable": "9",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:36 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Mukand+Lal District Civil Hospital Yamunanagar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Mukand+Lal District Civil Hospital Yamunanagar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -292,12 +413,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "2",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "13",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:51 PM",
+=======
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "13",
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:33 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=NIRMAL+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=NIRMAL+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -313,7 +443,11 @@
     "oxygenBedOccupied": "15",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:10 PM ",
+=======
+    "lastUpdatedTime": "5:39 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=RK+Gupta+Haryana&rlz=1C1CHBF_enIN859IN859&oq=RK+Gupta+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -324,12 +458,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "1",
+=======
+    "normalBedAvailable": "0",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "6",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:03 PM ",
+=======
+    "lastUpdatedTime": "5:38 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SABBARWAL+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SABBARWAL+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -340,12 +482,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "16",
+=======
+    "normalBedAvailable": "17",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "16",
     "oxygenBedAvailable": "10",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:11 PM ",
+=======
+    "lastUpdatedTime": "5:40 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Sachdeva+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Sachdeva+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -356,12 +506,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "7",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "21st May,21",
     "lastUpdatedTime": "12:32 PM",
+=======
+    "normalBedAvailable": "8",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "5",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:31 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Santosh+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Santosh+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -372,12 +531,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "2",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "12",
     "oxygenBedAvailable": "2",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:04 PM ",
+=======
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "12",
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:38 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SHARMA+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SHARMA+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -388,12 +556,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "8",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "15",
     "oxygenBedAvailable": "8",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:13 PM ",
+=======
+    "normalBedAvailable": "13",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "15",
+    "oxygenBedAvailable": "13",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:41 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Shree+Medical Care Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Shree+Medical Care Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -409,7 +586,11 @@
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "0",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:10 PM ",
+=======
+    "lastUpdatedTime": "5:39 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Shureshtha+Hospital+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Shureshtha+Hospital+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -420,12 +601,20 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "5",
+=======
+    "normalBedAvailable": "4",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "4",
     "oxygenBedAvailable": "4",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:02 PM ",
+=======
+    "lastUpdatedTime": "5:36 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=SP+Hospital Jag+Haryana&rlz=1C1CHBF_enIN859IN859&oq=SP+Hospital Jag+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -436,12 +625,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "17",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "20",
     "oxygenBedAvailable": "7",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:02 PM ",
+=======
+    "normalBedAvailable": "18",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "20",
+    "oxygenBedAvailable": "8",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:37 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=Swami+Vivekanand Hospital Yamunanagar+Haryana&rlz=1C1CHBF_enIN859IN859&oq=Swami+Vivekanand Hospital Yamunanagar+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -455,9 +653,15 @@
     "normalBedAvailable": "37",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "20",
+<<<<<<< HEAD
     "oxygenBedAvailable": "7",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:03 PM ",
+=======
+    "oxygenBedAvailable": "5",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:37 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=tejli+stadium+Haryana&rlz=1C1CHBF_enIN859IN859&oq=tejli+stadium+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -473,7 +677,11 @@
     "oxygenBedOccupied": "8",
     "oxygenBedAvailable": "6",
     "lastUpdatedDate": "1st May,21 ",
+<<<<<<< HEAD
     "lastUpdatedTime": "1:13 PM ",
+=======
+    "lastUpdatedTime": "5:40 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=VARDAAN+HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=VARDAAN+HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -484,12 +692,21 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
+<<<<<<< HEAD
     "normalBedAvailable": "18",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "16",
     "oxygenBedAvailable": "14",
     "lastUpdatedDate": "1st May,21 ",
     "lastUpdatedTime": "1:09 PM ",
+=======
+    "normalBedAvailable": "19",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "16",
+    "oxygenBedAvailable": "15",
+    "lastUpdatedDate": "1st May,21 ",
+    "lastUpdatedTime": "5:38 PM ",
+>>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "district": "Yamunanagar",
     "state": "Haryana",
     "googleSearch": "https://www.google.com/search?q=WARYAM+SINGH HOSPITAL+Haryana&rlz=1C1CHBF_enIN859IN859&oq=WARYAM+SINGH HOSPITAL+Haryana&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
