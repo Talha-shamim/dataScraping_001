@@ -6,10 +6,7 @@ const gatherAhmedabad = async (url) => {
     try{
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-<<<<<<< HEAD
-=======
   await page.setDefaultNavigationTimeout(0);
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
   await page.goto(url);
 
   // Get the "viewport" of the page, as reported by the page.
@@ -114,15 +111,9 @@ const mergeData = () => {
         })
 
         finaldata = value[0].value
-<<<<<<< HEAD
-        console.log("finl",finaldata)
-        fs.writeFile(
-            `../jsonFiles/States/Gujrat.json`,
-=======
 
         fs.writeFile(
-            `jsonFiles/Gujrat.json`,
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+            `jsonFiles/gujrat.json`,
             JSON.stringify(finaldata, null, 2),
             (error) => {
               if (error) {
@@ -140,9 +131,5 @@ const mergeData = () => {
    
 }
 
-<<<<<<< HEAD
-mergeData()
-=======
 exports.getahmadabad = mergeData;
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
 

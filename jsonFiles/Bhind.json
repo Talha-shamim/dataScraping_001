@@ -1,16 +1,15 @@
-<<<<<<< HEAD
 [
   {
     "hospitalName": "DH Bhind - DCHC",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "229 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "102",
+    "normalBedAvailable": "145",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "95",
-    "lastUpdatedDate": "21-05-2021",
-    "lastUpdatedTime": "00:09:23",
+    "oxygenBedAvailable": "137",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:08:31",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=DH+Bhind - DCHC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+Bhind - DCHC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -25,8 +24,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-    "lastUpdatedTime": "07:55:43",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:08:10",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=GOV+NO. 1 GIRLS HOSTEL+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=GOV+NO. 1 GIRLS HOSTEL+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -37,18 +36,15 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "60 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "48",
+    "normalBedAvailable": "46",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-    "lastUpdatedTime": "00:13:32",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:06:10",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=DIVYANG+PUNARVASH KENDR NIRASHRIT BHAWAN+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=DIVYANG+PUNARVASH KENDR NIRASHRIT BHAWAN+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available"
   }
 ]
-=======
-undefined
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a

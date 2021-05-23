@@ -8,12 +8,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:40:50",
-=======
-    "lastUpdatedTime": "18:59:32",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "18:10:23",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=D.P.+Care Hospital Shujalpur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=D.P.+Care Hospital Shujalpur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -24,20 +20,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "10 ",
     "normalBedOccupied": "-",
-<<<<<<< HEAD
-    "normalBedAvailable": "9",
-=======
     "normalBedAvailable": "10",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "2",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:34:36",
-=======
-    "lastUpdatedTime": "20:15:02",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:18:04",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Vyas+Nursing Home Shajapur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Vyas+Nursing Home Shajapur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -48,20 +36,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "30 ",
     "normalBedOccupied": "-",
-<<<<<<< HEAD
-    "normalBedAvailable": "24",
-=======
-    "normalBedAvailable": "25",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "normalBedAvailable": "29",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "06:38:31",
-=======
-    "lastUpdatedTime": "18:42:09",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "18:03:00",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Shree+Balaji Hospital Kalapipal+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Shree+Balaji Hospital Kalapipal+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -72,20 +52,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "64 ",
     "normalBedOccupied": "-",
-<<<<<<< HEAD
-    "normalBedAvailable": "32",
-=======
-    "normalBedAvailable": "36",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "normalBedAvailable": "37",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:13:12",
-=======
-    "lastUpdatedTime": "18:40:30",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "9",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "18:11:28",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Aarogya+Hospital Shujalpur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Aarogya+Hospital Shujalpur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -96,16 +68,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "50 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "15",
+    "normalBedAvailable": "22",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "15",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:59:45",
-=======
-    "lastUpdatedTime": "22:01:42",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "22",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "19:49:16",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CH+Shujalpur City+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CH+Shujalpur City+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -116,16 +84,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "200 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "163",
+    "normalBedAvailable": "166",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "111",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:16:33",
-=======
-    "lastUpdatedTime": "23:54:32",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "19:57:36",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=DH+Shajapur - DCHC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+Shajapur - DCHC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -136,20 +100,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "70 ",
     "normalBedOccupied": "-",
-<<<<<<< HEAD
-    "normalBedAvailable": "50",
-=======
     "normalBedAvailable": "52",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "14",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:47:00",
-=======
-    "lastUpdatedTime": "23:55:46",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "12",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:33:07",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=JASH+Hospital and Research Centre+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=JASH+Hospital and Research Centre+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -164,12 +120,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "1",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:28:57",
-=======
-    "lastUpdatedTime": "19:20:11",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "18:52:12",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Sai+Kripa Hospital & Emergency Care Shujalpur Mandi+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Sai+Kripa Hospital & Emergency Care Shujalpur Mandi+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -180,16 +132,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "10 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "1",
+    "normalBedAvailable": "4",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:46:19",
-=======
-    "lastUpdatedTime": "18:13:23",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "19:30:50",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=J.K.+Hospital & Trauma Center Shujalpur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=J.K.+Hospital & Trauma Center Shujalpur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -204,12 +152,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:08:37",
-=======
-    "lastUpdatedTime": "20:03:05",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "18:14:20",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Patidar+Nusing Home Shajapur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Patidar+Nusing Home Shajapur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -224,12 +168,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "9",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:14:18",
-=======
-    "lastUpdatedTime": "21:53:41",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "18:02:26",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Gohil+Sampoorn Hospital+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Gohil+Sampoorn Hospital+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -240,20 +180,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "28 ",
     "normalBedOccupied": "-",
-<<<<<<< HEAD
-    "normalBedAvailable": "2",
-=======
-    "normalBedAvailable": "4",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "normalBedAvailable": "5",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:54:15",
-=======
-    "lastUpdatedTime": "19:43:07",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "20:02:30",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Shajapur+City Hospital Shajapur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Shajapur+City Hospital Shajapur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -264,16 +196,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "50 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "46",
+    "normalBedAvailable": "50",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:18:08",
-=======
-    "lastUpdatedTime": "18:48:41",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:58:53",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Vridhashram+Shajapur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Vridhashram+Shajapur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -284,20 +212,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "20 ",
     "normalBedOccupied": "-",
-<<<<<<< HEAD
-    "normalBedAvailable": "18",
-=======
     "normalBedAvailable": "17",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "5",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:34:41",
-=======
-    "lastUpdatedTime": "19:46:02",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "19:23:17",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Metro+Hospital Shajapur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Metro+Hospital Shajapur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -312,12 +232,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "27",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:15:41",
-=======
-    "lastUpdatedTime": "21:57:00",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "20:02:54",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CCC+Shujalpur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CCC+Shujalpur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -332,12 +248,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "4",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:27:01",
-=======
-    "lastUpdatedTime": "19:34:41",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "19:07:03",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Sugan+Devi Hospital Shujalpur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Sugan+Devi Hospital Shujalpur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -352,12 +264,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "10",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "14:50:19",
-=======
-    "lastUpdatedTime": "19:53:02",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "19:03:45",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Vardan+Fracture and general Hospital Shajapur+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Vardan+Fracture and general Hospital Shajapur+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -372,12 +280,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "5",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "11:25:19",
-=======
-    "lastUpdatedTime": "18:05:14",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "18:02:16",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=ERIKA+HOSPITAL & TRAUMA CENTER SHAJAPUR+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=ERIKA+HOSPITAL & TRAUMA CENTER SHAJAPUR+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -388,24 +292,31 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "8 ",
     "normalBedOccupied": "-",
-<<<<<<< HEAD
-    "normalBedAvailable": "7",
-    "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "3",
-    "lastUpdatedDate": "20-05-2021",
-    "lastUpdatedTime": "14:05:37",
-=======
     "normalBedAvailable": "4",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "2",
-    "lastUpdatedDate": "21-05-2021",
-    "lastUpdatedTime": "21:06:09",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:12:28",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=SHREE+VEDANTA HOSPITAL KALAPIPAL+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=SHREE+VEDANTA HOSPITAL KALAPIPAL+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "phoneNo": "Not Available"
+  },
+  {
+    "hospitalName": "SARASWATI SHISHU MANDIR SHAJAPUR",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "25 ",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "20",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "16:02:11",
+    "district": "",
+    "state": "Madhyapradesh",
+    "googleSearch": "https://www.google.com/search?q=SARASWATI+SHISHU MANDIR SHAJAPUR+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=SARASWATI+SHISHU MANDIR SHAJAPUR+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available"
   }
 ]

@@ -99,11 +99,7 @@ gatherHaryana(data.url,data.name)
               
         })
         fs.writeFile(
-<<<<<<< HEAD
             `../jsonFiles/${maparray[0].district}.json`,
-=======
-            `jsonFiles/${maparray[0].district}.json`,
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
             JSON.stringify(maparray, null, 2),
             (error) => {
               if (error) {
@@ -127,11 +123,7 @@ gatherHaryana(data.url,data.name)
 
 
 
-<<<<<<< HEAD
-mergeData()
-=======
 exports.getharyana = mergeData
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
 {/*
 const mergeData = () => {
 

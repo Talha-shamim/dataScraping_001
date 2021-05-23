@@ -1,99 +1,99 @@
 var district = [
     {
         url:'https://coronaharyana.in/?city=1',
-        name:'Ambala'
+        name:'ambala'
     },
     {
         url:'https://coronaharyana.in/?city=2',
-        name:'Bhiwani'
+        name:'bhiwani'
     },
     {
         url:'https://coronaharyana.in/?city=24',
-        name:'Chandigarh'
+        name:'chandigarh'
     },
     {
         url:'https://coronaharyana.in/?city=3',
-        name:'Charki Dadri'
+        name:'charkidadri'
     },
     {
         url:'https://coronaharyana.in/?city=4',
-        name:'Faridabad'
+        name:'faridabad'
     },
     {
         url:'https://coronaharyana.in/?city=5',
-        name:'Fatehabad'
+        name:'fatehabad'
     },
     {
         url:'https://coronaharyana.in/?city=6',
-        name:'Gurugram'
+        name:'gurugram'
     },
     {
         url:'https://coronaharyana.in/?city=7',
-        name:'Hisar'
+        name:'hisar'
     },
     {
         url:'https://coronaharyana.in/?city=8',
-        name:'Jhajjar'
+        name:'jhajjar'
     },
     {
         url:'https://coronaharyana.in/?city=9',
-        name:'Jind'
+        name:'jind'
     },
     {
         url:'https://coronaharyana.in/?city=10',
-        name:'Kaithal'
+        name:'kaithal'
     },
     {
         url:'https://coronaharyana.in/?city=11',
-        name:'Karnal'
+        name:'karnal'
     },
     {
         url:'https://coronaharyana.in/?city=12',
-        name:'Kurukshetra'
+        name:'kurukshetra'
     },
     {
         url:'https://coronaharyana.in/?city=13',
-        name:'Mahendragarh'
+        name:'mahendragarh'
     },
     {
         url:'https://coronaharyana.in/?city=14',
-        name:'Ambala'
+        name:'ambala'
     },
     {
         url:'https://coronaharyana.in/?city=23',
-        name:'Nuh'
+        name:'nuh'
     },
     {
         url:'https://coronaharyana.in/?city=15',
-        name:'Palwal'
+        name:'palwal'
     },
     {
         url:'https://coronaharyana.in/?city=16',
-        name:'Panchkula'
+        name:'panchkula'
     },
     {
         url:'https://coronaharyana.in/?city=17',
-        name:'Panipat'
+        name:'panipat'
     },
     {
         url:'https://coronaharyana.in/?city=18',
-        name:'Rewari'
+        name:'rewari'
     },
     {
         url:'https://coronaharyana.in/?city=19',
-        name:'Rohtak'
+        name:'rohtak'
     },
     {
         url:'https://coronaharyana.in/?city=20',
-        name:'Sirsa'
+        name:'sirsa'
     },
     {
         url:'https://coronaharyana.in/?city=21',
-        name:'Sonipat'
+        name:'sonipat'
     },
     {
         url:'https://coronaharyana.in/?city=22',
-        name:'Yamunanagar'
+        name:'yamunanagar'
     }
 
 ]

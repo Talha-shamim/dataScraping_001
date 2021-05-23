@@ -4,16 +4,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "415 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "259",
+    "normalBedAvailable": "282",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "245",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:38:36",
-=======
-    "lastUpdatedTime": "18:36:37",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "260",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "07:30:59",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=CIMS+, GMC Chhindwara - DCH+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=CIMS+, GMC Chhindwara - DCH+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -24,16 +20,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "365 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "351",
+    "normalBedAvailable": "352",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "76",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:42:27",
-=======
-    "lastUpdatedTime": "18:33:29",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "07:34:53",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=DH+CHHINDWARA - DCHC+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+CHHINDWARA - DCHC+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -44,16 +36,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "92 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "47",
+    "normalBedAvailable": "71",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "35",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:29:21",
-=======
-    "lastUpdatedTime": "18:40:56",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "57",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "07:46:54",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Life+Care Multi Speciality Hospital+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Life+Care Multi Speciality Hospital+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -64,16 +52,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "60 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "19",
+    "normalBedAvailable": "47",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "16",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:27:45",
-=======
-    "lastUpdatedTime": "18:43:26",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "41",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "07:41:35",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Anand+Hospital+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Anand+Hospital+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -84,16 +68,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "34 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "14",
+    "normalBedAvailable": "22",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "1",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:47:54",
-=======
-    "lastUpdatedTime": "20:10:29",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "07:57:44",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Arogya+Hospital Chindwara+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Arogya+Hospital Chindwara+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -104,16 +84,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "35 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "19",
+    "normalBedAvailable": "27",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "8",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:51:06",
-=======
-    "lastUpdatedTime": "20:07:32",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "15",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:00:56",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Balaji+Hospital+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Balaji+Hospital+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -124,16 +100,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "22 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "16",
+    "normalBedAvailable": "17",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "8",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:52:28",
-=======
-    "lastUpdatedTime": "20:12:25",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:03:21",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Sonare+Hospital+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Sonare+Hospital+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -144,16 +116,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "118 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "88",
+    "normalBedAvailable": "96",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "80",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:22:56",
-=======
-    "lastUpdatedTime": "20:14:25",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "88",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "08:09:13",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Civil+Hospital Pandhurna ,Dist Chhindwara+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Civil+Hospital Pandhurna ,Dist Chhindwara+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -168,12 +136,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:47:35",
-=======
-    "lastUpdatedTime": "20:31:35",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:46:58",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Kanya+Parishar Hostal Chhindwara+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Kanya+Parishar Hostal Chhindwara+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -188,12 +152,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:44:25",
-=======
-    "lastUpdatedTime": "20:29:41",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:37:45",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Primary+Health Center Singodi Block Amarawara+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Primary+Health Center Singodi Block Amarawara+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -204,16 +164,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "48 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "42",
+    "normalBedAvailable": "43",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "42",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:41:51",
-=======
-    "lastUpdatedTime": "20:27:42",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "43",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:33:29",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=WCL+Hospital -Junnardeo+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=WCL+Hospital -Junnardeo+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -224,16 +180,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "70 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "64",
+    "normalBedAvailable": "68",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "64",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:40:14",
-=======
-    "lastUpdatedTime": "20:25:36",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "68",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:29:46",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=WCL+Hospital Badkuhi Block Parasia+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=WCL+Hospital Badkuhi Block Parasia+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -248,12 +200,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:39:10",
-=======
-    "lastUpdatedTime": "20:22:35",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:25:26",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Tribal+Hostal Block Bichuwa+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Tribal+Hostal Block Bichuwa+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -264,16 +212,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "80 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "66",
+    "normalBedAvailable": "71",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "66",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:37:15",
-=======
-    "lastUpdatedTime": "20:20:11",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "71",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:26:44",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Civil+Hospital Sausar+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Civil+Hospital Sausar+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -288,12 +232,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "20",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:34:53",
-=======
-    "lastUpdatedTime": "18:28:07",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "07:55:27",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Life+Line Hospital Sausar+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Life+Line Hospital Sausar+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -304,16 +244,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "65 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "30",
+    "normalBedAvailable": "42",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "16",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:29:48",
-=======
-    "lastUpdatedTime": "18:30:48",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "23",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "07:53:02",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Satpura+Covid Hospital,Chhindwara+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Satpura+Covid Hospital,Chhindwara+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -324,16 +260,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "80 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "49",
+    "normalBedAvailable": "57",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "35",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:26:51",
-=======
-    "lastUpdatedTime": "20:33:47",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "41",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "18:28:41",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Bindra+Hospital Covid Care Center+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Bindra+Hospital Covid Care Center+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -348,12 +280,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "20",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:50:23",
-=======
-    "lastUpdatedTime": "20:16:37",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:48:20",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Community+Health Center -Chourai+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Community+Health Center -Chourai+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -368,12 +296,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:51:43",
-=======
-    "lastUpdatedTime": "18:12:09",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:54:30",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Civil+Hospital Amarwara+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Civil+Hospital Amarwara+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -388,12 +312,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "20",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "08:52:47",
-=======
-    "lastUpdatedTime": "18:17:40",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:55:53",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Community+Heath Center Tamia+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Community+Heath Center Tamia+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -404,16 +324,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "13 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "11",
+    "normalBedAvailable": "12",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "11",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:06:39",
-=======
-    "lastUpdatedTime": "18:19:21",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "12",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:57:15",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Community+Heath Center Damua Block Junnardeo+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Community+Heath Center Damua Block Junnardeo+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -428,12 +344,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "22",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:08:22",
-=======
-    "lastUpdatedTime": "18:21:10",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:59:02",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Civil+Hospital SAF+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Civil+Hospital SAF+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -448,12 +360,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "24",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:16:49",
-=======
-    "lastUpdatedTime": "18:22:46",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "10:00:09",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Civil+Hospital Police Line+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Civil+Hospital Police Line+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -468,12 +376,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "10",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:18:44",
-=======
-    "lastUpdatedTime": "18:15:31",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "10:01:22",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Civil+Hospital Chandameta+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Civil+Hospital Chandameta+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -488,12 +392,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "10",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:21:37",
-=======
-    "lastUpdatedTime": "18:05:57",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:53:00",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Siddhi+Vinayak Hospital Block Pandhurna+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Siddhi+Vinayak Hospital Block Pandhurna+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -504,16 +404,12 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "40 ",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "34",
+    "normalBedAvailable": "36",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "15",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:33:22",
-=======
-    "lastUpdatedTime": "18:08:29",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "oxygenBedAvailable": "17",
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:51:52",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Shree+Covid Care Center Borgaon Block Sausar+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Shree+Covid Care Center Borgaon Block Sausar+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -528,12 +424,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "7",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "09:23:00",
-=======
-    "lastUpdatedTime": "18:26:00",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "09:50:06",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Jeevan+Jyoti Multispececiality Hospital+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Jeevan+Jyoti Multispececiality Hospital+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -548,12 +440,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "10",
-    "lastUpdatedDate": "21-05-2021",
-<<<<<<< HEAD
-    "lastUpdatedTime": "07:26:33",
-=======
-    "lastUpdatedTime": "18:24:15",
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+    "lastUpdatedDate": "23-05-2021",
+    "lastUpdatedTime": "10:05:19",
     "district": "",
     "state": "Madhyapradesh",
     "googleSearch": "https://www.google.com/search?q=Nahar+Hospital+Madhya+Pradesh&rlz=1C1CHBF_enIN859IN859&oq=Nahar+Hospital+Madhya+Pradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",

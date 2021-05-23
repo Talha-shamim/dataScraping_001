@@ -2,13 +2,8 @@ const axios = require('axios')
 const cheerio = require('cheerio')
 const fs = require('fs')
 
-<<<<<<< HEAD
-
-axios.get('https://covid19dashboard.py.gov.in/BedAvailabilityDetails')
-=======
 async function get(){
 await axios.get('https://covid19dashboard.py.gov.in/BedAvailabilityDetails')
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     .then(res => {
         const $ = cheerio.load(res.data)
         var name=[]
@@ -183,11 +178,7 @@ await axios.get('https://covid19dashboard.py.gov.in/BedAvailabilityDetails')
 
             
     fs.writeFile(
-<<<<<<< HEAD
-        `../jsonFiles/States/TamilNadu.json`,
-=======
-        `jsonFiles/TamilNadu.json`,
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+        `jsonFiles/tamilnadu.json`,
         JSON.stringify(Puducherry, null, 2),
         (error) => {
           if (error) {
@@ -196,24 +187,16 @@ await axios.get('https://covid19dashboard.py.gov.in/BedAvailabilityDetails')
         }
       )
       
-<<<<<<< HEAD
-        console.log("pudu",Puducherry)
-=======
       
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
       
       
     })
 
     .catch(err => {
         console.log(err)
-<<<<<<< HEAD
-    })
-=======
     })
 }
 
     exports.getpuducherry = get;
 
 
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a

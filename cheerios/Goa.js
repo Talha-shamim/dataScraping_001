@@ -1,9 +1,6 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
-<<<<<<< HEAD
-=======
 const { get } = require('cheerio/lib/api/traversing')
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
 const fs = require('fs')
 
 const getData = async () => {
@@ -96,11 +93,7 @@ const getData = async () => {
         })
 
         fs.writeFile(
-<<<<<<< HEAD
-            `../jsonFiles/States/Goa.json`,
-=======
-            `jsonFiles/Goa.json`,
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
+            `jsonFiles/goa.json`,
             JSON.stringify(Goa, null, 2),
             (error) => {
               if (error) {
@@ -127,10 +120,6 @@ const main = async () => {
  
 }
 
-<<<<<<< HEAD
-main()
-=======
 exports.getgoa = getData;
 
 // main()
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a

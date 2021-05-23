@@ -40,7 +40,7 @@ const gatherDistrict = async () => {
             var urlstring2=dt.attributes.value.nodeValue
             var urlstring3 = '&facility_org_type=0&facility=0'
             var finalurlstring = urlstring1 + urlstring2 + urlstring3
-            districtData.district=name.substring(0,index)
+            districtData.district=name.substring(0,index).toLowerCase().split(" ").join("")
             districtData.id=dt.attributes.value.nodeValue
             districtData.url=finalurlstring
 
@@ -143,19 +143,11 @@ catch(err){
 const mapfunction = async () => {
 
     let districts = await gatherDistrict()
-<<<<<<< HEAD
-    console.log(districts)
-=======
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
     districts.map((dt) => {
         const data = gatherdata(dt.url)
         data.then( x=> {
             fs.writeFile(
-<<<<<<< HEAD
-                `../jsonFiles/${dt.district}.json`,
-=======
                 `jsonFiles/${dt.district}.json`,
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
                 JSON.stringify(x, null, 2),
                 (error) => {
                   if (error) {
@@ -186,17 +178,6 @@ const mapfunction = async () => {
 }
 
 
-<<<<<<< HEAD
-const final = async () => {
- 
-    const dt = await mapfunction();
-    return dt
-}
-
-final()
-exports.madhyaPradesh = final
-
-=======
 // const final = async () => {
  
     // const dt = await mapfunction();
@@ -207,4 +188,3 @@ exports.madhyaPradesh = final
 // exports.madhyaPradesh = final
 
 exports.getmadhyapradesh = mapfunction;
->>>>>>> 3b3b23e7be928afdef771bee9b83321f8e8d1d8a
