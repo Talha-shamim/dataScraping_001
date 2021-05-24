@@ -1,6 +1,7 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
 const { get } = require('cheerio/lib/api/traversing')
+const googleData = require('../puppeteer/googleScrapper')
 const fs = require('fs')
 
 const getData = async () => {
@@ -59,9 +60,16 @@ const getData = async () => {
             lastUpdatedTime:'',
             district:'',
             state:'Goa',
-            phoneNo:'Not Available'
+            phoneNo:'Not Available',
+            googleSearch:''
         }
-
+        var replacedString = data.replace(" ","+") 
+        var finalRepString = replacedString + '+Goa' 
+        var gStringpt1 = 'https://www.google.com/search?q='
+        var gStringpt3='&rlz=1C1CHBF_enIN859IN859&oq='
+        var gStringpt5='&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8' 
+        var finalString = gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5
+        obj['googleSearch']=finalString
             obj['hospitalName']=data
             Goa.push(obj)
         })
@@ -92,8 +100,30 @@ const getData = async () => {
           
         })
 
+        var arraynew =[]
+ 
+        Goa.map(dt => {
+            googleData.google(dt.googleSearch)
+            .then(x=> {
+                if(x.location){
+                    arraynew.push(x)
+          
         fs.writeFile(
-            `jsonFiles/goa.json`,
+            `../jsonFiles/GoogleData/goa.json`,
+            JSON.stringify(arraynew, null, 2),
+            (error) => {
+              if (error) {
+                console.log(error);
+              } else console.log(`File written Goa google`);
+            }
+          )
+          
+                }
+            })
+        })
+
+        fs.writeFile(
+            `../jsonFiles/goa.json`,
             JSON.stringify(Goa, null, 2),
             (error) => {
               if (error) {
@@ -112,6 +142,8 @@ const getData = async () => {
     return Goa
 
 }
+
+getData()
 
 const main = async () => {
     const dt = await getData()

@@ -1,7 +1,9 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
 const fs = require('fs')
+const googleData = require('../puppeteer/googleScrapper')
 var links = []  
+
 
 
 const naviData = () => {
@@ -161,15 +163,29 @@ axios.get('https://nmmchealthfacilities.com/HospitalInfo/showhospitalist')
             })
             
         })
+        var gData = []
         
-        // links.map(dt=> {
-        //     let x=googleData.google(dt)
-        //     x.then(newdt =>{
-        //        if(newdt.location){
-        //            gData.push(newdt)
-        //        }
-        //     })
-        // })
+        links.map(dt=> {
+            let x=googleData.google(dt)
+            x.then(newdt =>{
+                // console.log('newdt',newdt)
+               if(newdt.location){
+                   gData.push(newdt)
+                   
+       fs.writeFile(
+        `../jsonFiles/GoogleData/maharastra.json`,
+        JSON.stringify(gData, null, 2),
+        (error) => {
+          if (error) {
+            console.log(error);
+          } else console.log(`File written Maharastra`);
+        }
+      )
+               }
+            })
+        })
+
+        
 
    
       
@@ -178,15 +194,15 @@ axios.get('https://nmmchealthfacilities.com/HospitalInfo/showhospitalist')
         console.log(occupied)
        console.log(vaccant) */}
     
-       fs.writeFile(
-        `jsonFiles/maharastra.json`,
-        JSON.stringify(naviMumbai, null, 2),
-        (error) => {
-          if (error) {
-            console.log(error);
-          } else console.log(`File written Maharastra`);
-        }
-      )
+    //    fs.writeFile(
+    //     `jsonFiles/maharastra.json`,
+    //     JSON.stringify(naviMumbai, null, 2),
+    //     (error) => {
+    //       if (error) {
+    //         console.log(error);
+    //       } else console.log(`File written Maharastra`);
+    //     }
+    //   )
       return naviMumbai
 
         
@@ -197,6 +213,7 @@ axios.get('https://nmmchealthfacilities.com/HospitalInfo/showhospitalist')
      
 }
 
+naviData()
 exports.getnavi = naviData;
 
 

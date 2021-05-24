@@ -29,25 +29,38 @@ const gatherdata = async (url) => {
  
 
 
-    const data = await page.evaluate((urls)=> {
+    const data = await page.evaluate(()=> {
     var address=''
     var phonecall=''
-    var duration=''
+    var lattitude=''
+    var longitude=''
       
         let adbool = address=document.querySelector('span.LrzXr')
         if(adbool){
             address=adbool.innerText
         }
-        phonebool=document.querySelector('a[data-dtype="d3ifr"]')
+        let phonebool=document.querySelector('a[data-dtype="d3ifr"]')
         if(phonebool){
             phonecall=phonebool.innerText
         }
-       
+
+        let coord = document.querySelector('.rhsmap4col > a')
+        if(coord){
+            var target=coord.getAttribute('data-url')
+            var indexofa = target.indexOf('@')
+            var indexof1stcomma = target.indexOf(',',indexofa)
+            var indexof2ndcomma = target.indexOf(',',indexof1stcomma+2)
+            lattitude=target.substring(indexofa+1,indexof1stcomma)
+            longitude=target.substring(indexof1stcomma+1,indexof2ndcomma)
+
+        }
    
         let item = {
             location:address,
             phone:phonecall,
-            url:urls,
+            url:'',
+            cordlat:lattitude,
+            cordlon:longitude
      
         }
 

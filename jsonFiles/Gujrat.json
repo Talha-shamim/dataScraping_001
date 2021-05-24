@@ -19,13 +19,13 @@
     "hospitalName": "Amrutba General Hospital",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "25",
-    "normalBedOccupied": "11",
-    "normalBedAvailable": "14",
+    "normalBedOccupied": "4",
+    "normalBedAvailable": "21",
     "oxygenBedTotal": "19",
-    "oxygenBedOccupied": "7",
-    "oxygenBedAvailable": "12",
-    "lastUpdatedDate": "21-05-2021",
-    "lastUpdatedTime": "15:05:08",
+    "oxygenBedOccupied": "4",
+    "oxygenBedAvailable": "15",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "08:59:11",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Amrutba+General Hospital+Detroj, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Amrutba+General Hospital+Detroj, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -33,7 +33,7 @@
   },
   {
     "hospitalName": "Anaya ICU Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Madhuvan complex, rod, Opp. Bus Stand, Bavla, Gujarat 382220",
     "normalBedTotal": "22",
     "normalBedOccupied": "3",
     "normalBedAvailable": "19",
@@ -45,7 +45,9 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Anaya+ICU Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Anaya+ICU Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "8980080925"
+    "phoneNo": "090990 46640",
+    "lattitude": "22.8297878",
+    "longitude": "72.3638056"
   },
   {
     "hospitalName": "Angel Maternity & Nursing home",
@@ -56,8 +58,8 @@
     "oxygenBedTotal": "2",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "2",
-    "lastUpdatedDate": "23-05-2021",
-    "lastUpdatedTime": "10:39:46",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "11:40:59",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Angel+Maternity & Nursing home+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Angel+Maternity & Nursing home+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -97,19 +99,21 @@
   },
   {
     "hospitalName": "Bhagyoday Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "GJ SH 18, Akshar Nagar, Axar nagar, Viramgam, Gujarat 382150",
     "normalBedTotal": "25",
-    "normalBedOccupied": "5",
-    "normalBedAvailable": "20",
+    "normalBedOccupied": "4",
+    "normalBedAvailable": "21",
     "oxygenBedTotal": "17",
-    "oxygenBedOccupied": "4",
-    "oxygenBedAvailable": "13",
-    "lastUpdatedDate": "23-05-2021",
-    "lastUpdatedTime": "10:42:16",
+    "oxygenBedOccupied": "2",
+    "oxygenBedAvailable": "15",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "11:43:54",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Bhagyoday+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Bhagyoday+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9974656418"
+    "phoneNo": "02715 233 254",
+    "lattitude": "23.1280502",
+    "longitude": "72.0464472"
   },
   {
     "hospitalName": "C.M.Seth ICCU Lion Club Society of Viramgam",
@@ -120,8 +124,8 @@
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
-    "lastUpdatedDate": "23-05-2021",
-    "lastUpdatedTime": "10:40:34",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "11:36:11",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=C.M.Seth+ICCU Lion Club Society of Viramgam+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=C.M.Seth+ICCU Lion Club Society of Viramgam+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -129,7 +133,7 @@
   },
   {
     "hospitalName": "Care Children Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "D/1 Prurthivi Complex, Near Railway Station, Bavla, Gujarat 382220",
     "normalBedTotal": "19",
     "normalBedOccupied": "10",
     "normalBedAvailable": "9",
@@ -141,7 +145,9 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Care+Children Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Care+Children Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9898199818"
+    "phoneNo": "098981 99818",
+    "lattitude": "22.8294004",
+    "longitude": "72.3609788"
   },
   {
     "hospitalName": "DIMH Hospital",
@@ -161,7 +167,7 @@
   },
   {
     "hospitalName": "Durvesh Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "opp, kuppiwala girs high school, Dholka, Ahmedabad, Gujarat 382225",
     "normalBedTotal": "8",
     "normalBedOccupied": "8",
     "normalBedAvailable": "0",
@@ -173,11 +179,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Durvesh+Hospital+Dholka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Durvesh+Hospital+Dholka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9825526911"
+    "phoneNo": "098255 26911",
+    "lattitude": "22.730652",
+    "longitude": "72.444597"
   },
   {
     "hospitalName": "Gurukrupa Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Sanand, 1 Asha society, near police station, Sanand, Gujarat 382110",
     "normalBedTotal": "12",
     "normalBedOccupied": "12",
     "normalBedAvailable": "0",
@@ -189,11 +197,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Gurukrupa+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Gurukrupa+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9601781280"
+    "phoneNo": "078742 38787",
+    "lattitude": "22.9876499",
+    "longitude": "72.3868624"
   },
   {
     "hospitalName": "Hare Krishna Multi Speciality Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Radhanpuri, Dholka, Gujarat 382225",
     "normalBedTotal": "20",
     "normalBedOccupied": "5",
     "normalBedAvailable": "15",
@@ -205,11 +215,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Hare+Krishna Multi Speciality Hospital+Dholka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Hare+Krishna Multi Speciality Hospital+Dholka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9375511617"
+    "phoneNo": "072280 40111",
+    "lattitude": "22.727866",
+    "longitude": "72.4375964"
   },
   {
     "hospitalName": "Janam Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Narmada Vasahat, Sanand, Gujarat 382110",
     "normalBedTotal": "40",
     "normalBedOccupied": "23",
     "normalBedAvailable": "17",
@@ -221,11 +233,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Janam+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Janam+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9825023795"
+    "phoneNo": "02717 224 144",
+    "lattitude": "22.9878733",
+    "longitude": "72.3873526"
   },
   {
     "hospitalName": "Janta Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Bavla Road, Gadhiya Chokdi, Sanand., Ahmedabad, Gujarat 382110",
     "normalBedTotal": "40",
     "normalBedOccupied": "40",
     "normalBedAvailable": "0",
@@ -237,11 +251,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Janta+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Janta+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9825739241"
+    "phoneNo": "098257 39241",
+    "lattitude": "22.9873215",
+    "longitude": "72.3812672"
   },
   {
     "hospitalName": "Jay Shiv Shakti Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "C1,C2, Anurag Society,, Nr Barejadi Railway Station, Barejadi, Ahmedabad, Gujarat 382425",
     "normalBedTotal": "20",
     "normalBedOccupied": "2",
     "normalBedAvailable": "18",
@@ -253,7 +269,9 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Jay+Shiv Shakti Hospital+Dascroi, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Jay+Shiv Shakti Hospital+Dascroi, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9979777551"
+    "phoneNo": "080002 22321",
+    "lattitude": "22.892126",
+    "longitude": "72.672898"
   },
   {
     "hospitalName": "Khodiyar Multispeciality Hospital",
@@ -273,19 +291,21 @@
   },
   {
     "hospitalName": "Krishna Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "bus station, second floor Madhav complex Bahucharaji Road near, Viramgam, Gujarat 382150",
     "normalBedTotal": "15",
     "normalBedOccupied": "4",
     "normalBedAvailable": "11",
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "4",
-    "lastUpdatedDate": "23-05-2021",
-    "lastUpdatedTime": "10:41:01",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "11:39:59",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Krishna+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Krishna+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9714670600"
+    "phoneNo": "097146 70600",
+    "lattitude": "23.1282182",
+    "longitude": "72.0512236"
   },
   {
     "hospitalName": "Krishna Hospital - Moraiya",
@@ -305,23 +325,25 @@
   },
   {
     "hospitalName": "Mamta Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Golvadi Bharvadi Road,Opp.Sathvara para,Near City, Mahel, Viramgam, Gujarat 382150",
     "normalBedTotal": "5",
     "normalBedOccupied": "0",
     "normalBedAvailable": "5",
     "oxygenBedTotal": "2",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "2",
-    "lastUpdatedDate": "23-05-2021",
-    "lastUpdatedTime": "10:40:13",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "11:35:43",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Mamta+Hospital+Viramgam&rlz=1C1CHBF_enIN859IN859&oq=Mamta+Hospital+Viramgam&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9426123343"
+    "phoneNo": "",
+    "lattitude": "23.1258459",
+    "longitude": "72.051366"
   },
   {
     "hospitalName": "Muniseva Trust Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "behind muni seva ashram nidhrad gaam taluka, Sanand, Gujarat",
     "normalBedTotal": "37",
     "normalBedOccupied": "18",
     "normalBedAvailable": "19",
@@ -333,11 +355,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Muniseva+Trust Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Muniseva+Trust Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9909020685"
+    "phoneNo": "099980 51881",
+    "lattitude": "23.0149643",
+    "longitude": "72.3829927"
   },
   {
     "hospitalName": "Navjivan Doctor House",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Radhe Darshan Shopping Centre, Sarkhej-Bavla Rd, Sanand, Gujarat 382110",
     "normalBedTotal": "28",
     "normalBedOccupied": "11",
     "normalBedAvailable": "17",
@@ -349,11 +373,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Navjivan+Doctor House+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Navjivan+Doctor House+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9427383961"
+    "phoneNo": "070411 78333",
+    "lattitude": "22.9866132",
+    "longitude": "72.3808627"
   },
   {
     "hospitalName": "Our Lady Of Pillar Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Chekhla Road, Nidhrad, Sanand, Gujarat 382115",
     "normalBedTotal": "60",
     "normalBedOccupied": "13",
     "normalBedAvailable": "47",
@@ -365,11 +391,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Our+Lady Of Pillar Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Our+Lady Of Pillar Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9408933673"
+    "phoneNo": "",
+    "lattitude": "23.0154414",
+    "longitude": "72.380579"
   },
   {
     "hospitalName": "Parekh’s Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Vallabh Nagar Society, Bavla, Gujarat 382220",
     "normalBedTotal": "25",
     "normalBedOccupied": "3",
     "normalBedAvailable": "22",
@@ -381,11 +409,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Parekh’s+Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Parekh’s+Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9898274105"
+    "phoneNo": "",
+    "lattitude": "22.830652",
+    "longitude": "72.3614591"
   },
   {
     "hospitalName": "RMS Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "SH 36, Dhandhuka-Vallabhipur Highway, Near Jeevan Sandhya, Dhandhuka, Gujarat 382460",
     "normalBedTotal": "25",
     "normalBedOccupied": "17",
     "normalBedAvailable": "8",
@@ -397,7 +427,9 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=RMS+Hospital+Dhandhuka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=RMS+Hospital+Dhandhuka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "8000978922"
+    "phoneNo": "02713 222 543",
+    "lattitude": "22.3640464",
+    "longitude": "71.9779372"
   },
   {
     "hospitalName": "Radhe Hospital",
@@ -433,7 +465,7 @@
   },
   {
     "hospitalName": "Rudraksh Multispeciality Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "GHODA GADI, Station Rd, Hariom Society, Sanand, Gujarat 382110",
     "normalBedTotal": "15",
     "normalBedOccupied": "9",
     "normalBedAvailable": "6",
@@ -445,11 +477,13 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Rudraksh+Multispeciality Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Rudraksh+Multispeciality Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "8000808015"
+    "phoneNo": "",
+    "lattitude": "22.9955518",
+    "longitude": "72.3814458"
   },
   {
     "hospitalName": "Sanand APMC Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Bavla Road, Gadhiya Chokdi, Sanand., Ahmedabad, Gujarat 382110",
     "normalBedTotal": "30",
     "normalBedOccupied": "7",
     "normalBedAvailable": "23",
@@ -461,39 +495,45 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Sanand+APMC Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Sanand+APMC Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9998285329"
+    "phoneNo": "098257 39241",
+    "lattitude": "22.9873215",
+    "longitude": "72.3812672"
   },
   {
     "hospitalName": "Shaligram Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Sevasadan Rd, Akshar Nagar, Axar nagar, Viramgam, Gujarat 382150",
     "normalBedTotal": "30",
-    "normalBedOccupied": "7",
-    "normalBedAvailable": "23",
+    "normalBedOccupied": "6",
+    "normalBedAvailable": "24",
     "oxygenBedTotal": "12",
     "oxygenBedOccupied": "3",
     "oxygenBedAvailable": "9",
-    "lastUpdatedDate": "23-05-2021",
-    "lastUpdatedTime": "10:44:15",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "11:40:32",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shaligram+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shaligram+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9725635555"
+    "phoneNo": "072260 25555",
+    "lattitude": "23.128311",
+    "longitude": "72.044989"
   },
   {
     "hospitalName": "Sharnam Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "SHARANAM MULTISPECIALITY HOSPITAL 1ST FLOOR UGAM PLAZA,NEAR PARSHWNATH CIRCLE OPP. SURBHI SOCIETY, Sarkhej-Bavla Rd, Kalikund, Dholka, Gujarat 382225",
     "normalBedTotal": "25",
-    "normalBedOccupied": "3",
-    "normalBedAvailable": "22",
+    "normalBedOccupied": "2",
+    "normalBedAvailable": "23",
     "oxygenBedTotal": "5",
-    "oxygenBedOccupied": "2",
-    "oxygenBedAvailable": "3",
-    "lastUpdatedDate": "23-05-2021",
-    "lastUpdatedTime": "08:58:16",
+    "oxygenBedOccupied": "1",
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "08:44:21",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Sharnam+Hospital+Dholka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Sharnam+Hospital+Dholka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "8000591122"
+    "phoneNo": "02714 225 225",
+    "lattitude": "22.7427469",
+    "longitude": "72.4430224"
   },
   {
     "hospitalName": "Shiv Hospital",
@@ -513,19 +553,21 @@
   },
   {
     "hospitalName": "Shiv Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "1st floor, Above Shiv Hospital, Mandal - Viramgam Rd, opposite M. J. High School, near Gandhi Hospital, Aligarh, Viramgam, Gujarat 382150",
     "normalBedTotal": "27",
-    "normalBedOccupied": "12",
-    "normalBedAvailable": "15",
+    "normalBedOccupied": "2",
+    "normalBedAvailable": "25",
     "oxygenBedTotal": "18",
-    "oxygenBedOccupied": "10",
-    "oxygenBedAvailable": "8",
-    "lastUpdatedDate": "21-05-2021",
-    "lastUpdatedTime": "15:12:31",
+    "oxygenBedOccupied": "1",
+    "oxygenBedAvailable": "17",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "13:20:15",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shiv+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shiv+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9824767500"
+    "phoneNo": "",
+    "lattitude": "23.1302747",
+    "longitude": "72.0436043"
   },
   {
     "hospitalName": "Shivam Hospital",
@@ -545,19 +587,21 @@
   },
   {
     "hospitalName": "Shreeji Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Sanand Heights Society, Sanand, Gujarat 382110",
     "normalBedTotal": "50",
-    "normalBedOccupied": "2",
-    "normalBedAvailable": "48",
+    "normalBedOccupied": "3",
+    "normalBedAvailable": "47",
     "oxygenBedTotal": "25",
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "23",
-    "lastUpdatedDate": "22-05-2021",
-    "lastUpdatedTime": "10:06:45",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "10:23:19",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shreeji+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shreeji+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "9898042882"
+    "phoneNo": "",
+    "lattitude": "22.9912897",
+    "longitude": "72.3755085"
   },
   {
     "hospitalName": "Shrey Hospital",
@@ -577,19 +621,21 @@
   },
   {
     "hospitalName": "Sola Civil Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "sola, Civil, Ahmedabad, Gujarat 380060",
     "normalBedTotal": "300",
-    "normalBedOccupied": "63",
-    "normalBedAvailable": "237",
+    "normalBedOccupied": "64",
+    "normalBedAvailable": "236",
     "oxygenBedTotal": "170",
     "oxygenBedOccupied": "14",
     "oxygenBedAvailable": "156",
-    "lastUpdatedDate": "23-05-2021",
-    "lastUpdatedTime": "10:44:12",
+    "lastUpdatedDate": "24-05-2021",
+    "lastUpdatedTime": "11:19:15",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Sola+Civil Hospital+Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Sola+Civil Hospital+Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "7567897527"
+    "phoneNo": "",
+    "lattitude": "23.0831547",
+    "longitude": "72.5248844"
   },
   {
     "hospitalName": "Trimurti Hospital",
@@ -641,7 +687,7 @@
   },
   {
     "hospitalName": "Zydus Sitapur Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "FInal Plot NO.751/1 (Original Plot No.715 Of Draft Wown Planning, Scheme No 3, Of, Sitapur, Gujarat 382130",
     "normalBedTotal": "23",
     "normalBedOccupied": "23",
     "normalBedAvailable": "0",
@@ -653,6 +699,8 @@
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Zydus+Sitapur Hospital+Mandal, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Zydus+Sitapur Hospital+Mandal, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "phoneNo": "6354270805"
+    "phoneNo": "",
+    "lattitude": "23.4440032",
+    "longitude": "72.0012069"
   }
 ]

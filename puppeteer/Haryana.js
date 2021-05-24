@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
 const haryanadt = require('./Haryanadt')
 const fs = require('fs')
+const googleData = require('./googleScrapper')
 const gatherHaryana = async (url,districts) => {
 
         vm=this
@@ -95,7 +96,25 @@ gatherHaryana(data.url,data.name)
            maparray.push(obj)
       
             }
-         
+            var newarray = []
+         maparray.map(dt => {
+            googleData.google(dt.googleSearch)
+            .then(x=> {
+                if(x.location){
+                    newarray.push(x)
+                    fs.writeFile(
+                        `../jsonFiles/GoogleData/haryana.json`,
+                        JSON.stringify(newarray, null, 2),
+                        (error) => {
+                          if (error) {
+                            console.log(error);
+                          } else console.log(`File written Haryana Google`);
+                        }
+                      );
+
+                }
+            })
+         })
               
         })
         fs.writeFile(
@@ -121,7 +140,7 @@ gatherHaryana(data.url,data.name)
 
 }
 
-
+mergeData()
 
 exports.getharyana = mergeData
 {/*

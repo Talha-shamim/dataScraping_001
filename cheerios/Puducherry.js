@@ -1,5 +1,6 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
+const googleData = require('../puppeteer/googleScrapper')
 const fs = require('fs')
 
 async function get(){
@@ -175,10 +176,27 @@ await axios.get('https://covid19dashboard.py.gov.in/BedAvailabilityDetails')
                 }
             })
         })
+        var newaray = []
+            Puducherry.map(dt=> {
+                googleData.google(dt.googleSearch)
+                .then(x=> {
+                    if(x.location){
+                        newaray.push(x)
+                        fs.writeFile(
+                            `../jsonFiles/GoogleData/tamilnadu.json`,
+                            JSON.stringify(newaray, null, 2),
+                            (error) => {
+                              if (error) {
+                                console.log(error);
+                              } else console.log(`File written TamilNadu Google`);
+                            }
+                          )
 
-            
+                    }
+                })
+            })
     fs.writeFile(
-        `jsonFiles/tamilnadu.json`,
+        `../jsonFiles/tamilnadu.json`,
         JSON.stringify(Puducherry, null, 2),
         (error) => {
           if (error) {
@@ -195,7 +213,11 @@ await axios.get('https://covid19dashboard.py.gov.in/BedAvailabilityDetails')
     .catch(err => {
         console.log(err)
     })
+
+
+
 }
+get()
 
     exports.getpuducherry = get;
 
