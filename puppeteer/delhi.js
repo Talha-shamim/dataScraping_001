@@ -79,7 +79,7 @@ async function get() {
     }
   );
 
-  await page.waitFor(10000); // not in new version
+  await page.waitFor(10000);
 
   await browser.close();
 }

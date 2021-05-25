@@ -17,7 +17,7 @@ async function capture() {
 
   await page.click("#ctl00_ContentPlaceHolder1_Button1");
 
-  await page.waitFor(10000);
+  await page.waitFor(3000);
 
   data = await page.evaluate(() =>
     Array.from(document.querySelectorAll("td")).map((atas) =>
@@ -50,16 +50,16 @@ async function capture() {
       lastUpdatedTime: data[t],
     };
 
-    // var replacedString = objData.hospitalName.replace(" ", "+");
-    // var finalRepString = replacedString + "+" + objData.district;
-    // var gStringpt1 = "https://www.google.com/search?q=";
-    // var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
-    // var gStringpt5 =
-    //   "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
-    // var finalString =
-    //   gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5;
+    var replacedString = objData.hospitalName.replace(" ", "+");
+    var finalRepString = replacedString + "+" + objData.district;
+    var gStringpt1 = "https://www.google.com/search?q=";
+    var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
+    var gStringpt5 =
+      "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
+    var finalString =
+      gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5;
 
-    // objData.googleSearch = finalString;
+    objData.googleSearch = finalString;
 
     m += 22;
     n += 22;

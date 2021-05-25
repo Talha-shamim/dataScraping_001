@@ -72,8 +72,6 @@ const url = [
   },
 ];
 
-console.log(url.length);
-
 async function get() {
   for (var q = 0; q < url.length; q++) {
     const single_district = [];
@@ -139,7 +137,7 @@ async function get() {
         }
 
         fs.writeFile(
-          `../jsonFiles/andrapradesh.json`,
+          `jsonFiles/andrapradesh.json`,
           JSON.stringify(district, null, 2),
           (error) => {
             if (error) {
@@ -152,7 +150,7 @@ async function get() {
         );
 
         fs.writeFile(
-          `../jsonFiles/${url[q].name_}.json`,
+          `jsonFiles/${url[q].name_}.json`,
           JSON.stringify(single_district, null, 2),
           (error) => {
             if (error) {
