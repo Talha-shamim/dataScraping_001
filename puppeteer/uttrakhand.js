@@ -83,8 +83,8 @@ async function capture() {
     var objData = {
       district: DISTRICT[i],
       state: "Uttrakhand",
-      HospitalName: HOSPITAL[i],
-      HospitalAddress: "NA",
+      hospitalName: HOSPITAL[i],
+      hospitalAddress: "NA",
       phoneNo: PHONE[i],
       oxygenBedTotal: BED_OT[i],
       oxygenBedAvailable: BED_OA[i],
@@ -96,16 +96,16 @@ async function capture() {
       lastUpdatedTime: TIME[i],
     };
 
-    // var replacedString = objData.hospitalName.replace(" ", "+");
-    // var finalRepString = replacedString + "+" + objData.district;
-    // var gStringpt1 = "https://www.google.com/search?q=";
-    // var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
-    // var gStringpt5 =
-    //   "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
-    // var finalString =
-    //   gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5;
+    var replacedString = objData.hospitalName.replace(" ", "+");
+    var finalRepString = replacedString + "+" + objData.district;
+    var gStringpt1 = "https://www.google.com/search?q=";
+    var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
+    var gStringpt5 =
+      "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
+    var finalString =
+      gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5;
 
-    // objData.googleSearch = finalString;
+    objData.googleSearch = finalString;
 
     uttrakhand.push(objData);
   }

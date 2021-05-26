@@ -1,31 +1,47 @@
-const googleMaharastra = require('../GoogleData/maharastra.json')
-const maharastra = require('../maharastra.json')
-const notObtained = []
-const fs = require('fs')
-console.log('gm',googleMaharastra.length)
-console.log('mh',maharastra.length)
+const pune = require("../pune.json");
+const navimumbai = require("../navimumbai.json");
+const googleScrapper = require("../../puppeteer/googleScrapper.js");
+const fs = require("fs");
 
-maharastra.map(dt=> {
-    googleMaharastra.map(gdt => {
-        if(dt.googleSearch===gdt.url){
-            dt.hospitalAddress=gdt.location
-            dt.phoneNo=gdt.phone
-            dt.lattitude=gdt.cordlat
-            dt.longitude=gdt.cordlon
+const maharastra = pune.concat(navimumbai);
+
+// maharastra.map((dt) => {
+//   googleMaharastra.map((gdt) => {
+//     if (dt.googleSearch === gdt.url) {
+//       dt.hospitalAddress = gdt.location;
+//       dt.phoneNo = gdt.phone;
+//       dt.lattitude = gdt.cordlat;
+//       dt.longitude = gdt.cordlon;
+//     }
+//   });
+// });
+
+var coordinatesData = [];
+
+maharastra.map((datas) => {
+  googleScrapper.google(datas.googleSearch).then((res) => {
+    if (res.location) {
+      coordinatesData.push(res);
+
+      fs.writeFile(
+        `jsonFiles/coordinates/coordinatesData.json`,
+        JSON.stringify(coordinatesData, null, 2),
+        (error) => {
+          if (error) {
+            console.log(error);
+          } else console.log("coordinatesData");
         }
-      
-    })
-}    
-)
-
-// console.log("no",notObtained)
-fs.writeFile(
-    `../maharastra.json`,
-    JSON.stringify(maharastra, null, 2),
-    (error) => {
-      if (error) {
-        console.log(error);
-      } else console.log(`File written Maharastra`);
+      );
     }
-  )
-console.log("mh",maharastra)
+  });
+});
+
+fs.writeFile(
+  `jsonFiles/maharastra.json`,
+  JSON.stringify(maharastra, null, 2),
+  (error) => {
+    if (error) {
+      console.log(error);
+    } else console.log("maharashrtra merge");
+  }
+);

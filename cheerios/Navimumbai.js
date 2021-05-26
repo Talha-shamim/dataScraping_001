@@ -1,7 +1,6 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
-const googleData = require("../puppeteer/googleScrapper");
 var links = [];
 
 const naviData = () => {
@@ -144,48 +143,23 @@ const naviData = () => {
           }
         });
       });
-      var gData = [];
+      var googleData = [];
 
-      links.map((dt) => {
-        let x = googleData.google(dt);
-        x.then((newdt) => {
-          if (newdt.location) {
-            gData.push(newdt);
-
-            fs.writeFile(
-              `../jsonFiles/GoogleData/maharastra.json`,
-              JSON.stringify(gData, null, 2),
-              (error) => {
-                if (error) {
-                  console.log(error);
-                } else console.log(`File written Maharastra`);
-              }
-            );
-          }
-        });
-      });
-
-      {
-        /* console.log(HospitalNa)
-        console.log(capacity)
-        console.log(occupied)
-       console.log(vaccant) */
-      }
-
-      //    fs.writeFile(
-      //     `jsonFiles/maharastra.json`,
-      //     JSON.stringify(naviMumbai, null, 2),
-      //     (error) => {
-      //       if (error) {
-      //         console.log(error);
-      //       } else console.log(`File written Maharastra`);
-      //     }
-      //   )
-      return naviMumbai;
+      fs.writeFile(
+        `jsonFiles/navimumbai.json`,
+        JSON.stringify(naviMumbai, null, 2),
+        (error) => {
+          if (error) {
+            console.log(error);
+          } else console.log(`File written navimumbai`);
+        }
+      );
     })
+
     .catch((err) => {
       console.log(err);
     });
 };
 
+naviData();
 exports.getnavi = naviData;
