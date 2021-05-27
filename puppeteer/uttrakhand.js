@@ -84,7 +84,7 @@ async function capture() {
       district: DISTRICT[i],
       state: "Uttrakhand",
       hospitalName: HOSPITAL[i],
-      hospitalAddress: "NA",
+      hospitalAddress: "Not Available",
       phoneNo: PHONE[i],
       oxygenBedTotal: BED_OT[i],
       oxygenBedAvailable: BED_OA[i],

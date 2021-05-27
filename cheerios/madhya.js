@@ -2,6 +2,23 @@ const cheerio = require("cheerio");
 const axios = require("axios");
 const fs = require("fs");
 
+var place = [
+  "ch chander",
+  "chc shadora",
+  "DK`s Hospitals",
+  "dhadari ccc",
+  "government boys hostel goraiyaa road chhatarpur",
+  "cc sonkatch",
+  "ccc khategaon",
+  "ccc hathphliya",
+  "mohankheda thirth ccc",
+  "sharva Dharam hospital gwalior",
+  "tatipur covid centre gwalior",
+  "chirayu multispeciality hospital gwalior",
+  "facilitation centre melaground",
+  "lnipe covide care centre",
+];
+
 var district = [];
 
 var url_ = [
@@ -250,41 +267,39 @@ async function get() {
         });
 
         for (var i = 0; i < HOSPITAL.length; i++) {
-          if (!place.includes(HOSPITAL[i])) {
-            var objData = {
-              state: "Madhyapradesh",
-              hospitalName: HOSPITAL[i],
-              hospitalAdress: "Not Available",
-              district: url_[q].name.toLowerCase(),
-              phoneNo: PHONE[i],
-              oxygenBedTotal: "-",
-              oxygenBedOccupied: "-",
-              oxygenBedAvailable: BED_OA[i],
-              normalBedTotal: "-",
-              normalBedOccupied: "-",
-              normalBedAvailable: "-",
-              lastUpdatedDate: DATE[i],
-              lastUpdatedTime: TIME[i],
-            };
+          var objData = {
+            state: "Madhyapradesh",
+            hospitalName: HOSPITAL[i],
+            hospitalAdress: "Not Available",
+            district: url_[q].name.toLowerCase(),
+            phoneNo: "-",
+            oxygenBedTotal: "-",
+            oxygenBedOccupied: "-",
+            oxygenBedAvailable: BED_OA[i],
+            normalBedTotal: "-",
+            normalBedOccupied: "-",
+            normalBedAvailable: "-",
+            lastUpdatedDate: DATE[i],
+            lastUpdatedTime: TIME[i],
+          };
 
-            var replacedString = objData.hospitalName.replace(" ", "+");
-            var finalRepString = replacedString + "+" + "madhyapradesh";
-            var gStringpt1 = "https://www.google.com/search?q=";
-            var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
-            var gStringpt5 =
-              "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
-            var finalString =
-              gStringpt1 +
-              finalRepString +
-              gStringpt3 +
-              finalRepString +
-              gStringpt5;
+          var replacedString = objData.hospitalName.replace(" ", "+");
+          var finalRepString = replacedString + "+" + "madhyapradesh";
+          var gStringpt1 = "https://www.google.com/search?q=";
+          var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
+          var gStringpt5 =
+            "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
+          var finalString =
+            gStringpt1 +
+            finalRepString +
+            gStringpt3 +
+            finalRepString +
+            gStringpt5;
 
-            objData.googleSearch = finalString;
+          objData.googleSearch = finalString;
 
-            district.push(objData);
-            single_district.push(objData);
-          }
+          district.push(objData);
+          single_district.push(objData);
         }
 
         fs.writeFile(
@@ -321,4 +336,5 @@ async function get() {
   }
 }
 
+get();
 exports.getmadhyapradesh = get;

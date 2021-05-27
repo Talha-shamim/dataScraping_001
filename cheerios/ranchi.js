@@ -35,9 +35,9 @@ async function get() {
           oxygenBedAvailable: data[c],
           state: "Jharkhand",
           district: "Ranchi",
-          hospitalAddress: "NA",
-          lastUpdatedDate: "NA",
-          lastUpdatedTime: "NA",
+          hospitalAddress: "Not Available",
+          lastUpdatedDate: "-",
+          lastUpdatedTime: "-",
         };
 
         var replacedString = objData.hospitalName.replace(" ", "+");

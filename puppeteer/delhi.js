@@ -44,8 +44,8 @@ async function get() {
       oxygenBedOccupied: data[x] - data[y],
       oxygenBedAvailable: data[y],
       phoneNo: data[o],
-      lastUpdatedDate: "NA",
-      lastUpdatedTime: "NA",
+      lastUpdatedDate: "-",
+      lastUpdatedTime: "-",
     };
 
     var replacedString = objData.hospitalName.replace(" ", "+");
