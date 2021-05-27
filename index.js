@@ -38,12 +38,10 @@ app.get("/countOne", async (req, res) => {
 app.get("/api_covinet", (req, res) => {
   const place = req.query.placename;
   if (!fs.existsSync(`./jsonFiles/${place}.json`)) {
-    res.status(400);
-    res.send("File not found");
+    res.json({ status: "Error : Place Not Found" });
   } else {
     try {
       fs.readFile(`./jsonFiles/${place}.json`, "utf-8", (error, data) => {
-        res.status(200);
         res.send(data);
       });
     } catch (error) {
