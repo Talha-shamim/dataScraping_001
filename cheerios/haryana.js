@@ -207,7 +207,6 @@ async function get() {
             if (error) {
               console.log(error);
             } else {
-              console.log(q);
               console.log(`File written ${url_[q].name}`);
             }
           }
@@ -220,7 +219,6 @@ async function get() {
             if (error) {
               console.log(error);
             } else {
-              console.log(q);
               console.log(`File written ${url_[q].name}`);
             }
           }
@@ -231,7 +229,7 @@ async function get() {
         console.log(error);
       });
 
-    if (q === 24) {
+    if (q === 16) {
       break;
     }
   }

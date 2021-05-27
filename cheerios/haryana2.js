@@ -134,7 +134,7 @@ async function get() {
         }
 
         fs.writeFile(
-          `jsonFiles/haryana.json`,
+          `../jsonFiles/haryana.json`,
           JSON.stringify(district, null, 2),
           (error) => {
             if (error) {
@@ -147,7 +147,7 @@ async function get() {
         );
 
         fs.writeFile(
-          `jsonFiles/${url_[q].name}.json`,
+          `../jsonFiles/${url_[q].name}.json`,
           JSON.stringify(single_district, null, 2),
           (error) => {
             if (error) {
@@ -170,4 +170,5 @@ async function get() {
   }
 }
 
+get()
 exports.getharyana2 = get;

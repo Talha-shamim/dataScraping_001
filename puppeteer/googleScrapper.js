@@ -1,6 +1,6 @@
 const puppeteer = require("puppeteer");
 let browser = puppeteer.Browser;
-
+process.setMaxListeners(Infinity);
 const main = async (url) => {
   browser = await puppeteer.launch({
     headless: true,
@@ -16,9 +16,10 @@ const main = async (url) => {
 
 const gatherdata = async (url) => {
   try {
-    const urls = await url;
+    await url;
     const page = await browser.newPage();
     await page.setDefaultNavigationTimeout(0);
+    // process.setMaxListeners(0)
     await page.goto(url);
 
     const data = await page.evaluate(() => {
@@ -27,7 +28,7 @@ const gatherdata = async (url) => {
       var lattitude = "";
       var longitude = "";
 
-      let adbool = (address = document.querySelector("span.LrzXr"));
+      let adbool = document.querySelector("span.LrzXr");
       if (adbool) {
         address = adbool.innerText;
       }
@@ -59,7 +60,9 @@ const gatherdata = async (url) => {
 
     await page.close();
     return data;
-  } catch (err) {
+  } 
+  
+  catch (err) {
     console.log("err in google scrapper", err);
   }
 };

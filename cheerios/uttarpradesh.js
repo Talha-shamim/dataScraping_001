@@ -23,10 +23,10 @@ async function get() {
         var objData = {
           district: data[m],
           hospitalName: data[l],
-          hospitalAddress: "NA",
+          hospitalAddress: "Not Available",
           state: "UttarPradesh",
-          lastUpdatedDate: "NA",
-          lastUpdatedTime: "NA",
+          lastUpdatedDate: "-",
+          lastUpdatedTime: "-",
           isolatedbed: data[a],
           icuBed: data[b],
           normalBedTotal: "-",
@@ -35,7 +35,7 @@ async function get() {
           oxygenBedTotal: "-",
           oxygenBedOccupied: "-",
           oxygenBedAvailable: "-",
-          phoneNo: "NA",
+          phoneNo: "Not Available",
           ventilatorBed: data[c],
         };
 

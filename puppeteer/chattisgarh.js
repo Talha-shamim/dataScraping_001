@@ -6,7 +6,7 @@ var chattisgarh = [];
 
 async function capture() {
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
   });
   const page = await browser.newPage();
   await page.setDefaultNavigationTimeout(0);
@@ -17,7 +17,7 @@ async function capture() {
 
   await page.click("#ctl00_ContentPlaceHolder1_Button1");
 
-  await page.waitFor(3000);
+  await page.waitFor(10000);
 
   data = await page.evaluate(() =>
     Array.from(document.querySelectorAll("td")).map((atas) =>

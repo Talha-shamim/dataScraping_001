@@ -318,4 +318,6 @@ async function get() {
     if (q == 51) break;
   }
 }
+
+get()
 exports.getmadhyapradesh = get;

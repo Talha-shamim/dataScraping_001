@@ -70,15 +70,7 @@ async function get() {
         }
       );
 
-      fs.writeFile(
-        "jsonFiles/Maharashtra.json",
-        JSON.stringify(Pune, null, 2),
-        (error) => {
-          if (error) {
-            console.log(error);
-          } else console.log("File written Maharashtra");
-        }
-      );
+  
     })
 
     .catch((error) => {
@@ -86,4 +78,4 @@ async function get() {
     });
 }
 
-get();
+exports.getpune = get

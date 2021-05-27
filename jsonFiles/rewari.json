@@ -2,15 +2,30 @@
   {
     "state": "Haryana",
     "district": "rewari",
+    "hospitalName": " Aditya Neuro & Spine Hospital, Rewari",
+    "hospitalAdress": "Not Available",
+    "phoneNo": "",
+    "oxygenBedTotal": 16,
+    "oxygenBedOccupied": " 8",
+    "oxygenBedAvailable": "8",
+    "normalBedTotal": 0,
+    "normalBedOccupied": " 0",
+    "normalBedAvailable": "0",
+    "lastUpdatedDate": " 9:20 AM 26th May,21",
+    "lastUpdatedTime": " 9:20 AM",
+    "googleSearch": "https://www.google.com/search?q=+Aditya Neuro & Spine Hospital, Rewari+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Aditya Neuro & Spine Hospital, Rewari+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "state": "Haryana",
+    "district": "rewari",
     "hospitalName": " Advance Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "9999238068",
     "oxygenBedTotal": 10,
     "oxygenBedOccupied": " 5",
     "oxygenBedAvailable": "5",
-    "normalBedTotal": 0,
+    "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "normalBedAvailable": "0",
     "lastUpdatedDate": " 5:43 PM 25th May,21",
     "lastUpdatedTime": " 5:43 PM",
     "googleSearch": "https://www.google.com/search?q=+Advance Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Advance Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
@@ -24,11 +39,10 @@
     "oxygenBedTotal": 34,
     "oxygenBedOccupied": " 17",
     "oxygenBedAvailable": "17",
-    "normalBedTotal": 3,
+    "normalBedTotal": null,
     "normalBedOccupied": " 3",
-    "normalBedAvailable": "0",
-    "lastUpdatedDate": " 5:03 PM 25th May,21",
-    "lastUpdatedTime": " 5:03 PM",
+    "lastUpdatedDate": " 4:36 PM 26th May,21",
+    "lastUpdatedTime": " 4:36 PM",
     "googleSearch": "https://www.google.com/search?q=+Apollo Rewari/Family Health Edge Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Apollo Rewari/Family Health Edge Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -40,9 +54,8 @@
     "oxygenBedTotal": 17,
     "oxygenBedOccupied": " 11",
     "oxygenBedAvailable": "6",
-    "normalBedTotal": 10,
+    "normalBedTotal": null,
     "normalBedOccupied": " 10",
-    "normalBedAvailable": "0",
     "lastUpdatedDate": " 11:54 PM 15th May,21",
     "lastUpdatedTime": " 11:54 PM",
     "googleSearch": "https://www.google.com/search?q=+Capt. Nand Lal Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Capt. Nand Lal Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
@@ -53,13 +66,13 @@
     "hospitalName": " Civil Hospital rewari",
     "hospitalAdress": "Not Available",
     "phoneNo": "01274254743",
-    "oxygenBedTotal": 65,
+    "oxygenBedTotal": 63,
     "oxygenBedOccupied": " 40",
-    "oxygenBedAvailable": "25",
+    "oxygenBedAvailable": "23",
     "normalBedTotal": null,
     "normalBedOccupied": " 16",
-    "lastUpdatedDate": " 8:31 PM 25th May,21",
-    "lastUpdatedTime": " 8:31 PM",
+    "lastUpdatedDate": " 10:15 AM 27th May,21",
+    "lastUpdatedTime": " 10:15 AM",
     "googleSearch": "https://www.google.com/search?q=+Civil Hospital rewari+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Civil Hospital rewari+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -83,13 +96,13 @@
     "hospitalName": " Devjyoti Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "09416200763",
-    "oxygenBedTotal": 8,
+    "oxygenBedTotal": 9,
     "oxygenBedOccupied": " 7",
-    "oxygenBedAvailable": "1",
+    "oxygenBedAvailable": "2",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 4:41 PM 25th May,21",
-    "lastUpdatedTime": " 4:41 PM",
+    "lastUpdatedDate": " 8:07 PM 26th May,21",
+    "lastUpdatedTime": " 8:07 PM",
     "googleSearch": "https://www.google.com/search?q=+Devjyoti Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Devjyoti Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -148,8 +161,8 @@
     "oxygenBedAvailable": "9",
     "normalBedTotal": null,
     "normalBedOccupied": " 6",
-    "lastUpdatedDate": " 5:24 PM 25th May,21",
-    "lastUpdatedTime": " 5:24 PM",
+    "lastUpdatedDate": " 7:49 AM 27th May,21",
+    "lastUpdatedTime": " 7:49 AM",
     "googleSearch": "https://www.google.com/search?q=+Katyal Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Katyal Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -158,13 +171,13 @@
     "hospitalName": " Maars Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "1274255556",
-    "oxygenBedTotal": 24,
+    "oxygenBedTotal": 23,
     "oxygenBedOccupied": " 15",
-    "oxygenBedAvailable": "9",
+    "oxygenBedAvailable": "8",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 6:39 PM 25th May,21",
-    "lastUpdatedTime": " 6:39 PM",
+    "lastUpdatedDate": " 8:34 AM 27th May,21",
+    "lastUpdatedTime": " 8:34 AM",
     "googleSearch": "https://www.google.com/search?q=+Maars Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Maars Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -208,8 +221,8 @@
     "oxygenBedAvailable": "11",
     "normalBedTotal": null,
     "normalBedOccupied": " 4",
-    "lastUpdatedDate": " 9:10 PM 25th May,21",
-    "lastUpdatedTime": " 9:10 PM",
+    "lastUpdatedDate": " 11:17 PM 26th May,21",
+    "lastUpdatedTime": " 11:17 PM",
     "googleSearch": "https://www.google.com/search?q=+Om Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Om Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -238,8 +251,8 @@
     "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 6",
-    "lastUpdatedDate": " 5:23 PM 25th May,21",
-    "lastUpdatedTime": " 5:23 PM",
+    "lastUpdatedDate": " 9:39 AM 27th May,21",
+    "lastUpdatedTime": " 9:39 AM",
     "googleSearch": "https://www.google.com/search?q=+R. B. Yadav Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+R. B. Yadav Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -283,8 +296,8 @@
     "oxygenBedAvailable": "16",
     "normalBedTotal": null,
     "normalBedOccupied": " 10",
-    "lastUpdatedDate": " 6:56 PM 25th May,21",
-    "lastUpdatedTime": " 6:56 PM",
+    "lastUpdatedDate": " 9:37 AM 26th May,21",
+    "lastUpdatedTime": " 9:37 AM",
     "googleSearch": "https://www.google.com/search?q=+Shanti Yadav Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Shanti Yadav Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -313,8 +326,8 @@
     "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 3",
-    "lastUpdatedDate": " 6:12 PM 25th May,21",
-    "lastUpdatedTime": " 6:12 PM",
+    "lastUpdatedDate": " 9:14 AM 27th May,21",
+    "lastUpdatedTime": " 9:14 AM",
     "googleSearch": "https://www.google.com/search?q=+Shri Ashwani Sexena Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Shri Ashwani Sexena Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -328,8 +341,8 @@
     "oxygenBedAvailable": "2",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 7:44 PM 25th May,21",
-    "lastUpdatedTime": " 7:44 PM",
+    "lastUpdatedDate": " 11:39 AM 27th May,21",
+    "lastUpdatedTime": " 11:39 AM",
     "googleSearch": "https://www.google.com/search?q=+SMCC Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+SMCC Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -343,8 +356,8 @@
     "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 5:54 PM 25th May,21",
-    "lastUpdatedTime": " 5:54 PM",
+    "lastUpdatedDate": " 5:09 PM 26th May,21",
+    "lastUpdatedTime": " 5:09 PM",
     "googleSearch": "https://www.google.com/search?q=+Surendra Hospital Bawal+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Surendra Hospital Bawal+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -398,13 +411,13 @@
     "hospitalName": " Yaduvanshi Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "01274225281",
-    "oxygenBedTotal": 18,
+    "oxygenBedTotal": 22,
     "oxygenBedOccupied": " 14",
-    "oxygenBedAvailable": "4",
+    "oxygenBedAvailable": "8",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:38 PM 25th May,21",
-    "lastUpdatedTime": " 4:38 PM",
+    "lastUpdatedDate": " 9:56 AM 27th May,21",
+    "lastUpdatedTime": " 9:56 AM",
     "googleSearch": "https://www.google.com/search?q=+Yaduvanshi Hospital+rewari&rlz=1C1CHBF_enIN859IN859&oq=+Yaduvanshi Hospital+rewari&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

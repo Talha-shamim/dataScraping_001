@@ -194,30 +194,24 @@ async function get() {
           }
         });
       });
-      var newaray = [];
-      Puducherry.map((dt) => {
-        googleData.google(dt.googleSearch).then((x) => {
-          if (x.location) {
-            newaray.push(x);
-            fs.writeFile(
-              `../jsonFiles/GoogleData/tamilnadu.json`,
-              JSON.stringify(newaray, null, 2),
-              (error) => {
-                if (error) {
-                  console.log(error);
-                } else console.log(`File written TamilNadu Google`);
-              }
-            );
-          }
-        });
-      });
+
       fs.writeFile(
-        `../jsonFiles/tamilnadu.json`,
+        `jsonFiles/tamilnadu.json`,
         JSON.stringify(Puducherry, null, 2),
         (error) => {
           if (error) {
             console.log(error);
           } else console.log(`File written TamilNadu`);
+        }
+      );
+
+      fs.writeFile(
+        `jsonFiles/puducherry.json`,
+        JSON.stringify(Puducherry, null, 2),
+        (error) => {
+          if (error) {
+            console.log(error);
+          } else console.log(`File written puducherry`);
         }
       );
     })

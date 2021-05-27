@@ -75,7 +75,6 @@ const url = [
 async function get() {
   for (var q = 0; q < url.length; q++) {
     const single_district = [];
-    console.log(q);
     await axios
       .get(url[q].urldistrict)
       .then((res) => {
@@ -156,7 +155,6 @@ async function get() {
             if (error) {
               console.log(error);
             } else {
-              console.log(q);
               console.log(`File written ${url[q].name_}`);
             }
           }
@@ -171,5 +169,4 @@ async function get() {
     }
   }
 }
-
 exports.getandrapradesh = get;

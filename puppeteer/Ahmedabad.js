@@ -111,26 +111,19 @@ const mergeData = () => {
       });
 
       finaldata = value[0].value;
-      var newarray = [];
-      finaldata.map((dt) => {
-        googleData.google(dt.googleSearch).then((x) => {
-          if (x.location) {
-            newarray.push(x);
-          }
-          fs.writeFile(
-            `../jsonFiles/GoogleData/gujrat.json`,
-            JSON.stringify(newarray, null, 2),
-            (error) => {
-              if (error) {
-                console.log(error);
-              } else console.log(`File written Ahmedabad Google`);
-            }
-          );
-        });
-      });
+   
 
       fs.writeFile(
-        `../jsonFiles/gujrat.json`,
+        `jsonFiles/gujrat.json`,
+        JSON.stringify(finaldata, null, 2),
+        (error) => {
+          if (error) {
+            console.log(error);
+          } else console.log(`File written Ahmedabad`);
+        }
+      );
+      fs.writeFile(
+        `jsonFiles/ahmedabad.json`,
         JSON.stringify(finaldata, null, 2),
         (error) => {
           if (error) {

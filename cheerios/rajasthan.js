@@ -87,5 +87,4 @@ async function get() {
       console.log(err);
     });
 }
-
 exports.getrajasthan = get;
