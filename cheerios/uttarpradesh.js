@@ -76,5 +76,4 @@ async function get() {
       console.log(err);
     });
 }
-
 exports.getuttarpradesh = get;
