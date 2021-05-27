@@ -23,7 +23,7 @@ async function capture() {
     waitUntil: "networkidle2",
   });
 
-  page.waitForTimer(3000);
+  page.waitForTimeout(3000);
 
   DISTRICT = await page.evaluate(() =>
     Array.from(

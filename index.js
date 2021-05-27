@@ -2,36 +2,37 @@ const express = require("express");
 require("dotenv").config();
 const fs = require("fs");
 const cors = require("cors");
-import dotenv from 'dotenv'
-dotenv.config({ path: './config.env' });
+import dotenv from "dotenv";
+dotenv.config({ path: "./config.env" });
 
 const app = express();
 app.use(cors());
 
 mongoose.connect(process.env.DATABASE, {
-	useNewUrlParser: true,
-	useUnifiedTopology: true,
-	useCreateIndex: true
-})
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  useCreateIndex: true,
+});
 
-const Count = mongoose.model('Count', new mongoose.Schema({
-    views : Number
-}));
+const Count = mongoose.model(
+  "Count",
+  new mongoose.Schema({
+    views: Number,
+  })
+);
 
-app.get('/countOne', async(req,res)=> {
+app.get("/countOne", async (req, res) => {
+  const count = await Count.findOne({});
 
-    const count = await Count.findOne({})
+  console.log(count);
 
-	console.log(count);
+  count.views += 1;
+  await count.save();
 
-    // Sets `name` and unsets all other properties
-    count.views += 1
-    await count.save();
-
-	if (count){
-		res.send('ok')
-	}
-})
+  if (count) {
+    res.send("ok");
+  }
+});
 
 app.get("/api_covinet", (req, res) => {
   const place = req.query.placename;

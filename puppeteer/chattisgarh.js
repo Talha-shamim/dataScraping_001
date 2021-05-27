@@ -17,11 +17,7 @@ async function capture() {
 
   await page.click("#ctl00_ContentPlaceHolder1_Button1");
 
-<<<<<<< HEAD
-  await page.waitForTimer(3000);
-=======
-  await page.waitFor(10000);
->>>>>>> fbc423b037a49d7e39ac56d7b36fab788124884b
+  await page.waitForTimeout(3000);
 
   data = await page.evaluate(() =>
     Array.from(document.querySelectorAll("td")).map((atas) =>

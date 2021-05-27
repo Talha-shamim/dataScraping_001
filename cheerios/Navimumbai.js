@@ -161,5 +161,4 @@ const naviData = () => {
     });
 };
 
-naviData();
 exports.getnavi = naviData;

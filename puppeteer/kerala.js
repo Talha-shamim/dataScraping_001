@@ -21,7 +21,7 @@ async function capture() {
     "#services > div > div:nth-child(4) > div:nth-child(3) > div > h4 > a"
   );
 
-  await page.waitForTimer(5000);
+  await page.waitForTimeout(5000);
 
   data = await page.evaluate(() =>
     Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
@@ -31,7 +31,7 @@ async function capture() {
 
   await page.click("#hosTable_next");
 
-  await page.waitForTimer(5000);
+  await page.waitForTimeout(5000);
 
   data1 = await page.evaluate(() =>
     Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
@@ -39,7 +39,7 @@ async function capture() {
     )
   );
 
-  await page.waitForTimer(5000);
+  await page.waitForTimeout(5000);
   await page.click("#hosTable_next");
 
   data2 = await page.evaluate(() =>
@@ -90,7 +90,7 @@ async function capture_() {
     "#services > div > div:nth-child(5) > div.col-md-4.col-lg-4.oxybed > div > h6 > a"
   );
 
-  await page.waitForTimer(5000);
+  await page.waitForTimeout(5000);
 
   data_ = await page.evaluate(() =>
     Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
@@ -100,7 +100,7 @@ async function capture_() {
 
   await page.click("#hosTable_next");
 
-  await page.waitForTimer(5000);
+  await page.waitForTimeout(5000);
 
   data1_ = await page.evaluate(() =>
     Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
@@ -108,7 +108,7 @@ async function capture_() {
     )
   );
 
-  await page.waitForTimer(5000);
+  await page.waitForTimeout(5000);
   await page.click("#hosTable_next");
 
   data2_ = await page.evaluate(() =>

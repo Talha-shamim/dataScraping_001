@@ -53,7 +53,7 @@ var VALUES = [
   "018",
 ];
 
-const kolkata = [];
+const westbengal = [];
 
 async function get() {
   for (var q = 0; q < NAMES.length; q++) {
@@ -80,11 +80,11 @@ async function get() {
       { waitUntil: "networkidle2" }
     );
 
-    await page.waitForTimerTimeout(10000);
+    await page.waitForTimeout(10000);
 
     await page.select("#ctl00_ContentPlaceHolder1_ddl_District", VALUES[q]);
 
-    await page.waitForTimerTimeout(10000);
+    await page.waitForTimeout(10000);
 
     HOSPITAL = await page.evaluate(() =>
       Array.from(document.querySelectorAll("div.card-header > h5")).map(
@@ -170,7 +170,7 @@ async function get() {
 
       objData.googleSearch = finalString;
 
-      kolkata.push(objData);
+      westbengal.push(objData);
       single_district.push(objData);
     }
 
@@ -190,15 +190,14 @@ async function get() {
     await browser.close();
   }
   fs.writeFile(
-    `jsonFiles/kolkata.json`,
-    JSON.stringify(kolkata, null, 2),
+    `jsonFiles/westbengal.json`,
+    JSON.stringify(westbengal, null, 2),
     (error) => {
       if (error) {
         console.log(error);
-      } else console.log(`File written kolkata`);
+      } else console.log(`File written westbengal`);
     }
   );
 }
 
-get();
-exports.getkolkata = get;
+exports.getwestbengal = get;
