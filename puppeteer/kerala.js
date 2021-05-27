@@ -21,7 +21,7 @@ async function capture() {
     "#services > div > div:nth-child(4) > div:nth-child(3) > div > h4 > a"
   );
 
-  await page.waitFor(5000);
+  await page.waitForTimer(5000);
 
   data = await page.evaluate(() =>
     Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
@@ -31,7 +31,7 @@ async function capture() {
 
   await page.click("#hosTable_next");
 
-  await page.waitFor(5000);
+  await page.waitForTimer(5000);
 
   data1 = await page.evaluate(() =>
     Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
@@ -39,7 +39,7 @@ async function capture() {
     )
   );
 
-  await page.waitFor(5000);
+  await page.waitForTimer(5000);
   await page.click("#hosTable_next");
 
   data2 = await page.evaluate(() =>
@@ -90,7 +90,7 @@ async function capture_() {
     "#services > div > div:nth-child(5) > div.col-md-4.col-lg-4.oxybed > div > h6 > a"
   );
 
-  await page.waitFor(5000);
+  await page.waitForTimer(5000);
 
   data_ = await page.evaluate(() =>
     Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
@@ -100,7 +100,7 @@ async function capture_() {
 
   await page.click("#hosTable_next");
 
-  await page.waitFor(5000);
+  await page.waitForTimer(5000);
 
   data1_ = await page.evaluate(() =>
     Array.from(document.querySelectorAll("#hosTable > tbody > tr > td")).map(
@@ -108,7 +108,7 @@ async function capture_() {
     )
   );
 
-  await page.waitFor(5000);
+  await page.waitForTimer(5000);
   await page.click("#hosTable_next");
 
   data2_ = await page.evaluate(() =>
@@ -129,29 +129,20 @@ async function capture_() {
     var objData = {
       district: data_[m],
       state: "Kerala",
-      HospitalName: "NA",
-      HospitalAddress: "NA",
+      HospitalName: "Not Available",
+      HospitalAddress: "Not Available",
       normalBedTotal: data_[l],
       normalBedAvailable: data_[n],
       normalBedOccupied: data_[l] - data_[n],
-      lastUpdatedDate: "NA",
-      lastUpdatedTime: "NA",
-      phoneNo: "NA",
+      lastUpdatedDate: "-",
+      lastUpdatedTime: "-",
+      phoneNo: "-",
       oxygenBedTotal: data[a],
       oxygenBedAvailable: data[b],
       oxygenBedOccupied: data[a] - data[b],
     };
 
-    // var replacedString = objData.hospitalName.replace(" ", "+");
-    // var finalRepString = replacedString + "+" + objData.district;
-    // var gStringpt1 = "https://www.google.com/search?q=";
-    // var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
-    // var gStringpt5 =
-    //   "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
-    // var finalString =
-    //   gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5;
-
-    objData.googleSearch = "NA";
+    objData.googleSearch = "Not Available";
 
     m += 3;
     l += 3;

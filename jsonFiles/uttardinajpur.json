@@ -1,0 +1,34 @@
+[
+  {
+    "district": "uttardinajpur",
+    "state": "Westbengal",
+    "hospitalName": " ISLAMPUR URDU ACADEMY (Government Hospital)",
+    "hospitalAddress": "  ISLAMPUR, UTTAR DINAJPUR , UTTAR DINAJPUR",
+    "phoneNo": "   8370963488",
+    "oxygenBedTotal": "45",
+    "oxygenBedAvailable": "41",
+    "oxygenBedOccupied": 4,
+    "normalBedTotal": "105",
+    "normalBedAvailable": "102",
+    "normalBedOccupied": 3,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= ISLAMPUR+URDU ACADEMY (Government Hospital)+UTTAR DINAJPUR&rlz=1C1CHBF_enIN859IN859&oq= ISLAMPUR+URDU ACADEMY (Government Hospital)+UTTAR DINAJPUR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "district": "uttardinajpur",
+    "state": "Westbengal",
+    "hospitalName": " RAIGANJ GOVERNMENT MEDICAL COLLEGE AND HOSPITAL (Government Hospital)",
+    "hospitalAddress": "  RAIGANJ, UTTAR DINAJPUR , UTTAR DINAJPUR",
+    "phoneNo": "   7479000192",
+    "oxygenBedTotal": "178",
+    "oxygenBedAvailable": "115",
+    "oxygenBedOccupied": 63,
+    "normalBedTotal": "0",
+    "normalBedAvailable": "0",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= RAIGANJ+GOVERNMENT MEDICAL COLLEGE AND HOSPITAL (Government Hospital)+UTTAR DINAJPUR&rlz=1C1CHBF_enIN859IN859&oq= RAIGANJ+GOVERNMENT MEDICAL COLLEGE AND HOSPITAL (Government Hospital)+UTTAR DINAJPUR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  }
+]

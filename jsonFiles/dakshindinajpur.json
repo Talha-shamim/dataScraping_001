@@ -1,0 +1,34 @@
+[
+  {
+    "district": "dakshindinajpur",
+    "state": "Westbengal",
+    "hospitalName": " Gangarampur Sub Divisional Hospital (Government Hospital)",
+    "hospitalAddress": "  Kaldighi, PS: Gangarampur , DAKSHIN DINAJPUR",
+    "phoneNo": "   9593165100",
+    "oxygenBedTotal": "24",
+    "oxygenBedAvailable": "9",
+    "oxygenBedOccupied": 15,
+    "normalBedTotal": "59",
+    "normalBedAvailable": "59",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= Gangarampur+Sub Divisional Hospital (Government Hospital)+DAKSHIN DINAJPUR&rlz=1C1CHBF_enIN859IN859&oq= Gangarampur+Sub Divisional Hospital (Government Hospital)+DAKSHIN DINAJPUR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "district": "dakshindinajpur",
+    "state": "Westbengal",
+    "hospitalName": " Natya Utkarshya Kendra (Government Hospital)",
+    "hospitalAddress": "  Beltala Park, Balurghat , DAKSHIN DINAJPUR",
+    "phoneNo": "   9064140556",
+    "oxygenBedTotal": "29",
+    "oxygenBedAvailable": "3",
+    "oxygenBedOccupied": 26,
+    "normalBedTotal": "47",
+    "normalBedAvailable": "35",
+    "normalBedOccupied": 12,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= Natya+Utkarshya Kendra (Government Hospital)+DAKSHIN DINAJPUR&rlz=1C1CHBF_enIN859IN859&oq= Natya+Utkarshya Kendra (Government Hospital)+DAKSHIN DINAJPUR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  }
+]

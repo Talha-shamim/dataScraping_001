@@ -10,7 +10,6 @@ const gatherAhmedabad = async (url) => {
     await page.setDefaultNavigationTimeout(0);
     await page.goto(url);
 
-    // Get the "viewport" of the page, as reported by the page.
     const dimensions = await page.evaluate(() => {
       let item = [];
       Array.from(document.querySelectorAll("tbody > tr")).map((dt, ind) => {

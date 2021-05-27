@@ -79,7 +79,7 @@ async function get() {
     }
   );
 
-  await page.waitFor(10000);
+  await page.waitForTimer(10000);
 
   await browser.close();
 }

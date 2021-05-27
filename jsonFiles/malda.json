@@ -1,0 +1,34 @@
+[
+  {
+    "district": "malda",
+    "state": "Westbengal",
+    "hospitalName": " Chanchal SSH Malda (Government Hospital)",
+    "hospitalAddress": "  Chanchal Rural Hospital, Chanchal, Malda , MALDA",
+    "phoneNo": "   9134203473",
+    "oxygenBedTotal": "15",
+    "oxygenBedAvailable": "9",
+    "oxygenBedOccupied": 6,
+    "normalBedTotal": "60",
+    "normalBedAvailable": "60",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= Chanchal+SSH Malda (Government Hospital)+MALDA&rlz=1C1CHBF_enIN859IN859&oq= Chanchal+SSH Malda (Government Hospital)+MALDA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "district": "malda",
+    "state": "Westbengal",
+    "hospitalName": " Malda Medical College and Hospital (Government Hospital)",
+    "hospitalAddress": "  English Bazar Malda, 732101 , MALDA",
+    "phoneNo": "   9883233788",
+    "oxygenBedTotal": "120",
+    "oxygenBedAvailable": "86",
+    "oxygenBedOccupied": 34,
+    "normalBedTotal": "60",
+    "normalBedAvailable": "50",
+    "normalBedOccupied": 10,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= Malda+Medical College and Hospital (Government Hospital)+MALDA&rlz=1C1CHBF_enIN859IN859&oq= Malda+Medical College and Hospital (Government Hospital)+MALDA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  }
+]

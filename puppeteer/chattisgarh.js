@@ -17,7 +17,7 @@ async function capture() {
 
   await page.click("#ctl00_ContentPlaceHolder1_Button1");
 
-  await page.waitFor(3000);
+  await page.waitForTimer(3000);
 
   data = await page.evaluate(() =>
     Array.from(document.querySelectorAll("td")).map((atas) =>
@@ -38,7 +38,7 @@ async function capture() {
       district: data[m],
       state: "Chattisgarh",
       HospitalName: data[n],
-      HospitalAddress: "NA",
+      HospitalAddress: "Not Available",
       phoneNo: data[o],
       oxygenBedTotal: data[a],
       oxygenBedAvailable: data[b],
