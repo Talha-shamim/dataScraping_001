@@ -19,11 +19,18 @@ const Count = mongoose.model('Count', new mongoose.Schema({
 }));
 
 app.get('/countOne', async(req,res)=> {
-    const count = await Count.findOne();
+
+    const count = await Count.findOne({})
+
+	console.log(count);
 
     // Sets `name` and unsets all other properties
-    count.overwrite({ views: count[0].views + 1 });
+    count.views += 1
     await count.save();
+
+	if (count){
+		res.send('ok')
+	}
 })
 
 app.get("/api_covinet", (req, res) => {
