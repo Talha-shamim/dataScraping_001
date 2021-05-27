@@ -15,17 +15,33 @@ mongoose.connect(process.env.DATABASE, {
   useCreateIndex: true,
 });
 
-const Count = mongoose.model(
-  "Count",
+const covinetViewCount = mongoose.model(
+  "covinetViewCount",
   new mongoose.Schema({
     views: Number,
   })
 );
 
-app.get("/countOne", async (req, res) => {
-  const count = await Count.findOne({});
+const apiViewCount = mongoose.model(
+  "apiViewCount",
+  new mongoose.Schema({
+    views: Number,
+  })
+);
 
-  console.log(count);
+app.get("/covinetViewCount_", async (req, res) => {
+  const count = await covinetViewCount.findOne({});
+
+  count.views += 1;
+  await count.save();
+
+  if (count) {
+    res.send("ok");
+  }
+});
+
+app.get("/apiViewCount_", async (req, res) => {
+  const count = await apiViewCount.findOne({});
 
   count.views += 1;
   await count.save();
