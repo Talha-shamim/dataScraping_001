@@ -5,14 +5,14 @@
     "hospitalName": " Aashirwad Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "",
-    "oxygenBedTotal": 3,
+    "oxygenBedTotal": 4,
     "oxygenBedOccupied": " 2",
-    "oxygenBedAvailable": "1",
+    "oxygenBedAvailable": "2",
     "normalBedTotal": 0,
     "normalBedOccupied": " 0",
     "normalBedAvailable": "0",
-    "lastUpdatedDate": " 3:36 PM 25th May,21",
-    "lastUpdatedTime": " 3:36 PM",
+    "lastUpdatedDate": " 3:40 PM 27th May,21",
+    "lastUpdatedTime": " 3:40 PM",
     "googleSearch": "https://www.google.com/search?q=+Aashirwad Hospital+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Aashirwad Hospital+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -21,14 +21,14 @@
     "hospitalName": " Aayushmaan Bhav Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "9729001001",
-    "oxygenBedTotal": 5,
+    "oxygenBedTotal": 8,
     "oxygenBedOccupied": " 5",
-    "oxygenBedAvailable": "0",
+    "oxygenBedAvailable": "3",
     "normalBedTotal": 4,
     "normalBedOccupied": " 4",
     "normalBedAvailable": "0",
-    "lastUpdatedDate": " 3:33 PM 25th May,21",
-    "lastUpdatedTime": " 3:33 PM",
+    "lastUpdatedDate": " 3:32 PM 27th May,21",
+    "lastUpdatedTime": " 3:32 PM",
     "googleSearch": "https://www.google.com/search?q=+Aayushmaan Bhav Hospital+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Aayushmaan Bhav Hospital+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -42,8 +42,8 @@
     "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 3:25 PM 25th May,21",
-    "lastUpdatedTime": " 3:25 PM",
+    "lastUpdatedDate": " 2:59 PM 27th May,21",
+    "lastUpdatedTime": " 2:59 PM",
     "googleSearch": "https://www.google.com/search?q=+APEX HOSPITAL & TRAUMA CENTRE+panipat&rlz=1C1CHBF_enIN859IN859&oq=+APEX HOSPITAL & TRAUMA CENTRE+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -57,8 +57,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 8",
-    "lastUpdatedDate": " 3:52 PM 25th May,21",
-    "lastUpdatedTime": " 3:52 PM",
+    "lastUpdatedDate": " 3:06 PM 27th May,21",
+    "lastUpdatedTime": " 3:06 PM",
     "googleSearch": "https://www.google.com/search?q=+CHC Dadlana+panipat&rlz=1C1CHBF_enIN859IN859&oq=+CHC Dadlana+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -72,8 +72,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 9",
-    "lastUpdatedDate": " 3:53 PM 25th May,21",
-    "lastUpdatedTime": " 3:53 PM",
+    "lastUpdatedDate": " 3:09 PM 27th May,21",
+    "lastUpdatedTime": " 3:09 PM",
     "googleSearch": "https://www.google.com/search?q=+CHC Khotpura+panipat&rlz=1C1CHBF_enIN859IN859&oq=+CHC Khotpura+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -87,8 +87,8 @@
     "oxygenBedAvailable": "6",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 3:59 PM 25th May,21",
-    "lastUpdatedTime": " 3:59 PM",
+    "lastUpdatedDate": " 4:17 PM 27th May,21",
+    "lastUpdatedTime": " 4:17 PM",
     "googleSearch": "https://www.google.com/search?q=+Chhabra Hospital+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Chhabra Hospital+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -97,13 +97,13 @@
     "hospitalName": " Civil Hospital panipat",
     "hospitalAdress": "Not Available",
     "phoneNo": "8059625656",
-    "oxygenBedTotal": 102,
+    "oxygenBedTotal": 107,
     "oxygenBedOccupied": " 74",
-    "oxygenBedAvailable": "28",
+    "oxygenBedAvailable": "33",
     "normalBedTotal": null,
     "normalBedOccupied": " 20",
-    "lastUpdatedDate": " 3:51 PM 25th May,21",
-    "lastUpdatedTime": " 3:51 PM",
+    "lastUpdatedDate": " 3:04 PM 27th May,21",
+    "lastUpdatedTime": " 3:04 PM",
     "googleSearch": "https://www.google.com/search?q=+Civil Hospital panipat+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Civil Hospital panipat+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -117,8 +117,8 @@
     "oxygenBedAvailable": "12",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:00 PM 25th May,21",
-    "lastUpdatedTime": " 4:00 PM",
+    "lastUpdatedDate": " 2:56 PM 27th May,21",
+    "lastUpdatedTime": " 2:56 PM",
     "googleSearch": "https://www.google.com/search?q=+Cygnus Hospital panipat+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Cygnus Hospital panipat+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -132,8 +132,8 @@
     "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 3:55 PM 25th May,21",
-    "lastUpdatedTime": " 3:55 PM",
+    "lastUpdatedDate": " 3:13 PM 27th May,21",
+    "lastUpdatedTime": " 3:13 PM",
     "googleSearch": "https://www.google.com/search?q=+GALAXY HOSPITAL+panipat&rlz=1C1CHBF_enIN859IN859&oq=+GALAXY HOSPITAL+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -147,8 +147,8 @@
     "oxygenBedAvailable": "304",
     "normalBedTotal": null,
     "normalBedOccupied": " 7",
-    "lastUpdatedDate": " 4:00 PM 25th May,21",
-    "lastUpdatedTime": " 4:00 PM",
+    "lastUpdatedDate": " 2:58 PM 27th May,21",
+    "lastUpdatedTime": " 2:58 PM",
     "googleSearch": "https://www.google.com/search?q=+Guru Teg Bhadur Sanjeevani Hospital+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Guru Teg Bhadur Sanjeevani Hospital+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -162,8 +162,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 3:57 PM 25th May,21",
-    "lastUpdatedTime": " 3:57 PM",
+    "lastUpdatedDate": " 3:03 PM 27th May,21",
+    "lastUpdatedTime": " 3:03 PM",
     "googleSearch": "https://www.google.com/search?q=+Hyderabadi General Hospital & Nursing Home+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Hyderabadi General Hospital & Nursing Home+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -177,8 +177,8 @@
     "oxygenBedAvailable": "9",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 3:54 PM 25th May,21",
-    "lastUpdatedTime": " 3:54 PM",
+    "lastUpdatedDate": " 3:14 PM 27th May,21",
+    "lastUpdatedTime": " 3:14 PM",
     "googleSearch": "https://www.google.com/search?q=+IBM HOSPITAL & TRAUMA CENTRE+panipat&rlz=1C1CHBF_enIN859IN859&oq=+IBM HOSPITAL & TRAUMA CENTRE+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -187,13 +187,13 @@
     "hospitalName": " LHDM & Prem Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "8685047942",
-    "oxygenBedTotal": 97,
+    "oxygenBedTotal": 113,
     "oxygenBedOccupied": " 71",
-    "oxygenBedAvailable": "26",
+    "oxygenBedAvailable": "42",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 3:52 PM 25th May,21",
-    "lastUpdatedTime": " 3:52 PM",
+    "lastUpdatedDate": " 3:11 PM 27th May,21",
+    "lastUpdatedTime": " 3:11 PM",
     "googleSearch": "https://www.google.com/search?q=+LHDM & Prem Hospital+panipat&rlz=1C1CHBF_enIN859IN859&oq=+LHDM & Prem Hospital+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -202,13 +202,13 @@
     "hospitalName": " MAX PLUS HOSPITAL",
     "hospitalAdress": "Not Available",
     "phoneNo": "9466533099",
-    "oxygenBedTotal": 9,
+    "oxygenBedTotal": 14,
     "oxygenBedOccupied": " 8",
-    "oxygenBedAvailable": "1",
+    "oxygenBedAvailable": "6",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 3:31 PM 25th May,21",
-    "lastUpdatedTime": " 3:31 PM",
+    "lastUpdatedDate": " 3:02 PM 27th May,21",
+    "lastUpdatedTime": " 3:02 PM",
     "googleSearch": "https://www.google.com/search?q=+MAX PLUS HOSPITAL+panipat&rlz=1C1CHBF_enIN859IN859&oq=+MAX PLUS HOSPITAL+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -222,8 +222,8 @@
     "oxygenBedAvailable": "39",
     "normalBedTotal": null,
     "normalBedOccupied": " 483",
-    "lastUpdatedDate": " 3:49 PM 25th May,21",
-    "lastUpdatedTime": " 3:49 PM",
+    "lastUpdatedDate": " 3:01 PM 27th May,21",
+    "lastUpdatedTime": " 3:01 PM",
     "googleSearch": "https://www.google.com/search?q=+NC Medical College+panipat&rlz=1C1CHBF_enIN859IN859&oq=+NC Medical College+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -232,13 +232,13 @@
     "hospitalName": " Park Hospital GT road panipat",
     "hospitalAdress": "Not Available",
     "phoneNo": "9416369866",
-    "oxygenBedTotal": 66,
+    "oxygenBedTotal": 69,
     "oxygenBedOccupied": " 52",
-    "oxygenBedAvailable": "14",
+    "oxygenBedAvailable": "17",
     "normalBedTotal": null,
     "normalBedOccupied": " 14",
-    "lastUpdatedDate": " 3:37 PM 25th May,21",
-    "lastUpdatedTime": " 3:37 PM",
+    "lastUpdatedDate": " 3:32 PM 27th May,21",
+    "lastUpdatedTime": " 3:32 PM",
     "googleSearch": "https://www.google.com/search?q=+Park Hospital GT road panipat+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Park Hospital GT road panipat+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -252,7 +252,7 @@
     "oxygenBedAvailable": "10",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 3:32 PM 25th May,21",
+    "lastUpdatedDate": " 3:32 PM 27th May,21",
     "lastUpdatedTime": " 3:32 PM",
     "googleSearch": "https://www.google.com/search?q=+Prime Hospital Health Leaders+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Prime Hospital Health Leaders+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
@@ -267,8 +267,8 @@
     "oxygenBedAvailable": "6",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:48 PM 25th May,21",
-    "lastUpdatedTime": " 2:48 PM",
+    "lastUpdatedDate": " 2:25 PM 27th May,21",
+    "lastUpdatedTime": " 2:25 PM",
     "googleSearch": "https://www.google.com/search?q=+Rainbow Hospital+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Rainbow Hospital+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -277,13 +277,13 @@
     "hospitalName": " SDH Samalkha",
     "hospitalAdress": "Not Available",
     "phoneNo": "9813077233",
-    "oxygenBedTotal": 55,
+    "oxygenBedTotal": 56,
     "oxygenBedOccupied": " 30",
-    "oxygenBedAvailable": "25",
+    "oxygenBedAvailable": "26",
     "normalBedTotal": null,
     "normalBedOccupied": " 20",
-    "lastUpdatedDate": " 3:31 PM 25th May,21",
-    "lastUpdatedTime": " 3:31 PM",
+    "lastUpdatedDate": " 3:06 PM 27th May,21",
+    "lastUpdatedTime": " 3:06 PM",
     "googleSearch": "https://www.google.com/search?q=+SDH Samalkha+panipat&rlz=1C1CHBF_enIN859IN859&oq=+SDH Samalkha+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -292,13 +292,13 @@
     "hospitalName": " shobhit Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "9466365570",
-    "oxygenBedTotal": 24,
+    "oxygenBedTotal": 21,
     "oxygenBedOccupied": " 12",
-    "oxygenBedAvailable": "12",
+    "oxygenBedAvailable": "9",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 3:53 PM 25th May,21",
-    "lastUpdatedTime": " 3:53 PM",
+    "lastUpdatedDate": " 3:03 PM 27th May,21",
+    "lastUpdatedTime": " 3:03 PM",
     "googleSearch": "https://www.google.com/search?q=+shobhit Hospital+panipat&rlz=1C1CHBF_enIN859IN859&oq=+shobhit Hospital+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -307,13 +307,13 @@
     "hospitalName": " Shree Badri Das Hospital and ICU Care Centre",
     "hospitalAdress": "Not Available",
     "phoneNo": "",
-    "oxygenBedTotal": 15,
+    "oxygenBedTotal": 14,
     "oxygenBedOccupied": " 8",
-    "oxygenBedAvailable": "7",
+    "oxygenBedAvailable": "6",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:52 PM 25th May,21",
-    "lastUpdatedTime": " 2:52 PM",
+    "lastUpdatedDate": " 3:32 PM 27th May,21",
+    "lastUpdatedTime": " 3:32 PM",
     "googleSearch": "https://www.google.com/search?q=+Shree Badri Das Hospital and ICU Care Centre+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Shree Badri Das Hospital and ICU Care Centre+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -322,13 +322,13 @@
     "hospitalName": " Shree Balajee Multispeciality Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "",
-    "oxygenBedTotal": 5,
+    "oxygenBedTotal": 6,
     "oxygenBedOccupied": " 4",
-    "oxygenBedAvailable": "1",
+    "oxygenBedAvailable": "2",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:29 PM 25th May,21",
-    "lastUpdatedTime": " 2:29 PM",
+    "lastUpdatedDate": " 3:16 PM 27th May,21",
+    "lastUpdatedTime": " 3:16 PM",
     "googleSearch": "https://www.google.com/search?q=+Shree Balajee Multispeciality Hospital+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Shree Balajee Multispeciality Hospital+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -337,13 +337,13 @@
     "hospitalName": " Shubham Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "",
-    "oxygenBedTotal": 10,
+    "oxygenBedTotal": 11,
     "oxygenBedOccupied": " 6",
-    "oxygenBedAvailable": "4",
+    "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:37 PM 25th May,21",
-    "lastUpdatedTime": " 2:37 PM",
+    "lastUpdatedDate": " 6:09 PM 27th May,21",
+    "lastUpdatedTime": " 6:09 PM",
     "googleSearch": "https://www.google.com/search?q=+Shubham Hospital+panipat&rlz=1C1CHBF_enIN859IN859&oq=+Shubham Hospital+panipat&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

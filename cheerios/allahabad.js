@@ -89,5 +89,4 @@ async function get() {
       console.log(err);
     });
 }
-get();
 exports.getAllahabad = get;

@@ -4,18 +4,6 @@ const googleScrapper = require("../../puppeteer/googleScrapper.js");
 const fs = require("fs");
 
 const maharastra = pune.concat(navimumbai);
-
-// maharastra.map((dt) => {
-//   googleMaharastra.map((gdt) => {
-//     if (dt.googleSearch === gdt.url) {
-//       dt.hospitalAddress = gdt.location;
-//       dt.phoneNo = gdt.phone;
-//       dt.lattitude = gdt.cordlat;
-//       dt.longitude = gdt.cordlon;
-//     }
-//   });
-// });
-
 var coordinatesData = [];
 
 maharastra.map((datas) => {
@@ -24,12 +12,12 @@ maharastra.map((datas) => {
       coordinatesData.push(res);
 
       fs.writeFile(
-        `jsonFiles/coordinates/coordinatesData.json`,
+        `jsonFiles/Coordinates/maharastracoordinates.json`,
         JSON.stringify(coordinatesData, null, 2),
         (error) => {
           if (error) {
             console.log(error);
-          } else console.log("coordinatesData");
+          } else console.log("maharstra coordmaker");
         }
       );
     }

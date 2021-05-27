@@ -100,26 +100,7 @@ const getData = async () => {
           }
         });
       });
-
-      var arraynew = [];
-
-      Goa.map((dt) => {
-        googleData.google(dt.googleSearch).then((x) => {
-          if (x.location) {
-            arraynew.push(x);
-
-            fs.writeFile(
-              `../jsonFiles/GoogleData/goa.json`,
-              JSON.stringify(arraynew, null, 2),
-              (error) => {
-                if (error) {
-                  console.log(error);
-                } else console.log(`File written Goa google`);
-              }
-            );
-          }
-        });
-      });
+     
 
       fs.writeFile(
         `../jsonFiles/goa.json`,
@@ -138,5 +119,5 @@ const getData = async () => {
 
   return Goa;
 };
-
+getData()
 exports.getgoa = getData;
