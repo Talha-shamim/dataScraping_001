@@ -39,6 +39,8 @@ const apiViewCount = mongoose.model(
 
 // add();
 
+// final changes till version 1
+
 app.get("/covinetViewCount_", async (req, res) => {
   const count = await covinetViewCount.findOne({});
 
