@@ -113,7 +113,7 @@ const mergeData = () => {
    
 
       fs.writeFile(
-        `jsonFiles/gujrat.json`,
+        `jsonFiles/gujarat.json`,
         JSON.stringify(finaldata, null, 2),
         (error) => {
           if (error) {
