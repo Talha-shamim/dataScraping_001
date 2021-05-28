@@ -1,9 +1,7 @@
-const googleGujrat = require('../GoogleData/gujrat.json')
-const Gujrat = require('../gujrat.json')
+const googleGujrat = require('../ahmedabadcoordinates.json')
+const Gujrat = require('../../gujrat.json')
 const fs = require('fs')
 
-console.log(googleGujrat.length)
-console.log(Gujrat.length)
 Gujrat.map(dt=> {
     googleGujrat.map(gdt => {
         if(dt.googleSearch===gdt.url){
@@ -18,12 +16,12 @@ Gujrat.map(dt=> {
 )
 
 fs.writeFile(
-    `../gujrat.json`,
+    `jsonFiles/gujrat.json`,
     JSON.stringify(Gujrat, null, 2),
     (error) => {
       if (error) {
         console.log(error);
-      } else console.log(`File written Gujrat`);
+      } else console.log(`File written Gujrat final`);
     }
   )
 

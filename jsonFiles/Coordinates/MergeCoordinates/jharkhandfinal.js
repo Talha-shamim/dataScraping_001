@@ -1,4 +1,3 @@
-const { data } = require('cheerio/lib/api/attributes')
 const ranchi = require('../../ranchi.json')
 const ranchiccord = require('../ranchicoordinates.json')
 const fs = require("fs");
@@ -14,11 +13,11 @@ ranchi.map(dt=> {
 })
 
 fs.writeFile(
-    "jsonFiles/Coordinates/jharkhand.json",
+    "jsonFiles/jharkhand.json",
     JSON.stringify(ranchi, null, 2),
     (error) => {
       if (error) {
         console.log(error);
-      } else console.log("File written Jharkhand");
+      } else console.log("File written Jharkhand final");
     }
   );

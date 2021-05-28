@@ -1,8 +1,7 @@
 const maharastra = require('../../maharastra.json')
-const mahasatracoord = require('../Maharastracoordinates.json')
+const mahasatracoord = require('../maharastracoordinates.json')
 const fs = require("fs");
-console.log(maharastra.length)
-console.log(mahasatracoord.length)
+
 maharastra.map(dt => {
     mahasatracoord.map(data => {
         if(dt.googleSearch===data.url){
@@ -15,11 +14,11 @@ maharastra.map(dt => {
 })
 
 fs.writeFile(
-    `../../maharastra.json`,
+    `jsonFiles/maharastra.json`,
     JSON.stringify(maharastra, null, 2),
     (error) => {
       if (error) {
         console.log(error);
-      } else console.log("coordinatesData maharastra");
+      } else console.log(" maharastra final");
     }
   );

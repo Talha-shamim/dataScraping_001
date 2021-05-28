@@ -87,7 +87,7 @@
   },
   {
     "hospitalName": "Pulse Hospital, Bariatu",
-    "phoneNo": "",
+    "phoneNo": "0651 254 6080",
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
@@ -175,7 +175,7 @@
   },
   {
     "hospitalName": "Sewa Sadan",
-    "phoneNo": "",
+    "phoneNo": "6204801102",
     "normalBedTotal": "20",
     "normalBedOccupied": "0",
     "normalBedAvailable": "20",
@@ -184,12 +184,10 @@
     "oxygenBedAvailable": "0",
     "state": "Jharkhand",
     "district": "Ranchi",
-    "hospitalAddress": "near Ranchi Lake, Upper Bazar, Ranchi, Jharkhand 834001",
+    "hospitalAddress": "NA",
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
-    "googleSearch": "https://www.google.com/search?q=Sewa+Sadan+Ranchi&rlz=1C1CHBF_enIN859IN859&oq=Sewa+Sadan+Ranchi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "latitude": "23.3709147",
-    "longitude": "85.3173013"
+    "googleSearch": "https://www.google.com/search?q=Sewa+Sadan+Ranchi&rlz=1C1CHBF_enIN859IN859&oq=Sewa+Sadan+Ranchi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Santevita Hospital, HB Road, Near Firayalal Ranchi",
@@ -265,7 +263,7 @@
   },
   {
     "hospitalName": "Summer Hospital, Singh More",
-    "phoneNo": "",
+    "phoneNo": "099345 96605",
     "normalBedTotal": "11",
     "normalBedOccupied": "7",
     "normalBedAvailable": "4",
@@ -283,7 +281,7 @@
   },
   {
     "hospitalName": "Devkamal Hospital",
-    "phoneNo": "7808782978",
+    "phoneNo": "092040 55638",
     "normalBedTotal": "4",
     "normalBedOccupied": "4",
     "normalBedAvailable": "0",
@@ -292,10 +290,12 @@
     "oxygenBedAvailable": "0",
     "state": "Jharkhand",
     "district": "Ranchi",
-    "hospitalAddress": "NA",
+    "hospitalAddress": "Bus Stand, Near ITI, Itki-Bajra Rd, Major kothi, Sarweshwari Nagar, Ranchi, Jharkhand 834001",
     "lastUpdatedDate": "NA",
     "lastUpdatedTime": "NA",
-    "googleSearch": "https://www.google.com/search?q=Devkamal+Hospital+Ranchi&rlz=1C1CHBF_enIN859IN859&oq=Devkamal+Hospital+Ranchi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Devkamal+Hospital+Ranchi&rlz=1C1CHBF_enIN859IN859&oq=Devkamal+Hospital+Ranchi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "latitude": "23.3732249",
+    "longitude": "85.2720997"
   },
   {
     "hospitalName": "Rinchi Trust Hospital, ITKI Road, Kathal More, Ranchi",
@@ -317,7 +317,7 @@
   },
   {
     "hospitalName": "The 7 Palm Hospital",
-    "phoneNo": "090067 52339",
+    "phoneNo": "",
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
@@ -387,7 +387,7 @@
   },
   {
     "hospitalName": "Kanke General Hospital",
-    "phoneNo": "0651 245 0844",
+    "phoneNo": "",
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
@@ -459,7 +459,7 @@
   },
   {
     "hospitalName": "Dwarka Hospital",
-    "phoneNo": "093087 38010",
+    "phoneNo": "",
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
@@ -579,7 +579,7 @@
   },
   {
     "hospitalName": "City Trust Hospital",
-    "phoneNo": "094311 75869",
+    "phoneNo": "",
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",

@@ -1,7 +1,5 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const { get } = require("cheerio/lib/api/traversing");
-const googleData = require("../puppeteer/googleScrapper");
 const fs = require("fs");
 
 const getData = async () => {
@@ -103,7 +101,7 @@ const getData = async () => {
      
 
       fs.writeFile(
-        `../jsonFiles/goa.json`,
+        `jsonFiles/goa.json`,
         JSON.stringify(Goa, null, 2),
         (error) => {
           if (error) {

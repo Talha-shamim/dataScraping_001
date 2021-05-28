@@ -1,23 +1,23 @@
-const haryana = require("./cheerios/haryana.js");
-const allahabad = require("./cheerios/allahabad.js");
-const ranchi = require("./cheerios/ranchi.js");
-const rajasthan = require("./cheerios/rajasthan.js");
-const uttarpradesh = require("./cheerios/uttarpradesh.js");
-const andrapradesh = require("./cheerios/andra.js");
-const Goa = require("./cheerios/Goa.js");
-const pune = require("./cheerios/pune.js");
-const Navi = require("./cheerios/Navimumbai.js");
-const madhya = require("./cheerios/madhya");
+// const haryana = require("./cheerios/haryana.js");
+// const allahabad = require("./cheerios/allahabad.js");
+// const ranchi = require("./cheerios/ranchi.js");
+// const rajasthan = require("./cheerios/rajasthan.js");
+// const uttarpradesh = require("./cheerios/uttarpradesh.js");
+// const andrapradesh = require("./cheerios/andra.js");
+// const Goa = require("./cheerios/Goa.js");
+// const pune = require("./cheerios/pune.js");
+// const Navi = require("./cheerios/Navimumbai.js");
+// const madhya = require("./cheerios/madhya");
 
-const Puducherry = require("./cheerios/Puducherry.js");
-const Ahmedabad = require("./puppeteer/Ahmedabad.js");
-const uttrakhand = require("./puppeteer/uttrakhand.js");
-const kerala = require("./puppeteer/kerala.js");
-const delhi = require("./puppeteer/delhi.js");
-const westbengal = require("./puppeteer/westbengal.js");
-const chattisgarh = require("./puppeteer/chattisgarh.js");
+// const Puducherry = require("./cheerios/Puducherry.js");
+// const Ahmedabad = require("./puppeteer/Ahmedabad.js");
+// const uttrakhand = require("./puppeteer/uttrakhand.js");
+// const kerala = require("./puppeteer/kerala.js");
+// const delhi = require("./puppeteer/delhi.js");
+// const westbengal = require("./puppeteer/westbengal.js");
+// const chattisgarh = require("./puppeteer/chattisgarh.js");
 
-const mergeMaharashtra = require("./jsonFiles/MergeJson/maharashtra.js");
+// const mergeMaharashtra = require("./jsonFiles/MergeJson/maharashtra.js");
 
 // const Goacoordmaker = require("./jsonFiles/Coordmaker/Goacoordmaker.js");
 // const jharkhandcoordmaker = require("./jsonFiles/Coordmaker/Jharkhandcoordmaker.js");
@@ -27,38 +27,52 @@ const mergeMaharashtra = require("./jsonFiles/MergeJson/maharashtra.js");
 // const puducherrycoordmaker = require("./jsonFiles/Coordmaker/puducherrycoordmaker.js");
 // const delhicoordmaker = require("./jsonFiles/Coordmaker/delhicoordmaker.js");
 // const ahmedabadcoordmaker = require("./jsonFiles/Coordmaker/ahmedabadcoordmaker.js");
-// // const keralacoordmaker = require('./jsonFiles/Coordmaker/keralacoordmaker') not working
-// // const chhattisgarhcoordmaker = require('./jsonFiles/Coordmaker/chhattisgarhcoordmaker') not working
+// const keralacoordmaker = require('./jsonFiles/Coordmaker/keralacoordmaker') no hospital name
+// const chhattisgarhcoordmaker = require('./jsonFiles/Coordmaker/chhattisgarhcoordmaker') 
 // const uttrakhandcoordmaker = require("./jsonFiles/Coordmaker/uttrakhandcoordmaker.js");
-// const maharastrafinal = require("./jsonFiles/Coordinates/MergeCoordinates/Maharastra");
-// const uttarfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttarpradeshfinal");
 
-setInterval(() => {
-  andrapradesh.getandrapradesh();
-  allahabad.getAllahabad();
-  ranchi.getranchi();
-  Goa.getgoa();
-  Navi.getnavi();
-  madhya.getmadhyapradesh();
-  haryana.getharyana();
-  Puducherry.getpuducherry();
-  uttarpradesh.getuttarpradesh();
-  pune.getpune();
-  rajasthan.getrajasthan();
-}, 21600000);
 
-setInterval(() => {
-  westbengal.getwestbengal();
-  uttrakhand.getuttrakhand();
-  Ahmedabad.getahmadabad();
-  kerala.getKerala();
-  delhi.getdelhi();
-  chattisgarh.getchattisgarh();
-}, 25200000);
 
-setInterval(() => {
-  mergeMaharashtra;
-}, 28800000);
+// const maharastrafinal = require("./jsonFiles/Coordinates/MergeCoordinates/Maharastrafinal.js");
+// const uttarfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttarpradeshfinal.js");
+// const gujratfinal = require('./jsonFiles/Coordinates/MergeCoordinates/Gujratfinal.js')
+// const dehifinal = require('./jsonFiles/Coordinates/MergeCoordinates/delhifinal.js')
+// const goafinal = require('./jsonFiles/Coordinates/MergeCoordinates/goafinal.js')
+// const Puducherryfinal = require('./jsonFiles/Coordinates/MergeCoordinates/puducherryfinal.js')
+// const jharkhandfinal = require('./jsonFiles/Coordinates/MergeCoordinates/jharkhandfinal.js')
+// const uttarakhandfinal = require('./jsonFiles/Coordinates/MergeCoordinates/uttrakhandfinal.js')
+
+// setInterval(() => {
+//   andrapradesh.getandrapradesh();
+//   allahabad.getAllahabad();
+//   ranchi.getranchi();
+//   madhya.getmadhyapradesh();
+//   haryana.getharyana();
+//   Puducherry.getpuducherry();
+//   rajasthan.getrajasthan();
+// uttarpradesh.getuttarpradesh();
+// Goa.getgoa();
+// Navi.getnavi();
+// pune.getpune();
+// }, 21600000);
+
+
+
+
+// setInterval(() => {
+//   westbengal.getwestbengal();
+//   uttrakhand.getuttrakhand();
+//   kerala.getKerala();
+//   chattisgarh.getchattisgarh();
+// delhi.getdelhi();
+// Ahmedabad.getahmadabad();
+// }, 25200000);
+
+// setInterval(() => {
+  // mergeMaharashtra;
+  // }, 28800000);
+  
+
 
 // uttarcoordmaker;
 // Goacoordmaker;
@@ -72,5 +86,12 @@ setInterval(() => {
 // madhyacoordmaker;
 
 // setInterval(() => {
-//   maharastrafinal;
+  // maharastrafinal
+  // gujratfinal
+  // dehifinal
+  // goafinal
+  // Puducherryfinal
+  // jharkhandfinal
+  // uttarfinal
+  // uttarakhandfinal
 // }, 10);

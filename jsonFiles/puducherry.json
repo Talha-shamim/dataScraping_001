@@ -1,7 +1,7 @@
 [
   {
     "hospitalName": "IGGGH & PGI",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Rights Club Centre, Netaji Subhash Chandra Bose Salai ( Gingee Salai ), White Town, Puducherry, 605001",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -11,9 +11,11 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "07:06:35",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "0413 233 6971",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=IGGGH+& PGI+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=IGGGH+& PGI+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=IGGGH+& PGI+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=IGGGH+& PGI+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.9317756",
+    "longitude": "79.832961"
   },
   {
     "hospitalName": "IGMC",
@@ -33,7 +35,7 @@
   },
   {
     "hospitalName": "JIPMER",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Jipmer Campus Rd, Gorimedu, Puducherry, 605006",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -43,9 +45,11 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "08:00:33",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "0413 227 1301",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=JIPMER+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=JIPMER+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=JIPMER+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=JIPMER+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.9503023",
+    "longitude": "79.7996963"
   },
   {
     "hospitalName": "Dental College",
@@ -65,7 +69,7 @@
   },
   {
     "hospitalName": "CHC Karikalampakkam",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Madugarai Main Road, Karikalampakkam, Puducherry, 605106",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -75,9 +79,11 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "11:08:41",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=CHC+Karikalampakkam+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=CHC+Karikalampakkam+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=CHC+Karikalampakkam+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=CHC+Karikalampakkam+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.8651925",
+    "longitude": "79.7483119"
   },
   {
     "hospitalName": "PHC Nettapakkam",
@@ -97,7 +103,7 @@
   },
   {
     "hospitalName": "PIMS",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Kalathumettupathai, Ganapathichettikulam Village No.20, Kalapet, Puducherry 605014",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -107,13 +113,15 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "08:41:55",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "0413 265 1111",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=PIMS+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=PIMS+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=PIMS+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=PIMS+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "12.0462822",
+    "longitude": "79.8551148"
   },
   {
     "hospitalName": "SVMC",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "13-A, Pondy-Villupuram Main Road, Ariyur, Puducherry-605 102, 605107",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -123,13 +131,15 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "08:21:29",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "0413 226 0601",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=SVMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=SVMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=SVMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=SVMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.9048862",
+    "longitude": "79.6939135"
   },
   {
     "hospitalName": "MGMC",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Pondicherry - Cuddalore Rd, ECR, Pillayarkuppam, Puducherry 607402",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -139,13 +149,15 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "08:39:46",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "0413 261 5449",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=MGMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=MGMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=MGMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=MGMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.812002",
+    "longitude": "79.778101"
   },
   {
     "hospitalName": "SLIMS",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Osudu Agaram Village, Villianur Commune, Kudapakkam Post, Puducherry, 605502",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -155,13 +167,15 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "08:50:20",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "0413 266 1998",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=SLIMS+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=SLIMS+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=SLIMS+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=SLIMS+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.938203",
+    "longitude": "79.7360129"
   },
   {
     "hospitalName": "SMVMC",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Madagadipet, Kalitheerthalkuppam, 605107",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -171,13 +185,15 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "10:20:35",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "0413 264 3014",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=SMVMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=SMVMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=SMVMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=SMVMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.921277",
+    "longitude": "79.6280548"
   },
   {
     "hospitalName": "AVMC",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "Commune Panchayat, Pondy Cuddalore Main road Kirumampakkam Bahour, Kirumampakkam, Puducherry 607402",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -187,13 +203,15 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "11:14:26",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "1800 425 5550",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=AVMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=AVMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=AVMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=AVMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.8310966",
+    "longitude": "79.7798013"
   },
   {
     "hospitalName": "Be Well Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "15, East Coast Rd, Maduvu Pet, Green Gardens, Kottupalayam, Puducherry, 605008",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -203,13 +221,15 @@
     "lastUpdatedDate": "26-05-2021",
     "lastUpdatedTime": "10:43:57",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "073732 02111",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=Be+Well Hospital+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Be+Well Hospital+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Be+Well Hospital+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Be+Well Hospital+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.9508098",
+    "longitude": "79.8153199"
   },
   {
     "hospitalName": "Rani Hospital",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "No: 27, Vazhudavoor Rd, near Rajiv Gandhi Statue, Pettaiyanchathiram, Aruthra Nagar, Puducherry, 605009",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -219,13 +239,15 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "08:58:54",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=Rani+Hospital+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Rani+Hospital+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Rani+Hospital+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Rani+Hospital+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.9412493",
+    "longitude": "79.8070789"
   },
   {
     "hospitalName": "New Medical Centre",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "No:470, MG Road, Puducherry, 605001",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -235,9 +257,11 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "08:53:31",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "0413 226 1200",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=New+Medical Centre+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=New+Medical Centre+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=New+Medical Centre+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=New+Medical Centre+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "11.9299061",
+    "longitude": "79.8280512"
   },
   {
     "hospitalName": "MVR",
@@ -257,7 +281,7 @@
   },
   {
     "hospitalName": "Karaikal",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "160 km²",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -267,9 +291,11 @@
     "lastUpdatedDate": "26-05-2021",
     "lastUpdatedTime": "18:26:25",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=Karaikal+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Karaikal+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Karaikal+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Karaikal+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "/maps/place/Karaikal",
+    "longitude": "/maps/place/Karaikal,"
   },
   {
     "hospitalName": "VMMC Karaikal",
@@ -289,7 +315,7 @@
   },
   {
     "hospitalName": "Mahe",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "9 km²",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -299,13 +325,15 @@
     "lastUpdatedDate": "27-05-2021",
     "lastUpdatedTime": "08:28:16",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=Mahe+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Mahe+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Mahe+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Mahe+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "/maps/place/Mah%C3%A9",
+    "longitude": "/maps/place/Mah%C3%A9,"
   },
   {
     "hospitalName": "Yanam",
-    "hospitalAddress": "Not Available",
+    "hospitalAddress": "30 km²",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -315,8 +343,10 @@
     "lastUpdatedDate": "26-05-2021",
     "lastUpdatedTime": "18:00:52",
     "district": "Puducherry",
-    "phoneNo": "Not Available",
+    "phoneNo": "",
     "state": "TamilNadu",
-    "googleSearch": "https://www.google.com/search?q=Yanam+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Yanam+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Yanam+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Yanam+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "lattitude": "/maps/place/Yanam",
+    "longitude": "/maps/place/Yanam,"
   }
 ]

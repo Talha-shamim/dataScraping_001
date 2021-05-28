@@ -142,6 +142,8 @@ async function capture_() {
       oxygenBedOccupied: data[a] - data[b],
     };
 
+    
+
     objData.googleSearch = "Not Available";
 
     m += 3;
