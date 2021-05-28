@@ -73,7 +73,7 @@ async function capture() {
     chattisgarh.push(objData);
   }
   fs.writeFile(
-    "jsonFiles/chattisgarh.json",
+    "jsonFiles/chhattisgarh.json",
     JSON.stringify(chattisgarh, null, 2),
     (error) => {
       if (error) {
