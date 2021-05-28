@@ -29,6 +29,16 @@ const apiViewCount = mongoose.model(
   })
 );
 
+// const newData = {
+//   views: 0,
+// };
+
+// const add = async () => {
+//   await new covinetViewCount(newData).save();
+// };
+
+// add();
+
 app.get("/covinetViewCount_", async (req, res) => {
   const count = await covinetViewCount.findOne({});
 
