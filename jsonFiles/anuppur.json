@@ -7,12 +7,11 @@
     "phoneNo": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "16",
+    "oxygenBedAvailable": "40",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 09:12:12",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=DH+Anuppur - DCHC+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+Anuppur - DCHC+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -23,29 +22,12 @@
     "phoneNo": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "92",
+    "oxygenBedAvailable": "100",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 09:08:17",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=GOVT+KANYA SIKSHA PARISHAR ANUPPUR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=GOVT+KANYA SIKSHA PARISHAR ANUPPUR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
-  },
-  {
-    "state": "Madhyapradesh",
-    "hospitalName": "CHC RAJENDRAGRAM",
-    "hospitalAdress": "Not Available",
-    "district": "anuppur",
-    "phoneNo": "-",
-    "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "8",
-    "normalBedTotal": "-",
-    "normalBedOccupied": "-",
-    "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 09:13:04",
-    "googleSearch": "https://www.google.com/search?q=CHC+RAJENDRAGRAM+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+RAJENDRAGRAM+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "state": "Madhyapradesh",
@@ -55,13 +37,27 @@
     "phoneNo": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "1",
+    "oxygenBedAvailable": "10",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 09:17:53",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=CHC+JAITHARI+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+JAITHARI+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "state": "Madhyapradesh",
+    "hospitalName": "CHC RAJENDRAGRAM",
+    "hospitalAdress": "Not Available",
+    "district": "anuppur",
+    "phoneNo": "-",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "10",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "-",
+    "lastUpdatedDate": "-",
+    "googleSearch": "https://www.google.com/search?q=CHC+RAJENDRAGRAM+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+RAJENDRAGRAM+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "state": "Madhyapradesh",
@@ -71,12 +67,11 @@
     "phoneNo": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "0",
+    "oxygenBedAvailable": "10",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 09:16:50",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=CHC+KOTMA+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=CHC+KOTMA+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -87,12 +82,11 @@
     "phoneNo": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "5",
+    "oxygenBedAvailable": "10",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 09:03:29",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=SECL+KOTMA HOSPITAL (BHALUMADA)+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SECL+KOTMA HOSPITAL (BHALUMADA)+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -107,8 +101,7 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 09:05:35",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=PT+T P SHUKLA MEMORIAL HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=PT+T P SHUKLA MEMORIAL HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -119,12 +112,11 @@
     "phoneNo": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "21",
+    "oxygenBedAvailable": "25",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 09:19:15",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=CCC+KOTMA+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=CCC+KOTMA+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

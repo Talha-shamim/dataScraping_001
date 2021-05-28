@@ -5,14 +5,14 @@
     "hospitalName": " Apex Hospital, Sirsa",
     "hospitalAdress": "Not Available",
     "phoneNo": "01666226888",
-    "oxygenBedTotal": 24,
+    "oxygenBedTotal": 23,
     "oxygenBedOccupied": " 12",
-    "oxygenBedAvailable": "12",
+    "oxygenBedAvailable": "11",
     "normalBedTotal": 2,
     "normalBedOccupied": " 2",
     "normalBedAvailable": "0",
-    "lastUpdatedDate": " 9:21 AM 28th May,21",
-    "lastUpdatedTime": " 9:21 AM",
+    "lastUpdatedDate": " 5:24 PM 28th May,21",
+    "lastUpdatedTime": " 5:24 PM",
     "googleSearch": "https://www.google.com/search?q=+Apex Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Apex Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -21,14 +21,14 @@
     "hospitalName": " Astha Hospital, Sirsa",
     "hospitalAdress": "Not Available",
     "phoneNo": "01666222213",
-    "oxygenBedTotal": 28,
+    "oxygenBedTotal": 27,
     "oxygenBedOccupied": " 15",
-    "oxygenBedAvailable": "13",
+    "oxygenBedAvailable": "12",
     "normalBedTotal": 0,
     "normalBedOccupied": " 0",
     "normalBedAvailable": "0",
-    "lastUpdatedDate": " 9:22 AM 28th May,21",
-    "lastUpdatedTime": " 9:22 AM",
+    "lastUpdatedDate": " 5:53 PM 28th May,21",
+    "lastUpdatedTime": " 5:53 PM",
     "googleSearch": "https://www.google.com/search?q=+Astha Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Astha Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -40,9 +40,8 @@
     "oxygenBedTotal": 116,
     "oxygenBedOccupied": " 85",
     "oxygenBedAvailable": "31",
-    "normalBedTotal": 14,
+    "normalBedTotal": null,
     "normalBedOccupied": " 14",
-    "normalBedAvailable": "0",
     "lastUpdatedDate": " 9:44 AM 28th May,21",
     "lastUpdatedTime": " 9:44 AM",
     "googleSearch": "https://www.google.com/search?q=+CIVIL HOSPITAL SIRSA+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+CIVIL HOSPITAL SIRSA+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
@@ -58,8 +57,8 @@
     "oxygenBedAvailable": "3",
     "normalBedTotal": null,
     "normalBedOccupied": " 3",
-    "lastUpdatedDate": " 7:59 AM 28th May,21",
-    "lastUpdatedTime": " 7:59 AM",
+    "lastUpdatedDate": " 6:48 PM 28th May,21",
+    "lastUpdatedTime": " 6:48 PM",
     "googleSearch": "https://www.google.com/search?q=+Dayal Nursing Home, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Dayal Nursing Home, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -68,13 +67,13 @@
     "hospitalName": " Gupta Hospital, Sirsa",
     "hospitalAdress": "Not Available",
     "phoneNo": "09896024433",
-    "oxygenBedTotal": 5,
+    "oxygenBedTotal": 6,
     "oxygenBedOccupied": " 4",
-    "oxygenBedAvailable": "1",
+    "oxygenBedAvailable": "2",
     "normalBedTotal": null,
     "normalBedOccupied": " 3",
-    "lastUpdatedDate": " 9:32 AM 28th May,21",
-    "lastUpdatedTime": " 9:32 AM",
+    "lastUpdatedDate": " 5:10 PM 28th May,21",
+    "lastUpdatedTime": " 5:10 PM",
     "googleSearch": "https://www.google.com/search?q=+Gupta Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Gupta Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -88,8 +87,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 4",
-    "lastUpdatedDate": " 2:40 PM 28th May,21",
-    "lastUpdatedTime": " 2:40 PM",
+    "lastUpdatedDate": " 5:25 PM 28th May,21",
+    "lastUpdatedTime": " 5:25 PM",
     "googleSearch": "https://www.google.com/search?q=+Jagdish Nursing Home, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Jagdish Nursing Home, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -103,8 +102,8 @@
     "oxygenBedAvailable": "11",
     "normalBedTotal": null,
     "normalBedOccupied": " 35",
-    "lastUpdatedDate": " 9:40 AM 28th May,21",
-    "lastUpdatedTime": " 9:40 AM",
+    "lastUpdatedDate": " 3:53 PM 28th May,21",
+    "lastUpdatedTime": " 3:53 PM",
     "googleSearch": "https://www.google.com/search?q=+jCD Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+jCD Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -133,8 +132,8 @@
     "oxygenBedAvailable": "6",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 8:02 AM 28th May,21",
-    "lastUpdatedTime": " 8:02 AM",
+    "lastUpdatedDate": " 4:10 PM 28th May,21",
+    "lastUpdatedTime": " 4:10 PM",
     "googleSearch": "https://www.google.com/search?q=+Khurana Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Khurana Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -163,8 +162,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 6",
-    "lastUpdatedDate": " 7:14 AM 28th May,21",
-    "lastUpdatedTime": " 7:14 AM",
+    "lastUpdatedDate": " 4:45 PM 28th May,21",
+    "lastUpdatedTime": " 4:45 PM",
     "googleSearch": "https://www.google.com/search?q=+Medicare Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Medicare Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -173,13 +172,13 @@
     "hospitalName": " Metro Health Care Hospital, Sirsa",
     "hospitalAdress": "Not Available",
     "phoneNo": "01666234666",
-    "oxygenBedTotal": 7,
+    "oxygenBedTotal": 8,
     "oxygenBedOccupied": " 5",
-    "oxygenBedAvailable": "2",
+    "oxygenBedAvailable": "3",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 8:30 AM 28th May,21",
-    "lastUpdatedTime": " 8:30 AM",
+    "lastUpdatedDate": " 5:18 PM 28th May,21",
+    "lastUpdatedTime": " 5:18 PM",
     "googleSearch": "https://www.google.com/search?q=+Metro Health Care Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Metro Health Care Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -188,13 +187,13 @@
     "hospitalName": " Mittal Hospital, Sirsa",
     "hospitalAdress": "Not Available",
     "phoneNo": "01666234125",
-    "oxygenBedTotal": 25,
+    "oxygenBedTotal": 26,
     "oxygenBedOccupied": " 14",
-    "oxygenBedAvailable": "11",
+    "oxygenBedAvailable": "12",
     "normalBedTotal": null,
     "normalBedOccupied": " 1",
-    "lastUpdatedDate": " 8:02 AM 28th May,21",
-    "lastUpdatedTime": " 8:02 AM",
+    "lastUpdatedDate": " 6:05 PM 28th May,21",
+    "lastUpdatedTime": " 6:05 PM",
     "googleSearch": "https://www.google.com/search?q=+Mittal Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Mittal Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -203,13 +202,13 @@
     "hospitalName": " New Life Care Hospital, Sirsa",
     "hospitalAdress": "Not Available",
     "phoneNo": "01666227950",
-    "oxygenBedTotal": 13,
+    "oxygenBedTotal": 14,
     "oxygenBedOccupied": " 7",
-    "oxygenBedAvailable": "6",
+    "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 8:52 AM 28th May,21",
-    "lastUpdatedTime": " 8:52 AM",
+    "lastUpdatedDate": " 5:45 PM 28th May,21",
+    "lastUpdatedTime": " 5:45 PM",
     "googleSearch": "https://www.google.com/search?q=+New Life Care Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+New Life Care Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -223,8 +222,8 @@
     "oxygenBedAvailable": "11",
     "normalBedTotal": null,
     "normalBedOccupied": " 7",
-    "lastUpdatedDate": " 9:43 AM 28th May,21",
-    "lastUpdatedTime": " 9:43 AM",
+    "lastUpdatedDate": " 4:28 PM 28th May,21",
+    "lastUpdatedTime": " 4:28 PM",
     "googleSearch": "https://www.google.com/search?q=+Poonia COVID Care Center, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Poonia COVID Care Center, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -233,13 +232,13 @@
     "hospitalName": " Sanjeevni Hospital, Sirsa (Wing -2, 1 & 2nd Floor)",
     "hospitalAdress": "Not Available",
     "phoneNo": "01666222221",
-    "oxygenBedTotal": 87,
+    "oxygenBedTotal": 84,
     "oxygenBedOccupied": " 45",
-    "oxygenBedAvailable": "42",
+    "oxygenBedAvailable": "39",
     "normalBedTotal": null,
     "normalBedOccupied": " 30",
-    "lastUpdatedDate": " 9:24 AM 28th May,21",
-    "lastUpdatedTime": " 9:24 AM",
+    "lastUpdatedDate": " 4:43 PM 28th May,21",
+    "lastUpdatedTime": " 4:43 PM",
     "googleSearch": "https://www.google.com/search?q=+Sanjeevni Hospital, Sirsa (Wing -2, 1 & 2nd Floor)+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Sanjeevni Hospital, Sirsa (Wing -2, 1 & 2nd Floor)+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -253,8 +252,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 13",
-    "lastUpdatedDate": " 8:48 AM 28th May,21",
-    "lastUpdatedTime": " 8:48 AM",
+    "lastUpdatedDate": " 5:19 PM 28th May,21",
+    "lastUpdatedTime": " 5:19 PM",
     "googleSearch": "https://www.google.com/search?q=+SDCH Dabwali+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+SDCH Dabwali+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -268,8 +267,8 @@
     "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 30",
-    "lastUpdatedDate": " 9:03 AM 28th May,21",
-    "lastUpdatedTime": " 9:03 AM",
+    "lastUpdatedDate": " 4:27 PM 28th May,21",
+    "lastUpdatedTime": " 4:27 PM",
     "googleSearch": "https://www.google.com/search?q=+Shah Satnam Dera Hospital (Wing -2, 2nd floor), Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Shah Satnam Dera Hospital (Wing -2, 2nd floor), Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -283,8 +282,8 @@
     "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 5",
-    "lastUpdatedDate": " 9:31 AM 28th May,21",
-    "lastUpdatedTime": " 9:31 AM",
+    "lastUpdatedDate": " 4:46 PM 28th May,21",
+    "lastUpdatedTime": " 4:46 PM",
     "googleSearch": "https://www.google.com/search?q=+Shri Baba Tara Hospital & Research Center, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Shri Baba Tara Hospital & Research Center, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -293,13 +292,13 @@
     "hospitalName": " SPS Hospital, Sirsa",
     "hospitalAdress": "Not Available",
     "phoneNo": "07504512345",
-    "oxygenBedTotal": 16,
+    "oxygenBedTotal": 14,
     "oxygenBedOccupied": " 12",
-    "oxygenBedAvailable": "4",
+    "oxygenBedAvailable": "2",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 9:12 AM 28th May,21",
-    "lastUpdatedTime": " 9:12 AM",
+    "lastUpdatedDate": " 4:54 PM 28th May,21",
+    "lastUpdatedTime": " 4:54 PM",
     "googleSearch": "https://www.google.com/search?q=+SPS Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+SPS Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -313,8 +312,8 @@
     "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 3",
-    "lastUpdatedDate": " 8:55 AM 28th May,21",
-    "lastUpdatedTime": " 8:55 AM",
+    "lastUpdatedDate": " 5:07 PM 28th May,21",
+    "lastUpdatedTime": " 5:07 PM",
     "googleSearch": "https://www.google.com/search?q=+Suraksha Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Suraksha Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -328,8 +327,8 @@
     "oxygenBedAvailable": "4",
     "normalBedTotal": null,
     "normalBedOccupied": " 5",
-    "lastUpdatedDate": " 9:36 AM 28th May,21",
-    "lastUpdatedTime": " 9:36 AM",
+    "lastUpdatedDate": " 4:41 PM 28th May,21",
+    "lastUpdatedTime": " 4:41 PM",
     "googleSearch": "https://www.google.com/search?q=+Swastik Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Swastik Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -343,8 +342,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 9:05 AM 28th May,21",
-    "lastUpdatedTime": " 9:05 AM",
+    "lastUpdatedDate": " 5:33 PM 28th May,21",
+    "lastUpdatedTime": " 5:33 PM",
     "googleSearch": "https://www.google.com/search?q=+Talwar Nursing Home, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Talwar Nursing Home, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -358,8 +357,8 @@
     "oxygenBedAvailable": "12",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 3:40 PM 28th May,21",
-    "lastUpdatedTime": " 3:40 PM",
+    "lastUpdatedDate": " 4:40 PM 28th May,21",
+    "lastUpdatedTime": " 4:40 PM",
     "googleSearch": "https://www.google.com/search?q=+Tomar Nursing Home, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Tomar Nursing Home, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -373,8 +372,8 @@
     "oxygenBedAvailable": "8",
     "normalBedTotal": null,
     "normalBedOccupied": " 3",
-    "lastUpdatedDate": " 9:23 AM 28th May,21",
-    "lastUpdatedTime": " 9:23 AM",
+    "lastUpdatedDate": " 4:41 PM 28th May,21",
+    "lastUpdatedTime": " 4:41 PM",
     "googleSearch": "https://www.google.com/search?q=+Vardan Hospital, Sirsa+sirsa&rlz=1C1CHBF_enIN859IN859&oq=+Vardan Hospital, Sirsa+sirsa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

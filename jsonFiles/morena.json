@@ -7,12 +7,11 @@
     "phoneNo": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "170",
+    "oxygenBedAvailable": "230",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 08:39:08",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=DH+Morena - DCHC+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+Morena - DCHC+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -27,9 +26,23 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 08:32:46",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=Gov+Kasturba Gandhi Balika Vidyalay Chhatrawas VIP Road Morena+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Gov+Kasturba Gandhi Balika Vidyalay Chhatrawas VIP Road Morena+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "state": "Madhyapradesh",
+    "hospitalName": "R L HOSPITAL, TEKARI, MORENA",
+    "hospitalAdress": "Not Available",
+    "district": "morena",
+    "phoneNo": "-",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "0",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "-",
+    "lastUpdatedDate": "-",
+    "googleSearch": "https://www.google.com/search?q=R+L HOSPITAL, TEKARI, MORENA+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=R+L HOSPITAL, TEKARI, MORENA+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "state": "Madhyapradesh",
@@ -43,8 +56,7 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 06:33:16",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=Girls+Hostal Pahadgarh+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Girls+Hostal Pahadgarh+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -59,8 +71,7 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 07:25:42",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=Trival+ Gov. SC+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Trival+ Gov. SC+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -75,24 +86,7 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 08:04:03",
+    "lastUpdatedDate": "-",
     "googleSearch": "https://www.google.com/search?q=IAM+& NHA COVID CENTER SARSWATI SHISHU MANDIR MORENA+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=IAM+& NHA COVID CENTER SARSWATI SHISHU MANDIR MORENA+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
-  },
-  {
-    "state": "Madhyapradesh",
-    "hospitalName": "R L HOSPITAL, TEKARI, MORENA",
-    "hospitalAdress": "Not Available",
-    "district": "morena",
-    "phoneNo": "-",
-    "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "0",
-    "normalBedTotal": "-",
-    "normalBedOccupied": "-",
-    "normalBedAvailable": "-",
-    "lastUpdatedDate": "28-05-2021",
-    "lastUpdatedTime": " 07:39:11",
-    "googleSearch": "https://www.google.com/search?q=R+L HOSPITAL, TEKARI, MORENA+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=R+L HOSPITAL, TEKARI, MORENA+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

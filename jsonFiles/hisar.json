@@ -5,14 +5,14 @@
     "hospitalName": " AADHAR Hospital, Hisar",
     "hospitalAdress": "Not Available",
     "phoneNo": "09729913333",
-    "oxygenBedTotal": 37,
+    "oxygenBedTotal": 39,
     "oxygenBedOccupied": " 26",
-    "oxygenBedAvailable": "11",
+    "oxygenBedAvailable": "13",
     "normalBedTotal": 6,
     "normalBedOccupied": " 6",
     "normalBedAvailable": "0",
-    "lastUpdatedDate": " 3:17 PM 28th May,21",
-    "lastUpdatedTime": " 3:17 PM",
+    "lastUpdatedDate": " 4:38 PM 28th May,21",
+    "lastUpdatedTime": " 4:38 PM",
     "googleSearch": "https://www.google.com/search?q=+AADHAR Hospital, Hisar+hisar&rlz=1C1CHBF_enIN859IN859&oq=+AADHAR Hospital, Hisar+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -27,8 +27,8 @@
     "normalBedTotal": 0,
     "normalBedOccupied": " 0",
     "normalBedAvailable": "0",
-    "lastUpdatedDate": " 12:47 PM 28th May,21",
-    "lastUpdatedTime": " 12:47 PM",
+    "lastUpdatedDate": " 8:27 PM 28th May,21",
+    "lastUpdatedTime": " 8:27 PM",
     "googleSearch": "https://www.google.com/search?q=+Bharat Multispeciality Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Bharat Multispeciality Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -37,13 +37,13 @@
     "hospitalName": " Central Medical Centre (CMC)",
     "hospitalAdress": "Not Available",
     "phoneNo": "09996166233",
-    "oxygenBedTotal": 72,
+    "oxygenBedTotal": 74,
     "oxygenBedOccupied": " 47",
-    "oxygenBedAvailable": "25",
+    "oxygenBedAvailable": "27",
     "normalBedTotal": null,
     "normalBedOccupied": " 5",
-    "lastUpdatedDate": " 2:06 PM 28th May,21",
-    "lastUpdatedTime": " 2:06 PM",
+    "lastUpdatedDate": " 8:03 PM 28th May,21",
+    "lastUpdatedTime": " 8:03 PM",
     "googleSearch": "https://www.google.com/search?q=+Central Medical Centre (CMC)+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Central Medical Centre (CMC)+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -72,8 +72,8 @@
     "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 2:23 PM 28th May,21",
-    "lastUpdatedTime": " 2:23 PM",
+    "lastUpdatedDate": " 8:31 PM 28th May,21",
+    "lastUpdatedTime": " 8:31 PM",
     "googleSearch": "https://www.google.com/search?q=+Churamani Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Churamani Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -82,13 +82,13 @@
     "hospitalName": " District Civil Hospital Hisar",
     "hospitalAdress": "Not Available",
     "phoneNo": "01662278102",
-    "oxygenBedTotal": 101,
+    "oxygenBedTotal": 106,
     "oxygenBedOccupied": " 70",
-    "oxygenBedAvailable": "31",
+    "oxygenBedAvailable": "36",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 8:47 AM 28th May,21",
-    "lastUpdatedTime": " 8:47 AM",
+    "lastUpdatedDate": " 6:13 PM 28th May,21",
+    "lastUpdatedTime": " 6:13 PM",
     "googleSearch": "https://www.google.com/search?q=+District Civil Hospital Hisar+hisar&rlz=1C1CHBF_enIN859IN859&oq=+District Civil Hospital Hisar+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -102,8 +102,8 @@
     "oxygenBedAvailable": "11",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 12:16 PM 28th May,21",
-    "lastUpdatedTime": " 12:16 PM",
+    "lastUpdatedDate": " 8:30 PM 28th May,21",
+    "lastUpdatedTime": " 8:30 PM",
     "googleSearch": "https://www.google.com/search?q=+DR. ANANTRAM JANTA HOSPITAL PVT LTD BARWALA+hisar&rlz=1C1CHBF_enIN859IN859&oq=+DR. ANANTRAM JANTA HOSPITAL PVT LTD BARWALA+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -132,8 +132,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 5",
-    "lastUpdatedDate": " 2:24 PM 28th May,21",
-    "lastUpdatedTime": " 2:24 PM",
+    "lastUpdatedDate": " 8:32 PM 28th May,21",
+    "lastUpdatedTime": " 8:32 PM",
     "googleSearch": "https://www.google.com/search?q=+Goswami Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Goswami Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -142,13 +142,13 @@
     "hospitalName": " Gupta Hospital Hisar",
     "hospitalAdress": "Not Available",
     "phoneNo": "09254378993",
-    "oxygenBedTotal": 54,
+    "oxygenBedTotal": 56,
     "oxygenBedOccupied": " 30",
-    "oxygenBedAvailable": "24",
+    "oxygenBedAvailable": "26",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:20 PM 28th May,21",
-    "lastUpdatedTime": " 2:20 PM",
+    "lastUpdatedDate": " 5:33 PM 28th May,21",
+    "lastUpdatedTime": " 5:33 PM",
     "googleSearch": "https://www.google.com/search?q=+Gupta Hospital Hisar+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Gupta Hospital Hisar+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -157,13 +157,13 @@
     "hospitalName": " GURU JAMBHESHWAR MULTISPECIALITY HOSPITAL, AGROHA",
     "hospitalAdress": "Not Available",
     "phoneNo": "9812591693",
-    "oxygenBedTotal": 17,
+    "oxygenBedTotal": 16,
     "oxygenBedOccupied": " 9",
-    "oxygenBedAvailable": "8",
+    "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 3",
-    "lastUpdatedDate": " 10:32 AM 28th May,21",
-    "lastUpdatedTime": " 10:32 AM",
+    "lastUpdatedDate": " 8:32 PM 28th May,21",
+    "lastUpdatedTime": " 8:32 PM",
     "googleSearch": "https://www.google.com/search?q=+GURU JAMBHESHWAR MULTISPECIALITY HOSPITAL, AGROHA+hisar&rlz=1C1CHBF_enIN859IN859&oq=+GURU JAMBHESHWAR MULTISPECIALITY HOSPITAL, AGROHA+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -177,8 +177,8 @@
     "oxygenBedAvailable": "14",
     "normalBedTotal": null,
     "normalBedOccupied": " 6",
-    "lastUpdatedDate": " 2:22 PM 28th May,21",
-    "lastUpdatedTime": " 2:22 PM",
+    "lastUpdatedDate": " 8:29 PM 28th May,21",
+    "lastUpdatedTime": " 8:29 PM",
     "googleSearch": "https://www.google.com/search?q=+Holy Help Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Holy Help Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -192,8 +192,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 1",
-    "lastUpdatedDate": " 2:25 PM 28th May,21",
-    "lastUpdatedTime": " 2:25 PM",
+    "lastUpdatedDate": " 8:33 PM 28th May,21",
+    "lastUpdatedTime": " 8:33 PM",
     "googleSearch": "https://www.google.com/search?q=+Janki Children Hospital Hisar+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Janki Children Hospital Hisar+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -217,13 +217,13 @@
     "hospitalName": " Mahatma Gandhi Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "01662247111",
-    "oxygenBedTotal": 27,
+    "oxygenBedTotal": 22,
     "oxygenBedOccupied": " 19",
-    "oxygenBedAvailable": "8",
+    "oxygenBedAvailable": "3",
     "normalBedTotal": null,
     "normalBedOccupied": " 13",
-    "lastUpdatedDate": " 2:20 PM 28th May,21",
-    "lastUpdatedTime": " 2:20 PM",
+    "lastUpdatedDate": " 8:30 PM 28th May,21",
+    "lastUpdatedTime": " 8:30 PM",
     "googleSearch": "https://www.google.com/search?q=+Mahatma Gandhi Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Mahatma Gandhi Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -237,8 +237,8 @@
     "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 7:59 AM 28th May,21",
-    "lastUpdatedTime": " 7:59 AM",
+    "lastUpdatedDate": " 8:34 PM 28th May,21",
+    "lastUpdatedTime": " 8:34 PM",
     "googleSearch": "https://www.google.com/search?q=+MALIK HOSPITAL+hisar&rlz=1C1CHBF_enIN859IN859&oq=+MALIK HOSPITAL+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -297,8 +297,8 @@
     "oxygenBedAvailable": "1",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:25 PM 28th May,21",
-    "lastUpdatedTime": " 2:25 PM",
+    "lastUpdatedDate": " 8:34 PM 28th May,21",
+    "lastUpdatedTime": " 8:34 PM",
     "googleSearch": "https://www.google.com/search?q=+NEKIRAM HOSPITAL+hisar&rlz=1C1CHBF_enIN859IN859&oq=+NEKIRAM HOSPITAL+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -312,8 +312,8 @@
     "oxygenBedAvailable": "10",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 10:43 AM 28th May,21",
-    "lastUpdatedTime": " 10:43 AM",
+    "lastUpdatedDate": " 8:27 PM 28th May,21",
+    "lastUpdatedTime": " 8:27 PM",
     "googleSearch": "https://www.google.com/search?q=+Noble Super Specialty Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Noble Super Specialty Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -322,13 +322,13 @@
     "hospitalName": " OPJindal Institute of Cancer & Research Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "01662221169",
-    "oxygenBedTotal": 151,
+    "oxygenBedTotal": 161,
     "oxygenBedOccupied": " 100",
-    "oxygenBedAvailable": "51",
+    "oxygenBedAvailable": "61",
     "normalBedTotal": null,
     "normalBedOccupied": " 4",
-    "lastUpdatedDate": " 10:25 AM 28th May,21",
-    "lastUpdatedTime": " 10:25 AM",
+    "lastUpdatedDate": " 5:30 PM 28th May,21",
+    "lastUpdatedTime": " 5:30 PM",
     "googleSearch": "https://www.google.com/search?q=+OPJindal Institute of Cancer & Research Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+OPJindal Institute of Cancer & Research Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -342,8 +342,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 6",
-    "lastUpdatedDate": " 2:24 PM 28th May,21",
-    "lastUpdatedTime": " 2:24 PM",
+    "lastUpdatedDate": " 8:32 PM 28th May,21",
+    "lastUpdatedTime": " 8:32 PM",
     "googleSearch": "https://www.google.com/search?q=+PARDEEP KANSAL MULTISPECIALITY HOSPITAL FOR CHILDREN+hisar&rlz=1C1CHBF_enIN859IN859&oq=+PARDEEP KANSAL MULTISPECIALITY HOSPITAL FOR CHILDREN+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -357,8 +357,8 @@
     "oxygenBedAvailable": "16",
     "normalBedTotal": null,
     "normalBedOccupied": " 5",
-    "lastUpdatedDate": " 10:06 AM 28th May,21",
-    "lastUpdatedTime": " 10:06 AM",
+    "lastUpdatedDate": " 8:26 PM 28th May,21",
+    "lastUpdatedTime": " 8:26 PM",
     "googleSearch": "https://www.google.com/search?q=+Parnami Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Parnami Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -367,13 +367,13 @@
     "hospitalName": " Ravindra Hospital Hisar",
     "hospitalAdress": "Not Available",
     "phoneNo": "01662223120",
-    "oxygenBedTotal": 35,
+    "oxygenBedTotal": 34,
     "oxygenBedOccupied": " 19",
-    "oxygenBedAvailable": "16",
+    "oxygenBedAvailable": "15",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 7:50 AM 28th May,21",
-    "lastUpdatedTime": " 7:50 AM",
+    "lastUpdatedDate": " 8:29 PM 28th May,21",
+    "lastUpdatedTime": " 8:29 PM",
     "googleSearch": "https://www.google.com/search?q=+Ravindra Hospital Hisar+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Ravindra Hospital Hisar+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -387,8 +387,8 @@
     "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:37 PM 28th May,21",
-    "lastUpdatedTime": " 2:37 PM",
+    "lastUpdatedDate": " 7:24 PM 28th May,21",
+    "lastUpdatedTime": " 7:24 PM",
     "googleSearch": "https://www.google.com/search?q=+SAANVI HOSPITAL+hisar&rlz=1C1CHBF_enIN859IN859&oq=+SAANVI HOSPITAL+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -402,8 +402,8 @@
     "oxygenBedAvailable": "4",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 7:57 AM 28th May,21",
-    "lastUpdatedTime": " 7:57 AM",
+    "lastUpdatedDate": " 8:33 PM 28th May,21",
+    "lastUpdatedTime": " 8:33 PM",
     "googleSearch": "https://www.google.com/search?q=+SAMAYARA HOSPITAL+hisar&rlz=1C1CHBF_enIN859IN859&oq=+SAMAYARA HOSPITAL+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -432,8 +432,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 7",
-    "lastUpdatedDate": " 2:20 PM 28th May,21",
-    "lastUpdatedTime": " 2:20 PM",
+    "lastUpdatedDate": " 8:28 PM 28th May,21",
+    "lastUpdatedTime": " 8:28 PM",
     "googleSearch": "https://www.google.com/search?q=+Sarvodya Hospital, Hisar+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Sarvodya Hospital, Hisar+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -442,13 +442,13 @@
     "hospitalName": " Sewak Sabha Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "9812742254",
-    "oxygenBedTotal": 27,
+    "oxygenBedTotal": 26,
     "oxygenBedOccupied": " 16",
-    "oxygenBedAvailable": "11",
+    "oxygenBedAvailable": "10",
     "normalBedTotal": null,
     "normalBedOccupied": " 3",
-    "lastUpdatedDate": " 2:08 PM 28th May,21",
-    "lastUpdatedTime": " 2:08 PM",
+    "lastUpdatedDate": " 8:25 PM 28th May,21",
+    "lastUpdatedTime": " 8:25 PM",
     "googleSearch": "https://www.google.com/search?q=+Sewak Sabha Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Sewak Sabha Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -457,13 +457,13 @@
     "hospitalName": " Shanti Devi Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "09034013081",
-    "oxygenBedTotal": 46,
+    "oxygenBedTotal": 49,
     "oxygenBedOccupied": " 26",
-    "oxygenBedAvailable": "20",
+    "oxygenBedAvailable": "23",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:20 PM 28th May,21",
-    "lastUpdatedTime": " 2:20 PM",
+    "lastUpdatedDate": " 8:26 PM 28th May,21",
+    "lastUpdatedTime": " 8:26 PM",
     "googleSearch": "https://www.google.com/search?q=+Shanti Devi Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Shanti Devi Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -487,13 +487,13 @@
     "hospitalName": " SINGLA MULTISPECIALITY HOSPITAL",
     "hospitalAdress": "Not Available",
     "phoneNo": "09996357571",
-    "oxygenBedTotal": 26,
+    "oxygenBedTotal": 28,
     "oxygenBedOccupied": " 17",
-    "oxygenBedAvailable": "9",
+    "oxygenBedAvailable": "11",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:23 PM 28th May,21",
-    "lastUpdatedTime": " 2:23 PM",
+    "lastUpdatedDate": " 8:31 PM 28th May,21",
+    "lastUpdatedTime": " 8:31 PM",
     "googleSearch": "https://www.google.com/search?q=+SINGLA MULTISPECIALITY HOSPITAL+hisar&rlz=1C1CHBF_enIN859IN859&oq=+SINGLA MULTISPECIALITY HOSPITAL+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -507,8 +507,8 @@
     "oxygenBedAvailable": "3",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 10:24 AM 28th May,21",
-    "lastUpdatedTime": " 10:24 AM",
+    "lastUpdatedDate": " 4:20 PM 28th May,21",
+    "lastUpdatedTime": " 4:20 PM",
     "googleSearch": "https://www.google.com/search?q=+SL Minda Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+SL Minda Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -522,8 +522,8 @@
     "oxygenBedAvailable": "9",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 2:16 PM 28th May,21",
-    "lastUpdatedTime": " 2:16 PM",
+    "lastUpdatedDate": " 8:33 PM 28th May,21",
+    "lastUpdatedTime": " 8:33 PM",
     "googleSearch": "https://www.google.com/search?q=+Sonakshi Children Hospital Hansi+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Sonakshi Children Hospital Hansi+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -532,13 +532,13 @@
     "hospitalName": " Sukhda Multispeciality Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "09996544005",
-    "oxygenBedTotal": 64,
+    "oxygenBedTotal": 66,
     "oxygenBedOccupied": " 46",
-    "oxygenBedAvailable": "18",
+    "oxygenBedAvailable": "20",
     "normalBedTotal": null,
     "normalBedOccupied": " 4",
-    "lastUpdatedDate": " 2:20 PM 28th May,21",
-    "lastUpdatedTime": " 2:20 PM",
+    "lastUpdatedDate": " 7:15 PM 28th May,21",
+    "lastUpdatedTime": " 7:15 PM",
     "googleSearch": "https://www.google.com/search?q=+Sukhda Multispeciality Hospital+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Sukhda Multispeciality Hospital+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -552,8 +552,8 @@
     "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 1",
-    "lastUpdatedDate": " 3:04 PM 28th May,21",
-    "lastUpdatedTime": " 3:04 PM",
+    "lastUpdatedDate": " 6:19 PM 28th May,21",
+    "lastUpdatedTime": " 6:19 PM",
     "googleSearch": "https://www.google.com/search?q=+Vardaan Hospital Hisar+hisar&rlz=1C1CHBF_enIN859IN859&oq=+Vardaan Hospital Hisar+hisar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]
