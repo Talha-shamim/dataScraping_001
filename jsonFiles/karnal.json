@@ -40,10 +40,11 @@
     "oxygenBedTotal": 31,
     "oxygenBedOccupied": " 16",
     "oxygenBedAvailable": "15",
-    "normalBedTotal": null,
+    "normalBedTotal": 0,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 7:56 PM 27th May,21",
-    "lastUpdatedTime": " 7:56 PM",
+    "normalBedAvailable": "0",
+    "lastUpdatedDate": " 2:48 PM 28th May,21",
+    "lastUpdatedTime": " 2:48 PM",
     "googleSearch": "https://www.google.com/search?q=+Arpana Hospital+karnal&rlz=1C1CHBF_enIN859IN859&oq=+Arpana Hospital+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -72,8 +73,8 @@
     "oxygenBedAvailable": "10",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 10:46 AM 27th May,21",
-    "lastUpdatedTime": " 10:46 AM",
+    "lastUpdatedDate": " 10:28 AM 28th May,21",
+    "lastUpdatedTime": " 10:28 AM",
     "googleSearch": "https://www.google.com/search?q=+CHC Assandh+karnal&rlz=1C1CHBF_enIN859IN859&oq=+CHC Assandh+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -87,8 +88,8 @@
     "oxygenBedAvailable": "10",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 10:45 AM 27th May,21",
-    "lastUpdatedTime": " 10:45 AM",
+    "lastUpdatedDate": " 10:28 AM 28th May,21",
+    "lastUpdatedTime": " 10:28 AM",
     "googleSearch": "https://www.google.com/search?q=+CHC Gharaunda+karnal&rlz=1C1CHBF_enIN859IN859&oq=+CHC Gharaunda+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -102,8 +103,8 @@
     "oxygenBedAvailable": "11",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 10:50 AM 27th May,21",
-    "lastUpdatedTime": " 10:50 AM",
+    "lastUpdatedDate": " 10:30 AM 28th May,21",
+    "lastUpdatedTime": " 10:30 AM",
     "googleSearch": "https://www.google.com/search?q=+CHC Kunjpura+karnal&rlz=1C1CHBF_enIN859IN859&oq=+CHC Kunjpura+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -117,8 +118,8 @@
     "oxygenBedAvailable": "10",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 10:46 AM 27th May,21",
-    "lastUpdatedTime": " 10:46 AM",
+    "lastUpdatedDate": " 10:28 AM 28th May,21",
+    "lastUpdatedTime": " 10:28 AM",
     "googleSearch": "https://www.google.com/search?q=+CHC Nissing+karnal&rlz=1C1CHBF_enIN859IN859&oq=+CHC Nissing+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -132,8 +133,8 @@
     "oxygenBedAvailable": "6",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 10:49 AM 27th May,21",
-    "lastUpdatedTime": " 10:49 AM",
+    "lastUpdatedDate": " 10:29 AM 28th May,21",
+    "lastUpdatedTime": " 10:29 AM",
     "googleSearch": "https://www.google.com/search?q=+CHC Taraori+karnal&rlz=1C1CHBF_enIN859IN859&oq=+CHC Taraori+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -142,13 +143,13 @@
     "hospitalName": " Dr. Gian Bhushan Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "911842204820",
-    "oxygenBedTotal": 7,
+    "oxygenBedTotal": 11,
     "oxygenBedOccupied": " 6",
-    "oxygenBedAvailable": "1",
+    "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:17 PM 27th May,21",
-    "lastUpdatedTime": " 4:17 PM",
+    "lastUpdatedDate": " 7:52 AM 28th May,21",
+    "lastUpdatedTime": " 7:52 AM",
     "googleSearch": "https://www.google.com/search?q=+Dr. Gian Bhushan Hospital+karnal&rlz=1C1CHBF_enIN859IN859&oq=+Dr. Gian Bhushan Hospital+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -162,8 +163,8 @@
     "oxygenBedAvailable": "9",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 11:35 AM 27th May,21",
-    "lastUpdatedTime": " 11:35 AM",
+    "lastUpdatedDate": " 9:18 AM 28th May,21",
+    "lastUpdatedTime": " 9:18 AM",
     "googleSearch": "https://www.google.com/search?q=+Ishwar Kirpa Hospital+karnal&rlz=1C1CHBF_enIN859IN859&oq=+Ishwar Kirpa Hospital+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -187,13 +188,13 @@
     "hospitalName": " Karnal Nursing Home",
     "hospitalAdress": "Not Available",
     "phoneNo": "9138102092",
-    "oxygenBedTotal": 12,
+    "oxygenBedTotal": 15,
     "oxygenBedOccupied": " 8",
-    "oxygenBedAvailable": "4",
+    "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 5:55 PM 27th May,21",
-    "lastUpdatedTime": " 5:55 PM",
+    "lastUpdatedDate": " 11:59 AM 28th May,21",
+    "lastUpdatedTime": " 11:59 AM",
     "googleSearch": "https://www.google.com/search?q=+Karnal Nursing Home+karnal&rlz=1C1CHBF_enIN859IN859&oq=+Karnal Nursing Home+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -232,13 +233,13 @@
     "hospitalName": " RP Welltar Hospital",
     "hospitalAdress": "Not Available",
     "phoneNo": "9215331497",
-    "oxygenBedTotal": 12,
+    "oxygenBedTotal": 15,
     "oxygenBedOccupied": " 10",
-    "oxygenBedAvailable": "2",
+    "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 4",
-    "lastUpdatedDate": " 4:19 PM 27th May,21",
-    "lastUpdatedTime": " 4:19 PM",
+    "lastUpdatedDate": " 9:20 AM 28th May,21",
+    "lastUpdatedTime": " 9:20 AM",
     "googleSearch": "https://www.google.com/search?q=+RP Welltar Hospital+karnal&rlz=1C1CHBF_enIN859IN859&oq=+RP Welltar Hospital+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -297,8 +298,8 @@
     "oxygenBedAvailable": "10",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 10:48 AM 27th May,21",
-    "lastUpdatedTime": " 10:48 AM",
+    "lastUpdatedDate": " 10:29 AM 28th May,21",
+    "lastUpdatedTime": " 10:29 AM",
     "googleSearch": "https://www.google.com/search?q=+SDH Nilokheri+karnal&rlz=1C1CHBF_enIN859IN859&oq=+SDH Nilokheri+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -342,8 +343,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 6:38 PM 27th May,21",
-    "lastUpdatedTime": " 6:38 PM",
+    "lastUpdatedDate": " 8:58 AM 28th May,21",
+    "lastUpdatedTime": " 8:58 AM",
     "googleSearch": "https://www.google.com/search?q=+SS Hospital+karnal&rlz=1C1CHBF_enIN859IN859&oq=+SS Hospital+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -357,8 +358,8 @@
     "oxygenBedAvailable": "6",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 3:37 PM 27th May,21",
-    "lastUpdatedTime": " 3:37 PM",
+    "lastUpdatedDate": " 6:01 AM 28th May,21",
+    "lastUpdatedTime": " 6:01 AM",
     "googleSearch": "https://www.google.com/search?q=+Swastik Hospital+karnal&rlz=1C1CHBF_enIN859IN859&oq=+Swastik Hospital+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -367,13 +368,13 @@
     "hospitalName": " Virk Hospital Karnal",
     "hospitalAdress": "Not Available",
     "phoneNo": "917027370332",
-    "oxygenBedTotal": 60,
+    "oxygenBedTotal": 61,
     "oxygenBedOccupied": " 37",
-    "oxygenBedAvailable": "23",
+    "oxygenBedAvailable": "24",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:40 PM 27th May,21",
-    "lastUpdatedTime": " 4:40 PM",
+    "lastUpdatedDate": " 2:50 PM 28th May,21",
+    "lastUpdatedTime": " 2:50 PM",
     "googleSearch": "https://www.google.com/search?q=+Virk Hospital Karnal+karnal&rlz=1C1CHBF_enIN859IN859&oq=+Virk Hospital Karnal+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

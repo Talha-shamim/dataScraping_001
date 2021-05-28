@@ -1,7 +1,7 @@
 [
   {
     "hospitalName": "Goa Medical College & Hospital, Bambolim",
-    "hospitalAddress": "N17, Bambolim, Goa 403202",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "903",
     "normalBedOccupied": "-",
     "normalBedAvailable": "348",
@@ -12,14 +12,12 @@
     "lastUpdatedTime": "04:37pm",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 245 8727",
-    "googleSearch": "https://www.google.com/search?q=Goa+Medical College & Hospital, Bambolim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Goa+Medical College & Hospital, Bambolim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.4643263",
-    "longitude": "73.8584025"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Goa+Medical College & Hospital, Bambolim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Goa+Medical College & Hospital, Bambolim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "South Goa District Hospital, Margao",
-    "hospitalAddress": "NH 66, Fatorda, Margao, Goa 403602",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "568",
     "normalBedOccupied": "-",
     "normalBedAvailable": "281",
@@ -30,10 +28,24 @@
     "lastUpdatedTime": "12:51pm",
     "district": "",
     "state": "Goa",
-    "phoneNo": "",
-    "googleSearch": "https://www.google.com/search?q=South+Goa District Hospital, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=South+Goa District Hospital, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2950132",
-    "longitude": "73.953641"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=South+Goa District Hospital, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=South+Goa District Hospital, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "hospitalName": "Sub District Hospital, Ponda",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "150",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "150",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "-",
+    "lastUpdatedDate": "28/05/21",
+    "lastUpdatedTime": "03:12pm",
+    "district": "",
+    "state": "Goa",
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Sub+District Hospital, Ponda+Goa&rlz=1C1CHBF_enIN859IN859&oq=Sub+District Hospital, Ponda+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "ESI Hospital, Margao",
@@ -50,24 +62,6 @@
     "state": "Goa",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=ESI+Hospital, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=ESI+Hospital, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
-  },
-  {
-    "hospitalName": "Sub District Hospital, Ponda",
-    "hospitalAddress": "Kurtarkar Nagari, Ponda, Goa 403401",
-    "normalBedTotal": "150",
-    "normalBedOccupied": "-",
-    "normalBedAvailable": "78",
-    "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "28/05/21",
-    "lastUpdatedTime": "09:48am",
-    "district": "",
-    "state": "Goa",
-    "phoneNo": "",
-    "googleSearch": "https://www.google.com/search?q=Sub+District Hospital, Ponda+Goa&rlz=1C1CHBF_enIN859IN859&oq=Sub+District Hospital, Ponda+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.3930424",
-    "longitude": "74.0057194"
   },
   {
     "hospitalName": "Majestic Pride Covid Care Centre",
@@ -87,7 +81,7 @@
   },
   {
     "hospitalName": "North Goa District Hospital, Mapusa",
-    "hospitalAddress": "Mapusa Jamatkhana Road, Peddem, Mapusa, Goa 403507",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "119",
     "normalBedOccupied": "-",
     "normalBedAvailable": "43",
@@ -98,10 +92,8 @@
     "lastUpdatedTime": "11:07am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "",
-    "googleSearch": "https://www.google.com/search?q=North+Goa District Hospital, Mapusa+Goa&rlz=1C1CHBF_enIN859IN859&oq=North+Goa District Hospital, Mapusa+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.5968924",
-    "longitude": "73.8201766"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=North+Goa District Hospital, Mapusa+Goa&rlz=1C1CHBF_enIN859IN859&oq=North+Goa District Hospital, Mapusa+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "SMRC Hospital, Vasco",
@@ -121,7 +113,7 @@
   },
   {
     "hospitalName": "Savaikar Hospital, Ponda",
-    "hospitalAddress": "Warkhandem, Ponda, Goa 403401",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "20",
     "normalBedOccupied": "-",
     "normalBedAvailable": "12",
@@ -132,14 +124,12 @@
     "lastUpdatedTime": "09:39am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 231 9202",
-    "googleSearch": "https://www.google.com/search?q=Savaikar+Hospital, Ponda+Goa&rlz=1C1CHBF_enIN859IN859&oq=Savaikar+Hospital, Ponda+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.4032181",
-    "longitude": "74.0049443"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Savaikar+Hospital, Ponda+Goa&rlz=1C1CHBF_enIN859IN859&oq=Savaikar+Hospital, Ponda+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Aster Hospital Pvt Ltd, Margao",
-    "hospitalAddress": "Chapel Road, next to Holy Spirit Church, Monte Hill, Margao, Goa 403601",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "16",
     "normalBedOccupied": "-",
     "normalBedAvailable": "10",
@@ -150,14 +140,12 @@
     "lastUpdatedTime": "12:07pm",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 270 5001",
-    "googleSearch": "https://www.google.com/search?q=Aster+Hospital Pvt Ltd, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Aster+Hospital Pvt Ltd, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2808348",
-    "longitude": "73.9614898"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Aster+Hospital Pvt Ltd, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Aster+Hospital Pvt Ltd, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Classic Hospital, Malbhat, Margao",
-    "hospitalAddress": "Malbhat, Margao, Goa 403601",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "16",
     "normalBedOccupied": "-",
     "normalBedAvailable": "9",
@@ -168,14 +156,12 @@
     "lastUpdatedTime": "09:14am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 271 1014",
-    "googleSearch": "https://www.google.com/search?q=Classic+Hospital, Malbhat, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Classic+Hospital, Malbhat, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.269592",
-    "longitude": "73.965776"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Classic+Hospital, Malbhat, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Classic+Hospital, Malbhat, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Manipal Hospital, Donapaula",
-    "hospitalAddress": "Panaji, Dr E Borges Rd, Dona Paula, Goa 403004",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "36",
     "normalBedOccupied": "-",
     "normalBedAvailable": "8",
@@ -186,14 +172,12 @@
     "lastUpdatedTime": "10:33am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "1800 102 5555",
-    "googleSearch": "https://www.google.com/search?q=Manipal+Hospital, Donapaula+Goa&rlz=1C1CHBF_enIN859IN859&oq=Manipal+Hospital, Donapaula+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.4600059",
-    "longitude": "73.813462"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Manipal+Hospital, Donapaula+Goa&rlz=1C1CHBF_enIN859IN859&oq=Manipal+Hospital, Donapaula+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Victor Hospital, Margao",
-    "hospitalAddress": "Old Station Rd, near Carmelite Monastery, Malbhat, Margao, Goa 403601",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "27",
     "normalBedOccupied": "-",
     "normalBedAvailable": "8",
@@ -204,14 +188,12 @@
     "lastUpdatedTime": "01:52pm",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 672 8888",
-    "googleSearch": "https://www.google.com/search?q=Victor+Hospital, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Victor+Hospital, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2689598",
-    "longitude": "73.9663188"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Victor+Hospital, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Victor+Hospital, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Trimurti General Hospital, Borda, Margao",
-    "hospitalAddress": "Las Palmas Housing Estate, Margao Bypass, Margao, Goa 403601",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "19",
     "normalBedOccupied": "-",
     "normalBedAvailable": "8",
@@ -222,14 +204,12 @@
     "lastUpdatedTime": "09:43am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 270 0707",
-    "googleSearch": "https://www.google.com/search?q=Trimurti+General Hospital, Borda, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Trimurti+General Hospital, Borda, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2866906",
-    "longitude": "73.9773997"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Trimurti+General Hospital, Borda, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Trimurti+General Hospital, Borda, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Healthway Hospital, Goa velha",
-    "hospitalAddress": "Plot No 132/1 (Part), Ella Village, Kadamba Plateau, Goa Velha, Goa 403402",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "40",
     "normalBedOccupied": "-",
     "normalBedAvailable": "7",
@@ -240,14 +220,12 @@
     "lastUpdatedTime": "11:58am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 246 7666",
-    "googleSearch": "https://www.google.com/search?q=Healthway+Hospital, Goa velha+Goa&rlz=1C1CHBF_enIN859IN859&oq=Healthway+Hospital, Goa velha+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.4856164",
-    "longitude": "73.9111814"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Healthway+Hospital, Goa velha+Goa&rlz=1C1CHBF_enIN859IN859&oq=Healthway+Hospital, Goa velha+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Mother Care Hospital, Borda, Margao",
-    "hospitalAddress": "St Joaquim Road, near St. Joaquim Chapel, Borda, Margao, Goa 403601",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "30",
     "normalBedOccupied": "-",
     "normalBedAvailable": "6",
@@ -258,26 +236,40 @@
     "lastUpdatedTime": "10:13am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 270 0103",
-    "googleSearch": "https://www.google.com/search?q=Mother+Care Hospital, Borda, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Mother+Care Hospital, Borda, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2816838",
-    "longitude": "73.9640248"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Mother+Care Hospital, Borda, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Mother+Care Hospital, Borda, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
-    "hospitalName": "Imperial Plus Hospital LLP, Margao",
+    "hospitalName": "Horizon ICU Hospital, Margao",
     "hospitalAddress": "Not Available",
-    "normalBedTotal": "16",
+    "normalBedTotal": "17",
     "normalBedOccupied": "-",
     "normalBedAvailable": "6",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
     "lastUpdatedDate": "28/05/21",
-    "lastUpdatedTime": "09:30am",
+    "lastUpdatedTime": "03:05pm",
     "district": "",
     "state": "Goa",
     "phoneNo": "Not Available",
-    "googleSearch": "https://www.google.com/search?q=Imperial+Plus Hospital LLP, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Imperial+Plus Hospital LLP, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Horizon+ICU Hospital, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Horizon+ICU Hospital, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "hospitalName": "Dr. Kolwalkar's Galaxy Hospital, Mapusa",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "17",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "-",
+    "lastUpdatedDate": "28/05/21",
+    "lastUpdatedTime": "02:58pm",
+    "district": "",
+    "state": "Goa",
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Dr.+Kolwalkar's Galaxy Hospital, Mapusa+Goa&rlz=1C1CHBF_enIN859IN859&oq=Dr.+Kolwalkar's Galaxy Hospital, Mapusa+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Dr. Kedar Hospital, Panjim",
@@ -313,7 +305,7 @@
   },
   {
     "hospitalName": "Royal Hospital, Aquem, Margao",
-    "hospitalAddress": "Aquem ,Margao, Goa( South ), Off Power House Road, Margao, Goa 403601",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "10",
     "normalBedOccupied": "-",
     "normalBedAvailable": "5",
@@ -324,14 +316,28 @@
     "lastUpdatedTime": "10:34am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 273 7722",
-    "googleSearch": "https://www.google.com/search?q=Royal+Hospital, Aquem, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Royal+Hospital, Aquem, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2708414",
-    "longitude": "73.9720919"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Royal+Hospital, Aquem, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Royal+Hospital, Aquem, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "hospitalName": "Imperial Plus Hospital LLP, Margao",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "16",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "-",
+    "lastUpdatedDate": "28/05/21",
+    "lastUpdatedTime": "03:08pm",
+    "district": "",
+    "state": "Goa",
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Imperial+Plus Hospital LLP, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Imperial+Plus Hospital LLP, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Dr Samuel Nursing Home (Nagzarkar Hospital), Chinchinim",
-    "hospitalAddress": "Chinchinim, Goa 403715",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "12",
     "normalBedOccupied": "-",
     "normalBedAvailable": "4",
@@ -342,32 +348,12 @@
     "lastUpdatedTime": "08:23am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "",
-    "googleSearch": "https://www.google.com/search?q=Dr+Samuel Nursing Home (Nagzarkar Hospital), Chinchinim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Dr+Samuel Nursing Home (Nagzarkar Hospital), Chinchinim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2129526",
-    "longitude": "73.975496"
-  },
-  {
-    "hospitalName": "Horizon ICU Hospital, Margao",
-    "hospitalAddress": "Pajifond, Agakhan Street - Rua Da Saudades, Isidorio Baptista Rd, Next to Isadoro, Margao, Goa 403601",
-    "normalBedTotal": "17",
-    "normalBedOccupied": "-",
-    "normalBedAvailable": "3",
-    "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "28/05/21",
-    "lastUpdatedTime": "11:40am",
-    "district": "",
-    "state": "Goa",
-    "phoneNo": "0832 271 4141",
-    "googleSearch": "https://www.google.com/search?q=Horizon+ICU Hospital, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Horizon+ICU Hospital, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2735923",
-    "longitude": "73.9630284"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Dr+Samuel Nursing Home (Nagzarkar Hospital), Chinchinim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Dr+Samuel Nursing Home (Nagzarkar Hospital), Chinchinim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Borkar Nursing, Margao",
-    "hospitalAddress": "Av. Conceição, Pajifond, Margao, Goa 403601",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "10",
     "normalBedOccupied": "-",
     "normalBedAvailable": "3",
@@ -378,10 +364,8 @@
     "lastUpdatedTime": "10:11am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "",
-    "googleSearch": "https://www.google.com/search?q=Borkar+Nursing, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Borkar+Nursing, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2793136",
-    "longitude": "73.9577261"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Borkar+Nursing, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Borkar+Nursing, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Campal Clinic, Panjim",
@@ -416,26 +400,8 @@
     "googleSearch": "https://www.google.com/search?q=Sub+District Hospital Chicalim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Sub+District Hospital Chicalim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
-    "hospitalName": "Dr. Kolwalkar's Galaxy Hospital, Mapusa",
-    "hospitalAddress": "Mapusa - Duler - Camurlim Rd, Near S.P.G. Hall/Severina Gardens, Xelpem, Duler, Mapusa, Goa 403507",
-    "normalBedTotal": "17",
-    "normalBedOccupied": "-",
-    "normalBedAvailable": "1",
-    "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "28/05/21",
-    "lastUpdatedTime": "09:22am",
-    "district": "",
-    "state": "Goa",
-    "phoneNo": "0832 226 6666",
-    "googleSearch": "https://www.google.com/search?q=Dr.+Kolwalkar's Galaxy Hospital, Mapusa+Goa&rlz=1C1CHBF_enIN859IN859&oq=Dr.+Kolwalkar's Galaxy Hospital, Mapusa+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.6059007",
-    "longitude": "73.8132884"
-  },
-  {
     "hospitalName": "Dr Redkars Hospital, Pernem",
-    "hospitalAddress": "Mumbai - Goa Hwy, Dhargal, Dargalim, Goa 403513",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "20",
     "normalBedOccupied": "-",
     "normalBedAvailable": "0",
@@ -446,14 +412,12 @@
     "lastUpdatedTime": "08:39am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "",
-    "googleSearch": "https://www.google.com/search?q=Dr+Redkars Hospital, Pernem+Goa&rlz=1C1CHBF_enIN859IN859&oq=Dr+Redkars Hospital, Pernem+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.6875535",
-    "longitude": "73.8307475"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Dr+Redkars Hospital, Pernem+Goa&rlz=1C1CHBF_enIN859IN859&oq=Dr+Redkars Hospital, Pernem+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Vision Hospital, Mapusa",
-    "hospitalAddress": "Duler Ground Rd, Karaswada, Mapusa, Goa 403507",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "20",
     "normalBedOccupied": "-",
     "normalBedAvailable": "0",
@@ -464,14 +428,12 @@
     "lastUpdatedTime": "10:33am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "091122 46688",
-    "googleSearch": "https://www.google.com/search?q=Vision+Hospital, Mapusa+Goa&rlz=1C1CHBF_enIN859IN859&oq=Vision+Hospital, Mapusa+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.6045829",
-    "longitude": "73.8203984"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Vision+Hospital, Mapusa+Goa&rlz=1C1CHBF_enIN859IN859&oq=Vision+Hospital, Mapusa+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Grace Instensive Cardiace  Care Centre, Pajifond, Margao",
-    "hospitalAddress": "Opp.B.P.S. Club, Behind Asro Housing Society, Pajifond, Margao, Goa 403601",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "10",
     "normalBedOccupied": "-",
     "normalBedAvailable": "0",
@@ -482,14 +444,12 @@
     "lastUpdatedTime": "09:37am",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 272 5391",
-    "googleSearch": "https://www.google.com/search?q=Grace+Instensive Cardiace  Care Centre, Pajifond, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Grace+Instensive Cardiace  Care Centre, Pajifond, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.2770035",
-    "longitude": "73.9604779"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Grace+Instensive Cardiace  Care Centre, Pajifond, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Grace+Instensive Cardiace  Care Centre, Pajifond, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "hospitalName": "Mapusa Clinic, Mapusa",
-    "hospitalAddress": "High School, near St. Brittos, Dangui Colony, Mapusa, Goa 403507",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "2",
     "normalBedOccupied": "-",
     "normalBedAvailable": "0",
@@ -500,9 +460,7 @@
     "lastUpdatedTime": "05:53pm",
     "district": "",
     "state": "Goa",
-    "phoneNo": "0832 226 3343",
-    "googleSearch": "https://www.google.com/search?q=Mapusa+Clinic, Mapusa+Goa&rlz=1C1CHBF_enIN859IN859&oq=Mapusa+Clinic, Mapusa+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "15.5920059",
-    "longitude": "73.8121629"
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Mapusa+Clinic, Mapusa+Goa&rlz=1C1CHBF_enIN859IN859&oq=Mapusa+Clinic, Mapusa+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

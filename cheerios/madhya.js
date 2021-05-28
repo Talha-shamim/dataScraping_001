@@ -336,5 +336,4 @@ async function get() {
   }
 }
 
-get();
 exports.getmadhyapradesh = get;
