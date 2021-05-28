@@ -1,6 +1,22 @@
 [
   {
     "state": "Madhyapradesh",
+    "hospitalName": "GMC, Jabalpur - DCH",
+    "hospitalAdress": "Not Available",
+    "district": "jabalpur",
+    "phoneNo": "-",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "138",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
+    "googleSearch": "https://www.google.com/search?q=GMC,+Jabalpur - DCH+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=GMC,+Jabalpur - DCH+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "state": "Madhyapradesh",
     "hospitalName": "DH Jabalpur - DCHC",
     "hospitalAdress": "Not Available",
     "district": "jabalpur",
@@ -11,23 +27,9 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=DH+Jabalpur - DCHC+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=DH+Jabalpur - DCHC+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
-  },
-  {
-    "state": "Madhyapradesh",
-    "hospitalName": "GMC, Jabalpur - DCH",
-    "hospitalAdress": "Not Available",
-    "district": "jabalpur",
-    "phoneNo": "-",
-    "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "144",
-    "normalBedTotal": "-",
-    "normalBedOccupied": "-",
-    "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
-    "googleSearch": "https://www.google.com/search?q=GMC,+Jabalpur - DCH+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=GMC,+Jabalpur - DCH+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
     "state": "Madhyapradesh",
@@ -41,7 +43,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SMART+CITY HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SMART+CITY HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -56,7 +59,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SHITAL+CHHAYA HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SHITAL+CHHAYA HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -71,7 +75,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=Sukh+sagar medical college+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Sukh+sagar medical college+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -86,7 +91,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=Central+Railway Hospital+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Central+Railway Hospital+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -101,7 +107,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SWASTIK+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SWASTIK+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -116,7 +123,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=LIFE+MEDICITY HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=LIFE+MEDICITY HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -131,7 +139,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=BOMBAY+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=BOMBAY+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -146,7 +155,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ADITYA+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ADITYA+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -161,7 +171,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ASHISH+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ASHISH+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -176,7 +187,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=MAHAKOSHAL+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=MAHAKOSHAL+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -191,7 +203,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=MARBLE+CITY HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=MARBLE+CITY HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -206,7 +219,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=JABALPUR+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=JABALPUR+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -221,7 +235,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SHALBY+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SHALBY+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -236,7 +251,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=METRO+HOSPITAL JABALPUR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=METRO+HOSPITAL JABALPUR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -251,7 +267,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ANANT+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ANANT+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -266,7 +283,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=PANDEY+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=PANDEY+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -281,7 +299,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=JAMDAR+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=JAMDAR+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -296,7 +315,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=National+Hospital+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=National+Hospital+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -311,7 +331,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=BHANDARI+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=BHANDARI+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -326,7 +347,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=BEST+SUPER SPECIALTY HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=BEST+SUPER SPECIALTY HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -341,7 +363,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SAPTRISHI+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SAPTRISHI+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -356,7 +379,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=GOLCHA+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=GOLCHA+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -371,7 +395,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=JEEVAN+JYOTI HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=JEEVAN+JYOTI HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -386,7 +411,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=MOHAN+LAL HARGOVINDDAS HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=MOHAN+LAL HARGOVINDDAS HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -401,7 +427,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=CENTRAL+INDIA KIDNEY HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=CENTRAL+INDIA KIDNEY HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -416,7 +443,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=MEDICARE+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=MEDICARE+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -431,7 +459,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=GALAXY+SS HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=GALAXY+SS HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -446,7 +475,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=PG+MULTISPECIALITY HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=PG+MULTISPECIALITY HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -461,7 +491,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=MANMOHAN+NAGAR HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=MANMOHAN+NAGAR HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -476,7 +507,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=BUDHOLIA+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=BUDHOLIA+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -491,7 +523,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=NEW+LIFE+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=NEW+LIFE+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -506,7 +539,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=KOTHARI+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=KOTHARI+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -521,7 +555,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=J.K+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=J.K+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -536,7 +571,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ORDNANCE+FACTORY KHAMARIA DCHC+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ORDNANCE+FACTORY KHAMARIA DCHC+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -551,7 +587,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=VEHICLE+FACTORY HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=VEHICLE+FACTORY HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -566,7 +603,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=Sanskardhani+Hospital+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Sanskardhani+Hospital+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -581,7 +619,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=Sanjeevan+Hospital+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Sanjeevan+Hospital+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -596,7 +635,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=Life+Care ICU+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Life+Care ICU+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -611,7 +651,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=GYANODAYA+ HOSTEL RANJHI+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=GYANODAYA+ HOSTEL RANJHI+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -626,7 +667,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=STAR+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=STAR+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -641,7 +683,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=REVANTA+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=REVANTA+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -656,7 +699,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SIDDHI+VINAYAK HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SIDDHI+VINAYAK HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -671,7 +715,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=GLOBAL+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=GLOBAL+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -686,7 +731,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=TAKIRAZA+HEALTHCARE CENTRE+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=TAKIRAZA+HEALTHCARE CENTRE+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -701,7 +747,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=RADHE+KRISHNA MULTISPECIALITY HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=RADHE+KRISHNA MULTISPECIALITY HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -716,7 +763,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SMJ+TRUST HOSPITAL JABALPUR MP+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SMJ+TRUST HOSPITAL JABALPUR MP+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -731,7 +779,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SUVIDHA+POLY CLINIC AND RESEARCH CENTRE PVT. LTD. MULTISPECIALTITY CARE CENTRE+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SUVIDHA+POLY CLINIC AND RESEARCH CENTRE PVT. LTD. MULTISPECIALTITY CARE CENTRE+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -746,7 +795,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SUDHA+MULTISPECIALITY HOSPITAL & HIGH RISK PREGNANCY CENTRE+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SUDHA+MULTISPECIALITY HOSPITAL & HIGH RISK PREGNANCY CENTRE+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -761,7 +811,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=DEVJI+NETRALAYA TILWARAGHAT+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=DEVJI+NETRALAYA TILWARAGHAT+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -776,7 +827,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=AROGYAM+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=AROGYAM+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -791,7 +843,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=MEDAZ+HOSPITAL JABALPUR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=MEDAZ+HOSPITAL JABALPUR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -806,7 +859,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SHREE+RAWATPURA HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SHREE+RAWATPURA HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -821,7 +875,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=K+J Memorial Hospital+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=K+J Memorial Hospital+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -836,7 +891,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=NAV+ENT  & CANCER HOSPITAL JABALPUR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=NAV+ENT  & CANCER HOSPITAL JABALPUR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -851,7 +907,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SINDHI+DHARAMSHALA GHANTAGHAR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SINDHI+DHARAMSHALA GHANTAGHAR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -866,7 +923,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SHREE+PARSHAVNATH DIGAMBAR BADA JAIN MANDIR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SHREE+PARSHAVNATH DIGAMBAR BADA JAIN MANDIR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -881,7 +939,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ADIWASI+BOYS HOSTEL SIHORA+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ADIWASI+BOYS HOSTEL SIHORA+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -896,7 +955,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=GIRLS+HOSTEL SHAHPURA+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=GIRLS+HOSTEL SHAHPURA+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -911,7 +971,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ADIWASI+BOYS HOSTEL MAJHOLI+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ADIWASI+BOYS HOSTEL MAJHOLI+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -926,7 +987,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ANUSUCHIT+GIRL HOSTEL KUNDAM+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ANUSUCHIT+GIRL HOSTEL KUNDAM+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -941,7 +1003,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ADIWASI+ HOSTEL  PANAGAR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ADIWASI+ HOSTEL  PANAGAR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -956,7 +1019,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ADIWASI+ HOSTEL PATAN+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ADIWASI+ HOSTEL PATAN+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -971,7 +1035,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=COMMUNITY+HALL BARELA+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=COMMUNITY+HALL BARELA+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -986,7 +1051,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=ADIWASI+BOYS HOSTEL BARGI+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=ADIWASI+BOYS HOSTEL BARGI+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1001,7 +1067,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=GOVT+HOSPITAL BARGI NAGAR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=GOVT+HOSPITAL BARGI NAGAR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1016,7 +1083,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=SHIV+SAGAR HOSPITAL VIJAY NAGAR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=SHIV+SAGAR HOSPITAL VIJAY NAGAR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1031,7 +1099,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=JOHARI+HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=JOHARI+HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1046,7 +1115,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=LAXMI+NARYAN HOSPITAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=LAXMI+NARYAN HOSPITAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1061,7 +1131,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=HARI+OM MULTISPECIALITY HOSPITAL PURWA GARHA+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=HARI+OM MULTISPECIALITY HOSPITAL PURWA GARHA+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1076,7 +1147,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=Ayushman+Hospital RUSSEL CHOWK+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Ayushman+Hospital RUSSEL CHOWK+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1091,7 +1163,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=Dashmesh+hospital MADAN MAHAL+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Dashmesh+hospital MADAN MAHAL+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1106,7 +1179,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=CENTRAL+HOSPITAL & RESERCH CENTRE LABOUR CHOWK+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=CENTRAL+HOSPITAL & RESERCH CENTRE LABOUR CHOWK+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1121,7 +1195,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=CCC+GOSALPUR+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=CCC+GOSALPUR+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1136,7 +1211,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=Advance+endoscopy and surgical Center  Deendayal chowk Back to Indian coffee house  Jabalpur+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Advance+endoscopy and surgical Center  Deendayal chowk Back to Indian coffee house  Jabalpur+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -1151,7 +1227,8 @@
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
-    "lastUpdatedDate": "-",
+    "lastUpdatedDate": " 29 May, 2021",
+    "lastUpdatedTime": " 01:03:00",
     "googleSearch": "https://www.google.com/search?q=Tignath+hospital madan mahal+madhyapradesh&rlz=1C1CHBF_enIN859IN859&oq=Tignath+hospital madan mahal+madhyapradesh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

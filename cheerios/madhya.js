@@ -234,11 +234,10 @@ var url_ = [
 
 async function get() {
   for (var q = 0; q < url_.length; q++) {
+    console.log(url_[q].name);
     var HOSPITAL = [];
     var PHONE = [];
     var BED_OA = [];
-    var TIME = [];
-    var DATE = [];
     const single_district = [];
     await axios
       .get(url_[q].url)
@@ -259,12 +258,14 @@ async function get() {
         ).each((index, element) => {
           BED_OA.push($(element).text().trim());
         });
-        $(
-          ` #main > div > section.wrapper-tbl > table > tbody > tr > td.text-center > div.last-updated > span`
-        ).each((index, element) => {
-          DATE.push($(element).text().trim().split(",")[0]);
-          TIME.push($(element).text().trim().split(",")[1]);
-        });
+
+        $(`#main > div > section.alterna- > div:nth-child(5) > strong`).each(
+          (index, element) => {
+            DATE =
+              $(element).text().trim().split(":")[1].split("2021")[0] + "2021";
+            TIME = $(element).text().trim().split("2021")[1];
+          }
+        );
 
         for (var i = 0; i < HOSPITAL.length; i++) {
           var objData = {
@@ -279,8 +280,8 @@ async function get() {
             normalBedTotal: "-",
             normalBedOccupied: "-",
             normalBedAvailable: "-",
-            lastUpdatedDate: DATE[i],
-            lastUpdatedTime: TIME[i],
+            lastUpdatedDate: DATE,
+            lastUpdatedTime: TIME,
           };
 
           var replacedString = objData.hospitalName.replace(" ", "+");

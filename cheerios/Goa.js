@@ -98,7 +98,6 @@ const getData = async () => {
           }
         });
       });
-     
 
       fs.writeFile(
         `jsonFiles/goa.json`,
@@ -117,5 +116,4 @@ const getData = async () => {
 
   return Goa;
 };
-getData()
 exports.getgoa = getData;
