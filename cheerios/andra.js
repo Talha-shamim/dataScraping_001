@@ -136,7 +136,7 @@ async function get() {
         }
 
         fs.writeFile(
-          `jsonFiles/andrapradesh.json`,
+          `jsonFiles/andhrapradesh.json`,
           JSON.stringify(district, null, 2),
           (error) => {
             if (error) {
