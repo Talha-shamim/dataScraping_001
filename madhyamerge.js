@@ -1,6 +1,6 @@
-const madhya = require('../madhyapradesh.json')
+const madhya = require('./jsonFiles/madhyapradesh.json')
 const puppeteer = require("puppeteer");
-const newgoogle = require('../../puppeteer/newScrapper.js')
+const newgoogle = require('./puppeteer/newScrapper.js')
 var links = []
 madhya.map(dt => links.push(dt.googleSearch))
 
@@ -9,7 +9,7 @@ getdata = async () => {
         headless: true,
       });
       const page = await browser.newPage();
-    newgoogle.newgoogle(links,page,'jsonFiles/Coordinates/madhyacoordinates.json')
+    newgoogle.newgoogle(links,page)
 }
 
 getdata()

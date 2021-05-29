@@ -95,7 +95,7 @@ async function get() {
           var objData = {
             state: "Andra pradesh",
             hospitalName: data[m],
-            hospitalAdress: "Not Available",
+            hospitalAddress: "Not Available",
             district: url[q].name_,
             phoneNo: data[k],
             oxygenBedTotal: data[a],

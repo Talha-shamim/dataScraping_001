@@ -1,23 +1,15 @@
-const haryana = require('../haryana.json')
-const googleData = require('../../puppeteer/googleScrapper')
-const fs = require("fs");
-var ranchicoord=[]
-haryana.map(dt=> {
-    googleData.google(dt.googleSearch)
-    .then(x=> {
-        if(x.location){
-            ranchicoord.push(x)
-            fs.writeFile(
-                `jsonFiles/Coordinates/haryanacoordinates.json`,
-                JSON.stringify(ranchicoord, null, 2),
-                (error) => {
-                  if (error) {
-                    console.log(error);
-                  } else {
-                    console.log(`haryana coordmaker`);
-                  }
-                }
-              );
-        }
-    })
-})
+const madhya = require('../haryana.json')
+const puppeteer = require("puppeteer");
+const newgoogle = require('../../puppeteer/newScrapper.js')
+var links = []
+madhya.map(dt => links.push(dt.googleSearch))
+
+getdata = async () => {
+    const browser = await puppeteer.launch({
+        headless: true,
+      });
+      const page = await browser.newPage();
+    newgoogle.newgoogle(links,page,'jsonFiles/Coordinates/haryanacoordinates.json')
+}
+
+getdata()
