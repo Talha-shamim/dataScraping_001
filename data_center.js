@@ -17,7 +17,8 @@ const delhi = require("./puppeteer/delhi.js");
 const westbengal = require("./puppeteer/westbengal.js");
 const chattisgarh = require("./puppeteer/chattisgarh.js");
 
-// const mergeMaharashtra = require("./jsonFiles/MergeJson/maharashtra.js");
+
+setInterval ( () => {const mergeMaharashtra = require("./jsonFiles/MergeJson/maharashtra.js")},43380000)
 
 // const Goacoordmaker = require("./jsonFiles/Coordmaker/Goacoordmaker.js");
 // const jharkhandcoordmaker = require("./jsonFiles/Coordmaker/Jharkhandcoordmaker.js");
@@ -31,55 +32,55 @@ const chattisgarh = require("./puppeteer/chattisgarh.js");
 // const keralacoordmaker = require("./jsonFiles/Coordmaker/keralacoordmaker");
 // const uttrakhandcoordmaker = require("./jsonFiles/Coordmaker/uttrakhandcoordmaker.js");
 
-// setInterval ( () => {
+setInterval ( () => {
 
-// const maharastrafinal = require("./jsonFiles/Coordinates/MergeCoordinates/Maharastrafinal.js");
-// const uttarfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttarpradeshfinal.js");
-// const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfinal.js");
-// const dehifinal = require("./jsonFiles/Coordinates/MergeCoordinates/delhifinal.js");
-// const goafinal = require("./jsonFiles/Coordinates/MergeCoordinates/goafinal.js");
-// const Puducherryfinal = require("./jsonFiles/Coordinates/MergeCoordinates/puducherryfinal.js");
-// const jharkhandfinal = require("./jsonFiles/Coordinates/MergeCoordinates/jharkhandfinal.js");
-// const uttarakhandfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttrakhandfinal.js");
-// },)
+const maharastrafinal = require("./jsonFiles/Coordinates/MergeCoordinates/Maharastrafinal.js");
+const uttarfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttarpradeshfinal.js");
+const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfinal.js");
+const dehifinal = require("./jsonFiles/Coordinates/MergeCoordinates/delhifinal.js");
+const goafinal = require("./jsonFiles/Coordinates/MergeCoordinates/goafinal.js");
+const Puducherryfinal = require("./jsonFiles/Coordinates/MergeCoordinates/puducherryfinal.js");
+const jharkhandfinal = require("./jsonFiles/Coordinates/MergeCoordinates/jharkhandfinal.js");
+const uttarakhandfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttrakhandfinal.js");
+},45360000)
 
-// setInterval(() => {
-// andrapradesh.getandrapradesh();
-// allahabad.getAllahabad();
-// ranchi.getranchi();
-// haryana.getharyana();
-// Puducherry.getpuducherry();
-// rajasthan.getrajasthan();
-// uttarpradesh.getuttarpradesh();
-// Goa.getgoa();
-// Navi.getnavi();
-// pune.getpune();
-// }, 21600000);
+setInterval(() => {
+andrapradesh.getandrapradesh();
+allahabad.getAllahabad();
+ranchi.getranchi();
+haryana.getharyana();
+Puducherry.getpuducherry();
+rajasthan.getrajasthan();
+uttarpradesh.getuttarpradesh();
+Goa.getgoa();
+Navi.getnavi();
+pune.getpune();
+madhya.getmadhyapradesh();
+}, 43200000);
 
-// madhya.getmadhyapradesh();
-// setInterval(() => {
-// mergeMaharashtra.mergemaharashtra();
-// }, 22320000);
+setInterval(() => {
+mergeMaharashtra.mergemaharashtra();
+}, 	43740000);
 
-// setInterval(() => {
-// maharastrafinal.maharashtrafinal();
-// goafinal.goafinal();
-// Puducherryfinal.puducherryfinal();
-// jharkhandfinal.mergejharkhand();
-// uttarfinal.uttarfinal();
-// gujratfinal.gujratfinal();
-// uttarakhandfinal.uttarakhandfinal();
-// dehifinal.delhifinal();
-// }, 23400000);
+setInterval(() => {
+maharastrafinal.maharashtrafinal();
+goafinal.goafinal();
+Puducherryfinal.puducherryfinal();
+jharkhandfinal.mergejharkhand();
+uttarfinal.uttarfinal();
+gujratfinal.gujratfinal();
+uttarakhandfinal.uttarakhandfinal();
+dehifinal.delhifinal();
+}, 	45720000);
 
-// setInterval(() => {
-// westbengal.getwestbengal();
-// uttrakhand.getuttrakhand();
-// kerala.getKerala();
-// chattisgarh.getchattisgarh();
-// delhi.getdelhi();
-// Ahmedabad.getahmadabad();
-// }, 25200000);
+setInterval(() => {
+westbengal.getwestbengal();
+uttrakhand.getuttrakhand();
+kerala.getKerala();
+chattisgarh.getchattisgarh();
+delhi.getdelhi();
+Ahmedabad.getahmadabad();
+}, 44280000);
 
 // // uttarcoordmaker;
 // // Goacoordmaker;
@@ -92,7 +93,3 @@ const chattisgarh = require("./puppeteer/chattisgarh.js");
 // // uttrakhandcoordmaker;
 // // madhyacoordmaker;
 
-// // setInterval(() => {
-// //   gujratfinal;
-// //   dehifinal;
-// // }, 27000000);
