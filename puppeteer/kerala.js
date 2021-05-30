@@ -151,4 +151,6 @@ function main() {
   capture_();
 }
 
+capture();
+capture_();
 exports.getKerala = main;
