@@ -6,7 +6,7 @@ var chattisgarh = [];
 
 async function capture() {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
   });
   const page = await browser.newPage();
   await page.setDefaultNavigationTimeout(0);
@@ -38,9 +38,9 @@ async function capture() {
     var objData = {
       district: data[m],
       state: "Chattisgarh",
-      HospitalName: data[n],
-      HospitalAddress: "Not Available",
-      phoneNo: data[o],
+      hospitalName: data[n],
+      hospitalAddress: "Not Available",
+      phoneNo: data[o].split(/(\d+)/)[1],
       oxygenBedTotal: data[a],
       oxygenBedAvailable: data[b],
       oxygenBedOccupied: data[a] - data[b],
@@ -51,16 +51,16 @@ async function capture() {
       lastUpdatedTime: data[t],
     };
 
-    // var replacedString = objData.hospitalName.replace(" ", "+");
-    // var finalRepString = replacedString + "+" + "chattisgarh";
-    // var gStringpt1 = "https://www.google.com/search?q=";
-    // var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
-    // var gStringpt5 =
-    //   "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
-    // var finalString =
-    //   gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5;
+    var replacedString = objData.hospitalName.replace(" ", "+");
+    var finalRepString = replacedString + "+" + "chattisgarh";
+    var gStringpt1 = "https://www.google.com/search?q=";
+    var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
+    var gStringpt5 =
+      "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
+    var finalString =
+      gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5;
 
-    objData.googleSearch = "not available";
+    objData.googleSearch = finalString;
 
     m += 22;
     n += 22;
@@ -84,4 +84,5 @@ async function capture() {
   await browser.close();
 }
 
+capture();
 exports.getchattisgarh = capture;

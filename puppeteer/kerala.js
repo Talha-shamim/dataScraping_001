@@ -51,28 +51,8 @@ async function capture() {
   data = data.concat(data1);
   data = data.concat(data2);
 
-  m = 0;
-  l = 1;
-  n = 2;
-  for (var i = 0; n < data.length; i++) {
-    var objdata = {
-      district: data[m],
-      oxygenBedTotal: data[l],
-      oxygenBedAvailable: data[n],
-      oxygenBedOccupied: data[l] - data[n],
-    };
-
-    m += 3;
-    l += 3;
-    n += 3;
-
-    kerala.push(objdata);
-  }
-
   await browser.close();
 }
-
-capture();
 
 async function capture_() {
   const browser = await puppeteer.launch({
@@ -130,7 +110,7 @@ async function capture_() {
       district: data_[m],
       state: "Kerala",
       HospitalName: "Not Available",
-      HospitalAddress: "Not Available",
+      HospitalAddress: data_[m],
       normalBedTotal: data_[l],
       normalBedAvailable: data_[n],
       normalBedOccupied: data_[l] - data_[n],
@@ -141,8 +121,6 @@ async function capture_() {
       oxygenBedAvailable: data[b],
       oxygenBedOccupied: data[a] - data[b],
     };
-
-    
 
     objData.googleSearch = "Not Available";
 
