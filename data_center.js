@@ -38,6 +38,7 @@
 // const haryanacoordmaker = require('./jsonFiles/Coordmaker/haryanacoordmaker.js')
 // const westbengalcoordmaker = require('./jsonFiles/Coordmaker/westbengalcoordmaker.js')
 // const rajasthancoordmaker = require('./jsonFiles/Coordmaker/rajasthancoordmaker.js')
+// const chhattisgrahcoordmaker = require('./jsonFiles/Coordmaker/chhattisgarhcoordmaker.js')
 
 // setInterval ( () => {
 
@@ -55,7 +56,8 @@
 // const andhrafinal = require('./jsonFiles/Coordinates/MergeCoordinates/andhrapradeshfinal.js')
 // const haryanafinal = require('./jsonFiles/Coordinates/MergeCoordinates/haryanafinal.js')
 // const westbengalfinal = require('./jsonFiles/Coordinates/MergeCoordinates/westbengalfinal.js')
-const rajasthanfinal = require('./jsonFiles/Coordinates/MergeCoordinates/rajasthanfinal.js')
+// const rajasthanfinal = require('./jsonFiles/Coordinates/MergeCoordinates/rajasthanfinal.js')
+// const chhattisgarhfinal = require('./jsonFiles/Coordinates/MergeCoordinates/chhattisgarhfinal.js')
 
 // setInterval(() => {
 //     andrapradesh.getandrapradesh();
@@ -90,7 +92,8 @@ const rajasthanfinal = require('./jsonFiles/Coordinates/MergeCoordinates/rajasth
 // haryanafinal.haryanafinal()
 // westbengalfinal.bengalfinal()
 // andhrafinal.andhrafinal()
-rajasthanfinal.rajasthanfinal()
+// rajasthanfinal.rajasthanfinal()
+// chhattisgarhfinal.chattisfinal()
 
 // setInterval(() => {
     // westbengal.getwestbengal();
@@ -98,9 +101,9 @@ rajasthanfinal.rajasthanfinal()
     // kerala.getKerala();
     // delhi.getdelhi();
     // Ahmedabad.getahmadabad();
-    // }, 44280000);
     // chattisgarh.getchattisgarh();
-
+    // }, 44280000);
+    
 // // uttarcoordmaker;
 // // Goacoordmaker;
 // // jharkhandcoordmaker;
@@ -115,3 +118,4 @@ rajasthanfinal.rajasthanfinal()
 // haryanacoordmaker
 // westbengalcoordmaker
 // rajasthancoordmaker
+// chhattisgrahcoordmaker

@@ -1,10 +1,10 @@
-const maharastra = require("../../rajasthan.json");
-const mahasatracoord = require("../rajasthancoordinates.json");
+const maharastra = require("../../chhattisgarh.json");
+const maharastracoord = require('../chhattisgarhcoordinates.json')
 const fs = require("fs");
 
 function get() {
   maharastra.map((dt) => {
-    mahasatracoord.map((data) => {
+    maharastracoord.map((data) => {
       if (dt.googleSearch === data.url) {
         if(data.location){
       dt.hospitalAddress = data.location;
@@ -29,9 +29,6 @@ function get() {
 
   maharastra.map(dt=> {
 
-    if(dt.phoneNo.length<=4){
-      dt.phoneNo="Not Available"
-    }
     
     if(dt.hospitalAddress==="Not Available" && dt.phoneNo==="Not Available"){
       dt.rank=0
@@ -58,4 +55,4 @@ function get() {
   );
 }
 
-exports.maharashtrafinal = get;
+exports.chattisfinal = get;

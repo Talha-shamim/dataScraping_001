@@ -120,6 +120,7 @@ async function capture_() {
       oxygenBedTotal: data[a],
       oxygenBedAvailable: data[b],
       oxygenBedOccupied: data[a] - data[b],
+      rank:1
     };
 
     objData.googleSearch = "Not Available";
