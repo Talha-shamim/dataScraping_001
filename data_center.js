@@ -38,7 +38,7 @@
 // const haryanacoordmaker = require('./jsonFiles/Coordmaker/haryanacoordmaker.js')
 // const westbengalcoordmaker = require('./jsonFiles/Coordmaker/westbengalcoordmaker.js')
 // const rajasthancoordmaker = require('./jsonFiles/Coordmaker/rajasthancoordmaker.js')
-// const chhattisgrahcoordmaker = require('./jsonFiles/Coordmaker/chhattisgarhcoordmaker.js')
+const chhattisgrahcoordmaker = require('./jsonFiles/Coordmaker/chhattisgarhcoordmaker.js')
 
 // setInterval ( () => {
 
@@ -118,4 +118,4 @@
 // haryanacoordmaker
 // westbengalcoordmaker
 // rajasthancoordmaker
-// chhattisgrahcoordmaker
+chhattisgrahcoordmaker

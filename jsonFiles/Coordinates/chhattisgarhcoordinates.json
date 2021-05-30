@@ -859,5 +859,880 @@
     "url": "https://www.google.com/search?q=Ambika+hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ambika+hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "cordlat": "21.2984502",
     "cordlon": "83.1568429"
+  },
+  {
+    "location": "SAO Jagdeeshpur, Via, Basna, Chhattisgarh 493555",
+    "phone": "099818 52608",
+    "url": "https://www.google.com/search?q=Sewa+bhawan hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sewa+bhawan hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.3356386",
+    "cordlon": "82.7694981"
+  },
+  {
+    "location": "D.R. Gurudatta, opposite railway station, Chhattisgarh 493445",
+    "phone": "077232 22650",
+    "url": "https://www.google.com/search?q=Akal+purak hospital mahasamund+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Akal+purak hospital mahasamund+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.112346",
+    "cordlon": "82.104048"
+  },
+  {
+    "location": "Bhawanipatna - Raipur Hwy, Mahasamund, Chhattisgarh 493445",
+    "phone": "077232 23001",
+    "url": "https://www.google.com/search?q=RLC+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=RLC+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.1156715",
+    "cordlon": "82.0865423"
+  },
+  {
+    "location": "Behind Laxminarayan Mandir, NH53, near Gita Bhavan, Saraipali, Chhattisgarh 493558",
+    "phone": "074404 40440",
+    "url": "https://www.google.com/search?q=bharti+hospital saraipali+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=bharti+hospital saraipali+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.313353",
+    "cordlon": "83.0023524"
+  },
+  {
+    "location": "Karma Chowk, Opp. Mandir, Main Rd, Ramnagar, Raipur, Chhattisgarh 492001",
+    "phone": "077125 92077",
+    "url": "https://www.google.com/search?q=Aditya+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Aditya+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.252129",
+    "cordlon": "81.623758"
+  },
+  {
+    "location": "Bagbahra Rd, Khaira, Chhattisgarh 493445",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Soham+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Soham+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.091076",
+    "cordlon": "82.112154"
+  },
+  {
+    "location": "Tum Gaon, Chhattisgarh 493445",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Sai+Naman Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sai+Naman Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.1943083",
+    "cordlon": "82.1235839"
+  },
+  {
+    "location": "Kamal Vihar, Near Sector 12, New Dhamtari Rd, Dunda, Chhattisgarh 492001",
+    "phone": "077146 22222",
+    "url": "https://www.google.com/search?q=VY+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=VY+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.1922571",
+    "cordlon": "81.6741982"
+  },
+  {
+    "location": "Kadambari Nagar, Katulbod, Durg, Chhattisgarh 490020",
+    "phone": "098933 60103",
+    "url": "https://www.google.com/search?q=Mahima+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mahima+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.213283",
+    "cordlon": "81.294889"
+  },
+  {
+    "location": "Baloda Bazar, Chhattisgarh 493332",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Post+Matric SC Girls Hostel Pathariya+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Post+Matric SC Girls Hostel Pathariya+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.6518762",
+    "cordlon": "82.1335748"
+  },
+  {
+    "location": "Maharajga, Chhattisgarh 496665",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Pre+Metric ST Girls Hostal Ramgarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Pre+Metric ST Girls Hostal Ramgarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "22.2529779",
+    "cordlon": "83.0504293"
+  },
+  {
+    "location": "Sonpur Rd, Narayanpur, Chhattisgarh 494661",
+    "phone": "077812 52360",
+    "url": "https://www.google.com/search?q=GNM+Training Center Narayanpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=GNM+Training Center Narayanpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "19.720401",
+    "cordlon": "81.2313826"
+  },
+  {
+    "location": "Purshotam Lal",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Metro+Hospital & Dibetic Research Center+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Metro+Hospital & Dibetic Research Center+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "",
+    "cordlon": ""
+  },
+  {
+    "location": "Beside RK Multiplex, Atal Chowk, Chhattisgarh 496001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Apex+Superspeciality Hospital IVF Center+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Apex+Superspeciality Hospital IVF Center+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.8766386",
+    "cordlon": "83.3833535"
+  },
+  {
+    "location": "Near medical college bade attarmuda, Majhapara, Chhattisgarh 496001",
+    "phone": "093002 76199",
+    "url": "https://www.google.com/search?q=Ganga+Smart Hospital, Medical College Road+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ganga+Smart Hospital, Medical College Road+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.8736934",
+    "cordlon": "83.4196427"
+  },
+  {
+    "location": "Raigarh - Sakti Rd, Rukmani Vihar, Raigarh, Chhattisgarh 496001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Sidheshwar+hospital Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sidheshwar+hospital Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.9019511",
+    "cordlon": "83.3738977"
+  },
+  {
+    "location": "Chc, dist, Tamnar, Chhattisgarh 496111",
+    "phone": "",
+    "url": "https://www.google.com/search?q=CHC+Tamnar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Tamnar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "22.0905796",
+    "cordlon": "83.439026"
+  },
+  {
+    "location": "Ektal Rd, Bendrchuwa, Chhattisgarh 496001",
+    "phone": "077622 20742",
+    "url": "https://www.google.com/search?q=Medical+College Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Medical+College Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.8763938",
+    "cordlon": "83.424983"
+  },
+  {
+    "location": "Industrial Area, Chhatamura, Chhattisgarh 496001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Rajpriya+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Rajpriya+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.8782235",
+    "cordlon": "83.387647"
+  },
+  {
+    "location": "Gopi talkies Road, near Sanjivani Nursing Home, Raigarh, Chhattisgarh 496001",
+    "phone": "077622 23030",
+    "url": "https://www.google.com/search?q=Venus+Hospital and Diagnostic Center , Edan Gaurden Boirdadar Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Venus+Hospital and Diagnostic Center , Edan Gaurden Boirdadar Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.8972407",
+    "cordlon": "83.3938472"
+  },
+  {
+    "location": "Dharmjaygarh, Raigarh, SH-4, Khaira Road, Dharmjaigarh, Dharmjaigarh, Chhattisgarh 496116",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Civil+Hospital Dharamjaygarh, Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Civil+Hospital Dharamjaygarh, Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "22.463597",
+    "cordlon": "83.207516"
+  },
+  {
+    "location": "Sawadia campus, behind Gopi Talkies, Raigarh, Chhattisgarh 496001",
+    "phone": "094252 75365",
+    "url": "https://www.google.com/search?q=Sanjivani+Nursing Home Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sanjivani+Nursing Home Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.890817",
+    "cordlon": "83.3967885"
+  },
+  {
+    "location": "A1B, Patel Marg, Bhanwarpur, Chhattisgarh 496445",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Shukla+Marriege Palace Sarangarh, Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shukla+Marriege Palace Sarangarh, Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.5854784",
+    "cordlon": "83.1028035"
+  },
+  {
+    "location": "goushala road, Darogapara, Chhattisgarh 496001",
+    "phone": "077622 31400",
+    "url": "https://www.google.com/search?q=Dr.+R. L. Hospital Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Dr.+R. L. Hospital Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.9000714",
+    "cordlon": "83.3913544"
+  },
+  {
+    "location": "Loing, Chhattisgarh 496001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=CHC+Loing, Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Loing, Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.8567534",
+    "cordlon": "83.493842"
+  },
+  {
+    "location": "Chaple, Chhattisgarh 496661",
+    "phone": "",
+    "url": "https://www.google.com/search?q=CHC+Chaple , Kharsia, Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Chaple , Kharsia, Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.9884679",
+    "cordlon": "83.1853052"
+  },
+  {
+    "location": "7, South Ave, opp ICICI Bank Choubey Colony, Raipur-Branch & ATM, Choubey Colony, Ramkund, Raipur, Chhattisgarh 492001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Dr.+M.R. Bhagwat Memorial Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Dr.+M.R. Bhagwat Memorial Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2439483",
+    "cordlon": "81.6145037"
+  },
+  {
+    "location": "Road, Chhattisgarh 493661",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Soni+Multispeciality Hospital And Maternity Home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Soni+Multispeciality Hospital And Maternity Home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.061556",
+    "cordlon": "81.7498074"
+  },
+  {
+    "location": "TV tower road, near New Delhi Sweets, Shankar Nagar, Raipur, Chhattisgarh 492007",
+    "phone": "077122 83990",
+    "url": "https://www.google.com/search?q=kanwar+nursing home raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=kanwar+nursing home raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2532493",
+    "cordlon": "81.6651885"
+  },
+  {
+    "location": "P-51, Dubey Colony Rd, Rajdhani Vihar Colony, Dubey Colony, Mowa, Raipur, Chhattisgarh 492014",
+    "phone": "078039 73455",
+    "url": "https://www.google.com/search?q=Sarvodaya+Hospital P-51, Dubey Colony+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sarvodaya+Hospital P-51, Dubey Colony+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.272434",
+    "cordlon": "81.6711572"
+  },
+  {
+    "location": "Devendra Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "077140 87497",
+    "url": "https://www.google.com/search?q=Roop+Jeevan Hospital Devendra Nagar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Roop+Jeevan Hospital Devendra Nagar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2566664",
+    "cordlon": "81.6410161"
+  },
+  {
+    "location": "Siltara Rd, Chhattisgarh 493111",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Sai+Kripa Hospital Siltara Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sai+Kripa Hospital Siltara Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.3641899",
+    "cordlon": "81.6647609"
+  },
+  {
+    "location": "Near Mahila Police Thane, Byron Bazar Rd, Byron Bazar, Raipur, Chhattisgarh 492001",
+    "phone": "078699 20001",
+    "url": "https://www.google.com/search?q=Balgopal+children hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Balgopal+children hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2350499",
+    "cordlon": "81.6414499"
+  },
+  {
+    "location": "Kurmi Boarding, Tatyapara, Raipur, Chhattisgarh",
+    "phone": "098935 66908",
+    "url": "https://www.google.com/search?q=Shri+Bhola Kurmi Kshatriya Chhatrawash, Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shri+Bhola Kurmi Kshatriya Chhatrawash, Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2397469",
+    "cordlon": "81.6283579"
+  },
+  {
+    "location": "Tilda, Chhattisgarh 493114",
+    "phone": "074895 12346",
+    "url": "https://www.google.com/search?q=Jyoti+hospital tilda+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jyoti+hospital tilda+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.5563399",
+    "cordlon": "81.8091241"
+  },
+  {
+    "location": "Devpuri, Chhattisgarh 492015",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Jai+Ambe multispeciality hospital raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jai+Ambe multispeciality hospital raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2070166",
+    "cordlon": "81.6703357"
+  },
+  {
+    "location": "In front of Jain Mandir, near Ram Krishna Care Hospital, Davda Colony, Pachpedi Naka, Raipur, Chhattisgarh 492001",
+    "phone": "077140 81010",
+    "url": "https://www.google.com/search?q=Sanjeevani+CBCC cancer Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sanjeevani+CBCC cancer Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2143076",
+    "cordlon": "81.6501759"
+  },
+  {
+    "location": "32, Jalvihar Colony Rd, Civil Lines, Raipur, Chhattisgarh 492001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=swastik+nursing home and multi super speciality hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=swastik+nursing home and multi super speciality hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2356421",
+    "cordlon": "81.6558392"
+  },
+  {
+    "location": "Old Dhamatari Rd, Sejbahar, Chhattisgarh 492015",
+    "phone": "098931 15311",
+    "url": "https://www.google.com/search?q=nirogyam+hospital sejbahar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=nirogyam+hospital sejbahar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.1736563",
+    "cordlon": "81.6612891"
+  },
+  {
+    "location": "Ring Road No.1 Ring Road No.1, Mahadev Ghat Rd, Daganiya, Amanaka, Raipur, Chhattisgarh 492013",
+    "phone": "077149 14220",
+    "url": "https://www.google.com/search?q=vatsalya+children hospital raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=vatsalya+children hospital raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2332257",
+    "cordlon": "81.6064004"
+  },
+  {
+    "location": "Near, aurobindo netharalaya, Bhairav society, Pachpedi Naka, Raipur, Chhattisgarh 492001",
+    "phone": "077142 80003",
+    "url": "https://www.google.com/search?q=karuna+shree hospital raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=karuna+shree hospital raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2153433",
+    "cordlon": "81.6539325"
+  },
+  {
+    "location": "Opp. Dwarika Mandir Telibandha Rd, Avanti Vihar, Raipur, Chhattisgarh 492006",
+    "phone": "098271 05164",
+    "url": "https://www.google.com/search?q=Shree+Sai Care Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shree+Sai Care Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.239863",
+    "cordlon": "81.6698409"
+  },
+  {
+    "location": "Raipur - Jagdalpur - Vishakhapatnam Rd, RDA Colony, Tikrapara, Raipur, Chhattisgarh 492001",
+    "phone": "077122 72301",
+    "url": "https://www.google.com/search?q=shri+balaji hospital tikrapara raipur chhattisgarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=shri+balaji hospital tikrapara raipur chhattisgarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2261796",
+    "cordlon": "81.6397014"
+  },
+  {
+    "location": "Bilaspur Rd, Near Talab Chowk, Vishal Colony, Birgoan, Raipur, Chhattisgarh 492003",
+    "phone": "080850 51500",
+    "url": "https://www.google.com/search?q=maa+sharda hospital and prasuti raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=maa+sharda hospital and prasuti raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.3058338",
+    "cordlon": "81.6355021"
+  },
+  {
+    "location": "Unnamed Road, Atari, Chhattisgarh 492099",
+    "phone": "",
+    "url": "https://www.google.com/search?q=science+college Atari hirapur raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=science+college Atari hirapur raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2761963",
+    "cordlon": "81.5550958"
+  },
+  {
+    "location": "HIG - 11, Opp. Shankar Nagar Garden, Main Rd, Sector -1, Shanker Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "077124 25778",
+    "url": "https://www.google.com/search?q=vardan+hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=vardan+hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2520151",
+    "cordlon": "81.663169"
+  },
+  {
+    "location": "Geneva, Switzerland",
+    "phone": "",
+    "url": "https://www.google.com/search?q=care+& cure hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=care+& cure hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "",
+    "cordlon": ""
+  },
+  {
+    "location": "Tilda, Chhattisgarh 493114",
+    "phone": "",
+    "url": "https://www.google.com/search?q=shree+sai paikra hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=shree+sai paikra hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.5451488",
+    "cordlon": "81.7970039"
+  },
+  {
+    "location": "PO Neora, near CNI Church 493114, Tilda, Chhattisgarh 493114",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Evangelical+Mission Hospital Tilda+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Evangelical+Mission Hospital Tilda+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.553982",
+    "cordlon": "81.790531"
+  },
+  {
+    "location": "#36, Main Road, Badhaipara, Opp, Rajdhani Blood Bank, Raipur, Chhattisgarh 492001",
+    "phone": "098065 65653",
+    "url": "https://www.google.com/search?q=city+24 hospital badipara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=city+24 hospital badipara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2451366",
+    "cordlon": "81.6301734"
+  },
+  {
+    "location": "Chattisgarh Nagar, Ring Road No. 1, near Pachpedi Naka, Marble Market, Raipur, Chhattisgarh 492001",
+    "phone": "077122 74393",
+    "url": "https://www.google.com/search?q=Kamla+Women's Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kamla+Women's Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2177662",
+    "cordlon": "81.6434143"
+  },
+  {
+    "location": "Abhanpur, Chhattisgarh 493661",
+    "phone": "078697 36945",
+    "url": "https://www.google.com/search?q=Krishna+Multispeciality Hospital Abhanpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Krishna+Multispeciality Hospital Abhanpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.0540781",
+    "cordlon": "81.7489189"
+  },
+  {
+    "location": "Near Police Station, Ramsagar Para Main Road, Dubey Colony, Mowa, Raipur, Chhattisgarh 492014",
+    "phone": "098271 58081",
+    "url": "https://www.google.com/search?q=Arihant+Hospital Dubey Colony Mowa+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Arihant+Hospital Dubey Colony Mowa+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.270727",
+    "cordlon": "81.6698277"
+  },
+  {
+    "location": "Gate No, 1, Great Eastern Rd, opposite Gurudwara, AIIMS Campus, Tatibandh, Raipur, Chhattisgarh 492099",
+    "phone": "077125 72240",
+    "url": "https://www.google.com/search?q=AIIMS,+Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=AIIMS,+Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2573871",
+    "cordlon": "81.5775056"
+  },
+  {
+    "location": "Main Rd, Sector 2, Priyadarshini Nagar Colony, New Rajendra Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "077140 22233",
+    "url": "https://www.google.com/search?q=Shri+Krishna Hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shri+Krishna Hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.223632",
+    "cordlon": "81.6602195"
+  },
+  {
+    "location": "B-36, near Water Tank, New Rajendra Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "077140 34949",
+    "url": "https://www.google.com/search?q=Ashadeep+hospital raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ashadeep+hospital raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2259456",
+    "cordlon": "81.6600324"
+  },
+  {
+    "location": "Central Avenue, near pragati college, Choubey Colony, Raipur, Chhattisgarh 492001",
+    "phone": "077140 44551",
+    "url": "https://www.google.com/search?q=Jaulkar+ent hospital raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jaulkar+ent hospital raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.247326",
+    "cordlon": "81.6123794"
+  },
+  {
+    "location": "Opposit Colors Mall, Davda Colony, Bhairav society, Pachpedi Naka, Raipur, Chhattisgarh 492001",
+    "phone": "077149 07575",
+    "url": "https://www.google.com/search?q=Mahadeva+hospital dawada colony raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mahadeva+hospital dawada colony raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.214985",
+    "cordlon": "81.652654"
+  },
+  {
+    "location": "Bhimsen bhawan marg, Samta Colony, Raipur, Chhattisgarh 492001",
+    "phone": "077149 17721",
+    "url": "https://www.google.com/search?q=Petals+Newborn And Children Hospital Bhimsen bhawan marg, Samta Colony Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Petals+Newborn And Children Hospital Bhimsen bhawan marg, Samta Colony Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2450605",
+    "cordlon": "81.6244252"
+  },
+  {
+    "location": "Main Rd, near Jagannath Mandir, Gayatri Nagar, Geetanjali Colony, Shankar Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "089598 66362",
+    "url": "https://www.google.com/search?q=Sagar+Multi Speciality Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sagar+Multi Speciality Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2497319",
+    "cordlon": "81.6679049"
+  },
+  {
+    "location": "Near Tulja Bhawani Mandir, Opposite Home Guard Office, Kududand, Bilaspur, Chhattisgarh 495001",
+    "phone": "077522 50175",
+    "url": "https://www.google.com/search?q=Seva+Bharti+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Seva+Bharti+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "22.0898193",
+    "cordlon": "82.1419393"
+  },
+  {
+    "location": "492006, Gali No.2, Vidhan Sabha Rd, Saddu, Chhattisgarh 492001",
+    "phone": "077240 45714",
+    "url": "https://www.google.com/search?q=Bihaan.+Hospital, Vidhan Sabha Road, Raipur, Chhattisgarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Bihaan.+Hospital, Vidhan Sabha Road, Raipur, Chhattisgarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2748147",
+    "cordlon": "81.6896599"
+  },
+  {
+    "location": "Mahaveer Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=SHRI+ANANT SAI HOSPITAL+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=SHRI+ANANT SAI HOSPITAL+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2361188",
+    "cordlon": "81.6696271"
+  },
+  {
+    "location": "Dharsiwa, Chhattisgarh 493221",
+    "phone": "078982 22431",
+    "url": "https://www.google.com/search?q=GOVT.+PT. SHYAMACHARAN SHUKLA COLLEGE, DHARSIWA,+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=GOVT.+PT. SHYAMACHARAN SHUKLA COLLEGE, DHARSIWA,+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.4081865",
+    "cordlon": "81.6719915"
+  },
+  {
+    "location": "Hirapur Rd, Sarvodaya Nagar, Mohba Bazar, Raipur, Chhattisgarh 492099",
+    "phone": "098271 27945",
+    "url": "https://www.google.com/search?q=Upadhyay+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Upadhyay+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2625618",
+    "cordlon": "81.5874508"
+  },
+  {
+    "location": "Sector 2, Jagriti Nagar, Devendra Nagar, Raipur, Chhattisgarh 492004",
+    "phone": "097522 11116",
+    "url": "https://www.google.com/search?q=Yashoda+Children's Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Yashoda+Children's Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2597409",
+    "cordlon": "81.6501003"
+  },
+  {
+    "location": "Sejbahar, Raipur, Chhattisgarh 492015",
+    "phone": "",
+    "url": "https://www.google.com/search?q=SHREE+DANI CARE HOSPITAL DUNDA SEJBAHAR+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=SHREE+DANI CARE HOSPITAL DUNDA SEJBAHAR+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.1592941",
+    "cordlon": "81.6641282"
+  },
+  {
+    "location": "Katora Talab, Civil Lines, Raipur, Chhattisgarh 492001",
+    "phone": "077124 24111",
+    "url": "https://www.google.com/search?q=Swapnil+Nursing home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Swapnil+Nursing home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2353431",
+    "cordlon": "81.6521494"
+  },
+  {
+    "location": "near Krishi Mandi, Devendra Nagar, Raipur, Chhattisgarh 492004",
+    "phone": "",
+    "url": "https://www.google.com/search?q=District+Hospital Pandri Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=District+Hospital Pandri Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2603711",
+    "cordlon": "81.6556478"
+  },
+  {
+    "location": "Opp. Advwani School, Birgoan, Raipur, Chhattisgarh 429221",
+    "phone": "099265 11444",
+    "url": "https://www.google.com/search?q=N.K+D Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=N.K+D Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.3054627",
+    "cordlon": "81.6336971"
+  },
+  {
+    "location": "Gayatri Hospital Rohinipuram, Behind Ralas Enclave, Daganiya, Raipur, Chhattisgarh 492010",
+    "phone": "077122 63305",
+    "url": "https://www.google.com/search?q=Gaytri+hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Gaytri+hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2391377",
+    "cordlon": "81.6039615"
+  },
+  {
+    "location": "Lokesh Auto, Arya Colony Industrial Area, Tifra, Raipur Road Tifra, Tifra, Bilaspur, Chhattisgarh 495004",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Mahamaya-Superspeciality-Hospital-+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mahamaya-Superspeciality-Hospital-+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2946399",
+    "cordlon": "81.635198"
+  },
+  {
+    "location": "behind Marine Drive, Jal Vihar Colony, Civil Lines, Raipur, Chhattisgarh 492001",
+    "phone": "095899 08847",
+    "url": "https://www.google.com/search?q=Horizon+hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Horizon+hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2376627",
+    "cordlon": "81.6558412"
+  },
+  {
+    "location": "Infront Of Ganesh Mandir, Mahadev Ghat Rd, Changurabhata, Raipur, Chhattisgarh 492013",
+    "phone": "097543 39746",
+    "url": "https://www.google.com/search?q=New+Raipura Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=New+Raipura Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2209061",
+    "cordlon": "81.5927003"
+  },
+  {
+    "location": "Avani Vihar Colony, Dubey Colony, Mowa, Raipur, Chhattisgarh 492014",
+    "phone": "077142 34002",
+    "url": "https://www.google.com/search?q=shubhkamna+hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=shubhkamna+hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.269676",
+    "cordlon": "81.670389"
+  },
+  {
+    "location": "Krishna Nagar, Santoshi Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=ayush+multispeciality hospital raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ayush+multispeciality hospital raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2128189",
+    "cordlon": "81.6442933"
+  },
+  {
+    "location": "phase 2, Kabir Nagar, Raipur, Chhattisgarh 492099",
+    "phone": "083192 65837",
+    "url": "https://www.google.com/search?q=Lalmati+multispeciality Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Lalmati+multispeciality Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2706407",
+    "cordlon": "81.5886804"
+  },
+  {
+    "location": "01, Street Number 7, Near Railway Crossing (T.V. Tower D-02 Face, Shri Ram Nagar, Shankar Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "077140 56930",
+    "url": "https://www.google.com/search?q=C.I.M.T+Hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=C.I.M.T+Hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2587351",
+    "cordlon": "81.6698759"
+  },
+  {
+    "location": "Avanti Bai Chowk, opp. to Holy Cross (Kapa ) School, Lodhi Para, Raipur, Chhattisgarh 492001",
+    "phone": "077140 14442",
+    "url": "https://www.google.com/search?q=Mital+instutte of medical science Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mital+instutte of medical science Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2601461",
+    "cordlon": "81.658177"
+  },
+  {
+    "location": "Great Eastern Road, PO- Ravi Shankar University S.O, PS, Saraswati Nagar, Amanaka, Raipur, Chhattisgarh 492001",
+    "phone": "077122 63396",
+    "url": "https://www.google.com/search?q=Aayurvedic+College Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Aayurvedic+College Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2468599",
+    "cordlon": "81.5974452"
+  },
+  {
+    "location": "Ring Road No. 1, near Fruit Market, Amlihdih, New Rajendra Nagar, Raipur, Chhattisgarh 492015",
+    "phone": "077142 22999",
+    "url": "https://www.google.com/search?q=Shree+Medishine Hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shree+Medishine Hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2200815",
+    "cordlon": "81.6655855"
+  },
+  {
+    "location": "Gudhiyari Road, Behind Hotel Piccadily, Kota, Raipur, Chhattisgarh 492001",
+    "phone": "077125 75275",
+    "url": "https://www.google.com/search?q=Suyash+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Suyash+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2584089",
+    "cordlon": "81.6059521"
+  },
+  {
+    "location": "Mahadev Ghat Rd, near HP Petrol Pump, Dhebar City, Bhatagaon, Raipur, Chhattisgarh 492001",
+    "phone": "077122 43118",
+    "url": "https://www.google.com/search?q=OM+Hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=OM+Hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2162647",
+    "cordlon": "81.6253197"
+  },
+  {
+    "location": "Kamal Vihar, Near Sector 12, New Dhamtari Rd, Dunda, Chhattisgarh 492001",
+    "phone": "077146 22222",
+    "url": "https://www.google.com/search?q=VY+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=VY+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.1922571",
+    "cordlon": "81.6741982"
+  },
+  {
+    "location": "Aurobindo Enclave, Dhamtari Rd, Pachpedi Naka, Raipur, Chhattisgarh 492001",
+    "phone": "077161 65656",
+    "url": "https://www.google.com/search?q=Ram+Krishna Care Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ram+Krishna Care Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2130464",
+    "cordlon": "81.6536938"
+  },
+  {
+    "location": "Dhamtari Road, Pachpedi Naka Rd, Lalpur, Raipur, Chhattisgarh 492001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=MMI+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MMI+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2131653",
+    "cordlon": "81.6579148"
+  },
+  {
+    "location": "Sector 36, Uparwara, Chhattisgarh 493661",
+    "phone": "077122 37575",
+    "url": "https://www.google.com/search?q=Balco+Cancer Hospital New Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Balco+Cancer Hospital New Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.123136",
+    "cordlon": "81.7745683"
+  },
+  {
+    "location": "Ring Road No. 1, in front of Walfort City, beside shankra Hyundai, Kushalpur, chowk, Raipur, Chhattisgarh 492001",
+    "phone": "097536 48469",
+    "url": "https://www.google.com/search?q=laxmi+care hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=laxmi+care hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2231821",
+    "cordlon": "81.6166436"
+  },
+  {
+    "location": "Front of Mental Ice cream, Near Ansari Transport Vill- Semariya 2, Thana- Vidhan Sabha, Tahsil-Arang, Chhattisgarh 493118",
+    "phone": "097522 57626",
+    "url": "https://www.google.com/search?q=Gautam+Multispeciality Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Gautam+Multispeciality Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.314581",
+    "cordlon": "81.7404511"
+  },
+  {
+    "location": "Kota Main Road, Lakshman Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "098273 77777",
+    "url": "https://www.google.com/search?q=Shri+Hari krishna hospital raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shri+Hari krishna hospital raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2515189",
+    "cordlon": "81.621712"
+  },
+  {
+    "location": "Radhaswami Nagar, Bhatagaon, Raipur, Chhattisgarh 492013",
+    "phone": "094791 63101",
+    "url": "https://www.google.com/search?q=Vaidehi+Hospital, Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Vaidehi+Hospital, Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2174538",
+    "cordlon": "81.6245707"
+  },
+  {
+    "location": "Devendra Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "077166 70999",
+    "url": "https://www.google.com/search?q=Heritage+Hospital, Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Heritage+Hospital, Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.260413",
+    "cordlon": "81.6429129"
+  },
+  {
+    "location": "Avani Vihar Colony, Dubey Colony, Ekta Chowk, Raipur, Chhattisgarh 492014",
+    "phone": "1800 833 0091",
+    "url": "https://www.google.com/search?q=Shri+Balaji Hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shri+Balaji Hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2720967",
+    "cordlon": "81.67208"
+  },
+  {
+    "location": "Samta Colony Main Rd, Near IDBI Bank, Choubey Colony, Samta Colony, Raipur, Chhattisgarh 492001",
+    "phone": "077140 65400",
+    "url": "https://www.google.com/search?q=LifeWorth+Hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=LifeWorth+Hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2458322",
+    "cordlon": "81.6175795"
+  },
+  {
+    "location": "GTB Plaza, Besides Airtel Office, Ring Road No. 1, Telibandha, Raipur, Chhattisgarh 492006",
+    "phone": "077140 24901",
+    "url": "https://www.google.com/search?q=We+Care Hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=We+Care Hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2352142",
+    "cordlon": "81.6689552"
+  },
+  {
+    "location": "Mandi Rd, Near Ganj Mandi, Pandri, behind sector 5, Devendra Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "093003 73737",
+    "url": "https://www.google.com/search?q=Shri+Narayana Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shri+Narayana Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2634866",
+    "cordlon": "81.6497995"
+  },
+  {
+    "location": "Near Colors Mall, Pachpedi Naka Rd, Above Ganga Dignostic, Amrapali Society, Pachpedi Naka, Raipur, Chhattisgarh 492006",
+    "phone": "098271 43060",
+    "url": "https://www.google.com/search?q=Kalda+Burn and Plastic Care Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kalda+Burn and Plastic Care Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2165617",
+    "cordlon": "81.6572832"
+  },
+  {
+    "location": "Main road, Avanti Vihar Rd, near Shivmandir chowk, Telibandha, Raipur, Chhattisgarh 492001",
+    "phone": "077140 22265",
+    "url": "https://www.google.com/search?q=Shreyansh+Multi Speciality+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shreyansh+Multi Speciality+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2407517",
+    "cordlon": "81.669629"
+  },
+  {
+    "location": "csidc, Mahadev Ghat Road, Raipura Chowk Rd, near Raipur, Chhattisgarh 492013",
+    "phone": "088188 71717",
+    "url": "https://www.google.com/search?q=Jagannath+Multispeciality+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jagannath+Multispeciality+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2298933",
+    "cordlon": "81.6000335"
+  },
+  {
+    "location": "Near MLA Guest House, Tagore Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "098263 98881",
+    "url": "https://www.google.com/search?q=Jivan+Anmol Hosptal Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jivan+Anmol Hosptal Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2249976",
+    "cordlon": "81.6531912"
+  },
+  {
+    "location": "C.G. Ayurvedic Medical College Complex, Great Eastern Rd, Manki, Chhattisgarh 491441",
+    "phone": "076111 20356",
+    "url": "https://www.google.com/search?q=Jeevan+Rekha Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jeevan+Rekha Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.1109467",
+    "cordlon": "81.0991765"
+  },
+  {
+    "location": "Manpur, Chhattisgarh 491229",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Block+Training Building manpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Block+Training Building manpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "20.3737023",
+    "cordlon": "80.7277103"
+  },
+  {
+    "location": "SH 5, Chhuikhadan, Chhattisgarh 491885",
+    "phone": "077432 63623",
+    "url": "https://www.google.com/search?q=ITI+Bhawan Chhuikhadan+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ITI+Bhawan Chhuikhadan+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.5326798",
+    "cordlon": "81.0035836"
+  },
+  {
+    "location": "Dongargaon, Chhattisgarh 491661",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Post+Matric Harijan Girls Hostel Dongargaon+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Post+Matric Harijan Girls Hostel Dongargaon+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "20.9795826",
+    "cordlon": "80.8511752"
+  },
+  {
+    "location": "meregaon, Chhattisgarh 491665",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Kanya+Parisar Ambagarhchowki+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kanya+Parisar Ambagarhchowki+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "20.7972753",
+    "cordlon": "80.7501354"
+  },
+  {
+    "location": "GOVT.POLYTECHNIC KE SAMNE, Khairagarh, Chhattisgarh 491881",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Govt+Poly Girls Hostel Khairagarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt+Poly Girls Hostel Khairagarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.4214186",
+    "cordlon": "80.9745383"
+  },
+  {
+    "location": "Dhamtari Road, Pachpedi Naka Rd, Lalpur, Raipur, Chhattisgarh 492001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Sundara+Multispeciality HOSPITAL+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sundara+Multispeciality HOSPITAL+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.2131653",
+    "cordlon": "81.6579148"
+  },
+  {
+    "location": "Dongargarh, Chhattisgarh 491445",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Nagar+palika bhavan kumbhara para dongargarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Nagar+palika bhavan kumbhara para dongargarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.186727",
+    "cordlon": "80.7542136"
+  },
+  {
+    "location": "Khairkatta, Chhattisgarh 491229",
+    "phone": "075877 24068",
+    "url": "https://www.google.com/search?q=I.+T. I. Bhavan Manpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=I.+T. I. Bhavan Manpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "20.3542093",
+    "cordlon": "80.7044513"
+  },
+  {
+    "location": "Ward Number 40, Kaurin Bhatha, Basantpur, Rajnandgaon, Chhattisgarh 491441",
+    "phone": "077443 56654",
+    "url": "https://www.google.com/search?q=samda+superspeciality hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=samda+superspeciality hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.0833389",
+    "cordlon": "81.0214651"
+  },
+  {
+    "location": "Kaurin Bhatha, Srishti Colony, Rajnandgaon, Chhattisgarh 491441",
+    "phone": "",
+    "url": "https://www.google.com/search?q=khan+nursing home rajnandgaon+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=khan+nursing home rajnandgaon+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "21.0866869",
+    "cordlon": "81.020501"
+  },
+  {
+    "location": "Navapara, Surajpur, Chhattisgarh 497229",
+    "phone": "077752 66657",
+    "url": "https://www.google.com/search?q=Pt+Rewati Raman College Surajpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Pt+Rewati Raman College Surajpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.2165541",
+    "cordlon": "82.8787676"
+  },
+  {
+    "location": "Navapara, Surajpur, Chhattisgarh 497229",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Livelyhood+College Surajpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Livelyhood+College Surajpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.2137365",
+    "cordlon": "82.8785458"
+  },
+  {
+    "location": "NH43, Surajpur, Chhattisgarh 497229",
+    "phone": "",
+    "url": "https://www.google.com/search?q=MCH+Hospital Surajpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MCH+Hospital Surajpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.2097773",
+    "cordlon": "82.8803853"
+  },
+  {
+    "location": "MAIN ROAD KADAMPARA, DIST, Pratappur, Chhattisgarh 497223",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Echo+Center, Pratappur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Echo+Center, Pratappur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.481841",
+    "cordlon": "83.2114041"
+  },
+  {
+    "location": "Pratappur - Bhaiyathan Road, Bhaiyathan, Chhattisgarh 497231",
+    "phone": "",
+    "url": "https://www.google.com/search?q=CHC+Bhaiyathan, Surajpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Bhaiyathan, Surajpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.3907747",
+    "cordlon": "82.8523859"
+  },
+  {
+    "location": "Kanyaparisar Rd, Gangapur, Ambikapur, Chhattisgarh 497001",
+    "phone": "077742 97800",
+    "url": "https://www.google.com/search?q=Medical+College Ambikapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Medical+College Ambikapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.1121857",
+    "cordlon": "83.1666622"
+  },
+  {
+    "location": "Canal Circular Rd, Ambikapur, Chhattisgarh 497001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Lakshmi+narayan health care hospital ambikapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Lakshmi+narayan health care hospital ambikapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.1260669",
+    "cordlon": "83.1966933"
+  },
+  {
+    "location": "Church Rd, Ambikapur, Chhattisgarh 497001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Ekta+hospital Ambikapur, Chhattisgarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ekta+hospital Ambikapur, Chhattisgarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.1284704",
+    "cordlon": "83.1942198"
+  },
+  {
+    "location": "Shaksharta Marg, Ambikapur, Chhattisgarh 497001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Holy+Cross Hospital Ambikapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Holy+Cross Hospital Ambikapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.1346566",
+    "cordlon": "83.1934698"
+  },
+  {
+    "location": "Jail Road, Bihi badi, Darripara, Ambikapur, Chhattisgarh 497001",
+    "phone": "078792 91377",
+    "url": "https://www.google.com/search?q=K.D.+Hospital and Research Center Ambikapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=K.D.+Hospital and Research Center Ambikapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.1143335",
+    "cordlon": "83.1929025"
+  },
+  {
+    "location": "NH43, Ambikavani, Ambikapur, Chhattisgarh 497001",
+    "phone": "093996 96113",
+    "url": "https://www.google.com/search?q=sishu+manglam hospital ambikapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=sishu+manglam hospital ambikapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.126465",
+    "cordlon": "83.1845146"
+  },
+  {
+    "location": "Near new Bus stand Darripara, Ring Rd, Ambikapur, Chhattisgarh 497001",
+    "phone": "062611 77373",
+    "url": "https://www.google.com/search?q=Jeevan+Jyoti Hospital SURGUJA+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jeevan+Jyoti Hospital SURGUJA+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.1086876",
+    "cordlon": "83.1886013"
+  },
+  {
+    "location": "Outer Ring Rd, Namnakala, Ambikapur, Chhattisgarh 497001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=GOVT+POLYTECHNIQUE BOYS HOSTEL AMBIKAPUR+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=GOVT+POLYTECHNIQUE BOYS HOSTEL AMBIKAPUR+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "23.1298339",
+    "cordlon": "83.1821958"
+  },
+  {
+    "location": "Anusuiya Uikey",
+    "phone": "",
+    "url": "https://www.google.com/search?q=+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "",
+    "cordlon": ""
   }
 ]

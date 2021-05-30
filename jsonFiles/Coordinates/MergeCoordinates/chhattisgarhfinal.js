@@ -15,7 +15,7 @@ function get() {
         }
         
         if(data.cordlat){
-      dt.lattitude = data.cordlat;
+      dt.latitude = data.cordlat;
         }
 
         if(data.cordlon){
