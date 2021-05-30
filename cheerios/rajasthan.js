@@ -32,8 +32,8 @@ async function get() {
         var objData = {
           district: data[m],
           state: "Rajasthan",
-          hospitalName: data[k].split(",")[0],
-          hospitalAddress: data[k].split(",")[1],
+          hospitalName: data[k],
+          hospitalAddress: "Not Available",
           normalBedTotal: data[a],
           normalBedOccupied: data[b],
           normalBedAvailable: data[c],
@@ -87,4 +87,6 @@ async function get() {
       console.log(err);
     });
 }
+
+get();
 exports.getrajasthan = get;
