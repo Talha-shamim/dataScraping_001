@@ -109,8 +109,8 @@ async function capture_() {
     var objData = {
       district: data_[m],
       state: "Kerala",
-      HospitalName: "Not Available",
-      HospitalAddress: "Not Available",
+      hospitalName: "Not Available",
+      hospitalAddress: "Not Available",
       normalBedTotal: data_[l],
       normalBedAvailable: data_[n],
       normalBedOccupied: data_[l] - data_[n],
@@ -120,7 +120,6 @@ async function capture_() {
       oxygenBedTotal: data[a],
       oxygenBedAvailable: data[b],
       oxygenBedOccupied: data[a] - data[b],
-      rank:1
     };
 
     objData.googleSearch = "Not Available";
