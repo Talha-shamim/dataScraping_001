@@ -2,22 +2,6 @@
   {
     "state": "Haryana",
     "district": "yamunanagar",
-    "hospitalName": " Balaji Gautam Hospital",
-    "hospitalAddress": "Not Available",
-    "phoneNo": "",
-    "oxygenBedTotal": 14,
-    "oxygenBedOccupied": " 7",
-    "oxygenBedAvailable": "7",
-    "normalBedTotal": 2,
-    "normalBedOccupied": " 2",
-    "normalBedAvailable": "0",
-    "lastUpdatedDate": " 1:17 PM 29th May,21",
-    "lastUpdatedTime": " 1:17 PM",
-    "googleSearch": "https://www.google.com/search?q=+Balaji Gautam Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Balaji Gautam Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
-  },
-  {
-    "state": "Haryana",
-    "district": "yamunanagar",
     "hospitalName": " Ch Lekh Raj Multispeciality Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "7056700087",
@@ -27,8 +11,8 @@
     "normalBedTotal": 0,
     "normalBedOccupied": " 0",
     "normalBedAvailable": "0",
-    "lastUpdatedDate": " 4:52 PM 29th May,21",
-    "lastUpdatedTime": " 4:52 PM",
+    "lastUpdatedDate": " 5:17 PM 30th May,21",
+    "lastUpdatedTime": " 5:17 PM",
     "googleSearch": "https://www.google.com/search?q=+Ch Lekh Raj Multispeciality Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Ch Lekh Raj Multispeciality Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -42,8 +26,8 @@
     "oxygenBedAvailable": "3",
     "normalBedTotal": null,
     "normalBedOccupied": " 17",
-    "lastUpdatedDate": " 4:49 PM 29th May,21",
-    "lastUpdatedTime": " 4:49 PM",
+    "lastUpdatedDate": " 5:08 PM 30th May,21",
+    "lastUpdatedTime": " 5:08 PM",
     "googleSearch": "https://www.google.com/search?q=+CHC Bilaspur+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+CHC Bilaspur+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -52,13 +36,13 @@
     "hospitalName": " CHC Chhachharuli",
     "hospitalAddress": "Not Available",
     "phoneNo": "7988462198",
-    "oxygenBedTotal": 15,
+    "oxygenBedTotal": 18,
     "oxygenBedOccupied": " 10",
-    "oxygenBedAvailable": "5",
+    "oxygenBedAvailable": "8",
     "normalBedTotal": null,
     "normalBedOccupied": " 20",
-    "lastUpdatedDate": " 4:49 PM 29th May,21",
-    "lastUpdatedTime": " 4:49 PM",
+    "lastUpdatedDate": " 5:08 PM 30th May,21",
+    "lastUpdatedTime": " 5:08 PM",
     "googleSearch": "https://www.google.com/search?q=+CHC Chhachharuli+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+CHC Chhachharuli+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -72,8 +56,8 @@
     "oxygenBedAvailable": "10",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 6:47 PM 29th May,21",
-    "lastUpdatedTime": " 6:47 PM",
+    "lastUpdatedDate": " 5:09 PM 30th May,21",
+    "lastUpdatedTime": " 5:09 PM",
     "googleSearch": "https://www.google.com/search?q=+CHC Naharpur+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+CHC Naharpur+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -82,13 +66,13 @@
     "hospitalName": " CHC Partap Nagar",
     "hospitalAddress": "Not Available",
     "phoneNo": "9466718860",
-    "oxygenBedTotal": 12,
+    "oxygenBedTotal": 10,
     "oxygenBedOccupied": " 6",
-    "oxygenBedAvailable": "6",
+    "oxygenBedAvailable": "4",
     "normalBedTotal": null,
     "normalBedOccupied": " 10",
-    "lastUpdatedDate": " 4:49 PM 29th May,21",
-    "lastUpdatedTime": " 4:49 PM",
+    "lastUpdatedDate": " 5:09 PM 30th May,21",
+    "lastUpdatedTime": " 5:09 PM",
     "googleSearch": "https://www.google.com/search?q=+CHC Partap Nagar+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+CHC Partap Nagar+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -101,9 +85,9 @@
     "oxygenBedOccupied": " 10",
     "oxygenBedAvailable": "10",
     "normalBedTotal": null,
-    "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:52 PM 29th May,21",
-    "lastUpdatedTime": " 4:52 PM",
+    "normalBedOccupied": " 10",
+    "lastUpdatedDate": " 5:09 PM 30th May,21",
+    "lastUpdatedTime": " 5:09 PM",
     "googleSearch": "https://www.google.com/search?q=+CHC Radaur+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+CHC Radaur+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -117,8 +101,8 @@
     "oxygenBedAvailable": "14",
     "normalBedTotal": null,
     "normalBedOccupied": " 11",
-    "lastUpdatedDate": " 4:49 PM 29th May,21",
-    "lastUpdatedTime": " 4:49 PM",
+    "lastUpdatedDate": " 5:09 PM 30th May,21",
+    "lastUpdatedTime": " 5:09 PM",
     "googleSearch": "https://www.google.com/search?q=+CHC Saraswati Nagar+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+CHC Saraswati Nagar+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -127,13 +111,13 @@
     "hospitalName": " DABRA HOSPITAL Yamunanagar",
     "hospitalAddress": "Not Available",
     "phoneNo": "9468183610",
-    "oxygenBedTotal": 16,
+    "oxygenBedTotal": 18,
     "oxygenBedOccupied": " 11",
-    "oxygenBedAvailable": "5",
+    "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 8",
-    "lastUpdatedDate": " 4:50 PM 29th May,21",
-    "lastUpdatedTime": " 4:50 PM",
+    "lastUpdatedDate": " 5:14 PM 30th May,21",
+    "lastUpdatedTime": " 5:14 PM",
     "googleSearch": "https://www.google.com/search?q=+DABRA HOSPITAL Yamunanagar+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+DABRA HOSPITAL Yamunanagar+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -142,13 +126,13 @@
     "hospitalName": " ESI Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9416114144",
-    "oxygenBedTotal": 71,
-    "oxygenBedOccupied": " 38",
-    "oxygenBedAvailable": "33",
+    "oxygenBedTotal": 51,
+    "oxygenBedOccupied": " 36",
+    "oxygenBedAvailable": "15",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:48 PM 29th May,21",
-    "lastUpdatedTime": " 4:48 PM",
+    "lastUpdatedDate": " 5:07 PM 30th May,21",
+    "lastUpdatedTime": " 5:07 PM",
     "googleSearch": "https://www.google.com/search?q=+ESI Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+ESI Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -157,13 +141,13 @@
     "hospitalName": " Gaba Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "01732222194",
-    "oxygenBedTotal": 42,
+    "oxygenBedTotal": 51,
     "oxygenBedOccupied": " 30",
-    "oxygenBedAvailable": "12",
+    "oxygenBedAvailable": "21",
     "normalBedTotal": null,
     "normalBedOccupied": " 20",
-    "lastUpdatedDate": " 4:48 PM 29th May,21",
-    "lastUpdatedTime": " 4:48 PM",
+    "lastUpdatedDate": " 5:11 PM 30th May,21",
+    "lastUpdatedTime": " 5:11 PM",
     "googleSearch": "https://www.google.com/search?q=+Gaba Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Gaba Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -177,8 +161,8 @@
     "oxygenBedAvailable": "17",
     "normalBedTotal": null,
     "normalBedOccupied": " 3",
-    "lastUpdatedDate": " 4:50 PM 29th May,21",
-    "lastUpdatedTime": " 4:50 PM",
+    "lastUpdatedDate": " 5:12 PM 30th May,21",
+    "lastUpdatedTime": " 5:12 PM",
     "googleSearch": "https://www.google.com/search?q=+GULATI HOSPITAL+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+GULATI HOSPITAL+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -192,8 +176,8 @@
     "oxygenBedAvailable": "2",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 11:07 AM 30th May,21",
-    "lastUpdatedTime": " 11:07 AM",
+    "lastUpdatedDate": " 5:11 PM 30th May,21",
+    "lastUpdatedTime": " 5:11 PM",
     "googleSearch": "https://www.google.com/search?q=+Heart Care Center Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Heart Care Center Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -202,13 +186,13 @@
     "hospitalName": " JP Hospital Pvt",
     "hospitalAddress": "Not Available",
     "phoneNo": "",
-    "oxygenBedTotal": 21,
+    "oxygenBedTotal": 28,
     "oxygenBedOccupied": " 15",
-    "oxygenBedAvailable": "6",
+    "oxygenBedAvailable": "13",
     "normalBedTotal": null,
     "normalBedOccupied": " 15",
-    "lastUpdatedDate": " 4:48 PM 29th May,21",
-    "lastUpdatedTime": " 4:48 PM",
+    "lastUpdatedDate": " 5:12 PM 30th May,21",
+    "lastUpdatedTime": " 5:12 PM",
     "googleSearch": "https://www.google.com/search?q=+JP Hospital Pvt+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+JP Hospital Pvt+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -222,8 +206,8 @@
     "oxygenBedAvailable": "3",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:52 PM 29th May,21",
-    "lastUpdatedTime": " 4:52 PM",
+    "lastUpdatedDate": " 5:14 PM 30th May,21",
+    "lastUpdatedTime": " 5:14 PM",
     "googleSearch": "https://www.google.com/search?q=+KAPOOR HOSPITAL+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+KAPOOR HOSPITAL+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -232,13 +216,13 @@
     "hospitalName": " KESHWANI HOSPITAL",
     "hospitalAddress": "Not Available",
     "phoneNo": "9813170428",
-    "oxygenBedTotal": 17,
+    "oxygenBedTotal": 18,
     "oxygenBedOccupied": " 10",
-    "oxygenBedAvailable": "7",
+    "oxygenBedAvailable": "8",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:53 PM 29th May,21",
-    "lastUpdatedTime": " 4:53 PM",
+    "lastUpdatedDate": " 5:17 PM 30th May,21",
+    "lastUpdatedTime": " 5:17 PM",
     "googleSearch": "https://www.google.com/search?q=+KESHWANI HOSPITAL+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+KESHWANI HOSPITAL+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -252,8 +236,8 @@
     "oxygenBedAvailable": "10",
     "normalBedTotal": null,
     "normalBedOccupied": " 1",
-    "lastUpdatedDate": " 4:50 PM 29th May,21",
-    "lastUpdatedTime": " 4:50 PM",
+    "lastUpdatedDate": " 5:13 PM 30th May,21",
+    "lastUpdatedTime": " 5:13 PM",
     "googleSearch": "https://www.google.com/search?q=+Maxxwell Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Maxxwell Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -262,13 +246,13 @@
     "hospitalName": " Mukand Lal District Civil Hospital Yamunanagar",
     "hospitalAddress": "Not Available",
     "phoneNo": "01732237022",
-    "oxygenBedTotal": 30,
+    "oxygenBedTotal": 29,
     "oxygenBedOccupied": " 18",
-    "oxygenBedAvailable": "12",
+    "oxygenBedAvailable": "11",
     "normalBedTotal": null,
     "normalBedOccupied": " 9",
-    "lastUpdatedDate": " 4:50 PM 29th May,21",
-    "lastUpdatedTime": " 4:50 PM",
+    "lastUpdatedDate": " 5:10 PM 30th May,21",
+    "lastUpdatedTime": " 5:10 PM",
     "googleSearch": "https://www.google.com/search?q=+Mukand Lal District Civil Hospital Yamunanagar+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Mukand Lal District Civil Hospital Yamunanagar+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -277,13 +261,13 @@
     "hospitalName": " NIRMAL HOSPITAL",
     "hospitalAddress": "Not Available",
     "phoneNo": "01732254135",
-    "oxygenBedTotal": 24,
+    "oxygenBedTotal": 26,
     "oxygenBedOccupied": " 13",
-    "oxygenBedAvailable": "11",
+    "oxygenBedAvailable": "13",
     "normalBedTotal": null,
     "normalBedOccupied": " 1",
-    "lastUpdatedDate": " 4:48 PM 29th May,21",
-    "lastUpdatedTime": " 4:48 PM",
+    "lastUpdatedDate": " 5:15 PM 30th May,21",
+    "lastUpdatedTime": " 5:15 PM",
     "googleSearch": "https://www.google.com/search?q=+NIRMAL HOSPITAL+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+NIRMAL HOSPITAL+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -292,13 +276,13 @@
     "hospitalName": " RK Gupta",
     "hospitalAddress": "Not Available",
     "phoneNo": "7056525401",
-    "oxygenBedTotal": 21,
+    "oxygenBedTotal": 24,
     "oxygenBedOccupied": " 15",
-    "oxygenBedAvailable": "6",
+    "oxygenBedAvailable": "9",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 4:53 PM 29th May,21",
-    "lastUpdatedTime": " 4:53 PM",
+    "lastUpdatedDate": " 5:15 PM 30th May,21",
+    "lastUpdatedTime": " 5:15 PM",
     "googleSearch": "https://www.google.com/search?q=+RK Gupta+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+RK Gupta+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -307,13 +291,13 @@
     "hospitalName": " SABBARWAL HOSPITAL",
     "hospitalAddress": "Not Available",
     "phoneNo": "9812041848",
-    "oxygenBedTotal": 8,
+    "oxygenBedTotal": 7,
     "oxygenBedOccupied": " 6",
-    "oxygenBedAvailable": "2",
+    "oxygenBedAvailable": "1",
     "normalBedTotal": null,
     "normalBedOccupied": " 1",
-    "lastUpdatedDate": " 4:52 PM 29th May,21",
-    "lastUpdatedTime": " 4:52 PM",
+    "lastUpdatedDate": " 5:17 PM 30th May,21",
+    "lastUpdatedTime": " 5:17 PM",
     "googleSearch": "https://www.google.com/search?q=+SABBARWAL HOSPITAL+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+SABBARWAL HOSPITAL+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -322,13 +306,13 @@
     "hospitalName": " Sachdeva Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "7015883564",
-    "oxygenBedTotal": 28,
+    "oxygenBedTotal": 30,
     "oxygenBedOccupied": " 16",
-    "oxygenBedAvailable": "12",
+    "oxygenBedAvailable": "14",
     "normalBedTotal": null,
     "normalBedOccupied": " 8",
-    "lastUpdatedDate": " 4:53 PM 29th May,21",
-    "lastUpdatedTime": " 4:53 PM",
+    "lastUpdatedDate": " 5:16 PM 30th May,21",
+    "lastUpdatedTime": " 5:16 PM",
     "googleSearch": "https://www.google.com/search?q=+Sachdeva Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Sachdeva Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -337,13 +321,13 @@
     "hospitalName": " Santosh Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9416158466",
-    "oxygenBedTotal": 8,
+    "oxygenBedTotal": 10,
     "oxygenBedOccupied": " 5",
-    "oxygenBedAvailable": "3",
+    "oxygenBedAvailable": "5",
     "normalBedTotal": null,
     "normalBedOccupied": " 9",
-    "lastUpdatedDate": " 4:47 PM 29th May,21",
-    "lastUpdatedTime": " 4:47 PM",
+    "lastUpdatedDate": " 5:10 PM 30th May,21",
+    "lastUpdatedTime": " 5:10 PM",
     "googleSearch": "https://www.google.com/search?q=+Santosh Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Santosh Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -352,13 +336,13 @@
     "hospitalName": " SHARMA HOSPITAL",
     "hospitalAddress": "Not Available",
     "phoneNo": "01732243436",
-    "oxygenBedTotal": 16,
+    "oxygenBedTotal": 18,
     "oxygenBedOccupied": " 12",
-    "oxygenBedAvailable": "4",
+    "oxygenBedAvailable": "6",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:52 PM 29th May,21",
-    "lastUpdatedTime": " 4:52 PM",
+    "lastUpdatedDate": " 5:16 PM 30th May,21",
+    "lastUpdatedTime": " 5:16 PM",
     "googleSearch": "https://www.google.com/search?q=+SHARMA HOSPITAL+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+SHARMA HOSPITAL+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -367,13 +351,13 @@
     "hospitalName": " Shree Medical Care Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "01732297838",
-    "oxygenBedTotal": 25,
+    "oxygenBedTotal": 27,
     "oxygenBedOccupied": " 15",
-    "oxygenBedAvailable": "10",
+    "oxygenBedAvailable": "12",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:54 PM 29th May,21",
-    "lastUpdatedTime": " 4:54 PM",
+    "lastUpdatedDate": " 5:18 PM 30th May,21",
+    "lastUpdatedTime": " 5:18 PM",
     "googleSearch": "https://www.google.com/search?q=+Shree Medical Care Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Shree Medical Care Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -387,8 +371,8 @@
     "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 1",
-    "lastUpdatedDate": " 4:53 PM 29th May,21",
-    "lastUpdatedTime": " 4:53 PM",
+    "lastUpdatedDate": " 5:14 PM 30th May,21",
+    "lastUpdatedTime": " 5:14 PM",
     "googleSearch": "https://www.google.com/search?q=+Shureshtha Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Shureshtha Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -402,8 +386,8 @@
     "oxygenBedAvailable": "4",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:51 PM 29th May,21",
-    "lastUpdatedTime": " 4:51 PM",
+    "lastUpdatedDate": " 5:12 PM 30th May,21",
+    "lastUpdatedTime": " 5:12 PM",
     "googleSearch": "https://www.google.com/search?q=+SP Hospital Jag+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+SP Hospital Jag+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -417,8 +401,8 @@
     "oxygenBedAvailable": "14",
     "normalBedTotal": null,
     "normalBedOccupied": " 10",
-    "lastUpdatedDate": " 4:51 PM 29th May,21",
-    "lastUpdatedTime": " 4:51 PM",
+    "lastUpdatedDate": " 5:13 PM 30th May,21",
+    "lastUpdatedTime": " 5:13 PM",
     "googleSearch": "https://www.google.com/search?q=+Swami Vivekanand Hospital Yamunanagar+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Swami Vivekanand Hospital Yamunanagar+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -427,13 +411,13 @@
     "hospitalName": " Swastik Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "8059692431",
-    "oxygenBedTotal": 8,
+    "oxygenBedTotal": 7,
     "oxygenBedOccupied": " 4",
-    "oxygenBedAvailable": "4",
+    "oxygenBedAvailable": "3",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 4:54 PM 29th May,21",
-    "lastUpdatedTime": " 4:54 PM",
+    "lastUpdatedDate": " 5:18 PM 30th May,21",
+    "lastUpdatedTime": " 5:18 PM",
     "googleSearch": "https://www.google.com/search?q=+Swastik Hospital+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+Swastik Hospital+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -442,13 +426,13 @@
     "hospitalName": " tejli stadium",
     "hospitalAddress": "Not Available",
     "phoneNo": "7042131032",
-    "oxygenBedTotal": 28,
+    "oxygenBedTotal": 31,
     "oxygenBedOccupied": " 20",
-    "oxygenBedAvailable": "8",
+    "oxygenBedAvailable": "11",
     "normalBedTotal": null,
     "normalBedOccupied": " 56",
-    "lastUpdatedDate": " 4:51 PM 29th May,21",
-    "lastUpdatedTime": " 4:51 PM",
+    "lastUpdatedDate": " 5:08 PM 30th May,21",
+    "lastUpdatedTime": " 5:08 PM",
     "googleSearch": "https://www.google.com/search?q=+tejli stadium+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+tejli stadium+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -462,8 +446,8 @@
     "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 2",
-    "lastUpdatedDate": " 4:54 PM 29th May,21",
-    "lastUpdatedTime": " 4:54 PM",
+    "lastUpdatedDate": " 5:16 PM 30th May,21",
+    "lastUpdatedTime": " 5:16 PM",
     "googleSearch": "https://www.google.com/search?q=+VARDAAN HOSPITAL+yamunanagar&rlz=1C1CHBF_enIN859IN859&oq=+VARDAAN HOSPITAL+yamunanagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

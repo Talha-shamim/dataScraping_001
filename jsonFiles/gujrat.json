@@ -48,7 +48,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Anaya+ICU Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Anaya+ICU Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "090990 46640",
-    "lattitude": "22.8297878",
+    "latitude": "22.8297878",
     "longitude": "72.3638056",
     "rank": 2
   },
@@ -84,7 +84,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Ashtha+Multispeciality Hospital+Dascroi, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Ashtha+Multispeciality Hospital+Dascroi, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "02718 282 852",
-    "lattitude": "22.8555693",
+    "latitude": "22.8555693",
     "longitude": "72.5933339",
     "rank": 2
   },
@@ -120,7 +120,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Bhagyoday+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Bhagyoday+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "02715 233 254",
-    "lattitude": "23.1280502",
+    "latitude": "23.1280502",
     "longitude": "72.0464472",
     "rank": 2
   },
@@ -156,7 +156,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Care+Children Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Care+Children Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "098981 99818",
-    "lattitude": "22.8294004",
+    "latitude": "22.8294004",
     "longitude": "72.3609788",
     "rank": 2
   },
@@ -192,7 +192,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Durvesh+Hospital+Dholka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Durvesh+Hospital+Dholka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9825526911",
-    "lattitude": "22.730652",
+    "latitude": "22.730652",
     "longitude": "72.444597",
     "rank": 2
   },
@@ -211,7 +211,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Gurukrupa+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Gurukrupa+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9601781280",
-    "lattitude": "22.9876499",
+    "latitude": "22.9876499",
     "longitude": "72.3868624",
     "rank": 2
   },
@@ -230,7 +230,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Hare+Krishna Multi Speciality Hospital+Dholka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Hare+Krishna Multi Speciality Hospital+Dholka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "072280 40111",
-    "lattitude": "22.727866",
+    "latitude": "22.727866",
     "longitude": "72.4375964",
     "rank": 2
   },
@@ -249,7 +249,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Janam+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Janam+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "02717 224 144",
-    "lattitude": "22.9878733",
+    "latitude": "22.9878733",
     "longitude": "72.3873526",
     "rank": 2
   },
@@ -268,7 +268,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Janta+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Janta+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9825739241",
-    "lattitude": "22.9873215",
+    "latitude": "22.9873215",
     "longitude": "72.3812672",
     "rank": 2
   },
@@ -287,7 +287,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Jay+Shiv Shakti Hospital+Dascroi, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Jay+Shiv Shakti Hospital+Dascroi, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "080002 22321",
-    "lattitude": "22.892126",
+    "latitude": "22.892126",
     "longitude": "72.672898",
     "rank": 2
   },
@@ -323,7 +323,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Krishna+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Krishna+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "097146 70600",
-    "lattitude": "23.1282182",
+    "latitude": "23.1282182",
     "longitude": "72.0512236",
     "rank": 2
   },
@@ -359,7 +359,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Mamta+Hospital+Viramgam&rlz=1C1CHBF_enIN859IN859&oq=Mamta+Hospital+Viramgam&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9426123343",
-    "lattitude": "23.1258459",
+    "latitude": "23.1258459",
     "longitude": "72.051366",
     "rank": 2
   },
@@ -378,7 +378,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Muniseva+Trust Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Muniseva+Trust Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "099980 51881",
-    "lattitude": "23.0149643",
+    "latitude": "23.0149643",
     "longitude": "72.3829927",
     "rank": 2
   },
@@ -397,7 +397,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Navjivan+Doctor House+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Navjivan+Doctor House+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "070411 78333",
-    "lattitude": "22.9866132",
+    "latitude": "22.9866132",
     "longitude": "72.3808627",
     "rank": 2
   },
@@ -416,7 +416,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Our+Lady Of Pillar Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Our+Lady Of Pillar Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9408933673",
-    "lattitude": "23.0154414",
+    "latitude": "23.0154414",
     "longitude": "72.380579",
     "rank": 2
   },
@@ -435,7 +435,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Parekh’s+Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Parekh’s+Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9898274105",
-    "lattitude": "22.830652",
+    "latitude": "22.830652",
     "longitude": "72.3614591",
     "rank": 2
   },
@@ -454,7 +454,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=RMS+Hospital+Dhandhuka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=RMS+Hospital+Dhandhuka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "02713 222 543",
-    "lattitude": "22.3640464",
+    "latitude": "22.3640464",
     "longitude": "71.9779372",
     "rank": 2
   },
@@ -490,7 +490,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Rudraksh+Hospital+Dascroi, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Rudraksh+Hospital+Dascroi, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "7802025678",
-    "lattitude": "22.8571952",
+    "latitude": "22.8571952",
     "longitude": "72.5949536",
     "rank": 2
   },
@@ -509,7 +509,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Rudraksh+Multispeciality Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Rudraksh+Multispeciality Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "8000808015",
-    "lattitude": "22.9955518",
+    "latitude": "22.9955518",
     "longitude": "72.3814458",
     "rank": 2
   },
@@ -528,7 +528,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Sanand+APMC Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Sanand+APMC Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "098257 39241",
-    "lattitude": "22.9873215",
+    "latitude": "22.9873215",
     "longitude": "72.3812672",
     "rank": 2
   },
@@ -547,7 +547,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shaligram+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shaligram+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "072260 25555",
-    "lattitude": "23.128311",
+    "latitude": "23.128311",
     "longitude": "72.044989",
     "rank": 2
   },
@@ -566,7 +566,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Sharnam+Hospital+Dholka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Sharnam+Hospital+Dholka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "8000591122",
-    "lattitude": "22.7427469",
+    "latitude": "22.7427469",
     "longitude": "72.4430224",
     "rank": 2
   },
@@ -585,7 +585,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shiv+Hospital+Dascroi, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shiv+Hospital+Dascroi, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "074702 12345",
-    "lattitude": "22.9856059",
+    "latitude": "22.9856059",
     "longitude": "72.7351955",
     "rank": 2
   },
@@ -604,7 +604,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shiv+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shiv+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9824767500",
-    "lattitude": "23.1302747",
+    "latitude": "23.1302747",
     "longitude": "72.0436043",
     "rank": 2
   },
@@ -640,7 +640,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shreeji+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shreeji+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9898042882",
-    "lattitude": "22.9912897",
+    "latitude": "22.9912897",
     "longitude": "72.3755085",
     "rank": 2
   },
@@ -659,7 +659,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shrey+Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shrey+Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9714344153",
-    "lattitude": "22.830784",
+    "latitude": "22.830784",
     "longitude": "72.3627838",
     "rank": 2
   },
@@ -678,7 +678,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Sola+Civil Hospital+Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Sola+Civil Hospital+Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "7567897527",
-    "lattitude": "23.0831547",
+    "latitude": "23.0831547",
     "longitude": "72.5248844",
     "rank": 2
   },
@@ -748,7 +748,7 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Zydus+Sitapur Hospital+Mandal, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Zydus+Sitapur Hospital+Mandal, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "6354270805",
-    "lattitude": "23.4440032",
+    "latitude": "23.4440032",
     "longitude": "72.0012069",
     "rank": 2
   }
