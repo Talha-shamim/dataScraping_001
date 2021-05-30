@@ -15,7 +15,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Action+Cancer Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Action+Cancer Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.6735957",
-    "longitude": "77.1110733"
+    "longitude": "77.1110733",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -31,7 +32,8 @@
     "phoneNo": "+91-9868451894",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=Kottakkal+Arya Vaidya Sala+delhi&rlz=1C1CHBF_enIN859IN859&oq=Kottakkal+Arya Vaidya Sala+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Kottakkal+Arya Vaidya Sala+delhi&rlz=1C1CHBF_enIN859IN859&oq=Kottakkal+Arya Vaidya Sala+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -49,7 +51,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Batra+Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Batra+Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.5130972",
-    "longitude": "77.2457897"
+    "longitude": "77.2457897",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -65,7 +68,8 @@
     "phoneNo": "9811253309",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=Bhagwan +Mahavir  Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Bhagwan +Mahavir  Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Bhagwan +Mahavir  Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Bhagwan +Mahavir  Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -73,8 +77,8 @@
     "hospitalName": "Dr. B.L Kapur Memorial Hospital",
     "hospitalAddress": "Pusa Rd, Radha Soami Satsang, Rajendra Place, New Delhi, Delhi 110005",
     "normalBedTotal": "4",
-    "normalBedOccupied": 4,
-    "normalBedAvailable": "0",
+    "normalBedOccupied": 3,
+    "normalBedAvailable": "1",
     "oxygenBedTotal": "1",
     "oxygenBedOccupied": 0,
     "oxygenBedAvailable": "1",
@@ -83,7 +87,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Dr.+B.L Kapur Memorial Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Dr.+B.L Kapur Memorial Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.6433105",
-    "longitude": "77.1796932"
+    "longitude": "77.1796932",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -101,7 +106,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Delhi+ENT Hospital & Research Centre+delhi&rlz=1C1CHBF_enIN859IN859&oq=Delhi+ENT Hospital & Research Centre+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.5399609",
-    "longitude": "77.292121"
+    "longitude": "77.292121",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -119,7 +125,8 @@
     "googleSearch": "https://www.google.com/search?q=FLT.+LT. RAJAN DHALL HOSPITAL+delhi&rlz=1C1CHBF_enIN859IN859&oq=FLT.+LT. RAJAN DHALL HOSPITAL+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Fortis Flt. Lt. Rajan Dhall Hospital, Aruna Asaf Ali Marg, Pocket 1, Sector B, Vasant Kunj, New Delhi, Delhi 110070",
     "lattitude": "28.5192105",
-    "longitude": "77.1602895"
+    "longitude": "77.1602895",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -137,7 +144,8 @@
     "googleSearch": "https://www.google.com/search?q=Max+Smart Super Specialty Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Max+Smart Super Specialty Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Press Enclave Marg, Saket District Centre, Saket, New Delhi, Delhi 110017",
     "lattitude": "28.5280968",
-    "longitude": "77.2134714"
+    "longitude": "77.2134714",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -150,12 +158,13 @@
     "oxygenBedTotal": "2",
     "oxygenBedOccupied": 0,
     "oxygenBedAvailable": "2",
-    "phoneNo": "",
+    "phoneNo": "9013573482",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Indian+Spinal Injuries Centre+delhi&rlz=1C1CHBF_enIN859IN859&oq=Indian+Spinal Injuries Centre+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.5331214",
-    "longitude": "77.1421843"
+    "longitude": "77.1421843",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -168,12 +177,13 @@
     "oxygenBedTotal": "0",
     "oxygenBedOccupied": 0,
     "oxygenBedAvailable": "0",
-    "phoneNo": "",
+    "phoneNo": "9811007624",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Khosla+Medical Institute & Research Society+delhi&rlz=1C1CHBF_enIN859IN859&oq=Khosla+Medical Institute & Research Society+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.7070971",
-    "longitude": "77.1550797"
+    "longitude": "77.1550797",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -191,7 +201,8 @@
     "googleSearch": "https://www.google.com/search?q=Mata+Channan Devi Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Mata+Channan Devi Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "c1, Lal Sai Mandir Marg, Block C1, Janakpuri, New Delhi, Delhi 110058",
     "lattitude": "28.6187501",
-    "longitude": "77.0783142"
+    "longitude": "77.0783142",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -209,7 +220,8 @@
     "googleSearch": "https://www.google.com/search?q=Maharaja+Agrasen Punjabi Bagh+delhi&rlz=1C1CHBF_enIN859IN859&oq=Maharaja+Agrasen Punjabi Bagh+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Jain Muni Guru Ramkrishan Marg, Near Metro Station Jain Muni Guru Ramkrishan Marg, Block C, Shivaji Park, Punjabi Bagh, Delhi, 110026",
     "lattitude": "28.6739823",
-    "longitude": "77.1339444"
+    "longitude": "77.1339444",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -225,7 +237,8 @@
     "phoneNo": "01125933166",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=Mai+Kamli Wali Ch. Hospital Plot No.12+delhi&rlz=1C1CHBF_enIN859IN859&oq=Mai+Kamli Wali Ch. Hospital Plot No.12+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Mai+Kamli Wali Ch. Hospital Plot No.12+delhi&rlz=1C1CHBF_enIN859IN859&oq=Mai+Kamli Wali Ch. Hospital Plot No.12+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -238,12 +251,13 @@
     "oxygenBedTotal": "0",
     "oxygenBedOccupied": 0,
     "oxygenBedAvailable": "0",
-    "phoneNo": "",
+    "phoneNo": "9212248884",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=National+Chest Institute+delhi&rlz=1C1CHBF_enIN859IN859&oq=National+Chest Institute+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.6289883",
-    "longitude": "77.1413259"
+    "longitude": "77.1413259",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -259,7 +273,8 @@
     "phoneNo": "9810684340",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=National+Heart Institute+delhi&rlz=1C1CHBF_enIN859IN859&oq=National+Heart Institute+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=National+Heart Institute+delhi&rlz=1C1CHBF_enIN859IN859&oq=National+Heart Institute+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -277,7 +292,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Primus+Super Speciality (Veeranwali International Hospital) Chander Gupta Road+delhi&rlz=1C1CHBF_enIN859IN859&oq=Primus+Super Speciality (Veeranwali International Hospital) Chander Gupta Road+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.5929448",
-    "longitude": "77.1812159"
+    "longitude": "77.1812159",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -293,7 +309,8 @@
     "phoneNo": "9810686955",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=Jeevan+Anmol Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Jeevan+Anmol Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Jeevan+Anmol Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Jeevan+Anmol Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -311,7 +328,8 @@
     "googleSearch": "https://www.google.com/search?q=PUSHPAWATI+SINGHANIA HOSPITAL & RESERACH INSTITUTE+delhi&rlz=1C1CHBF_enIN859IN859&oq=PUSHPAWATI+SINGHANIA HOSPITAL & RESERACH INSTITUTE+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Press Enclave Marg, J Pocket, Phase II, Sheikh Sarai, New Delhi, Delhi 110017",
     "lattitude": "28.533131",
-    "longitude": "77.2254405"
+    "longitude": "77.2254405",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -329,7 +347,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Medeor+Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Medeor+Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.5373235",
-    "longitude": "77.1812009"
+    "longitude": "77.1812009",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -342,12 +361,13 @@
     "oxygenBedTotal": "0",
     "oxygenBedOccupied": 1,
     "oxygenBedAvailable": "-1",
-    "phoneNo": "",
+    "phoneNo": "9811282538",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Saroj+Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Saroj+Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.70613",
-    "longitude": "77.129093"
+    "longitude": "77.129093",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -365,7 +385,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Shanti+Mukand Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Shanti+Mukand Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.6457155",
-    "longitude": "77.3016707"
+    "longitude": "77.3016707",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -383,7 +404,8 @@
     "googleSearch": "https://www.google.com/search?q=Sir+Ganga Ram Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Sir+Ganga Ram Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Sir Ganga Ram Hospital Marg, Old Rajinder Nagar, New Rajinder Nagar, New Delhi, Delhi 110060",
     "lattitude": "28.6384582",
-    "longitude": "77.1895559"
+    "longitude": "77.1895559",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -401,7 +423,8 @@
     "googleSearch": "https://www.google.com/search?q=Venu+Eye Institute & Research Centre+delhi&rlz=1C1CHBF_enIN859IN859&oq=Venu+Eye Institute & Research Centre+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "1/ 31, Institutional Area-II, Sheikh Sarai, New Delhi, Delhi 110017",
     "lattitude": "28.5345208",
-    "longitude": "77.2244179"
+    "longitude": "77.2244179",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -419,7 +442,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Bhagwati+Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Bhagwati+Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.7191455",
-    "longitude": "77.1295439"
+    "longitude": "77.1295439",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -437,7 +461,8 @@
     "googleSearch": "https://www.google.com/search?q=Dharamshila+Narayana Superspeciality Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Dharamshila+Narayana Superspeciality Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Metro Station, Dharamshila marg, Vasundhara Enclave Near Ashok Nagar, Dallupura, New Delhi, Delhi 110096",
     "lattitude": "28.6025216",
-    "longitude": "77.3141282"
+    "longitude": "77.3141282",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -455,7 +480,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Fortis+Escorts Heart Institute+delhi&rlz=1C1CHBF_enIN859IN859&oq=Fortis+Escorts Heart Institute+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.5606583",
-    "longitude": "77.2739036"
+    "longitude": "77.2739036",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -473,7 +499,8 @@
     "googleSearch": "https://www.google.com/search?q=Max+Patparganj+delhi&rlz=1C1CHBF_enIN859IN859&oq=Max+Patparganj+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "108A, I.P.Extension, Patparganj, Delhi, 110092",
     "lattitude": "28.632938",
-    "longitude": "77.3090026"
+    "longitude": "77.3090026",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -488,7 +515,8 @@
     "phoneNo": "9971153354",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=Max+Saket (East)+delhi&rlz=1C1CHBF_enIN859IN859&oq=Max+Saket (East)+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Max+Saket (East)+delhi&rlz=1C1CHBF_enIN859IN859&oq=Max+Saket (East)+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -506,7 +534,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Jaipur+Golden Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Jaipur+Golden Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.6997737",
-    "longitude": "77.1154589"
+    "longitude": "77.1154589",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -524,7 +553,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Sri+Balaji Action Medical Institute FC-34+delhi&rlz=1C1CHBF_enIN859IN859&oq=Sri+Balaji Action Medical Institute FC-34+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.6737837",
-    "longitude": "77.1102673"
+    "longitude": "77.1102673",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -542,7 +572,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=VIMHANS+HOSPITAL+delhi&rlz=1C1CHBF_enIN859IN859&oq=VIMHANS+HOSPITAL+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.5692702",
-    "longitude": "77.2510561"
+    "longitude": "77.2510561",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -560,7 +591,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Mool+Chand Khairati Ram Trust & Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Mool+Chand Khairati Ram Trust & Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "lattitude": "28.5664245",
-    "longitude": "77.2351427"
+    "longitude": "77.2351427",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -575,7 +607,8 @@
     "phoneNo": "9205481439",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=AYUSHMAN+HOSPITAL & HEALTH SERVICES+delhi&rlz=1C1CHBF_enIN859IN859&oq=AYUSHMAN+HOSPITAL & HEALTH SERVICES+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=AYUSHMAN+HOSPITAL & HEALTH SERVICES+delhi&rlz=1C1CHBF_enIN859IN859&oq=AYUSHMAN+HOSPITAL & HEALTH SERVICES+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -593,7 +626,8 @@
     "googleSearch": "https://www.google.com/search?q=MAX+SUPER SPECIALTY HOSPITAL SHALIMAR BAGH+delhi&rlz=1C1CHBF_enIN859IN859&oq=MAX+SUPER SPECIALTY HOSPITAL SHALIMAR BAGH+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "FC 50, C and D Block, Shalimar Place Site, Shalimar Bagh, Delhi, 110088",
     "lattitude": "28.727664",
-    "longitude": "77.152599"
+    "longitude": "77.152599",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -611,7 +645,8 @@
     "googleSearch": "https://www.google.com/search?q=Vinayak+Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Vinayak+Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Derawal Nagar, Gujranwala Town, New Delhi, Delhi 110009",
     "lattitude": "28.6986231",
-    "longitude": "77.1870393"
+    "longitude": "77.1870393",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -626,7 +661,8 @@
     "phoneNo": "9810696235",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=MGS+Super Specialty Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=MGS+Super Specialty Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=MGS+Super Specialty Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=MGS+Super Specialty Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -644,7 +680,8 @@
     "googleSearch": "https://www.google.com/search?q=Janki+Das Kapoor Memorial Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Janki+Das Kapoor Memorial Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Pandav Nagar, near Satya Park, Naraina, New Delhi, Delhi 110008",
     "lattitude": "28.6491981",
-    "longitude": "77.1511469"
+    "longitude": "77.1511469",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -662,7 +699,8 @@
     "googleSearch": "https://www.google.com/search?q=Red+Cross Hospital Society Mat Welfare & Child Care Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Red+Cross Hospital Society Mat Welfare & Child Care Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Bihar State Branch, North Gandhi Maidan, Patna, Bihar 800001",
     "lattitude": "25.5956669",
-    "longitude": "85.2256294"
+    "longitude": "85.2256294",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -680,7 +718,8 @@
     "googleSearch": "https://www.google.com/search?q=Jivodaya+Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Jivodaya+Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "PH-1, Institutional Area, Ashok Vihar, near Deep Market, New Delhi, Delhi 110052",
     "lattitude": "28.6930443",
-    "longitude": "77.1726291"
+    "longitude": "77.1726291",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -698,7 +737,8 @@
     "googleSearch": "https://www.google.com/search?q=Sitaram+Bharti Institute of Science & Research+delhi&rlz=1C1CHBF_enIN859IN859&oq=Sitaram+Bharti Institute of Science & Research+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "B-16, Qutab Institutional Area Block B Rd, NRPC Colony, Block B, Qutab Institutional Area, New Delhi, Delhi 110016",
     "lattitude": "28.5378608",
-    "longitude": "77.1845894"
+    "longitude": "77.1845894",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -716,7 +756,8 @@
     "googleSearch": "https://www.google.com/search?q=Guru+Harkrishan Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Guru+Harkrishan Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Near, Ring Rd, Vidyut Vihar, Pocket A, Sunlight Colony, New Delhi, Delhi 110014",
     "lattitude": "28.5814745",
-    "longitude": "77.2619929"
+    "longitude": "77.2619929",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -734,7 +775,8 @@
     "googleSearch": "https://www.google.com/search?q=MEDEOR+HOSPITAL DWARKA+delhi&rlz=1C1CHBF_enIN859IN859&oq=MEDEOR+HOSPITAL DWARKA+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Near Ashirwad Chowk, Phase 1, HAF-B, Sector 12 Dwarka, New Delhi, Delhi 110075",
     "lattitude": "28.5962235",
-    "longitude": "77.0455043"
+    "longitude": "77.0455043",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -752,7 +794,8 @@
     "googleSearch": "https://www.google.com/search?q=R+L K C(Metro) Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=R+L K C(Metro) Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Pandav Nagar, Naraina Road, Near Shadipur Metro Station, New Delhi, Delhi 110008",
     "lattitude": "28.6511745",
-    "longitude": "77.1547547"
+    "longitude": "77.1547547",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -770,7 +813,8 @@
     "googleSearch": "https://www.google.com/search?q=Madhukar+Rainbow Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Madhukar+Rainbow Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Geetanjali FC-29 5 Near Malviya Nagar Metro Station, New Delhi, Delhi 110017",
     "lattitude": "28.529288",
-    "longitude": "77.20464"
+    "longitude": "77.20464",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -785,7 +829,8 @@
     "phoneNo": "09100065913",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=Birth+Right+delhi&rlz=1C1CHBF_enIN859IN859&oq=Birth+Right+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q=Birth+Right+delhi&rlz=1C1CHBF_enIN859IN859&oq=Birth+Right+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -803,7 +848,8 @@
     "googleSearch": "https://www.google.com/search?q=Shree+Agarsain International Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Shree+Agarsain International Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Police Station, PSP Aman Vihar, CH Bhim Singh Nambardar Marg, Sector 22, Rohini, New Delhi, Delhi 110086",
     "lattitude": "28.7185005",
-    "longitude": "77.064986"
+    "longitude": "77.064986",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -821,7 +867,8 @@
     "googleSearch": "https://www.google.com/search?q=Venkateshwar+Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Venkateshwar+Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Sector 12 Rd, Sector 18, Sector 18A Dwarka, Dwarka, New Delhi, Delhi 110075",
     "lattitude": "28.5885973",
-    "longitude": "77.0380428"
+    "longitude": "77.0380428",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -833,13 +880,14 @@
     "oxygenBedTotal": "0",
     "oxygenBedOccupied": 0,
     "oxygenBedAvailable": "0",
-    "phoneNo": "",
+    "phoneNo": "9958898757",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Febris+Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Febris+Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Plot No: 20, Sector-A7, Narela, New Delhi, Delhi 110040",
     "lattitude": "28.8431455",
-    "longitude": "77.101444"
+    "longitude": "77.101444",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -857,7 +905,8 @@
     "googleSearch": "https://www.google.com/search?q=Maharaja+Agrasen Dwarka+delhi&rlz=1C1CHBF_enIN859IN859&oq=Maharaja+Agrasen Dwarka+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Pocket 4, Sector 1 Dwarka, Dwarka, New Delhi, Delhi 110075",
     "lattitude": "28.593381",
-    "longitude": "77.0784681"
+    "longitude": "77.0784681",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -869,13 +918,14 @@
     "oxygenBedTotal": "1",
     "oxygenBedOccupied": 0,
     "oxygenBedAvailable": "1",
-    "phoneNo": "",
+    "phoneNo": "9999294027",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Human+Care Medical Charitable Trust+delhi&rlz=1C1CHBF_enIN859IN859&oq=Human+Care Medical Charitable Trust+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "near telephone exchange, Palam Vihar, Sector 6 Dwarka, Dwarka, New Delhi, Delhi 110075",
     "lattitude": "28.5950514",
-    "longitude": "77.069375"
+    "longitude": "77.069375",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -893,7 +943,8 @@
     "googleSearch": "https://www.google.com/search?q=St.+Stephens Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=St.+Stephens Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Plot No.3204, DLF Phase 3, Sector 24, Gurugram, Delhi 122002",
     "lattitude": "28.4856043",
-    "longitude": "77.1048118"
+    "longitude": "77.1048118",
+    "rank": 2
   },
   {
     "state": "delhi",
@@ -911,6 +962,7 @@
     "googleSearch": "https://www.google.com/search?q=HAHC+Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=HAHC+Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "hospitalAddress": "Guru Ravidas Marg, Block D, Hamdard Nagar, New Delhi, Delhi 110062",
     "lattitude": "28.5148645",
-    "longitude": "77.2521167"
+    "longitude": "77.2521167",
+    "rank": 2
   }
 ]

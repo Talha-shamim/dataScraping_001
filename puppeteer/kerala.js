@@ -110,7 +110,7 @@ async function capture_() {
       district: data_[m],
       state: "Kerala",
       HospitalName: "Not Available",
-      HospitalAddress: data_[m],
+      HospitalAddress: "Not Available",
       normalBedTotal: data_[l],
       normalBedAvailable: data_[n],
       normalBedOccupied: data_[l] - data_[n],

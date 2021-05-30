@@ -169,7 +169,7 @@ async function get() {
             state: "Haryana",
             district: url_[q].name,
             hospitalName: hospital[i],
-            hospitalAdress: "Not Available",
+            hospitalAddress: "Not Available",
             phoneNo: PHONE[i],
             oxygenBedTotal: parseInt(BED_OO[i]) + parseInt(BED_OA[i]),
             oxygenBedOccupied: BED_OO[i],

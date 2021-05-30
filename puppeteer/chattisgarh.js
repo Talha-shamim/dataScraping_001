@@ -84,5 +84,5 @@ async function capture() {
   await browser.close();
 }
 
-capture();
+
 exports.getchattisgarh = capture;

@@ -1,0 +1,660 @@
+[
+  {
+    "location": "11-1-234, Aravind Nagar, 3rd Cross Road Govt Hospital Road, Near Satya Sai Bajana Mandiram, Old TDP office, Andhra Pradesh 515001",
+    "phone": "094414 32567",
+    "url": "https://www.google.com/search?q=Amaravathi+Multi Speciality Hospital, Ananthapuramu+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Amaravathi+Multi Speciality Hospital, Ananthapuramu+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6708369",
+    "cordlon": "77.5925007"
+  },
+  {
+    "location": "#6-3-984, 1st Cross Rd, Maruthi Nagar, Anantapur, Andhra Pradesh 515002",
+    "phone": "085542 43422",
+    "url": "https://www.google.com/search?q=Harshitha+Multispeciality Hospital+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Harshitha+Multispeciality Hospital+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6697959",
+    "cordlon": "77.5908978"
+  },
+  {
+    "location": "# 7/201, Court Road, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 74194",
+    "url": "https://www.google.com/search?q=Asha+Hospital, Ananthauramu+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Asha+Hospital, Ananthauramu+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6809002",
+    "cordlon": "77.5938723"
+  },
+  {
+    "location": "Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Sri+Anand Hospital,  Ananthapuramu+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Sri+Anand Hospital,  Ananthapuramu+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6818877",
+    "cordlon": "77.6005911"
+  },
+  {
+    "location": "Old Town, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 22133",
+    "url": "https://www.google.com/search?q=K.K+NURSING HOME, ANANTHAPURAMU+anantpur&rlz=1C1CHBF_enIN859IN859&oq=K.K+NURSING HOME, ANANTHAPURAMU+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6790187",
+    "cordlon": "77.6028969"
+  },
+  {
+    "location": "1st Cross Rd, Aravinda Nagar, Maruthi Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=SIRI+HOSPITAL+anantpur&rlz=1C1CHBF_enIN859IN859&oq=SIRI+HOSPITAL+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6690786",
+    "cordlon": "77.5936782"
+  },
+  {
+    "location": "Weavers Colony, Tadipatri, Andhra Pradesh 515411",
+    "phone": "",
+    "url": "https://www.google.com/search?q=AASHA+HOSPITAL,TADIPATRI+anantpur&rlz=1C1CHBF_enIN859IN859&oq=AASHA+HOSPITAL,TADIPATRI+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.9068866",
+    "cordlon": "78.0117304"
+  },
+  {
+    "location": "12-2-878, I Cross, Sai Nagar Ashoknagar, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 47365",
+    "url": "https://www.google.com/search?q=Dr.YSR+memorial hospital+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Dr.YSR+memorial hospital+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6755565",
+    "cordlon": "77.6030968"
+  },
+  {
+    "location": "2nd Cross Rd, Ashoknagar, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "096422 11796",
+    "url": "https://www.google.com/search?q=Sri+Gayathri Hospitl  Anantapur+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Sri+Gayathri Hospitl  Anantapur+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.675152",
+    "cordlon": "77.6030958"
+  },
+  {
+    "location": "One PAR center, Sangameswar Circle, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=S+R Multiple Super Speciality Hospital, Ananthapuramu+anantpur&rlz=1C1CHBF_enIN859IN859&oq=S+R Multiple Super Speciality Hospital, Ananthapuramu+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6715492",
+    "cordlon": "77.6089413"
+  },
+  {
+    "location": "Geneva, Switzerland",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Care+& Cure Hospital+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Care+& Cure Hospital+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "",
+    "cordlon": ""
+  },
+  {
+    "location": "Opp. Ganga-Gowri Cine Complex, Khaja Nagar, Srinivas Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 77077",
+    "url": "https://www.google.com/search?q=Snehalatha+Hospitals Anantapuramu+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Snehalatha+Hospitals Anantapuramu+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6839761",
+    "cordlon": "77.6019217"
+  },
+  {
+    "location": "Near Police Quarters, Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 74322",
+    "url": "https://www.google.com/search?q=Divyasree+Hospital, Ananthapuramu+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Divyasree+Hospital, Ananthapuramu+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6770358",
+    "cordlon": "77.5985347"
+  },
+  {
+    "location": "17, 18, 19, Dharmavaram-Puttaparthi Rd, Parthasaradhi Nagar, Dharmavaram, Andhra Pradesh 515671",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Devi+Nursing Home Dharmavaram+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Devi+Nursing Home Dharmavaram+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.4055814",
+    "cordlon": "77.7108507"
+  },
+  {
+    "location": "13-2-390,SHIRDI NAGAR,NEXT TO RTC BUS STAND, Flyover, Srinivas Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 32123",
+    "url": "https://www.google.com/search?q=Chandra+Super Speciality Hospital, Ananthapuram+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Chandra+Super Speciality Hospital, Ananthapuram+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6878284",
+    "cordlon": "77.6005786"
+  },
+  {
+    "location": "RPGT Rd, Mukkidipeta, Hindupuram, Andhra Pradesh 515201",
+    "phone": "085562 25411",
+    "url": "https://www.google.com/search?q=Teja+Nursing Home Hindupuram+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Teja+Nursing Home Hindupuram+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.8353393",
+    "cordlon": "77.4941932"
+  },
+  {
+    "location": "1st Cross Rd, Central Exchange Colony, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 28567",
+    "url": "https://www.google.com/search?q=Sudarshan+Hospital, Ananthapuram+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Sudarshan+Hospital, Ananthapuram+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6753411",
+    "cordlon": "77.6038478"
+  },
+  {
+    "location": "3rd Cross Rd, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 29900",
+    "url": "https://www.google.com/search?q=Sai+Ratna Multi Speciality Hospital, Ananthapuram+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Sai+Ratna Multi Speciality Hospital, Ananthapuram+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6742526",
+    "cordlon": "77.6016081"
+  },
+  {
+    "location": "Guild of Service School, Dr No.10-470, Opp, Forest Office Road, Adimurthy Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 77444",
+    "url": "https://www.google.com/search?q=Abhaya+Kidney Care Centre, Ananthapuram+anantpur&rlz=1C1CHBF_enIN859IN859&oq=Abhaya+Kidney Care Centre, Ananthapuram+anantpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6786525",
+    "cordlon": "77.5999914"
+  },
+  {
+    "location": "11-1-234, Aravind Nagar, 3rd Cross Road Govt Hospital Road, Near Satya Sai Bajana Mandiram, Old TDP office, Andhra Pradesh 515001",
+    "phone": "094414 32567",
+    "url": "https://www.google.com/search?q=Amaravathi+Multi Speciality Hospital, Ananthapuramu+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Amaravathi+Multi Speciality Hospital, Ananthapuramu+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6708369",
+    "cordlon": "77.5925007"
+  },
+  {
+    "location": "#10/259, behind Vinayaka temple, Kattamanchi, Chittoor, Andhra Pradesh 517001",
+    "phone": "085722 46544",
+    "url": "https://www.google.com/search?q=Pavani+Multi Specility  Hospital, Ananthapuramu+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Pavani+Multi Specility  Hospital, Ananthapuramu+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2268333",
+    "cordlon": "79.1085871"
+  },
+  {
+    "location": "# 7/201, Court Road, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 74194",
+    "url": "https://www.google.com/search?q=Asha+Hospital, Ananthauramu+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Asha+Hospital, Ananthauramu+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6809002",
+    "cordlon": "77.5938723"
+  },
+  {
+    "location": "Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Sri+Anand Hospital,  Ananthapuramu+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Sri+Anand Hospital,  Ananthapuramu+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6818877",
+    "cordlon": "77.6005911"
+  },
+  {
+    "location": "12-2-942, 2nd Cross Rd, opp. SBI, Anantapur, Andhra Pradesh 515001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Medicure+Hospitals, Anantapur+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Medicure+Hospitals, Anantapur+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6752697",
+    "cordlon": "77.6023547"
+  },
+  {
+    "location": "Sundarayyar street, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "phone": "094901 81288",
+    "url": "https://www.google.com/search?q=SIRI+HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SIRI+HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2160199",
+    "cordlon": "79.0970899"
+  },
+  {
+    "location": "Weavers Colony, Tadipatri, Andhra Pradesh 515411",
+    "phone": "",
+    "url": "https://www.google.com/search?q=AASHA+HOSPITAL,TADIPATRI+chittoor&rlz=1C1CHBF_enIN859IN859&oq=AASHA+HOSPITAL,TADIPATRI+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.9068866",
+    "cordlon": "78.0117304"
+  },
+  {
+    "location": "12-2-878, I Cross, Sai Nagar Ashoknagar, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 47365",
+    "url": "https://www.google.com/search?q=Dr.YSR+memorial hospital+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Dr.YSR+memorial hospital+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6755565",
+    "cordlon": "77.6030968"
+  },
+  {
+    "location": "2nd Cross Rd, Ashoknagar, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "096422 11796",
+    "url": "https://www.google.com/search?q=Sri+Gayathri Hospitl  Anantapur+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Sri+Gayathri Hospitl  Anantapur+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.675152",
+    "cordlon": "77.6030958"
+  },
+  {
+    "location": "One PAR center, Sangameswar Circle, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=S+R Multiple Super Speciality Hospital, Ananthapuramu+chittoor&rlz=1C1CHBF_enIN859IN859&oq=S+R Multiple Super Speciality Hospital, Ananthapuramu+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6715492",
+    "cordlon": "77.6089413"
+  },
+  {
+    "location": "Geneva, Switzerland",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Care+& Cure Hospital+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Care+& Cure Hospital+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "",
+    "cordlon": ""
+  },
+  {
+    "location": "Opp. Ganga-Gowri Cine Complex, Khaja Nagar, Srinivas Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 77077",
+    "url": "https://www.google.com/search?q=Snehalatha+Hospitals Anantapuramu+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Snehalatha+Hospitals Anantapuramu+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6839761",
+    "cordlon": "77.6019217"
+  },
+  {
+    "location": "Near Police Quarters, Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 74322",
+    "url": "https://www.google.com/search?q=Divyasree+Hospital, Ananthapuramu+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Divyasree+Hospital, Ananthapuramu+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6770358",
+    "cordlon": "77.5985347"
+  },
+  {
+    "location": "17, 18, 19, Dharmavaram-Puttaparthi Rd, Parthasaradhi Nagar, Dharmavaram, Andhra Pradesh 515671",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Devi+Nursing Home Dharmavaram+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Devi+Nursing Home Dharmavaram+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.4055814",
+    "cordlon": "77.7108507"
+  },
+  {
+    "location": "13-2-390,SHIRDI NAGAR,NEXT TO RTC BUS STAND, Flyover, Srinivas Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 32123",
+    "url": "https://www.google.com/search?q=Chandra+Super Speciality Hospital, Ananthapuram+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Chandra+Super Speciality Hospital, Ananthapuram+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6878284",
+    "cordlon": "77.6005786"
+  },
+  {
+    "location": "RPGT Rd, Mukkidipeta, Hindupuram, Andhra Pradesh 515201",
+    "phone": "085562 25411",
+    "url": "https://www.google.com/search?q=Teja+Nursing Home Hindupuram+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Teja+Nursing Home Hindupuram+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.8353393",
+    "cordlon": "77.4941932"
+  },
+  {
+    "location": "1st Cross Rd, Central Exchange Colony, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 28567",
+    "url": "https://www.google.com/search?q=Sudarshan+Hospital, Ananthapuram+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Sudarshan+Hospital, Ananthapuram+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6753411",
+    "cordlon": "77.6038478"
+  },
+  {
+    "location": "3rd Cross Rd, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 29900",
+    "url": "https://www.google.com/search?q=Sai+Ratna Multi Speciality Hospital, Ananthapuram+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Sai+Ratna Multi Speciality Hospital, Ananthapuram+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6742526",
+    "cordlon": "77.6016081"
+  },
+  {
+    "location": "Guild of Service School, Dr No.10-470, Opp, Forest Office Road, Adimurthy Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 77444",
+    "url": "https://www.google.com/search?q=Abhaya+Kidney Care Centre, Ananthapuram+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Abhaya+Kidney Care Centre, Ananthapuram+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6786525",
+    "cordlon": "77.5999914"
+  },
+  {
+    "location": "T. Nagar, near Sri raghavendra Swamy Mattam, Tirupati, Andhra Pradesh 517501",
+    "phone": "0877 223 0331",
+    "url": "https://www.google.com/search?q=Sr+Padmavathi Hospital Tirupati+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Sr+Padmavathi Hospital Tirupati+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6398468",
+    "cordlon": "79.4164605"
+  },
+  {
+    "location": "NH 219, Kuppam, Andhra Pradesh 517425",
+    "phone": "085702 77799",
+    "url": "https://www.google.com/search?q=PES+Institute of Medical Sceinces+chittoor&rlz=1C1CHBF_enIN859IN859&oq=PES+Institute of Medical Sceinces+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "12.790709",
+    "cordlon": "78.364276"
+  },
+  {
+    "location": "Macca Masjid Rd, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=S.V.AYURVEDA+HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=S.V.AYURVEDA+HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2170802",
+    "cordlon": "79.095396"
+  },
+  {
+    "location": "17/95, SRI SAI COMPLEX, SUNAY IYER STREET OPP TO NEW ALAKAR LODGE, Andhra Pradesh 517001",
+    "phone": "097001 70068",
+    "url": "https://www.google.com/search?q=SRI+MARUTH SPECIALITY HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SRI+MARUTH SPECIALITY HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2159672",
+    "cordlon": "79.0985906"
+  },
+  {
+    "location": "2-39, Guru Nagar Colony, Near Municipal Office, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=VISHNU+SRI HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=VISHNU+SRI HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2173513",
+    "cordlon": "79.1077874"
+  },
+  {
+    "location": "#10/259, behind Vinayaka temple, Kattamanchi, Chittoor, Andhra Pradesh 517001",
+    "phone": "085722 46544",
+    "url": "https://www.google.com/search?q=SURYA+MULTISPECIALITY AND EMERGENCY HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SURYA+MULTISPECIALITY AND EMERGENCY HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2268333",
+    "cordlon": "79.1085871"
+  },
+  {
+    "location": "Plot No 10-14-576/6, Reddy And Reddy Colony, Tirupati, Andhra Pradesh 517502",
+    "phone": "0877 225 1000",
+    "url": "https://www.google.com/search?q=ELITE+HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=ELITE+HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6364361",
+    "cordlon": "79.4216349"
+  },
+  {
+    "location": "Plot no 10, 13-496, Reddy & Reddy's Colony, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517502",
+    "phone": "0877 664 7024",
+    "url": "https://www.google.com/search?q=SRI+CHAKRA HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SRI+CHAKRA HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6360388",
+    "cordlon": "79.4211288"
+  },
+  {
+    "location": "Besides Hdfc Bank, 14/2a, CTM Rd, Rama Gopal Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "phone": "093970 35777",
+    "url": "https://www.google.com/search?q=CHANDRAMOHANS+NURSING HOME+chittoor&rlz=1C1CHBF_enIN859IN859&oq=CHANDRAMOHANS+NURSING HOME+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.5544925",
+    "cordlon": "78.50747"
+  },
+  {
+    "location": "10-14, 576/6, 1st St, Reddy & Reddy's Colony, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "phone": "0877 222 7340",
+    "url": "https://www.google.com/search?q=RUSSH+HOSPITALS PRIVATE LIMITED+chittoor&rlz=1C1CHBF_enIN859IN859&oq=RUSSH+HOSPITALS PRIVATE LIMITED+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6364782",
+    "cordlon": "79.4215377"
+  },
+  {
+    "location": "NH716, Karakambadi Rural, Andhra Pradesh 517520",
+    "phone": "079939 33777",
+    "url": "https://www.google.com/search?q=Amara+Hospital+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Amara+Hospital+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6646284",
+    "cordlon": "79.5148259"
+  },
+  {
+    "location": "Karakambadi Bazar St, Tata Nagar, Tirupati, Andhra Pradesh 517501",
+    "phone": "0877 224 3222",
+    "url": "https://www.google.com/search?q=SANKALPA+SUPER SPECIALITY HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SANKALPA+SUPER SPECIALITY HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.634892",
+    "cordlon": "79.4261195"
+  },
+  {
+    "location": "H No. 19-3-14/N, Ward No. 19, Block, No. 3, Renigunta Rd, P&T Colony, Tirupati, Andhra Pradesh 517501",
+    "phone": "090531 08108",
+    "url": "https://www.google.com/search?q=ANKURA+HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=ANKURA+HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6302914",
+    "cordlon": "79.4410911"
+  },
+  {
+    "location": "Green Park Apartments, Dr Mahal Rd, Near, STV Nagar, Tirupati, Andhra Pradesh 517501",
+    "phone": "079935 28544",
+    "url": "https://www.google.com/search?q=OBULAM+HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=OBULAM+HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6272808",
+    "cordlon": "79.4250353"
+  },
+  {
+    "location": "Besides Federal Bank, Isckon Temple Road, near Anna Rao Circle, Tirupati, Andhra Pradesh 517501",
+    "phone": "0877 223 0004",
+    "url": "https://www.google.com/search?q=Madhuri+Remdey Hospital+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Madhuri+Remdey Hospital+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6472879",
+    "cordlon": "79.4167372"
+  },
+  {
+    "location": "No: 3, 5 & 6, kapu St, Puttur, Andhra Pradesh 517583",
+    "phone": "091050 50505",
+    "url": "https://www.google.com/search?q=SHUBHASHINIHOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SHUBHASHINIHOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.4380649",
+    "cordlon": "79.5500346"
+  },
+  {
+    "location": "RVS Nagar, Chittoor NH-18, Tirupathi, Chittoor Rd, Chittoor, Andhra Pradesh 517127",
+    "phone": "077299 91055",
+    "url": "https://www.google.com/search?q=RVS+Hospital+chittoor&rlz=1C1CHBF_enIN859IN859&oq=RVS+Hospital+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.273854",
+    "cordlon": "79.120313"
+  },
+  {
+    "location": "Murukambattu, Andhra Pradesh 517127",
+    "phone": "085722 46666",
+    "url": "https://www.google.com/search?q=DIST+HQ HOSPITAL AIMSR+chittoor&rlz=1C1CHBF_enIN859IN859&oq=DIST+HQ HOSPITAL AIMSR+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2512003",
+    "cordlon": "79.1158172"
+  },
+  {
+    "location": "T.S 82 Sairam Street, Tirupati, Andhra Pradesh 517501",
+    "phone": "098491 68248",
+    "url": "https://www.google.com/search?q=SREE+RAMADEVI MULTI SUPER SPECIALITY HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SREE+RAMADEVI MULTI SUPER SPECIALITY HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6380046",
+    "cordlon": "79.4171787"
+  },
+  {
+    "location": "National Highway 71, Renigunta Rd, SV Auto Nagar, Tirupati, Andhra Pradesh 517506",
+    "phone": "0877 223 3449",
+    "url": "https://www.google.com/search?q=Narayanadri+Hospitals and Research Institute Private Ltd+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Narayanadri+Hospitals and Research Institute Private Ltd+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6284914",
+    "cordlon": "79.4638056"
+  },
+  {
+    "location": "Renigunta, Andhra Pradesh 517520",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Sub+divisional railway hospital,Renigunta+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Sub+divisional railway hospital,Renigunta+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6368182",
+    "cordlon": "79.5080958"
+  },
+  {
+    "location": "Nalandha Nagar, BV Reddy Colony, Chittoor, Andhra Pradesh 517001",
+    "phone": "094912 22121",
+    "url": "https://www.google.com/search?q=MODERN+HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=MODERN+HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2145135",
+    "cordlon": "79.1092135"
+  },
+  {
+    "location": "Sundarayyar street, Muruganpalli, Chittoor, Andhra Pradesh 517001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=BALAJI+ORTHOPAEDIC+chittoor&rlz=1C1CHBF_enIN859IN859&oq=BALAJI+ORTHOPAEDIC+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2209062",
+    "cordlon": "79.1200424"
+  },
+  {
+    "location": "Alipiri Rd, Alipiri Gate, Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh 517507",
+    "phone": "0877 222 2867",
+    "url": "https://www.google.com/search?q=SVRRGG+Hospital,CHITTOOR+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SVRRGG+Hospital,CHITTOOR+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6447357",
+    "cordlon": "79.4057679"
+  },
+  {
+    "location": "Thottapalayam St, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=SURENDRA+HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SURENDRA+HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2228495",
+    "cordlon": "79.0997536"
+  },
+  {
+    "location": "#2-47, Officer's Lane, Guru Nagar Colony 1st St, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "phone": "081069 36525",
+    "url": "https://www.google.com/search?q=SURAKSHA+HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SURAKSHA+HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.2162511",
+    "cordlon": "79.1074453"
+  },
+  {
+    "location": "Vellore - Chittoor Rd, Valliappa Nagar, Kalagatur, Chittoor, Andhra Pradesh 517002",
+    "phone": "",
+    "url": "https://www.google.com/search?q=CMC+Vellore Chittoor Campus+chittoor&rlz=1C1CHBF_enIN859IN859&oq=CMC+Vellore Chittoor Campus+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.1327913",
+    "cordlon": "79.1137555"
+  },
+  {
+    "location": "14-172, AP Vajravelu Chetty St, RS Pet, Kuppam, Andhra Pradesh 517425",
+    "phone": "085702 55136",
+    "url": "https://www.google.com/search?q=SRI+PRIYA NURSING HOME+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SRI+PRIYA NURSING HOME+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "12.7501889",
+    "cordlon": "78.3429144"
+  },
+  {
+    "location": "STV Nagar, Tirupati, Andhra Pradesh 517501",
+    "phone": "0877 223 8841",
+    "url": "https://www.google.com/search?q=Sanjana+Hospitals+chittoor&rlz=1C1CHBF_enIN859IN859&oq=Sanjana+Hospitals+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6213049",
+    "cordlon": "79.4283816"
+  },
+  {
+    "location": "near Kalyan Jewellers, Reddy & Reddy's Colony, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "phone": "0877 222 6668",
+    "url": "https://www.google.com/search?q=RAVI+NEURO+chittoor&rlz=1C1CHBF_enIN859IN859&oq=RAVI+NEURO+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.636404",
+    "cordlon": "79.4217563"
+  },
+  {
+    "location": "18-1-664, 2nd Street, opp. Bank Of Baroda, Bhavani Nagar, Tirupati, Andhra Pradesh 517501",
+    "phone": "0877 222 2228",
+    "url": "https://www.google.com/search?q=SWETHA+MULTI SPECIALITY HOSPITAL+chittoor&rlz=1C1CHBF_enIN859IN859&oq=SWETHA+MULTI SPECIALITY HOSPITAL+chittoor&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6381011",
+    "cordlon": "79.4226196"
+  },
+  {
+    "location": "11-1-234, Aravind Nagar, 3rd Cross Road Govt Hospital Road, Near Satya Sai Bajana Mandiram, Old TDP office, Andhra Pradesh 515001",
+    "phone": "094414 32567",
+    "url": "https://www.google.com/search?q=Amaravathi+Multi Speciality Hospital, Ananthapuramu+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Amaravathi+Multi Speciality Hospital, Ananthapuramu+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6708369",
+    "cordlon": "77.5925007"
+  },
+  {
+    "location": "#6-3-984, 1st Cross Rd, Maruthi Nagar, Anantapur, Andhra Pradesh 515002",
+    "phone": "085542 43422",
+    "url": "https://www.google.com/search?q=Harshitha+Multispeciality Hospital+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Harshitha+Multispeciality Hospital+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6697959",
+    "cordlon": "77.5908978"
+  },
+  {
+    "location": "# 7/201, Court Road, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 74194",
+    "url": "https://www.google.com/search?q=Asha+Hospital, Ananthauramu+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Asha+Hospital, Ananthauramu+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6809002",
+    "cordlon": "77.5938723"
+  },
+  {
+    "location": "Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Sri+Anand Hospital,  Ananthapuramu+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Sri+Anand Hospital,  Ananthapuramu+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6818877",
+    "cordlon": "77.6005911"
+  },
+  {
+    "location": "Old Town, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 22133",
+    "url": "https://www.google.com/search?q=K.K+NURSING HOME, ANANTHAPURAMU+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=K.K+NURSING HOME, ANANTHAPURAMU+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6790187",
+    "cordlon": "77.6028969"
+  },
+  {
+    "location": "12-2-942, 2nd Cross Rd, opp. SBI, Anantapur, Andhra Pradesh 515001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Medicure+Hospitals, Anantapur+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Medicure+Hospitals, Anantapur+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6752697",
+    "cordlon": "77.6023547"
+  },
+  {
+    "location": "Weavers Colony, Tadipatri, Andhra Pradesh 515411",
+    "phone": "",
+    "url": "https://www.google.com/search?q=AASHA+HOSPITAL,TADIPATRI+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=AASHA+HOSPITAL,TADIPATRI+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.9068866",
+    "cordlon": "78.0117304"
+  },
+  {
+    "location": "12-2-878, I Cross, Sai Nagar Ashoknagar, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 47365",
+    "url": "https://www.google.com/search?q=Dr.YSR+memorial hospital+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Dr.YSR+memorial hospital+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6755565",
+    "cordlon": "77.6030968"
+  },
+  {
+    "location": "One PAR center, Sangameswar Circle, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "",
+    "url": "https://www.google.com/search?q=S+R Multiple Super Speciality Hospital, Ananthapuramu+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=S+R Multiple Super Speciality Hospital, Ananthapuramu+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6715492",
+    "cordlon": "77.6089413"
+  },
+  {
+    "location": "Geneva, Switzerland",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Care+& Cure Hospital+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Care+& Cure Hospital+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "",
+    "cordlon": ""
+  },
+  {
+    "location": "Opp. Ganga-Gowri Cine Complex, Khaja Nagar, Srinivas Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 77077",
+    "url": "https://www.google.com/search?q=Snehalatha+Hospitals Anantapuramu+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Snehalatha+Hospitals Anantapuramu+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6839761",
+    "cordlon": "77.6019217"
+  },
+  {
+    "location": "80 Feet Rd, Sangameswar Circle, Old Town, Anantapur, Andhra Pradesh 515005",
+    "phone": "094400 63212",
+    "url": "https://www.google.com/search?q=K.S.A.R.+ Gaffoor Hospital, Ananthapuramu (Non Arogyasree)+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=K.S.A.R.+ Gaffoor Hospital, Ananthapuramu (Non Arogyasree)+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.673348",
+    "cordlon": "77.6072918"
+  },
+  {
+    "location": "17, 18, 19, Dharmavaram-Puttaparthi Rd, Parthasaradhi Nagar, Dharmavaram, Andhra Pradesh 515671",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Devi+Nursing Home Dharmavaram+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Devi+Nursing Home Dharmavaram+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.4055814",
+    "cordlon": "77.7108507"
+  },
+  {
+    "location": "13-2-390,SHIRDI NAGAR,NEXT TO RTC BUS STAND, Flyover, Srinivas Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 32123",
+    "url": "https://www.google.com/search?q=Chandra+Super Speciality Hospital, Ananthapuram+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Chandra+Super Speciality Hospital, Ananthapuram+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6878284",
+    "cordlon": "77.6005786"
+  },
+  {
+    "location": "RPGT Rd, Mukkidipeta, Hindupuram, Andhra Pradesh 515201",
+    "phone": "085562 25411",
+    "url": "https://www.google.com/search?q=Teja+Nursing Home Hindupuram+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Teja+Nursing Home Hindupuram+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.8353393",
+    "cordlon": "77.4941932"
+  },
+  {
+    "location": "3rd Cross Rd, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 29900",
+    "url": "https://www.google.com/search?q=Sai+Ratna Multi Speciality Hospital, Ananthapuram+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Sai+Ratna Multi Speciality Hospital, Ananthapuram+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6742526",
+    "cordlon": "77.6016081"
+  },
+  {
+    "location": "Guild of Service School, Dr No.10-470, Opp, Forest Office Road, Adimurthy Nagar, Anantapur, Andhra Pradesh 515001",
+    "phone": "085542 77444",
+    "url": "https://www.google.com/search?q=Abhaya+Kidney Care Centre, Ananthapuram+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Abhaya+Kidney Care Centre, Ananthapuram+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "14.6786525",
+    "cordlon": "77.5999914"
+  },
+  {
+    "location": "1e, 106, Patliputra Colony, Patna, Bihar 800013",
+    "phone": "",
+    "url": "https://www.google.com/search?q=Super+Speciality Hospital, ATP+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Super+Speciality Hospital, ATP+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "25.6317629",
+    "cordlon": "85.1057229"
+  },
+  {
+    "location": "T. Nagar, near Sri raghavendra Swamy Mattam, Tirupati, Andhra Pradesh 517501",
+    "phone": "0877 223 0331",
+    "url": "https://www.google.com/search?q=Sr+Padmavathi Hospital Tirupati+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Sr+Padmavathi Hospital Tirupati+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6398468",
+    "cordlon": "79.4164605"
+  },
+  {
+    "location": "NH 219, Kuppam, Andhra Pradesh 517425",
+    "phone": "085702 77799",
+    "url": "https://www.google.com/search?q=PES+Institute of Medical Sceinces+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=PES+Institute of Medical Sceinces+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "12.790709",
+    "cordlon": "78.364276"
+  },
+  {
+    "location": "Mani Road, Murarpur, Gaya, Bihar 823001",
+    "phone": "0631 222 2298",
+    "url": "https://www.google.com/search?q=CITY+CARE HOSPITAL+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=CITY+CARE HOSPITAL+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "24.8022558",
+    "cordlon": "85.007203"
+  },
+  {
+    "location": "Abbanna Colony, Srinivasa Nagar, Korlagunta, Tirupati, Andhra Pradesh 517501",
+    "phone": "087905 29777",
+    "url": "https://www.google.com/search?q=SRI+MARUTH SPECIALITY HOSPITAL+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=SRI+MARUTH SPECIALITY HOSPITAL+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6425056",
+    "cordlon": "79.4278421"
+  },
+  {
+    "location": "46-735, Budhwarpet Road, Budhwar Pet, Kurnool, Andhra Pradesh 518002",
+    "phone": "085182 77895",
+    "url": "https://www.google.com/search?q=SRI+CHAKRA HOSPITAL+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=SRI+CHAKRA HOSPITAL+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "15.8197638",
+    "cordlon": "78.0417519"
+  },
+  {
+    "location": "KR Hospital, Irwin Rd, Devaraja Mohalla, Yadavagiri, Mysuru, Karnataka 570001",
+    "phone": "0821 252 6202",
+    "url": "https://www.google.com/search?q=KR+HOSPITAL+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=KR+HOSPITAL+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "12.3140248",
+    "cordlon": "76.6507101"
+  },
+  {
+    "location": "NH716, Karakambadi Rural, Andhra Pradesh 517520",
+    "phone": "079939 33777",
+    "url": "https://www.google.com/search?q=Amara+Hospital+y.r.s&rlz=1C1CHBF_enIN859IN859&oq=Amara+Hospital+y.r.s&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "cordlat": "13.6646284",
+    "cordlon": "79.5148259"
+  }
+]

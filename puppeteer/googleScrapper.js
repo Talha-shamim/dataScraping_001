@@ -59,6 +59,7 @@ const gatherdata = async (url) => {
     });
 
     await page.close();
+    await browser.close();
     return data;
   } 
   

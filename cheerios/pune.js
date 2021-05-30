@@ -34,6 +34,7 @@ async function get() {
           district: "Pune",
           lastUpdatedDate: data[m].split("Date:")[1].split(" ")[0],
           lastUpdatedTime: data[m].split("Date:")[1].split(" ")[1],
+          phoneNo:"Not Available"
         };
 
         var replacedString = objData.hospitalName.replace(" ", "+");

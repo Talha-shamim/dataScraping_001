@@ -22,14 +22,20 @@
     "hospitalAddress": "Not Available",
     "phoneNo": "9981079993",
     "oxygenBedTotal": "40",
-    "oxygenBedAvailable": "35",
-    "oxygenBedOccupied": 5,
+    "oxygenBedAvailable": "30",
+    "oxygenBedOccupied": 10,
     "normalBedTotal": "30",
     "normalBedAvailable": "30",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "13:28",
     "googleSearch": "https://www.google.com/search?q=District+Hospital Balod+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=District+Hospital Balod+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "12:08",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
@@ -45,7 +51,11 @@
     "normalBedOccupied": 13,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sports+Club Lal Maidan Dallirajhara Dondi+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sports+Club Lal Maidan Dallirajhara Dondi+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
@@ -61,7 +71,11 @@
     "normalBedOccupied": 37,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:38",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ITI+Batera, Dondilohara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ITI+Batera, Dondilohara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
@@ -77,7 +91,11 @@
     "normalBedOccupied": 14,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "14:57",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ITI+Khallari, Gunderdehi+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ITI+Khallari, Gunderdehi+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
@@ -93,7 +111,11 @@
     "normalBedOccupied": 48,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "16:15",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ITI+Dhanora, Gurur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ITI+Dhanora, Gurur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
@@ -105,11 +127,19 @@
     "oxygenBedAvailable": "1",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "63",
+<<<<<<< HEAD
     "normalBedAvailable": "3",
     "normalBedOccupied": 60,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:18",
     "googleSearch": "https://www.google.com/search?q=ITI+Mahavir, Balod+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ITI+Mahavir, Balod+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "normalBedAvailable": "2",
+    "normalBedOccupied": 61,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "08:15",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
@@ -125,7 +155,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:30",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Konde+PowerHouse Dallirajhra, Dondi+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Konde+PowerHouse Dallirajhra, Dondi+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
@@ -141,7 +175,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:07",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shaheed+Hospital Dallirajhara Dondi+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shaheed+Hospital Dallirajhara Dondi+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
@@ -157,7 +195,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:36",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Deoribangla, Dondilohara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Deoribangla, Dondilohara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
@@ -173,14 +215,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:14",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=New+CCC Zila Aspatal Parisar, Balod+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=New+CCC Zila Aspatal Parisar, Balod+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALOD",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Kamla Hospital, Dallirajhara Dondi",
     "hospitalAddress": "Not Available",
     "phoneNo": "9165666620",
+=======
+    "HospitalName": "Kamla Hospital, Dallirajhara Dondi",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "ASHWARYA MARIYA 9165666620",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "1",
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 1,
@@ -189,7 +241,11 @@
     "normalBedOccupied": 9,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "15:48",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Kamla+Hospital, Dallirajhara Dondi+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kamla+Hospital, Dallirajhara Dondi+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALODA BAJAR",
@@ -237,7 +293,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:03",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ganga+Life Care hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ganga+Life Care hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALODA BAJAR",
@@ -269,7 +329,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "19:25",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shree+Satguru Kripa Hospital Sarseewa Bilaigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shree+Satguru Kripa Hospital Sarseewa Bilaigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALODA BAJAR",
@@ -285,7 +349,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:10",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Late+Smt Chanda Dewi Tiwari Hospital Baloda Bazar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Late+Smt Chanda Dewi Tiwari Hospital Baloda Bazar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALODA BAJAR",
@@ -301,7 +369,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "16:22",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=A.D.+Vaishnav smriti Chikitsalaya Bhatgaon Bilaigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=A.D.+Vaishnav smriti Chikitsalaya Bhatgaon Bilaigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALODA BAJAR",
@@ -317,7 +389,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:11",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Daksh+Hospital Bilaigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Daksh+Hospital Bilaigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALODA BAJAR",
@@ -333,7 +409,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "09:28",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Cooperative+covid care bhatapara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Cooperative+covid care bhatapara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALODA BAJAR",
@@ -381,7 +461,11 @@
     "normalBedOccupied": 17,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "12:09",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Pre+Metric ST Hostal Kasdol+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Pre+Metric ST Hostal Kasdol+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALODA BAJAR",
@@ -445,7 +529,11 @@
     "normalBedOccupied": 5,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:55",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Polytecnic+College Ramanunjganj+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Polytecnic+College Ramanunjganj+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BALRAMPUR",
@@ -493,7 +581,11 @@
     "normalBedOccupied": 95,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Besoli+Covid Care Center+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Besoli+Covid Care Center+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BASTAR",
@@ -509,7 +601,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:23",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Queens+hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Queens+hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BASTAR",
@@ -525,7 +621,11 @@
     "normalBedOccupied": 4,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "20:07",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Lukkad+bhavan jagdalpur CCC+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Lukkad+bhavan jagdalpur CCC+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BASTAR",
@@ -534,14 +634,22 @@
     "hospitalAddress": "Not Available",
     "phoneNo": "9425261025",
     "oxygenBedTotal": "150",
-    "oxygenBedAvailable": "130",
-    "oxygenBedOccupied": 20,
+    "oxygenBedAvailable": "133",
+    "oxygenBedOccupied": 17,
     "normalBedTotal": "25",
+<<<<<<< HEAD
     "normalBedAvailable": "2",
     "normalBedOccupied": 23,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:13",
     "googleSearch": "https://www.google.com/search?q=Medical+College Jagdalpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Medical+College Jagdalpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "normalBedAvailable": "4",
+    "normalBedOccupied": 21,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "17:21",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BASTAR",
@@ -557,7 +665,11 @@
     "normalBedOccupied": 40,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:52",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Boys+Hostal Bakawand Bastar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Boys+Hostal Bakawand Bastar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BASTAR",
@@ -573,7 +685,11 @@
     "normalBedOccupied": 191,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Post+Matric College Bastar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Post+Matric College Bastar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BASTAR",
@@ -589,7 +705,11 @@
     "normalBedOccupied": 5,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:53",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=MPM+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MPM+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BEMETARA",
@@ -605,7 +725,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "22:03",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=DKD+Hospital Bemetara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=DKD+Hospital Bemetara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BEMETARA",
@@ -621,7 +745,11 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:38",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ECTC+Bemetara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ECTC+Bemetara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BEMETARA",
@@ -700,7 +828,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "16:50",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Khansara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Khansara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BEMETARA",
@@ -716,7 +848,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:48",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Nawagarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Nawagarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BEMETARA",
@@ -725,14 +861,20 @@
     "hospitalAddress": "Not Available",
     "phoneNo": "8889687958",
     "oxygenBedTotal": "20",
-    "oxygenBedAvailable": "20",
-    "oxygenBedOccupied": 0,
+    "oxygenBedAvailable": "19",
+    "oxygenBedOccupied": 1,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:30",
     "googleSearch": "https://www.google.com/search?q=CH+SAJA+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CH+SAJA+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "16:35",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BEMETARA",
@@ -796,7 +938,11 @@
     "normalBedOccupied": 31,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:35",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ITI+rudraram+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ITI+rudraram+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BIJAPUR",
@@ -808,11 +954,19 @@
     "oxygenBedAvailable": "14",
     "oxygenBedOccupied": 1,
     "normalBedTotal": "93",
+<<<<<<< HEAD
     "normalBedAvailable": "72",
     "normalBedOccupied": 21,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:38",
     "googleSearch": "https://www.google.com/search?q=ITI+Bairamgarh Bijapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ITI+Bairamgarh Bijapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "normalBedAvailable": "71",
+    "normalBedOccupied": 22,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "18:25",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BIJAPUR",
@@ -844,7 +998,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "09:55",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Appolo+Hospital Bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Appolo+Hospital Bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -860,7 +1018,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:22",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=District+Hospital Bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=District+Hospital Bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -892,7 +1054,11 @@
     "normalBedOccupied": 9,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:31",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Mental+Hospital Sendri Bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mental+Hospital Sendri Bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -908,7 +1074,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:38",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Central+Hospital railway+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Central+Hospital railway+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -924,7 +1094,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:34",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Chitrakoot+hostel bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Chitrakoot+hostel bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -940,7 +1114,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:11",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=COMPOSITE+HOSPITAL CRPF BILASPUR+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=COMPOSITE+HOSPITAL CRPF BILASPUR+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -956,7 +1134,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:52",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shri+Ram Care+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shri+Ram Care+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -988,14 +1170,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "15:15",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Care+and Cure+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Care+and Cure+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "RB Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9907965707",
+=======
+    "HospitalName": "RB Hospital",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "MRS. SUNITA 9907965707",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "15",
     "oxygenBedAvailable": "15",
     "oxygenBedOccupied": 0,
@@ -1004,14 +1196,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:34",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=RB+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=RB+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "NEW JANTA HOSPITAL",
     "hospitalAddress": "Not Available",
     "phoneNo": "7987838932",
+=======
+    "HospitalName": "NEW JANTA HOSPITAL",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "M.KUMAR 7987838932",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "7",
     "oxygenBedAvailable": "7",
     "oxygenBedOccupied": 0,
@@ -1020,7 +1222,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "15:38",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=NEW+JANTA HOSPITAL+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=NEW+JANTA HOSPITAL+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1036,7 +1242,11 @@
     "normalBedOccupied": 8,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:46",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=KIMS+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=KIMS+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1052,7 +1262,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "08:45",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Mahadev+Hospital Bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mahadev+Hospital Bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1068,7 +1282,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:26",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=J+J Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=J+J Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1100,7 +1318,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:18",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sai+baba heart and kidney center+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sai+baba heart and kidney center+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1148,7 +1370,11 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Jan+Swasthya Sahyog Bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jan+Swasthya Sahyog Bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1164,7 +1390,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "07:32",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=New+vandana hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=New+vandana hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1180,7 +1410,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:40",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shri+Shishu Bhawan Children’s Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shri+Shishu Bhawan Children’s Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1196,7 +1430,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:39",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shriram+care hospital unit 2+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shriram+care hospital unit 2+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1212,7 +1450,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:39",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ganga+hospital Takhatpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ganga+hospital Takhatpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1228,7 +1470,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:20",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Wasudeo+clinic and nursing home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Wasudeo+clinic and nursing home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1260,7 +1506,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "07:31",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Narayani+Hospital , mangla chowk bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Narayani+Hospital , mangla chowk bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1308,7 +1558,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:38",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=vagus+hospital bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=vagus+hospital bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1324,7 +1578,11 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:49",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHHATTISGARH+INSTITUTE OF MEDICAL SCIENCES (CIMS) DCH+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHHATTISGARH+INSTITUTE OF MEDICAL SCIENCES (CIMS) DCH+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1356,7 +1614,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "13:55",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Life+care Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Life+care Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1370,9 +1632,15 @@
     "normalBedTotal": "8",
     "normalBedAvailable": "7",
     "normalBedOccupied": 1,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:29",
     "googleSearch": "https://www.google.com/search?q=Pratham+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Pratham+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "19:37",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1388,7 +1656,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "19:02",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=sunshine+hospital bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=sunshine+hospital bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1404,7 +1676,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:40",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=swami+vivekanand hospital bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=swami+vivekanand hospital bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1420,7 +1696,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:32",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Mark+Hospital Bilaspur chhattisgarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mark+Hospital Bilaspur chhattisgarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1452,7 +1732,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "07:21",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ayurvedic+college Bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ayurvedic+college Bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1467,8 +1751,13 @@
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
+<<<<<<< HEAD
     "lastUpdatedTime": "13:25",
     "googleSearch": "https://www.google.com/search?q=Noble+Medicare Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Noble+Medicare Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedTime": "11:46",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1500,7 +1789,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:11",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=shri+balaji multispeciality hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=shri+balaji multispeciality hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "BILASPUR",
@@ -1551,6 +1844,22 @@
     "googleSearch": "https://www.google.com/search?q=CHC+Masturi, Bilaspur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Masturi, Bilaspur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
+    "district": "BILASPUR",
+    "state": "Chattisgarh",
+    "HospitalName": "CHC Masturi, Bilaspur",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Kanwar 7987401390",
+    "oxygenBedTotal": "10",
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "20",
+    "normalBedAvailable": "17",
+    "normalBedOccupied": 3,
+    "lastUpdatedDate": "21/05/2021",
+    "lastUpdatedTime": "11:56",
+    "googleSearch": "not available"
+  },
+  {
     "district": "Dantewada",
     "state": "Chattisgarh",
     "hospitalName": "NMDC Apolo Hospital",
@@ -1564,7 +1873,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:41",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=NMDC+Apolo Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=NMDC+Apolo Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "Dantewada",
@@ -1580,7 +1893,11 @@
     "normalBedOccupied": 18,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:37",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=NMDC+Project Hospital Kirandul+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=NMDC+Project Hospital Kirandul+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "Dantewada",
@@ -1596,7 +1913,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:34",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=MCH+Geedam Dantewada+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MCH+Geedam Dantewada+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "Dantewada",
@@ -1612,7 +1933,11 @@
     "normalBedOccupied": 44,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:39",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Covid+Care Center kanya Parisar Jawanga+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Covid+Care Center kanya Parisar Jawanga+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1644,7 +1969,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "05:12",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Upadhyay+Nursing Home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Upadhyay+Nursing Home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1660,7 +1989,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:58",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ojaswi+Nursing Home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ojaswi+Nursing Home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1676,7 +2009,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:06",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Gupta+Hospitals+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Gupta+Hospitals+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1692,7 +2029,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:58",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Chaterjee+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Chaterjee+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1708,7 +2049,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:41",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Dhamtari+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Dhamtari+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1740,7 +2085,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:26",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Rameshwaram+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Rameshwaram+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1756,7 +2105,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:10",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Vaishnav+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Vaishnav+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1788,7 +2141,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:07",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Dhamtari+Christan Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Dhamtari+Christan Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1804,7 +2161,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:01",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Pradip+Hospital, Kurud+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Pradip+Hospital, Kurud+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1852,7 +2213,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:52",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ekta+Hospital Dhamtari+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ekta+Hospital Dhamtari+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -1868,7 +2233,11 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:12",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shreeram+Multispeciality Hospital Dhamtari+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shreeram+Multispeciality Hospital Dhamtari+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DHAMTARI",
@@ -2229,7 +2598,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:35",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Amrit+Kalash Hospital, Durg+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Amrit+Kalash Hospital, Durg+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DURG",
@@ -2322,7 +2695,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:49",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Nav+jeevan Hospital Chikhli+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Nav+jeevan Hospital Chikhli+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DURG",
@@ -2338,7 +2715,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:11",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Bharti+Hospital Durg+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Bharti+Hospital Durg+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DURG",
@@ -2354,7 +2735,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "13:36",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Dr.+K.Gurunath Cardiac Center Durg GE Road supela+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Dr.+K.Gurunath Cardiac Center Durg GE Road supela+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DURG",
@@ -2449,7 +2834,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "15:02",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=IMI+Khursipar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=IMI+Khursipar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DURG",
@@ -2480,7 +2869,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "13:50",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Steel+City Durg+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Steel+City Durg+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DURG",
@@ -2495,7 +2888,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:18",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sparsh+Multispeciallity Durg+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sparsh+Multispeciallity Durg+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DURG",
@@ -2510,7 +2907,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:50",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=S.R.+Hospital Durg+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=S.R.+Hospital Durg+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "DURG",
@@ -2558,7 +2959,11 @@
     "normalBedOccupied": 18,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:17",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=New+Polytechnic College Gariyaband+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=New+Polytechnic College Gariyaband+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "GARIYABANDH",
@@ -2574,7 +2979,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "20:17",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Livelihood+Gariyaband+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Livelihood+Gariyaband+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "GARIYABANDH",
@@ -2605,7 +3014,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:35",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Chhura+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Chhura+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "GARIYABANDH",
@@ -2621,7 +3034,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "13:15",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Fingeshwar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Fingeshwar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "Gorella Pendra Marwahi",
@@ -2700,7 +3117,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "20:11",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Swastik+health care hospital amarpur pendra+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Swastik+health care hospital amarpur pendra+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
@@ -2732,7 +3153,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:01",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=mishra+multispecialities hospital janjgir champa+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=mishra+multispecialities hospital janjgir champa+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
@@ -2748,7 +3173,11 @@
     "normalBedOccupied": 8,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:22",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Champa+Christian Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Champa+Christian Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
@@ -2764,7 +3193,11 @@
     "normalBedOccupied": 32,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:31",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Dhaurabhata+Dabhara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Dhaurabhata+Dabhara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
@@ -2780,7 +3213,11 @@
     "normalBedOccupied": 20,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "14:44",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Vedram+Govt Collage Pirhid Malkharoda+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Vedram+Govt Collage Pirhid Malkharoda+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
@@ -2796,7 +3233,11 @@
     "normalBedOccupied": 14,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "07:46",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=boy's+hostel gujkuliya jaijaipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=boy's+hostel gujkuliya jaijaipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
@@ -2844,7 +3285,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:01",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Divyang+Center+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Divyang+Center+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
@@ -2860,7 +3305,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:05",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Aakansha+Aawasiya Parisar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Aakansha+Aawasiya Parisar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
@@ -2891,14 +3340,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:36",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ECTC+Janjgeer+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ECTC+Janjgeer+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Mayor Dhwaj College",
     "hospitalAddress": "Not Available",
     "phoneNo": "7869413400",
+=======
+    "HospitalName": "Mayor Dhwaj College",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Manish Shrivastava 7869413400",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "10",
     "oxygenBedAvailable": "10",
     "oxygenBedOccupied": 0,
@@ -2907,14 +3366,24 @@
     "normalBedOccupied": 8,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "15:13",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Mayor+Dhwaj College+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mayor+Dhwaj College+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Jetha College",
     "hospitalAddress": "Not Available",
     "phoneNo": "9993840693",
+=======
+    "HospitalName": "Jetha College",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Anil Choudhary 9993840693",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "20",
     "oxygenBedAvailable": "8",
     "oxygenBedOccupied": 12,
@@ -2923,14 +3392,24 @@
     "normalBedOccupied": 6,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "14:43",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Jetha+College+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jetha+College+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt ITI Mahauda Baloda",
     "hospitalAddress": "Not Available",
     "phoneNo": "9009731426",
+=======
+    "HospitalName": "Govt ITI Mahauda Baloda",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR SHRIKESH GUPTA 9009731426",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "25",
     "oxygenBedAvailable": "8",
     "oxygenBedOccupied": 17,
@@ -2939,14 +3418,24 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "25/05/2021",
     "lastUpdatedTime": "08:15",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Govt+ITI Mahauda Baloda+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt+ITI Mahauda Baloda+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "ITI Bhawan Covid Care Center Akaltara",
     "hospitalAddress": "Not Available",
     "phoneNo": "6260765889",
+=======
+    "HospitalName": "ITI Bhawan Covid Care Center Akaltara",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. G R Armor 6260765889",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "8",
     "oxygenBedAvailable": "2",
     "oxygenBedOccupied": 6,
@@ -2955,13 +3444,23 @@
     "normalBedOccupied": 8,
     "lastUpdatedDate": "01/05/2021",
     "lastUpdatedTime": "15:02",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ITI+Bhawan Covid Care Center Akaltara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ITI+Bhawan Covid Care Center Akaltara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Covid Care Center Navagarh",
     "hospitalAddress": "Not Available",
+=======
+    "HospitalName": "Covid Care Center Navagarh",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "0",
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
@@ -2970,14 +3469,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "Not Updated",
     "lastUpdatedTime": "",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Covid+Care Center Navagarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Covid+Care Center Navagarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Nayak Nursing Home Champa",
     "hospitalAddress": "Not Available",
     "phoneNo": "9425223138",
+=======
+    "HospitalName": "Nayak Nursing Home Champa",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "NAYAK NURSING HOME 9425223138",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "5",
     "oxygenBedAvailable": "4",
     "oxygenBedOccupied": 1,
@@ -2986,14 +3495,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "27/05/2021",
     "lastUpdatedTime": "09:42",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Nayak+Nursing Home Champa+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Nayak+Nursing Home Champa+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "sparsh Multispacility hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9827921579",
+=======
+    "HospitalName": "sparsh Multispacility hospital",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "PRADEEP KUMAR 9827921579",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "10",
     "oxygenBedAvailable": "10",
     "oxygenBedOccupied": 0,
@@ -3002,14 +3521,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:26",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=sparsh+Multispacility hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=sparsh+Multispacility hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Shree Nursing Home",
     "hospitalAddress": "Not Available",
     "phoneNo": "9644449956",
+=======
+    "HospitalName": "Shree Nursing Home",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr sunil sahu 9644449956",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "2",
     "oxygenBedAvailable": "2",
     "oxygenBedOccupied": 0,
@@ -3018,14 +3547,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "15/05/2021",
     "lastUpdatedTime": "08:22",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shree+Nursing Home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shree+Nursing Home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "B.L. Home Champa Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9425228122",
+=======
+    "HospitalName": "B.L. Home Champa Hospital",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Sandeep Kumar 9425228122",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "6",
     "oxygenBedAvailable": "1",
     "oxygenBedOccupied": 5,
@@ -3034,14 +3573,24 @@
     "normalBedOccupied": 6,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=B.L.+Home Champa Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=B.L.+Home Champa Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "ITI Pamgarh, Janjgir",
     "hospitalAddress": "Not Available",
     "phoneNo": "7389305858",
+=======
+    "HospitalName": "ITI Pamgarh, Janjgir",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR.SHAORABH YADAV 7389305858",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "50",
     "oxygenBedAvailable": "32",
     "oxygenBedOccupied": 18,
@@ -3050,14 +3599,24 @@
     "normalBedOccupied": 17,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "13:20",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ITI+Pamgarh, Janjgir+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ITI+Pamgarh, Janjgir+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Heminbai Ramnarayan memorial Hospital Janjgir",
     "hospitalAddress": "Not Available",
     "phoneNo": "9425223170",
+=======
+    "HospitalName": "Heminbai Ramnarayan memorial Hospital Janjgir",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR. K.P. RATHORE 9425223170",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "5",
     "oxygenBedAvailable": "5",
     "oxygenBedOccupied": 0,
@@ -3066,13 +3625,23 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:03",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Heminbai+Ramnarayan memorial Hospital Janjgir+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Heminbai+Ramnarayan memorial Hospital Janjgir+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Ayushman nursing home",
     "hospitalAddress": "Not Available",
+=======
+    "HospitalName": "Ayushman nursing home",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "0",
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
@@ -3081,14 +3650,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "Not Updated",
     "lastUpdatedTime": "",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ayushman+nursing home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ayushman+nursing home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JANJGIR-CHAMPA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "RajKesar hospital janjgir champa",
     "hospitalAddress": "Not Available",
     "phoneNo": "7999640661",
+=======
+    "HospitalName": "RajKesar hospital janjgir champa",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DEEPAK JAIN 7999640661",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "6",
     "oxygenBedAvailable": "4",
     "oxygenBedOccupied": 2,
@@ -3097,14 +3676,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "21/05/2021",
     "lastUpdatedTime": "22:42",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=RajKesar+hospital janjgir champa+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=RajKesar+hospital janjgir champa+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Holly Cross Pvt. Hospital Kunkuri,",
     "hospitalAddress": "Not Available",
     "phoneNo": "9425575143",
+=======
+    "HospitalName": "Holly Cross Pvt. Hospital Kunkuri,",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Sr. Clodia Toppo 9425575143",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "2",
     "oxygenBedAvailable": "2",
     "oxygenBedOccupied": 0,
@@ -3113,14 +3702,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:22",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Holly+Cross Pvt. Hospital Kunkuri,+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Holly+Cross Pvt. Hospital Kunkuri,+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt Pre Matric girls Hostel Kotbha",
     "hospitalAddress": "Not Available",
     "phoneNo": "9098749174",
+=======
+    "HospitalName": "Govt Pre Matric girls Hostel Kotbha",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Ajit Bande 9098749174",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "7",
     "oxygenBedAvailable": "5",
     "oxygenBedOccupied": 2,
@@ -3129,14 +3728,24 @@
     "normalBedOccupied": 9,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:25",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Govt+Pre Matric girls Hostel Kotbha+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt+Pre Matric girls Hostel Kotbha+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt post Matric girls Hostel Manora",
     "hospitalAddress": "Not Available",
     "phoneNo": "7987778940",
+=======
+    "HospitalName": "Govt post Matric girls Hostel Manora",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Neeraj Vaibhav Minj 7987778940",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "2",
     "oxygenBedAvailable": "2",
     "oxygenBedOccupied": 0,
@@ -3145,14 +3754,24 @@
     "normalBedOccupied": 11,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:55",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Govt+post Matric girls Hostel Manora+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt+post Matric girls Hostel Manora+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt. College Duldula",
     "hospitalAddress": "Not Available",
     "phoneNo": "9039833540",
+=======
+    "HospitalName": "Govt. College Duldula",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR.M.MANIK 9039833540",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "9",
     "oxygenBedAvailable": "9",
     "oxygenBedOccupied": 0,
@@ -3161,27 +3780,46 @@
     "normalBedOccupied": 12,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:52",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Govt.+College Duldula+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt.+College Duldula+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt. Boys Hostel Saliyatoli Kunkuri",
     "hospitalAddress": "Not Available",
     "phoneNo": "9907938167",
+=======
+    "HospitalName": "Govt. Boys Hostel Saliyatoli Kunkuri",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "SHIV NANDAN DARSAN 9907938167",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "8",
     "oxygenBedAvailable": "8",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "27",
+<<<<<<< HEAD
     "normalBedAvailable": "25",
     "normalBedOccupied": 2,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:25",
     "googleSearch": "https://www.google.com/search?q=Govt.+Boys Hostel Saliyatoli Kunkuri+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt.+Boys Hostel Saliyatoli Kunkuri+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "normalBedAvailable": "23",
+    "normalBedOccupied": 4,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "08:58",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt. Pre Metric Girls Hostel Kandora Kunkuri",
     "hospitalAddress": "Not Available",
     "phoneNo": "9907938167",
@@ -3194,13 +3832,33 @@
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:20",
     "googleSearch": "https://www.google.com/search?q=Govt.+Pre Metric Girls Hostel Kandora Kunkuri+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt.+Pre Metric Girls Hostel Kandora Kunkuri+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "HospitalName": "Govt. Pre Metric Girls Hostel Kandora Kunkuri",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "SHIV NANDAN DARSAN 9907938167",
+    "oxygenBedTotal": "14",
+    "oxygenBedAvailable": "13",
+    "oxygenBedOccupied": 1,
+    "normalBedTotal": "34",
+    "normalBedAvailable": "23",
+    "normalBedOccupied": 11,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "10:50",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "RMSA Girls Hostel Kansabel",
     "hospitalAddress": "Not Available",
     "phoneNo": "9424192829",
+=======
+    "HospitalName": "RMSA Girls Hostel Kansabel",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "SUNIL KUMAR XHESS 9424192829",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "6",
     "oxygenBedAvailable": "6",
     "oxygenBedOccupied": 0,
@@ -3209,14 +3867,24 @@
     "normalBedOccupied": 5,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:40",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=RMSA+Girls Hostel Kansabel+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=RMSA+Girls Hostel Kansabel+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt. ST Pre Metric Girls Hostel Kansabel",
     "hospitalAddress": "Not Available",
     "phoneNo": "9424192829",
+=======
+    "HospitalName": "Govt. ST Pre Metric Girls Hostel Kansabel",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Sunil Kumar Xess 9424192829",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "7",
     "oxygenBedAvailable": "7",
     "oxygenBedOccupied": 0,
@@ -3225,14 +3893,24 @@
     "normalBedOccupied": 17,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:48",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Govt.+ST Pre Metric Girls Hostel Kansabel+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt.+ST Pre Metric Girls Hostel Kansabel+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt. College Pathalgaon",
     "hospitalAddress": "Not Available",
     "phoneNo": "8982418490",
+=======
+    "HospitalName": "Govt. College Pathalgaon",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. AKASH KUJUR 8982418490",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "11",
     "oxygenBedAvailable": "11",
     "oxygenBedOccupied": 0,
@@ -3241,46 +3919,82 @@
     "normalBedOccupied": 54,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:35",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Govt.+College Pathalgaon+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt.+College Pathalgaon+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "DAV School Bagicha",
     "hospitalAddress": "Not Available",
     "phoneNo": "8319893113",
+=======
+    "HospitalName": "DAV School Bagicha",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. R.N. Dubey 8319893113",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "4",
     "oxygenBedAvailable": "4",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "146",
     "normalBedAvailable": "146",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:07",
     "googleSearch": "https://www.google.com/search?q=DAV+School Bagicha+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=DAV+School Bagicha+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "11:25",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt. Girls Aashram Bagicha",
     "hospitalAddress": "Not Available",
     "phoneNo": "8319893113",
+=======
+    "HospitalName": "Govt. Girls Aashram Bagicha",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. R.N. Dubey 8319893113",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "7",
     "oxygenBedAvailable": "3",
     "oxygenBedOccupied": 4,
     "normalBedTotal": "43",
+<<<<<<< HEAD
     "normalBedAvailable": "25",
     "normalBedOccupied": 18,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:05",
     "googleSearch": "https://www.google.com/search?q=Govt.+Girls Aashram Bagicha+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt.+Girls Aashram Bagicha+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "normalBedAvailable": "26",
+    "normalBedOccupied": 17,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "11:23",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt. SC Girls Hostel Lodam",
     "hospitalAddress": "Not Available",
     "phoneNo": "9399341163",
+=======
+    "HospitalName": "Govt. SC Girls Hostel Lodam",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "SAKET VERMA 9399341163",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "2",
     "oxygenBedAvailable": "2",
     "oxygenBedOccupied": 0,
@@ -3289,14 +4003,24 @@
     "normalBedOccupied": 12,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Govt.+SC Girls Hostel Lodam+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt.+SC Girls Hostel Lodam+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "MCH Hospital Jashpur",
     "hospitalAddress": "Not Available",
     "phoneNo": "9479237171",
+=======
+    "HospitalName": "MCH Hospital Jashpur",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. F. Xaxa 9479237171",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "47",
     "oxygenBedAvailable": "38",
     "oxygenBedOccupied": 9,
@@ -3305,14 +4029,24 @@
     "normalBedOccupied": 15,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "12:23",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=MCH+Hospital Jashpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MCH+Hospital Jashpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Livelihood College Jashpur",
     "hospitalAddress": "Not Available",
     "phoneNo": "9907935602",
+=======
+    "HospitalName": "Livelihood College Jashpur",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Doleshwar Patel 9907935602",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "12",
     "oxygenBedAvailable": "8",
     "oxygenBedOccupied": 4,
@@ -3321,14 +4055,24 @@
     "normalBedOccupied": 63,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:04",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Livelihood+College Jashpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Livelihood+College Jashpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "City health center jashpur",
     "hospitalAddress": "Not Available",
     "phoneNo": "9131543886",
+=======
+    "HospitalName": "City health center jashpur",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Amir Mashir 9131543886",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "5",
     "oxygenBedAvailable": "5",
     "oxygenBedOccupied": 0,
@@ -3337,14 +4081,24 @@
     "normalBedOccupied": 6,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:24",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=City+health center jashpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=City+health center jashpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "JASHPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Govt ITI Tapkara",
     "hospitalAddress": "Not Available",
     "phoneNo": "8103898310",
+=======
+    "HospitalName": "Govt ITI Tapkara",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr.Vinay Kumar Bhagat 8103898310",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "10",
     "oxygenBedAvailable": "9",
     "oxygenBedOccupied": 1,
@@ -3353,14 +4107,24 @@
     "normalBedOccupied": 9,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:02",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Govt+ITI Tapkara+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Govt+ITI Tapkara+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KANKER",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Durgkondul kanker",
     "hospitalAddress": "Not Available",
     "phoneNo": "7000185393",
+=======
+    "HospitalName": "Durgkondul kanker",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR. MANOJ KISHORE 7000185393",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "5",
     "oxygenBedAvailable": "5",
     "oxygenBedOccupied": 0,
@@ -3369,14 +4133,24 @@
     "normalBedOccupied": 3,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:21",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Durgkondul+kanker+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Durgkondul+kanker+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KANKER",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "COVID-CARE CENTER BHANUPARATAPUR",
     "hospitalAddress": "Not Available",
     "phoneNo": "9479165545",
+=======
+    "HospitalName": "COVID-CARE CENTER BHANUPARATAPUR",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR D.K.SONI 9479165545",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "2",
     "oxygenBedAvailable": "2",
     "oxygenBedOccupied": 0,
@@ -3385,14 +4159,24 @@
     "normalBedOccupied": 5,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:09",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=COVID-CARE+CENTER BHANUPARATAPUR+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=COVID-CARE+CENTER BHANUPARATAPUR+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KANKER",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "COVID-CARE CENTER CHARAMA",
     "hospitalAddress": "Not Available",
     "phoneNo": "7999905872",
+=======
+    "HospitalName": "COVID-CARE CENTER CHARAMA",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr O P Sankhwar 7999905872",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "12",
     "oxygenBedAvailable": "12",
     "oxygenBedOccupied": 0,
@@ -3401,30 +4185,52 @@
     "normalBedOccupied": 12,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:44",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=COVID-CARE+CENTER CHARAMA+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=COVID-CARE+CENTER CHARAMA+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KANKER",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "COVID-CARE CENTER PAKANJORE",
     "hospitalAddress": "Not Available",
     "phoneNo": "9329527582",
+=======
+    "HospitalName": "COVID-CARE CENTER PAKANJORE",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR PRABHAT TOPPO 9329527582",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "22",
     "oxygenBedAvailable": "21",
     "oxygenBedOccupied": 1,
     "normalBedTotal": "78",
     "normalBedAvailable": "63",
     "normalBedOccupied": 15,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:42",
     "googleSearch": "https://www.google.com/search?q=COVID-CARE+CENTER PAKANJORE+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=COVID-CARE+CENTER PAKANJORE+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "17:34",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KANKER",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "COVID CARE CENTER ANTAGARH",
     "hospitalAddress": "Not Available",
     "phoneNo": "6265380951",
+=======
+    "HospitalName": "COVID CARE CENTER ANTAGARH",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR. A.K. SAMBHAKR 6265380951",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "7",
     "oxygenBedAvailable": "7",
     "oxygenBedOccupied": 0,
@@ -3433,14 +4239,24 @@
     "normalBedOccupied": 16,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "04:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=COVID+CARE CENTER ANTAGARH+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=COVID+CARE CENTER ANTAGARH+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KANKER",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "DCCC Narharpur Kanker",
     "hospitalAddress": "Not Available",
     "phoneNo": "8827033989",
+=======
+    "HospitalName": "DCCC Narharpur Kanker",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR PRASANT SINGH 8827033989",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "6",
     "oxygenBedAvailable": "6",
     "oxygenBedOccupied": 0,
@@ -3449,14 +4265,24 @@
     "normalBedOccupied": 17,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:15",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=DCCC+Narharpur Kanker+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=DCCC+Narharpur Kanker+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KANKER",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Dedicated Covid Hospital Kanker",
     "hospitalAddress": "Not Available",
     "phoneNo": "9425590970",
+=======
+    "HospitalName": "Dedicated Covid Hospital Kanker",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR LOKESH KUMAR DEO 9425590970",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "87",
     "oxygenBedAvailable": "79",
     "oxygenBedOccupied": 8,
@@ -3465,27 +4291,46 @@
     "normalBedOccupied": 5,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:30",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Dedicated+Covid Hospital Kanker+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Dedicated+Covid Hospital Kanker+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KANKER",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Covid Care Center Nathiya Navagaon, Kanker",
     "hospitalAddress": "Not Available",
     "phoneNo": "9425593713",
+=======
+    "HospitalName": "Covid Care Center Nathiya Navagaon, Kanker",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "CHANDRAHAS NAG 9425593713",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "2",
     "oxygenBedAvailable": "2",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "48",
+<<<<<<< HEAD
     "normalBedAvailable": "46",
     "normalBedOccupied": 2,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:47",
     "googleSearch": "https://www.google.com/search?q=Covid+Care Center Nathiya Navagaon, Kanker+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Covid+Care Center Nathiya Navagaon, Kanker+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "normalBedAvailable": "45",
+    "normalBedOccupied": 3,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "19:20",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KANKER",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "NEW COVID HOSPITAL IMLIPARA KANKER",
     "hospitalAddress": "Not Available",
     "phoneNo": "9425246118",
@@ -3498,13 +4343,33 @@
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:38",
     "googleSearch": "https://www.google.com/search?q=NEW+COVID HOSPITAL IMLIPARA KANKER+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=NEW+COVID HOSPITAL IMLIPARA KANKER+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "HospitalName": "NEW COVID HOSPITAL IMLIPARA KANKER",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR L .K DEO 9425246118",
+    "oxygenBedTotal": "88",
+    "oxygenBedAvailable": "80",
+    "oxygenBedOccupied": 8,
+    "normalBedTotal": "69",
+    "normalBedAvailable": "69",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "05:50",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KAWARDHA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Kawardha fracture and truma center",
     "hospitalAddress": "Not Available",
     "phoneNo": "9893078512",
+=======
+    "HospitalName": "Kawardha fracture and truma center",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Suryakant Bharti 9893078512",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "10",
     "oxygenBedAvailable": "10",
     "oxygenBedOccupied": 0,
@@ -3513,14 +4378,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:12",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Kawardha+fracture and truma center+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kawardha+fracture and truma center+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KAWARDHA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Kamla Hospital Kawardha",
     "hospitalAddress": "Not Available",
     "phoneNo": "9506850044",
+=======
+    "HospitalName": "Kamla Hospital Kawardha",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Siddharth jain 9506850044",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "10",
     "oxygenBedAvailable": "2",
     "oxygenBedOccupied": 8,
@@ -3529,14 +4404,24 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:59",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Kamla+Hospital Kawardha+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kamla+Hospital Kawardha+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KAWARDHA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "chandrayan hospital kawardha",
     "hospitalAddress": "Not Available",
     "phoneNo": "8806664037",
+=======
+    "HospitalName": "chandrayan hospital kawardha",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Byas Narayan Chandravanshi 8806664037",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "30",
     "oxygenBedAvailable": "29",
     "oxygenBedOccupied": 1,
@@ -3545,14 +4430,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:30",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=chandrayan+hospital kawardha+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=chandrayan+hospital kawardha+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KAWARDHA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Sai Sanjeevni",
     "hospitalAddress": "Not Available",
     "phoneNo": "9893404777",
+=======
+    "HospitalName": "Sai Sanjeevni",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Vinay Bisen 9893404777",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "15",
     "oxygenBedAvailable": "15",
     "oxygenBedOccupied": 0,
@@ -3561,14 +4456,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:18",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sai+Sanjeevni+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sai+Sanjeevni+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KAWARDHA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Sneha Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "8818941819",
+=======
+    "HospitalName": "Sneha Hospital",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Pranjal Jain 8818941819",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "14",
     "oxygenBedAvailable": "13",
     "oxygenBedOccupied": 1,
@@ -3577,14 +4482,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:06",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sneha+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sneha+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KAWARDHA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Bhoramdev Kanya Parisar",
     "hospitalAddress": "Not Available",
     "phoneNo": "9589793644",
+=======
+    "HospitalName": "Bhoramdev Kanya Parisar",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR SWAPNIL TIWARI 9589793644",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "100",
     "oxygenBedAvailable": "98",
     "oxygenBedOccupied": 2,
@@ -3593,14 +4508,24 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "25/05/2021",
     "lastUpdatedTime": "11:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Bhoramdev+Kanya Parisar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Bhoramdev+Kanya Parisar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KAWARDHA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "RoopJeewan Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9752842959",
+=======
+    "HospitalName": "RoopJeewan Hospital",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Atul Jain 9752842959",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "10",
     "oxygenBedAvailable": "10",
     "oxygenBedOccupied": 0,
@@ -3609,14 +4534,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:45",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=RoopJeewan+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=RoopJeewan+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KAWARDHA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Ayush Poly Clinic KAWARDHA",
     "hospitalAddress": "Not Available",
     "phoneNo": "9993378820",
+=======
+    "HospitalName": "Ayush Poly Clinic KAWARDHA",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR. ADESH BAGDE 9993378820",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "78",
     "oxygenBedAvailable": "70",
     "oxygenBedOccupied": 8,
@@ -3625,14 +4560,24 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "25/05/2021",
     "lastUpdatedTime": "11:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ayush+Poly Clinic KAWARDHA+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ayush+Poly Clinic KAWARDHA+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KONDAGAON",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Adarsh Hostel",
     "hospitalAddress": "Not Available",
     "phoneNo": "7999118566",
+=======
+    "HospitalName": "Adarsh Hostel",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Tushar Chandrawanshi 7999118566",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "25",
     "oxygenBedAvailable": "23",
     "oxygenBedOccupied": 2,
@@ -3641,14 +4586,24 @@
     "normalBedOccupied": 11,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:47",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Adarsh+Hostel+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Adarsh+Hostel+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KONDAGAON",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Boys Hostel Vishrampuri",
     "hospitalAddress": "Not Available",
     "phoneNo": "8889255777",
+=======
+    "HospitalName": "Boys Hostel Vishrampuri",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Anurag Bharti 8889255777",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "12",
     "oxygenBedAvailable": "12",
     "oxygenBedOccupied": 0,
@@ -3657,14 +4612,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:07",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Boys+Hostel Vishrampuri+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Boys+Hostel Vishrampuri+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KONDAGAON",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "District Hospital Kondagaon",
     "hospitalAddress": "Not Available",
     "phoneNo": "7999118566",
+=======
+    "HospitalName": "District Hospital Kondagaon",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Kunal dewangan 7999118566",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "48",
     "oxygenBedAvailable": "40",
     "oxygenBedOccupied": 8,
@@ -3673,14 +4638,24 @@
     "normalBedOccupied": 4,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:17",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=District+Hospital Kondagaon+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=District+Hospital Kondagaon+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KONDAGAON",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Kasturba Hostel",
     "hospitalAddress": "Not Available",
     "phoneNo": "9717213834",
+=======
+    "HospitalName": "Kasturba Hostel",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Pranav Gaurav Shukla 9717213834",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "25",
     "oxygenBedAvailable": "23",
     "oxygenBedOccupied": 2,
@@ -3689,14 +4664,24 @@
     "normalBedOccupied": 8,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:48",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Kasturba+Hostel+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kasturba+Hostel+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KONDAGAON",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Post Matrik Boys Hostel",
     "hospitalAddress": "Not Available",
     "phoneNo": "9907998446",
+=======
+    "HospitalName": "Post Matrik Boys Hostel",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Suraj Rathore 9907998446",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "23",
     "oxygenBedAvailable": "22",
     "oxygenBedOccupied": 1,
@@ -3705,14 +4690,24 @@
     "normalBedOccupied": 3,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "00:18",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Post+Matrik Boys Hostel+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Post+Matrik Boys Hostel+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KONDAGAON",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Kasturba Ashram",
     "hospitalAddress": "Not Available",
     "phoneNo": "9826641109",
+=======
+    "HospitalName": "Kasturba Ashram",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Satish Nayak 9826641109",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "12",
     "oxygenBedAvailable": "12",
     "oxygenBedOccupied": 0,
@@ -3721,14 +4716,24 @@
     "normalBedOccupied": 4,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:43",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Kasturba+Ashram+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kasturba+Ashram+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KORBA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Srishti Insstitute of mediacl Sciences",
     "hospitalAddress": "Not Available",
     "phoneNo": "9009580499",
+=======
+    "HospitalName": "Srishti Insstitute of mediacl Sciences",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "VINOD KUMAR MAHTO 9009580499",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "20",
     "oxygenBedAvailable": "11",
     "oxygenBedOccupied": 9,
@@ -3737,14 +4742,24 @@
     "normalBedOccupied": 5,
     "lastUpdatedDate": "12/05/2021",
     "lastUpdatedTime": "20:03",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Srishti+Insstitute of mediacl Sciences+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Srishti+Insstitute of mediacl Sciences+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KORBA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "jeevan asha hospital korba",
     "hospitalAddress": "Not Available",
     "phoneNo": "7987567539",
+=======
+    "HospitalName": "jeevan asha hospital korba",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "PUSHPENDRA CHANDRA 7987567539",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "18",
     "oxygenBedAvailable": "15",
     "oxygenBedOccupied": 3,
@@ -3753,14 +4768,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "21:25",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=jeevan+asha hospital korba+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=jeevan+asha hospital korba+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KORBA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Balco Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9981994699",
+=======
+    "HospitalName": "Balco Hospital",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Balco Covid Care Centre 9981994699",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "45",
     "oxygenBedAvailable": "6",
     "oxygenBedOccupied": 39,
@@ -3769,14 +4794,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "08/05/2021",
     "lastUpdatedTime": "06:14",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Balco+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Balco+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KORBA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "CETI GEVRA",
     "hospitalAddress": "Not Available",
     "phoneNo": "9425279558",
+=======
+    "HospitalName": "CETI GEVRA",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Ashok Singh 9425279558",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "25",
     "oxygenBedAvailable": "24",
     "oxygenBedOccupied": 1,
@@ -3785,14 +4820,24 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:05",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CETI+GEVRA+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CETI+GEVRA+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KORBA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "NTPC Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9425219728",
+=======
+    "HospitalName": "NTPC Hospital",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr I Lahari 9425219728",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "15",
     "oxygenBedAvailable": "15",
     "oxygenBedOccupied": 0,
@@ -3801,14 +4846,24 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "07:51",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=NTPC+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=NTPC+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KORBA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "District covid Hospital korba",
     "hospitalAddress": "Not Available",
     "phoneNo": "8319398608",
+=======
+    "HospitalName": "District covid Hospital korba",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR PRINCE JAIN 8319398608",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "58",
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 58,
@@ -3817,14 +4872,24 @@
     "normalBedOccupied": 17,
     "lastUpdatedDate": "19/05/2021",
     "lastUpdatedTime": "10:41",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=District+covid Hospital korba+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=District+covid Hospital korba+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KORBA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "ESIC Hospital Korba",
     "hospitalAddress": "Not Available",
     "phoneNo": "9669675587",
+=======
+    "HospitalName": "ESIC Hospital Korba",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "RAJENDRA PAIKRA 9669675587",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "55",
     "oxygenBedAvailable": "42",
     "oxygenBedOccupied": 13,
@@ -3833,14 +4898,24 @@
     "normalBedOccupied": 4,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:17",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ESIC+Hospital Korba+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ESIC+Hospital Korba+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KORBA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "CPET Korba",
     "hospitalAddress": "Not Available",
     "phoneNo": "8770236284",
+=======
+    "HospitalName": "CPET Korba",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dhirendra Kumar Sidar 8770236284",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "168",
     "oxygenBedAvailable": "156",
     "oxygenBedOccupied": 12,
@@ -3849,19 +4924,30 @@
     "normalBedOccupied": 25,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:21",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CPET+Korba+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CPET+Korba+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "KORBA",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "New Korba Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "6232033236",
+=======
+    "HospitalName": "New Korba Hospital",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Rakesh Rathore 6232033236",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "55",
     "oxygenBedAvailable": "26",
     "oxygenBedOccupied": 29,
     "normalBedTotal": "14",
     "normalBedAvailable": "10",
+<<<<<<< HEAD
     "normalBedOccupied": 4,
     "lastUpdatedDate": "15/05/2021",
     "lastUpdatedTime": "09:30",
@@ -3994,6 +5080,140 @@
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:56",
     "googleSearch": "https://www.google.com/search?q=CHC+tumgaon+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+tumgaon+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "normalBedOccupied": 4,
+    "lastUpdatedDate": "15/05/2021",
+    "lastUpdatedTime": "09:30",
+    "googleSearch": "not available"
+  },
+  {
+    "district": "KORIA",
+    "state": "Chattisgarh",
+    "HospitalName": "covid care centre regional hospital (S.E.C.L) korea",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr.Amardeep Jaisawal 8192880800",
+    "oxygenBedTotal": "10",
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "40",
+    "normalBedAvailable": "26",
+    "normalBedOccupied": 14,
+    "lastUpdatedDate": "30/05/2021",
+    "lastUpdatedTime": "11:02",
+    "googleSearch": "not available"
+  },
+  {
+    "district": "KORIA",
+    "state": "Chattisgarh",
+    "HospitalName": "Amakherwa CCC hospital korea",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Amadeep Jaisawal 8192880800",
+    "oxygenBedTotal": "10",
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "40",
+    "normalBedAvailable": "24",
+    "normalBedOccupied": 16,
+    "lastUpdatedDate": "30/05/2021",
+    "lastUpdatedTime": "11:01",
+    "googleSearch": "not available"
+  },
+  {
+    "district": "KORIA",
+    "state": "Chattisgarh",
+    "HospitalName": "SECL Koriya",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. Amardeep Jaisawal 8192880800",
+    "oxygenBedTotal": "3",
+    "oxygenBedAvailable": "3",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "47",
+    "normalBedAvailable": "47",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "30/05/2021",
+    "lastUpdatedTime": "10:59",
+    "googleSearch": "not available"
+  },
+  {
+    "district": "KORIA",
+    "state": "Chattisgarh",
+    "HospitalName": "Covid Care Hospital kanchanpur Koriya",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr Amardeep Jaiswal 8192880800",
+    "oxygenBedTotal": "33",
+    "oxygenBedAvailable": "8",
+    "oxygenBedOccupied": 25,
+    "normalBedTotal": "53",
+    "normalBedAvailable": "44",
+    "normalBedOccupied": 9,
+    "lastUpdatedDate": "30/05/2021",
+    "lastUpdatedTime": "10:57",
+    "googleSearch": "not available"
+  },
+  {
+    "district": "MAHASAMUND",
+    "state": "Chattisgarh",
+    "HospitalName": "GNM Traning Center",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR. ASHFAQ 6267770531",
+    "oxygenBedTotal": "20",
+    "oxygenBedAvailable": "20",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "220",
+    "normalBedAvailable": "212",
+    "normalBedOccupied": 8,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "13:52",
+    "googleSearch": "not available"
+  },
+  {
+    "district": "MAHASAMUND",
+    "state": "Chattisgarh",
+    "HospitalName": "Aklavya Covid 19 Care Center Pithora",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR. TARA AGRAWAL 9669961828",
+    "oxygenBedTotal": "10",
+    "oxygenBedAvailable": "6",
+    "oxygenBedOccupied": 4,
+    "normalBedTotal": "90",
+    "normalBedAvailable": "86",
+    "normalBedOccupied": 4,
+    "lastUpdatedDate": "30/05/2021",
+    "lastUpdatedTime": "09:26",
+    "googleSearch": "not available"
+  },
+  {
+    "district": "MAHASAMUND",
+    "state": "Chattisgarh",
+    "HospitalName": "Dedicated Covid Hospital",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr N K Mandpe 9754002043",
+    "oxygenBedTotal": "45",
+    "oxygenBedAvailable": "0",
+    "oxygenBedOccupied": 45,
+    "normalBedTotal": "0",
+    "normalBedAvailable": "0",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "17/05/2021",
+    "lastUpdatedTime": "18:11",
+    "googleSearch": "not available"
+  },
+  {
+    "district": "MAHASAMUND",
+    "state": "Chattisgarh",
+    "HospitalName": "CHC tumgaon",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Dr. G.C. diwan 9424241777",
+    "oxygenBedTotal": "5",
+    "oxygenBedAvailable": "5",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "10",
+    "normalBedAvailable": "6",
+    "normalBedOccupied": 4,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "11:49",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MAHASAMUND",
@@ -4025,7 +5245,11 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "13:41",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sewa+bhawan hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sewa+bhawan hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MAHASAMUND",
@@ -4041,7 +5265,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "00:29",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Akal+purak hospital mahasamund+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Akal+purak hospital mahasamund+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MAHASAMUND",
@@ -4057,7 +5285,11 @@
     "normalBedOccupied": 4,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "14:18",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+basna CCC+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+basna CCC+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MAHASAMUND",
@@ -4089,7 +5321,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:57",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=SMDC+nursing home saraipali+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=SMDC+nursing home saraipali+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MAHASAMUND",
@@ -4135,9 +5371,15 @@
     "normalBedTotal": "6",
     "normalBedAvailable": "6",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:14",
     "googleSearch": "https://www.google.com/search?q=RLC+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=RLC+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "09:31",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MAHASAMUND",
@@ -4200,7 +5442,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "12:35",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Soham+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Soham+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MAHASAMUND",
@@ -4232,7 +5478,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:04",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sai+Naman Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sai+Naman Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MAHASAMUND",
@@ -4279,7 +5529,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "07:59",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Agarwal+Nursing Home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Agarwal+Nursing Home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MUNGELI",
@@ -4309,9 +5563,15 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:25",
     "googleSearch": "https://www.google.com/search?q=sidharth+Hopsital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=sidharth+Hopsital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "12:42",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MUNGELI",
@@ -4423,7 +5683,11 @@
     "normalBedOccupied": 3,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:11",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Pre+Metric ST Girls Hostal Ramgarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Pre+Metric ST Girls Hostal Ramgarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "MUNGELI",
@@ -4439,7 +5703,11 @@
     "normalBedOccupied": 3,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "09:12",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=MCH+Hospital Mungeli+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MCH+Hospital Mungeli+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "NARAYANPUR",
@@ -4487,7 +5755,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "07:42",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Jindal+Hospital Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jindal+Hospital Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4519,7 +5791,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:42",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=JMJ+Morning Star Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=JMJ+Morning Star Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4535,7 +5811,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:06",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Apex+Superspeciality Hospital IVF Center+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Apex+Superspeciality Hospital IVF Center+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4551,7 +5831,11 @@
     "normalBedOccupied": 26,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:27",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Covid+Care Center KIT+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Covid+Care Center KIT+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4583,7 +5867,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:50",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ganga+Smart Hospital, Medical College Road+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ganga+Smart Hospital, Medical College Road+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4599,7 +5887,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:08",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sidheshwar+hospital Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sidheshwar+hospital Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4615,7 +5907,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Tamnar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Tamnar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4647,7 +5943,11 @@
     "normalBedOccupied": 27,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:53",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Medical+College Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Medical+College Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4663,7 +5963,11 @@
     "normalBedOccupied": 15,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "19:57",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CCC+New Mangal bhawan, Sarangarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CCC+New Mangal bhawan, Sarangarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4679,7 +5983,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "13:13",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shiv+Hospital & Diagnostic Center Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shiv+Hospital & Diagnostic Center Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4711,7 +6019,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:41",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Rajpriya+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Rajpriya+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4727,7 +6039,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "23:43",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Venus+Hospital and Diagnostic Center , Edan Gaurden Boirdadar Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Venus+Hospital and Diagnostic Center , Edan Gaurden Boirdadar Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4775,7 +6091,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:15",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sanjivani+Nursing Home Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sanjivani+Nursing Home Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4791,7 +6111,11 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:01",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shukla+Marriege Palace Sarangarh, Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shukla+Marriege Palace Sarangarh, Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4807,7 +6131,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:40",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Dr.+R. L. Hospital Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Dr.+R. L. Hospital Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4823,7 +6151,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "08:44",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=MCH+Lailunga, Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MCH+Lailunga, Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIGARH",
@@ -4869,9 +6201,15 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:18",
     "googleSearch": "https://www.google.com/search?q=Lokesh+Hospital Borodipa Pussore Distt-Raigarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Lokesh+Hospital Borodipa Pussore Distt-Raigarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "09:57",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -4919,7 +6257,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:31",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Soni+Multispeciality Hospital And Maternity Home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Soni+Multispeciality Hospital And Maternity Home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -4983,7 +6325,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:12",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sarvodaya+Hospital P-51, Dubey Colony+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sarvodaya+Hospital P-51, Dubey Colony+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5031,7 +6377,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:37",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Balgopal+children hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Balgopal+children hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5047,7 +6397,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "23:44",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Chinmay+Foundation Covid Care Center+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Chinmay+Foundation Covid Care Center+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5109,7 +6463,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Jyoti+hospital tilda+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jyoti+hospital tilda+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5156,7 +6514,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "12:44",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Life+Care Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Life+Care Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5218,9 +6580,15 @@
     "normalBedTotal": "7",
     "normalBedAvailable": "7",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "13:29",
     "googleSearch": "https://www.google.com/search?q=nirogyam+hospital sejbahar+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=nirogyam+hospital sejbahar+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "11:05",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5268,7 +6636,11 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "07:27",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shree+Sai Care Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shree+Sai Care Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5332,7 +6704,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "12:42",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=maa+sharda hospital and prasuti raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=maa+sharda hospital and prasuti raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5380,7 +6756,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "07:24",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=vardan+hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=vardan+hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5410,9 +6790,15 @@
     "normalBedTotal": "6",
     "normalBedAvailable": "6",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:39",
     "googleSearch": "https://www.google.com/search?q=shree+sai paikra hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=shree+sai paikra hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "13:21",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5476,7 +6862,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:33",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=niranjan+hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=niranjan+hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5492,7 +6882,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:49",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Kamla+Women's Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kamla+Women's Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5559,9 +6953,31 @@
   {
     "district": "RAIPUR",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "Kriti covid care center",
     "hospitalAddress": "Not Available",
     "phoneNo": "9300850010",
+=======
+    "HospitalName": "Medical College Raipur",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "DR.MANJU SINGH 9406010600",
+    "oxygenBedTotal": "215",
+    "oxygenBedAvailable": "19",
+    "oxygenBedOccupied": 196,
+    "normalBedTotal": "221",
+    "normalBedAvailable": "90",
+    "normalBedOccupied": 131,
+    "lastUpdatedDate": "10/05/2021",
+    "lastUpdatedTime": "16:01",
+    "googleSearch": "not available"
+  },
+  {
+    "district": "RAIPUR",
+    "state": "Chattisgarh",
+    "HospitalName": "Kriti covid care center",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "Ashwani Dewangan 9300850010",
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "oxygenBedTotal": "50",
     "oxygenBedAvailable": "50",
     "oxygenBedOccupied": 0,
@@ -5650,7 +7066,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "21:29",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ashadeep+hospital raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ashadeep+hospital raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5682,7 +7102,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:15",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Mahadeva+hospital dawada colony raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mahadeva+hospital dawada colony raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5712,9 +7136,15 @@
     "normalBedTotal": "5",
     "normalBedAvailable": "5",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:31",
     "googleSearch": "https://www.google.com/search?q=Sagar+Multi Speciality Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sagar+Multi Speciality Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "16:06",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5745,7 +7175,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "07:09",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Bihaan.+Hospital, Vidhan Sabha Road, Raipur, Chhattisgarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Bihaan.+Hospital, Vidhan Sabha Road, Raipur, Chhattisgarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5840,7 +7274,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:05",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Railway+Mandal Chikitsalaya Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Railway+Mandal Chikitsalaya Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5888,7 +7326,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "20:50",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Swapnil+Nursing home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Swapnil+Nursing home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5920,7 +7362,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Kharora+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kharora+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5936,7 +7382,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:21",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=District+Hospital Pandri Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=District+Hospital Pandri Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5952,7 +7402,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:16",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=N.K+D Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=N.K+D Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -5968,7 +7422,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:54",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Dhanwantri+vancer & Joint Replacement center+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Dhanwantri+vancer & Joint Replacement center+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6032,7 +7490,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Mahamaya-Superspeciality-Hospital-+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mahamaya-Superspeciality-Hospital-+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6064,7 +7526,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:59",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ram+Kiran Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ram+Kiran Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6144,7 +7610,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "20:07",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=shubhkamna+hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=shubhkamna+hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6160,7 +7630,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:41",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Urmila+Hospital Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Urmila+Hospital Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6192,7 +7666,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:12",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=khushi+hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=khushi+hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6240,7 +7718,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:52",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Mital+instutte of medical science Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mital+instutte of medical science Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6272,7 +7754,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:30",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Covid+Hospital Lalpur Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Covid+Hospital Lalpur Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6320,7 +7806,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "16:12",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=RIMS+Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=RIMS+Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6384,7 +7874,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:12",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=ESIC+Private Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=ESIC+Private Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6416,7 +7910,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "09:44",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ram+Krishna Care Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ram+Krishna Care Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6432,7 +7930,11 @@
     "normalBedOccupied": 6,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "15:03",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=MMI+Hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MMI+Hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6448,7 +7950,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "09:39",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Balco+Cancer Hospital New Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Balco+Cancer Hospital New Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6478,9 +7984,15 @@
     "normalBedTotal": "5",
     "normalBedAvailable": "5",
     "normalBedOccupied": 0,
+<<<<<<< HEAD
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "12:24",
     "googleSearch": "https://www.google.com/search?q=laxmi+care hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=laxmi+care hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "19:31",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6496,7 +8008,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:45",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Mamta+nurshing home+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Mamta+nurshing home+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6528,7 +8044,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:32",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shri+Hari krishna hospital raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shri+Hari krishna hospital raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6560,7 +8080,11 @@
     "normalBedOccupied": 5,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:40",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Heritage+Hospital, Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Heritage+Hospital, Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6688,7 +8212,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:20",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Shri+Narayana Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Shri+Narayana Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6704,7 +8232,11 @@
     "normalBedOccupied": 1,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:35",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Kalda+Burn and Plastic Care Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Kalda+Burn and Plastic Care Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAIPUR",
@@ -6752,7 +8284,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:47",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Jivan+Anmol Hosptal Raipur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Jivan+Anmol Hosptal Raipur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAJNANDGAON",
@@ -6975,7 +8511,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "10:55",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Nagar+palika bhavan kumbhara para dongargarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Nagar+palika bhavan kumbhara para dongargarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAJNANDGAON",
@@ -7086,7 +8626,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "15:32",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=samda+superspeciality hospital+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=samda+superspeciality hospital+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAJNANDGAON",
@@ -7118,7 +8662,11 @@
     "normalBedOccupied": 3,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:14",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Post+Matric Boys Hostel Mohala+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Post+Matric Boys Hostel Mohala+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "RAJNANDGAON",
@@ -7150,7 +8698,11 @@
     "normalBedOccupied": 77,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:22",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=female+eklavya ccc sukma+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=female+eklavya ccc sukma+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SUKMA",
@@ -7166,7 +8718,11 @@
     "normalBedOccupied": 162,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:19",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Eklavya+Parisar Kumharras Sukma+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Eklavya+Parisar Kumharras Sukma+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SUKMA",
@@ -7182,7 +8738,11 @@
     "normalBedOccupied": 42,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:24",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=MCH+Sukma+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MCH+Sukma+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURAJPUR",
@@ -7198,7 +8758,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:07",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Pt+Rewati Raman College Surajpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Pt+Rewati Raman College Surajpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURAJPUR",
@@ -7214,7 +8778,11 @@
     "normalBedOccupied": 14,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:05",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Livelyhood+College Surajpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Livelyhood+College Surajpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURAJPUR",
@@ -7230,7 +8798,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:43",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=MCH+Hospital Surajpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=MCH+Hospital Surajpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURAJPUR",
@@ -7246,7 +8818,11 @@
     "normalBedOccupied": 5,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "11:04",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Central+Hospital SECL Bishrampur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Central+Hospital SECL Bishrampur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURAJPUR",
@@ -7308,7 +8884,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:00",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Bhaiyathan, Surajpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Bhaiyathan, Surajpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURAJPUR",
@@ -7324,7 +8904,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "07:53",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Ramanujnagar, Surajpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Ramanujnagar, Surajpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7340,7 +8924,11 @@
     "normalBedOccupied": 26,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "18:19",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Medical+College Ambikapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Medical+College Ambikapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7372,7 +8960,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:35",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Ekta+hospital Ambikapur, Chhattisgarh+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Ekta+hospital Ambikapur, Chhattisgarh+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7404,7 +8996,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "10:26",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=K.D.+Hospital and Research Center Ambikapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=K.D.+Hospital and Research Center Ambikapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7420,7 +9016,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:03",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Life+Line Hospital Ambikapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Life+Line Hospital Ambikapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7436,7 +9036,11 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:38",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+Lakhanpur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+Lakhanpur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7452,7 +9056,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "11:36",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=sishu+manglam hospital ambikapur+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=sishu+manglam hospital ambikapur+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7484,7 +9092,11 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:14",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=Sai+Hostel Sarguja+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=Sai+Hostel Sarguja+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7500,7 +9112,11 @@
     "normalBedOccupied": 4,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:40",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+MAINPAT+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+MAINPAT+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7516,7 +9132,11 @@
     "normalBedOccupied": 9,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:34",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+BATOULI+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+BATOULI+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7525,6 +9145,7 @@
     "hospitalAddress": "Not Available",
     "phoneNo": "7869254919",
     "oxygenBedTotal": "10",
+<<<<<<< HEAD
     "oxygenBedAvailable": "7",
     "oxygenBedOccupied": 3,
     "normalBedTotal": "7",
@@ -7533,6 +9154,16 @@
     "lastUpdatedDate": "30/05/2021",
     "lastUpdatedTime": "13:01",
     "googleSearch": "https://www.google.com/search?q=CHC+DHOURPUR+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+DHOURPUR+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "oxygenBedAvailable": "9",
+    "oxygenBedOccupied": 1,
+    "normalBedTotal": "7",
+    "normalBedAvailable": "0",
+    "normalBedOccupied": 7,
+    "lastUpdatedDate": "29/05/2021",
+    "lastUpdatedTime": "17:36",
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7548,7 +9179,11 @@
     "normalBedOccupied": 2,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:42",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+SITAPUR+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+SITAPUR+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7564,7 +9199,11 @@
     "normalBedOccupied": 6,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:44",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=GOVT+POLYTECHNIQUE BOYS HOSTEL AMBIKAPUR+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=GOVT+POLYTECHNIQUE BOYS HOSTEL AMBIKAPUR+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "SURGUJA",
@@ -7580,16 +9219,29 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "29/05/2021",
     "lastUpdatedTime": "17:46",
+<<<<<<< HEAD
     "googleSearch": "https://www.google.com/search?q=CHC+UDAIPUR+chattisgarh&rlz=1C1CHBF_enIN859IN859&oq=CHC+UDAIPUR+chattisgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+=======
+    "googleSearch": "not available"
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
   },
   {
     "district": "",
     "state": "Chattisgarh",
+<<<<<<< HEAD
     "hospitalName": "",
     "hospitalAddress": "Not Available",
     "oxygenBedTotal": "11397",
     "oxygenBedAvailable": "8185",
     "oxygenBedOccupied": 3212,
+=======
+    "HospitalName": "",
+    "HospitalAddress": "Not Available",
+    "phoneNo": "",
+    "oxygenBedTotal": "11397",
+    "oxygenBedAvailable": "8176",
+    "oxygenBedOccupied": 3221,
+>>>>>>> 16bc337f8484669d561e1f36c9eaf7313cafb794
     "normalBedTotal": "16614",
     "normalBedAvailable": "13495",
     "normalBedOccupied": 3119,

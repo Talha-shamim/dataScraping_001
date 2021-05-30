@@ -121,6 +121,7 @@ const mergeData = () => {
           } else console.log(`File written Ahmedabad`);
         }
       );
+      
       fs.writeFile(
         `jsonFiles/ahmedabad.json`,
         JSON.stringify(finaldata, null, 2),

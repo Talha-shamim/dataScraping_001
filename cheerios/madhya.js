@@ -271,9 +271,9 @@ async function get() {
           var objData = {
             state: "Madhyapradesh",
             hospitalName: HOSPITAL[i],
-            hospitalAdress: "Not Available",
+            hospitalAddress: "Not Available",
             district: url_[q].name.toLowerCase(),
-            phoneNo: "-",
+            phoneNo: "Not Available",
             oxygenBedTotal: "-",
             oxygenBedOccupied: "-",
             oxygenBedAvailable: BED_OA[i],

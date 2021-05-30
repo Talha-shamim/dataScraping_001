@@ -38,6 +38,7 @@ async function get() {
           lastUpdateDate: lastUpdated[i].split("\n")[0],
           lastUpdateTime: lastUpdated[i].split("\n")[1],
           district: "Allahabad",
+          phoneNo:"Not Available"
         };
 
         var j = i * 5 - 1;
