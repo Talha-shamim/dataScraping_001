@@ -13,6 +13,10 @@
     "oxygenBedTotal": "291",
     "oxygenBedAvailable": "131",
     "oxygenBedOccupied": 160,
+<<<<<<< HEAD
+=======
+    "rank": 1,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "googleSearch": "Not Available"
   },
   {
@@ -21,6 +25,7 @@
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
     "normalBedTotal": "3890",
+<<<<<<< HEAD
     "normalBedAvailable": "1629",
     "normalBedOccupied": 2261,
     "lastUpdatedDate": "-",
@@ -29,6 +34,17 @@
     "oxygenBedTotal": "1735",
     "oxygenBedAvailable": "776",
     "oxygenBedOccupied": 959,
+=======
+    "normalBedAvailable": "1645",
+    "normalBedOccupied": 2245,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "phoneNo": "-",
+    "oxygenBedTotal": "1736",
+    "oxygenBedAvailable": "773",
+    "oxygenBedOccupied": 963,
+    "rank": 1,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "googleSearch": "Not Available"
   },
   {
@@ -45,6 +61,7 @@
     "oxygenBedTotal": "242",
     "oxygenBedAvailable": "47",
     "oxygenBedOccupied": 195,
+    "rank": 1,
     "googleSearch": "Not Available"
   },
   {
@@ -61,6 +78,10 @@
     "oxygenBedTotal": "558",
     "oxygenBedAvailable": "167",
     "oxygenBedOccupied": 391,
+<<<<<<< HEAD
+=======
+    "rank": 1,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "googleSearch": "Not Available"
   },
   {
@@ -77,6 +98,7 @@
     "oxygenBedTotal": "146",
     "oxygenBedAvailable": "48",
     "oxygenBedOccupied": 98,
+    "rank": 1,
     "googleSearch": "Not Available"
   },
   {
@@ -91,8 +113,14 @@
     "lastUpdatedTime": "-",
     "phoneNo": "-",
     "oxygenBedTotal": "509",
+<<<<<<< HEAD
     "oxygenBedAvailable": "47",
     "oxygenBedOccupied": 462,
+=======
+    "oxygenBedAvailable": "45",
+    "oxygenBedOccupied": 464,
+    "rank": 1,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "googleSearch": "Not Available"
   },
   {
@@ -109,6 +137,7 @@
     "oxygenBedTotal": "334",
     "oxygenBedAvailable": "60",
     "oxygenBedOccupied": 274,
+    "rank": 1,
     "googleSearch": "Not Available"
   },
   {
@@ -123,8 +152,14 @@
     "lastUpdatedTime": "-",
     "phoneNo": "-",
     "oxygenBedTotal": "825",
+<<<<<<< HEAD
     "oxygenBedAvailable": "244",
     "oxygenBedOccupied": 581,
+=======
+    "oxygenBedAvailable": "242",
+    "oxygenBedOccupied": 583,
+    "rank": 1,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "googleSearch": "Not Available"
   },
   {
@@ -141,6 +176,10 @@
     "oxygenBedTotal": "503",
     "oxygenBedAvailable": "111",
     "oxygenBedOccupied": 392,
+<<<<<<< HEAD
+=======
+    "rank": 1,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "googleSearch": "Not Available"
   },
   {
@@ -149,14 +188,23 @@
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
     "normalBedTotal": "1210",
+<<<<<<< HEAD
     "normalBedAvailable": "421",
     "normalBedOccupied": 789,
+=======
+    "normalBedAvailable": "425",
+    "normalBedOccupied": 785,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "phoneNo": "-",
     "oxygenBedTotal": "591",
     "oxygenBedAvailable": "166",
     "oxygenBedOccupied": 425,
+<<<<<<< HEAD
+=======
+    "rank": 1,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "googleSearch": "Not Available"
   },
   {
@@ -173,6 +221,7 @@
     "oxygenBedTotal": "295",
     "oxygenBedAvailable": "103",
     "oxygenBedOccupied": 192,
+    "rank": 1,
     "googleSearch": "Not Available"
   },
   {
@@ -181,14 +230,23 @@
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
     "normalBedTotal": "2461",
+<<<<<<< HEAD
     "normalBedAvailable": "665",
     "normalBedOccupied": 1796,
+=======
+    "normalBedAvailable": "662",
+    "normalBedOccupied": 1799,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "phoneNo": "-",
     "oxygenBedTotal": "747",
     "oxygenBedAvailable": "58",
     "oxygenBedOccupied": 689,
+<<<<<<< HEAD
+=======
+    "rank": 1,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "googleSearch": "Not Available"
   },
   {
@@ -203,8 +261,14 @@
     "lastUpdatedTime": "-",
     "phoneNo": "-",
     "oxygenBedTotal": "967",
+<<<<<<< HEAD
     "oxygenBedAvailable": "463",
     "oxygenBedOccupied": 504,
+=======
+    "oxygenBedAvailable": "465",
+    "oxygenBedOccupied": 502,
+    "rank": 1,
+>>>>>>> 9636f09c48b709e5c1685b3604e3742e7cb879e8
     "googleSearch": "Not Available"
   },
   {
@@ -221,6 +285,7 @@
     "oxygenBedTotal": "204",
     "oxygenBedAvailable": "85",
     "oxygenBedOccupied": 119,
+    "rank": 1,
     "googleSearch": "Not Available"
   }
 ]

@@ -17,7 +17,7 @@
     "phoneNo": "0522 225 8880",
     "ventilatorBed": "200",
     "googleSearch": "https://www.google.com/search?q=KGMC+Lucknow&rlz=1C1CHBF_enIN859IN859&oq=KGMC+Lucknow&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "26.8692591",
+    "latitude": "26.8692591",
     "longitude": "80.9162402",
     "rank": 2
   },
@@ -39,7 +39,7 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "17",
     "googleSearch": "https://www.google.com/search?q=DCH+Maharajganj+Mahrajganj&rlz=1C1CHBF_enIN859IN859&oq=DCH+Maharajganj+Mahrajganj&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "/maps/place/Maharajganj",
+    "latitude": "/maps/place/Maharajganj",
     "longitude": "/maps/place/Maharajganj,",
     "rank": 1
   },
@@ -61,7 +61,7 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=CHC+Mithaura+Mahrajganj&rlz=1C1CHBF_enIN859IN859&oq=CHC+Mithaura+Mahrajganj&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "27.2395852",
+    "latitude": "27.2395852",
     "longitude": "83.6747342",
     "rank": 1
   },
@@ -103,7 +103,7 @@
     "phoneNo": "097950 82822",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=CHC+Kurwar+Sultanpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kurwar+Sultanpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "26.3354704",
+    "latitude": "26.3354704",
     "longitude": "81.9932199",
     "rank": 2
   },
@@ -185,7 +185,7 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "NA",
     "googleSearch": "https://www.google.com/search?q=CHC+Jhinjhana+SHAMLI&rlz=1C1CHBF_enIN859IN859&oq=CHC+Jhinjhana+SHAMLI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "29.5263557",
+    "latitude": "29.5263557",
     "longitude": "77.2270746",
     "rank": 1
   },
@@ -227,7 +227,7 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=+Ghaziabad&rlz=1C1CHBF_enIN859IN859&oq=+Ghaziabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "/maps/place/Ghaziabad",
+    "latitude": "/maps/place/Ghaziabad",
     "longitude": "/maps/place/Ghaziabad,",
     "rank": 1
   },
@@ -269,7 +269,7 @@
     "phoneNo": "05252 237 621",
     "ventilatorBed": "5",
     "googleSearch": "https://www.google.com/search?q=ASMC+BAHRAICH+Bahraich&rlz=1C1CHBF_enIN859IN859&oq=ASMC+BAHRAICH+Bahraich&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "27.5640126",
+    "latitude": "27.5640126",
     "longitude": "81.5901804",
     "rank": 2
   },
@@ -311,7 +311,7 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=+Gautam Buddha Nagar&rlz=1C1CHBF_enIN859IN859&oq=+Gautam Buddha Nagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "/maps/place/Gautam+Buddh+Nagar",
+    "latitude": "/maps/place/Gautam+Buddh+Nagar",
     "longitude": "/maps/place/Gautam+Buddh+Nagar,",
     "rank": 1
   },
@@ -333,7 +333,7 @@
     "phoneNo": "094156 21991",
     "ventilatorBed": "No",
     "googleSearch": "https://www.google.com/search?q=MBS+Government Hospital Bhadohi+Sant Ravidas Nagar (Bhadohi)&rlz=1C1CHBF_enIN859IN859&oq=MBS+Government Hospital Bhadohi+Sant Ravidas Nagar (Bhadohi)&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "25.3954543",
+    "latitude": "25.3954543",
     "longitude": "82.5643746",
     "rank": 2
   },
@@ -375,7 +375,7 @@
     "phoneNo": "05212 321 446",
     "ventilatorBed": "61",
     "googleSearch": "https://www.google.com/search?q=MLB+Medical College Jhansi+Jhansi&rlz=1C1CHBF_enIN859IN859&oq=MLB+Medical College Jhansi+Jhansi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "25.4600127",
+    "latitude": "25.4600127",
     "longitude": "78.6146465",
     "rank": 2
   },
@@ -417,7 +417,7 @@
     "phoneNo": "097950 82822",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=CHC+Kurwar L-1+Sultanpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kurwar L-1+Sultanpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "26.3354704",
+    "latitude": "26.3354704",
     "longitude": "81.9932199",
     "rank": 2
   },
@@ -459,7 +459,7 @@
     "phoneNo": "0120 493 3350",
     "ventilatorBed": "8",
     "googleSearch": "https://www.google.com/search?q=SANTOSH+MEDICAL COLLAGE+Ghaziabad&rlz=1C1CHBF_enIN859IN859&oq=SANTOSH+MEDICAL COLLAGE+Ghaziabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "28.6489976",
+    "latitude": "28.6489976",
     "longitude": "77.4085596",
     "rank": 2
   },
@@ -501,7 +501,7 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=+Kushinagar&rlz=1C1CHBF_enIN859IN859&oq=+Kushinagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "/maps/place/Kushinagar",
+    "latitude": "/maps/place/Kushinagar",
     "longitude": "/maps/place/Kushinagar,",
     "rank": 1
   },
@@ -523,7 +523,7 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=+Kushinagar&rlz=1C1CHBF_enIN859IN859&oq=+Kushinagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "/maps/place/Kushinagar",
+    "latitude": "/maps/place/Kushinagar",
     "longitude": "/maps/place/Kushinagar,",
     "rank": 1
   },
@@ -545,7 +545,7 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=+Kushinagar&rlz=1C1CHBF_enIN859IN859&oq=+Kushinagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "/maps/place/Kushinagar",
+    "latitude": "/maps/place/Kushinagar",
     "longitude": "/maps/place/Kushinagar,",
     "rank": 1
   },
@@ -667,7 +667,7 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=CHC+Chargaon+Gorakhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Chargaon+Gorakhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "lattitude": "26.7473754",
+    "latitude": "26.7473754",
     "longitude": "83.365666",
     "rank": 1
   }
