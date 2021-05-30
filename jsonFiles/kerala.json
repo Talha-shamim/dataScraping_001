@@ -1,102 +1,102 @@
 [
   {
     "district": "ALAPPUZHA",
-    "oxygenBedTotal": "291",
-    "oxygenBedAvailable": "151",
-    "oxygenBedOccupied": 140
+    "oxygenBedTotal": "290",
+    "oxygenBedAvailable": "132",
+    "oxygenBedOccupied": 158
   },
   {
     "district": "ERNAKULAM",
-    "oxygenBedTotal": "1816",
-    "oxygenBedAvailable": "744",
-    "oxygenBedOccupied": 1072
+    "oxygenBedTotal": "1737",
+    "oxygenBedAvailable": "776",
+    "oxygenBedOccupied": 961
   },
   {
     "district": "IDUKKI",
-    "oxygenBedTotal": "244",
-    "oxygenBedAvailable": "38",
-    "oxygenBedOccupied": 206
+    "oxygenBedTotal": "242",
+    "oxygenBedAvailable": "47",
+    "oxygenBedOccupied": 195
   },
   {
     "district": "KANNUR",
-    "oxygenBedTotal": "567",
-    "oxygenBedAvailable": "177",
-    "oxygenBedOccupied": 390
+    "oxygenBedTotal": "558",
+    "oxygenBedAvailable": "169",
+    "oxygenBedOccupied": 389
   },
   {
     "district": "KASARAGOD",
     "oxygenBedTotal": "146",
-    "oxygenBedAvailable": "44",
-    "oxygenBedOccupied": 102
+    "oxygenBedAvailable": "48",
+    "oxygenBedOccupied": 98
   },
   {
     "district": "KOLLAM",
-    "oxygenBedTotal": "510",
-    "oxygenBedAvailable": "49",
-    "oxygenBedOccupied": 461
+    "oxygenBedTotal": "509",
+    "oxygenBedAvailable": "46",
+    "oxygenBedOccupied": 463
   },
   {
     "district": "KOTTAYAM",
     "oxygenBedTotal": "334",
-    "oxygenBedAvailable": "64",
-    "oxygenBedOccupied": 270
+    "oxygenBedAvailable": "60",
+    "oxygenBedOccupied": 274
   },
   {
     "district": "KOZHIKODE",
-    "oxygenBedTotal": "794",
-    "oxygenBedAvailable": "225",
-    "oxygenBedOccupied": 569
+    "oxygenBedTotal": "811",
+    "oxygenBedAvailable": "244",
+    "oxygenBedOccupied": 567
   },
   {
     "district": "MALAPPURAM",
     "oxygenBedTotal": "503",
-    "oxygenBedAvailable": "111",
-    "oxygenBedOccupied": 392
+    "oxygenBedAvailable": "120",
+    "oxygenBedOccupied": 383
   },
   {
     "district": "PALAKKAD",
-    "oxygenBedTotal": "593",
-    "oxygenBedAvailable": "138",
-    "oxygenBedOccupied": 455
+    "oxygenBedTotal": "591",
+    "oxygenBedAvailable": "168",
+    "oxygenBedOccupied": 423
   },
   {
     "district": "PATHANAMTHITTA",
     "oxygenBedTotal": "295",
-    "oxygenBedAvailable": "68",
-    "oxygenBedOccupied": 227
+    "oxygenBedAvailable": "103",
+    "oxygenBedOccupied": 192
   },
   {
     "district": "THIRUVANANTHAPURAM",
-    "oxygenBedTotal": "748",
-    "oxygenBedAvailable": "61",
-    "oxygenBedOccupied": 687
+    "oxygenBedTotal": "746",
+    "oxygenBedAvailable": "62",
+    "oxygenBedOccupied": 684
   },
   {
     "district": "THRISSUR",
-    "oxygenBedTotal": "964",
-    "oxygenBedAvailable": "397",
-    "oxygenBedOccupied": 567
+    "oxygenBedTotal": "966",
+    "oxygenBedAvailable": "471",
+    "oxygenBedOccupied": 495
   },
   {
     "district": "WAYANAD",
     "oxygenBedTotal": "204",
-    "oxygenBedAvailable": "79",
-    "oxygenBedOccupied": 125
+    "oxygenBedAvailable": "85",
+    "oxygenBedOccupied": 119
   },
   {
     "district": "ALAPPUZHA",
     "state": "Kerala",
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
-    "normalBedTotal": "1440",
-    "normalBedAvailable": "567",
-    "normalBedOccupied": 873,
+    "normalBedTotal": "1476",
+    "normalBedAvailable": "601",
+    "normalBedOccupied": 875,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
-    "oxygenBedTotal": "291",
-    "oxygenBedAvailable": "151",
-    "oxygenBedOccupied": 140,
+    "phoneNo": "Not Available",
+    "oxygenBedTotal": "290",
+    "oxygenBedAvailable": "132",
+    "oxygenBedOccupied": 158,
     "googleSearch": "Not Available"
   },
   {
@@ -104,15 +104,15 @@
     "state": "Kerala",
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
-    "normalBedTotal": "3870",
-    "normalBedAvailable": "1459",
-    "normalBedOccupied": 2411,
+    "normalBedTotal": "3883",
+    "normalBedAvailable": "1627",
+    "normalBedOccupied": 2256,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
-    "oxygenBedTotal": "1816",
-    "oxygenBedAvailable": "744",
-    "oxygenBedOccupied": 1072,
+    "phoneNo": "Not Available",
+    "oxygenBedTotal": "1737",
+    "oxygenBedAvailable": "776",
+    "oxygenBedOccupied": 961,
     "googleSearch": "Not Available"
   },
   {
@@ -125,10 +125,10 @@
     "normalBedOccupied": 449,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
-    "oxygenBedTotal": "244",
-    "oxygenBedAvailable": "38",
-    "oxygenBedOccupied": 206,
+    "phoneNo": "Not Available",
+    "oxygenBedTotal": "242",
+    "oxygenBedAvailable": "47",
+    "oxygenBedOccupied": 195,
     "googleSearch": "Not Available"
   },
   {
@@ -137,14 +137,14 @@
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
     "normalBedTotal": "1458",
-    "normalBedAvailable": "545",
-    "normalBedOccupied": 913,
+    "normalBedAvailable": "550",
+    "normalBedOccupied": 908,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
-    "oxygenBedTotal": "567",
-    "oxygenBedAvailable": "177",
-    "oxygenBedOccupied": 390,
+    "phoneNo": "Not Available",
+    "oxygenBedTotal": "558",
+    "oxygenBedAvailable": "169",
+    "oxygenBedOccupied": 389,
     "googleSearch": "Not Available"
   },
   {
@@ -152,15 +152,15 @@
     "state": "Kerala",
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
-    "normalBedTotal": "483",
-    "normalBedAvailable": "154",
-    "normalBedOccupied": 329,
+    "normalBedTotal": "485",
+    "normalBedAvailable": "160",
+    "normalBedOccupied": 325,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
+    "phoneNo": "Not Available",
     "oxygenBedTotal": "146",
-    "oxygenBedAvailable": "44",
-    "oxygenBedOccupied": 102,
+    "oxygenBedAvailable": "48",
+    "oxygenBedOccupied": 98,
     "googleSearch": "Not Available"
   },
   {
@@ -168,15 +168,15 @@
     "state": "Kerala",
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
-    "normalBedTotal": "1032",
-    "normalBedAvailable": "252",
-    "normalBedOccupied": 780,
+    "normalBedTotal": "1045",
+    "normalBedAvailable": "260",
+    "normalBedOccupied": 785,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
-    "oxygenBedTotal": "510",
-    "oxygenBedAvailable": "49",
-    "oxygenBedOccupied": 461,
+    "phoneNo": "Not Available",
+    "oxygenBedTotal": "509",
+    "oxygenBedAvailable": "46",
+    "oxygenBedOccupied": 463,
     "googleSearch": "Not Available"
   },
   {
@@ -185,14 +185,14 @@
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
     "normalBedTotal": "2233",
-    "normalBedAvailable": "597",
-    "normalBedOccupied": 1636,
+    "normalBedAvailable": "586",
+    "normalBedOccupied": 1647,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
+    "phoneNo": "Not Available",
     "oxygenBedTotal": "334",
-    "oxygenBedAvailable": "64",
-    "oxygenBedOccupied": 270,
+    "oxygenBedAvailable": "60",
+    "oxygenBedOccupied": 274,
     "googleSearch": "Not Available"
   },
   {
@@ -201,14 +201,14 @@
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
     "normalBedTotal": "2967",
-    "normalBedAvailable": "955",
-    "normalBedOccupied": 2012,
+    "normalBedAvailable": "1001",
+    "normalBedOccupied": 1966,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
-    "oxygenBedTotal": "794",
-    "oxygenBedAvailable": "225",
-    "oxygenBedOccupied": 569,
+    "phoneNo": "Not Available",
+    "oxygenBedTotal": "811",
+    "oxygenBedAvailable": "244",
+    "oxygenBedOccupied": 567,
     "googleSearch": "Not Available"
   },
   {
@@ -216,15 +216,15 @@
     "state": "Kerala",
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
-    "normalBedTotal": "1116",
-    "normalBedAvailable": "287",
-    "normalBedOccupied": 829,
+    "normalBedTotal": "1202",
+    "normalBedAvailable": "310",
+    "normalBedOccupied": 892,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
+    "phoneNo": "Not Available",
     "oxygenBedTotal": "503",
-    "oxygenBedAvailable": "111",
-    "oxygenBedOccupied": 392,
+    "oxygenBedAvailable": "120",
+    "oxygenBedOccupied": 383,
     "googleSearch": "Not Available"
   },
   {
@@ -232,15 +232,15 @@
     "state": "Kerala",
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
-    "normalBedTotal": "1220",
-    "normalBedAvailable": "430",
-    "normalBedOccupied": 790,
+    "normalBedTotal": "1210",
+    "normalBedAvailable": "443",
+    "normalBedOccupied": 767,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
-    "oxygenBedTotal": "593",
-    "oxygenBedAvailable": "138",
-    "oxygenBedOccupied": 455,
+    "phoneNo": "Not Available",
+    "oxygenBedTotal": "591",
+    "oxygenBedAvailable": "168",
+    "oxygenBedOccupied": 423,
     "googleSearch": "Not Available"
   },
   {
@@ -248,15 +248,15 @@
     "state": "Kerala",
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
-    "normalBedTotal": "854",
-    "normalBedAvailable": "306",
-    "normalBedOccupied": 548,
+    "normalBedTotal": "866",
+    "normalBedAvailable": "312",
+    "normalBedOccupied": 554,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
+    "phoneNo": "Not Available",
     "oxygenBedTotal": "295",
-    "oxygenBedAvailable": "68",
-    "oxygenBedOccupied": 227,
+    "oxygenBedAvailable": "103",
+    "oxygenBedOccupied": 192,
     "googleSearch": "Not Available"
   },
   {
@@ -264,15 +264,15 @@
     "state": "Kerala",
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
-    "normalBedTotal": "2331",
-    "normalBedAvailable": "633",
-    "normalBedOccupied": 1698,
+    "normalBedTotal": "2453",
+    "normalBedAvailable": "659",
+    "normalBedOccupied": 1794,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
-    "oxygenBedTotal": "748",
-    "oxygenBedAvailable": "61",
-    "oxygenBedOccupied": 687,
+    "phoneNo": "Not Available",
+    "oxygenBedTotal": "746",
+    "oxygenBedAvailable": "62",
+    "oxygenBedOccupied": 684,
     "googleSearch": "Not Available"
   },
   {
@@ -280,15 +280,15 @@
     "state": "Kerala",
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
-    "normalBedTotal": "2754",
-    "normalBedAvailable": "1612",
-    "normalBedOccupied": 1142,
+    "normalBedTotal": "2762",
+    "normalBedAvailable": "1739",
+    "normalBedOccupied": 1023,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
-    "oxygenBedTotal": "964",
-    "oxygenBedAvailable": "397",
-    "oxygenBedOccupied": 567,
+    "phoneNo": "Not Available",
+    "oxygenBedTotal": "966",
+    "oxygenBedAvailable": "471",
+    "oxygenBedOccupied": 495,
     "googleSearch": "Not Available"
   },
   {
@@ -297,14 +297,14 @@
     "HospitalName": "Not Available",
     "HospitalAddress": "Not Available",
     "normalBedTotal": "604",
-    "normalBedAvailable": "335",
-    "normalBedOccupied": 269,
+    "normalBedAvailable": "343",
+    "normalBedOccupied": 261,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "phoneNo": "-",
+    "phoneNo": "Not Available",
     "oxygenBedTotal": "204",
-    "oxygenBedAvailable": "79",
-    "oxygenBedOccupied": 125,
+    "oxygenBedAvailable": "85",
+    "oxygenBedOccupied": 119,
     "googleSearch": "Not Available"
   }
 ]

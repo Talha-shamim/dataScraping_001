@@ -1,10 +1,10 @@
-const ranchi = require("../../ranchi.json");
-const ranchiccord = require("../ranchicoordinates.json");
+const maharastra = require("../../rajasthan.json");
+const mahasatracoord = require("../rajasthancoordinates.json");
 const fs = require("fs");
 
 function get() {
-  ranchi.map((dt) => {
-    ranchiccord.map((data) => {
+  maharastra.map((dt) => {
+    mahasatracoord.map((data) => {
       if (dt.googleSearch === data.url) {
         if(data.location){
       dt.hospitalAddress = data.location;
@@ -27,7 +27,7 @@ function get() {
     });
   });
 
-  ranchi.map(dt=> {
+  maharastra.map(dt=> {
 
     if(dt.phoneNo.length<=4){
       dt.phoneNo="Not Available"
@@ -46,15 +46,16 @@ function get() {
 
     
   })
+
   fs.writeFile(
-    "jsonFiles/jharkhand.json",
-    JSON.stringify(ranchi, null, 2),
+    `jsonFiles/chhattisgarh.json`,
+    JSON.stringify(maharastra, null, 2),
     (error) => {
       if (error) {
         console.log(error);
-      } else console.log("File written Jharkhand final");
+      } else console.log("chhatisgarh final");
     }
   );
 }
 
-exports.mergejharkhand = get;
+exports.maharashtrafinal = get;

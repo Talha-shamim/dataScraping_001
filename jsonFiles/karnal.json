@@ -232,13 +232,13 @@
     "hospitalName": " RP Welltar Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9215331497",
-    "oxygenBedTotal": 15,
+    "oxygenBedTotal": 17,
     "oxygenBedOccupied": " 10",
-    "oxygenBedAvailable": "5",
+    "oxygenBedAvailable": "7",
     "normalBedTotal": null,
     "normalBedOccupied": " 4",
-    "lastUpdatedDate": " 9:20 AM 28th May,21",
-    "lastUpdatedTime": " 9:20 AM",
+    "lastUpdatedDate": " 8:53 AM 30th May,21",
+    "lastUpdatedTime": " 8:53 AM",
     "googleSearch": "https://www.google.com/search?q=+RP Welltar Hospital+karnal&rlz=1C1CHBF_enIN859IN859&oq=+RP Welltar Hospital+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -337,13 +337,13 @@
     "hospitalName": " SS Hospital",
     "hospitalAddress": "Not Available",
     "phoneNo": "9254577817",
-    "oxygenBedTotal": 8,
+    "oxygenBedTotal": 7,
     "oxygenBedOccupied": " 7",
-    "oxygenBedAvailable": "1",
+    "oxygenBedAvailable": "0",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 8:51 AM 29th May,21",
-    "lastUpdatedTime": " 8:51 AM",
+    "lastUpdatedDate": " 9:13 AM 30th May,21",
+    "lastUpdatedTime": " 9:13 AM",
     "googleSearch": "https://www.google.com/search?q=+SS Hospital+karnal&rlz=1C1CHBF_enIN859IN859&oq=+SS Hospital+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   },
   {
@@ -367,13 +367,13 @@
     "hospitalName": " Virk Hospital Karnal",
     "hospitalAddress": "Not Available",
     "phoneNo": "917027370332",
-    "oxygenBedTotal": 64,
+    "oxygenBedTotal": 63,
     "oxygenBedOccupied": " 37",
-    "oxygenBedAvailable": "27",
+    "oxygenBedAvailable": "26",
     "normalBedTotal": null,
     "normalBedOccupied": " 0",
-    "lastUpdatedDate": " 4:54 PM 29th May,21",
-    "lastUpdatedTime": " 4:54 PM",
+    "lastUpdatedDate": " 6:29 AM 30th May,21",
+    "lastUpdatedTime": " 6:29 AM",
     "googleSearch": "https://www.google.com/search?q=+Virk Hospital Karnal+karnal&rlz=1C1CHBF_enIN859IN859&oq=+Virk Hospital Karnal+karnal&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]

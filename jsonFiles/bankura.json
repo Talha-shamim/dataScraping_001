@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "district": "bankura",
+    "state": "Westbengal",
+    "hospitalName": " Barjora Super Speciality Hospital (Government Hospital)",
+    "hospitalAddress": "  Barjora , BANKURA",
+    "phoneNo": "   8509658547",
+    "oxygenBedTotal": "175",
+    "oxygenBedAvailable": "130",
+    "oxygenBedOccupied": 45,
+    "normalBedTotal": "0",
+    "normalBedAvailable": "0",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= Barjora+Super Speciality Hospital (Government Hospital)+BANKURA&rlz=1C1CHBF_enIN859IN859&oq= Barjora+Super Speciality Hospital (Government Hospital)+BANKURA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "district": "bankura",
+    "state": "Westbengal",
+    "hospitalName": " Bishnupur Super Speciality Hospital (Government Hospital)",
+    "hospitalAddress": "  4th floor Ward, Bishnhupur SSH. Rasikgang . Pin : 722122 , BANKURA",
+    "phoneNo": "   8637836997",
+    "oxygenBedTotal": "45",
+    "oxygenBedAvailable": "11",
+    "oxygenBedOccupied": 34,
+    "normalBedTotal": "45",
+    "normalBedAvailable": "4",
+    "normalBedOccupied": 41,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= Bishnupur+Super Speciality Hospital (Government Hospital)+BANKURA&rlz=1C1CHBF_enIN859IN859&oq= Bishnupur+Super Speciality Hospital (Government Hospital)+BANKURA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "district": "bankura",
+    "state": "Westbengal",
+    "hospitalName": " COVID Unit BSMCH (Government Hospital)",
+    "hospitalAddress": "  Bankura Medical College , Kenduadihi , BANKURA",
+    "phoneNo": "   9434231480",
+    "oxygenBedTotal": "60",
+    "oxygenBedAvailable": "25",
+    "oxygenBedOccupied": 35,
+    "normalBedTotal": "67",
+    "normalBedAvailable": "38",
+    "normalBedOccupied": 29,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= COVID+Unit BSMCH (Government Hospital)+BANKURA&rlz=1C1CHBF_enIN859IN859&oq= COVID+Unit BSMCH (Government Hospital)+BANKURA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "district": "bankura",
+    "state": "Westbengal",
+    "hospitalName": " ONDA SUPER SPECIALITY HOSPITAL (Government Hospital)",
+    "hospitalAddress": "  KUSHTE , ONDA BLOCK PINCODE : 722144 , BANKURA",
+    "phoneNo": "   8350057933",
+    "oxygenBedTotal": "0",
+    "oxygenBedAvailable": "0",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "170",
+    "normalBedAvailable": "119",
+    "normalBedOccupied": 51,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= ONDA+SUPER SPECIALITY HOSPITAL (Government Hospital)+BANKURA&rlz=1C1CHBF_enIN859IN859&oq= ONDA+SUPER SPECIALITY HOSPITAL (Government Hospital)+BANKURA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  }
+]
