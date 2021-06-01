@@ -42,10 +42,10 @@
 
 // const maharastrafinal = require("./jsonFiles/Coordi/nates/MergeCoordinates/Maharastrafinal.js");
 //     const uttarfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttarpradeshfinal.js");
-const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfinal.js");
+// const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfinal.js");
 //     const dehifinal = require("./jsonFiles/Coordinates/MergeCoordinates/delhifinal.js");
 //     const goafinal = require("./jsonFiles/Coordinates/MergeCoordinates/goafinal.js");
-//     const Puducherryfinal = require("./jsonFiles/Coordinates/MergeCoordinates/puducherryfinal.js");
+    const Puducherryfinal = require("./jsonFiles/Coordinates/MergeCoordinates/puducherryfinal.js");
 //     const jharkhandfinal = require("./jsonFiles/Coordinates/MergeCoordinates/jharkhandfinal.js");
 //     const uttarakhandfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttrakhandfinal.js");
 // const madhyapradeshfinal = require('./jsonFiles/Coordinates/MergeCoordinates/madhyapradeshfinal.js')
@@ -56,19 +56,19 @@ const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfina
 // const chhattisgarhfinal = require('./jsonFiles/Coordinates/MergeCoordinates/chhattisgarhfinal.js')
 
 // setInterval(() => {
-//     andrapradesh.getandrapradesh();
-//     allahabad.getAllahabad();
-//     ranchi.getranchi();
-//     Puducherry.getpuducherry();
-//     rajasthan.getrajasthan();
-//     uttarpradesh.getuttarpradesh();
-//     Goa.getgoa();
-// madhya.getmadhyapradesh();
-// haryana.getharyana();
-// Navi.getnavi();
-// pune.getpune();
-// }, 43200000);
-
+    //     andrapradesh.getandrapradesh();
+    //     allahabad.getAllahabad();
+    //     ranchi.getranchi();
+    //     rajasthan.getrajasthan();
+    //     uttarpradesh.getuttarpradesh();
+    //     Goa.getgoa();
+    // madhya.getmadhyapradesh();
+    // haryana.getharyana();
+    // Navi.getnavi();
+    // pune.getpune();
+    // Puducherry.getpuducherry();
+    // }, 43200000);
+    
 // setInterval(() => {
 // mergeMaharashtra.mergemaharashtra();
 // }, 	43740000);
@@ -78,10 +78,10 @@ const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfina
 
 //     maharastrafinal.maharashtrafinal();
 //     goafinal.goafinal();
-//     Puducherryfinal.puducherryfinal();
+    Puducherryfinal.puducherryfinal();
 //     jharkhandfinal.mergejharkhand();
 //     uttarfinal.uttarfinal();
-gujratfinal.gujratfinal();
+// gujratfinal.gujratfinal();
 //     uttarakhandfinal.uttarakhandfinal();
 //     dehifinal.delhifinal();
 // madhyapradeshfinal.madhyafinal()
