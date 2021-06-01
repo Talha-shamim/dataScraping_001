@@ -6,7 +6,7 @@ function get() {
   const maharastra = pune.concat(navimumbai);
 
   fs.writeFile(
-    `jsonFiles/maharastra.json`,
+    `jsonFiles/maharashtra.json`,
     JSON.stringify(maharastra, null, 2),
     (error) => {
       if (error) {
@@ -16,4 +16,5 @@ function get() {
   );
 }
 
+get();
 exports.mergemaharashtra = get;

@@ -2,13 +2,12 @@ const fs = require("fs");
 const cheerio = require("cheerio");
 const axios = require("axios");
 
-var data = [];
 var district = [];
 const url = [
   {
     urldistrict:
       "http://dashboard.covid19.ap.gov.in/ims/hospbed_reports/process.php?hospdata=1&district=502&status=",
-    name_: "anantpur",
+    name_: "anantapur",
   },
   {
     urldistrict:
@@ -74,7 +73,7 @@ const url = [
 
 async function get() {
   for (var q = 0; q < url.length; q++) {
-    const single_district = [];
+    var data = [];
     await axios
       .get(url[q].urldistrict)
       .then((res) => {
@@ -91,6 +90,7 @@ async function get() {
         x = 11;
         y = 12;
         z = 13;
+        var single_district = [];
         for (var i = 0; z < data.length; i++) {
           var objData = {
             state: "Andra pradesh",
@@ -136,19 +136,6 @@ async function get() {
         }
 
         fs.writeFile(
-          `jsonFiles/andhrapradesh.json`,
-          JSON.stringify(district, null, 2),
-          (error) => {
-            if (error) {
-              console.log(error);
-            } else {
-              console.log(q);
-              console.log(`File written ${url[q].name_}`);
-            }
-          }
-        );
-
-        fs.writeFile(
           `jsonFiles/${url[q].name_}.json`,
           JSON.stringify(single_district, null, 2),
           (error) => {
@@ -168,5 +155,19 @@ async function get() {
       break;
     }
   }
+
+  fs.writeFile(
+    `jsonFiles/andhrapradesh.json`,
+    JSON.stringify(district, null, 2),
+    (error) => {
+      if (error) {
+        console.log(error);
+      } else {
+        console.log(q);
+        console.log(`File written ${url[q].name_}`);
+      }
+    }
+  );
 }
+
 exports.getandrapradesh = get;

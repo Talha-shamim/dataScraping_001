@@ -314,19 +314,6 @@ async function get() {
             }
           }
         );
-
-        fs.writeFile(
-          `jsonFiles/${url_[q].name.toLowerCase()}.json`,
-          JSON.stringify(single_district, null, 2),
-          (error) => {
-            if (error) {
-              console.log(error);
-            } else {
-              console.log(q);
-              console.log(`File written ${url_[q].name.toLowerCase()}`);
-            }
-          }
-        );
       })
 
       .catch((error) => {
@@ -335,6 +322,19 @@ async function get() {
 
     if (q == 51) break;
   }
+
+  fs.writeFile(
+    `jsonFiles/${url_[q].name.toLowerCase()}.json`,
+    JSON.stringify(single_district, null, 2),
+    (error) => {
+      if (error) {
+        console.log(error);
+      } else {
+        console.log(q);
+        console.log(`File written ${url_[q].name.toLowerCase()}`);
+      }
+    }
+  );
 }
 
 exports.getmadhyapradesh = get;
