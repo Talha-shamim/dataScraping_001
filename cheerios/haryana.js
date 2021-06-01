@@ -211,18 +211,6 @@ async function get() {
             }
           }
         );
-
-        fs.writeFile(
-          `jsonFiles/${url_[q].name}.json`,
-          JSON.stringify(single_district, null, 2),
-          (error) => {
-            if (error) {
-              console.log(error);
-            } else {
-              console.log(`File written ${url_[q].name}`);
-            }
-          }
-        );
       })
 
       .catch((error) => {
@@ -233,6 +221,18 @@ async function get() {
       break;
     }
   }
+
+  fs.writeFile(
+    `jsonFiles/${url_[q].name}.json`,
+    JSON.stringify(single_district, null, 2),
+    (error) => {
+      if (error) {
+        console.log(error);
+      } else {
+        console.log(`File written ${url_[q].name}`);
+      }
+    }
+  );
 }
 
 exports.getharyana = get;

@@ -1,4 +1,4 @@
-const maharastra = require("../../maharastra.json");
+const maharastra = require("../../maharashtra.json");
 const mahasatracoord = require("../maharastracoordinates.json");
 const fs = require("fs");
 
@@ -48,7 +48,7 @@ function get() {
   })
 
   fs.writeFile(
-    `jsonFiles/maharastra.json`,
+    `jsonFiles/maharashtra.json`,
     JSON.stringify(maharastra, null, 2),
     (error) => {
       if (error) {

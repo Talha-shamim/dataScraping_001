@@ -6,7 +6,7 @@ function get() {
   Gujrat.map((dt) => {
     googleGujrat.map((gdt) => {
         if (dt.googleSearch === gdt.url) {
-          if(gdt.location){
+          if(gdt.location && gdt){
         dt.hospitalAddress = gdt.location;
           }
 
