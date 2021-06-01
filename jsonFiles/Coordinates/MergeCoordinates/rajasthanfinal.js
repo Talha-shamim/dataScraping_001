@@ -61,5 +61,4 @@ function get() {
   );
 }
 
-get();
 exports.rajasthanfinal = get;
