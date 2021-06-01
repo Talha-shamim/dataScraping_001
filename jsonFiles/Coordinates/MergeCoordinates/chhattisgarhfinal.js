@@ -57,4 +57,6 @@ function get() {
   );
 }
 
+get();
+
 exports.chattisfinal = get;
