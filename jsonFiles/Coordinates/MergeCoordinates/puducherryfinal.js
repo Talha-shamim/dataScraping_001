@@ -6,7 +6,7 @@ function get() {
   Tamil.map((dt) => {
     googleTamil.map((gdt) => {
       if (dt.googleSearch === gdt.url) {
-        if(gdt.location){
+        if(gdt.location ){
       dt.hospitalAddress = gdt.location;
         }
 
@@ -29,6 +29,9 @@ function get() {
 
   Tamil.map(dt=> {
 
+    if(dt.hospitalAddress.includes("km²")){
+      dt.hospitalAddress="Not Available"
+    }
     if(dt.phoneNo.length<=4){
       dt.phoneNo="Not Available"
     }

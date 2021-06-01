@@ -297,7 +297,7 @@
   },
   {
     "hospitalName": "Karaikal",
-    "hospitalAddress": "160 km²",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -312,7 +312,7 @@
     "district": "Karaikal",
     "latitude": "/maps/place/Karaikal",
     "longitude": "/maps/place/Karaikal,",
-    "rank": 1
+    "rank": 0
   },
   {
     "hospitalName": "VMMC Karaikal",
@@ -333,7 +333,7 @@
   },
   {
     "hospitalName": "Mahe",
-    "hospitalAddress": "9 km²",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -348,11 +348,11 @@
     "district": "Mahe",
     "latitude": "/maps/place/Mah%C3%A9",
     "longitude": "/maps/place/Mah%C3%A9,",
-    "rank": 1
+    "rank": 0
   },
   {
     "hospitalName": "Yanam",
-    "hospitalAddress": "30 km²",
+    "hospitalAddress": "Not Available",
     "normalBedTotal": "-",
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
@@ -367,6 +367,6 @@
     "district": "Yanam",
     "latitude": "/maps/place/Yanam",
     "longitude": "/maps/place/Yanam,",
-    "rank": 1
+    "rank": 0
   }
 ]
