@@ -42,7 +42,7 @@
 
 // const maharastrafinal = require("./jsonFiles/Coordi/nates/MergeCoordinates/Maharastrafinal.js");
 //     const uttarfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttarpradeshfinal.js");
-const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfinal.js");
+// const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfinal.js");
 //     const dehifinal = require("./jsonFiles/Coordinates/MergeCoordinates/delhifinal.js");
 //     const goafinal = require("./jsonFiles/Coordinates/MergeCoordinates/goafinal.js");
 //     const Puducherryfinal = require("./jsonFiles/Coordinates/MergeCoordinates/puducherryfinal.js");
@@ -52,7 +52,7 @@ const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfina
 // const andhrafinal = require('./jsonFiles/Coordinates/MergeCoordinates/andhrapradeshfinal.js')
 // const haryanafinal = require('./jsonFiles/Coordinates/MergeCoordinates/haryanafinal.js')
 // const westbengalfinal = require('./jsonFiles/Coordinates/MergeCoordinates/westbengalfinal.js')
-// const rajasthanfinal = require('./jsonFiles/Coordinates/MergeCoordinates/rajasthanfinal.js')
+const rajasthanfinal = require("./jsonFiles/Coordinates/MergeCoordinates/rajasthanfinal.js");
 // const chhattisgarhfinal = require('./jsonFiles/Coordinates/MergeCoordinates/chhattisgarhfinal.js')
 
 // setInterval(() => {
@@ -81,14 +81,14 @@ const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfina
 //     Puducherryfinal.puducherryfinal();
 //     jharkhandfinal.mergejharkhand();
 //     uttarfinal.uttarfinal();
-gujratfinal.gujratfinal();
+// gujratfinal.gujratfinal();
 //     uttarakhandfinal.uttarakhandfinal();
 //     dehifinal.delhifinal();
 // madhyapradeshfinal.madhyafinal()
 // haryanafinal.haryanafinal()
 // westbengalfinal.bengalfinal()
 // andhrafinal.andhrafinal()
-// rajasthanfinal.rajasthanfinal()
+rajasthanfinal.rajasthanfinal();
 // chhattisgarhfinal.chattisfinal()
 
 // setInterval(() => {
