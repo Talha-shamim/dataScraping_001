@@ -14,12 +14,14 @@ async function get() {
       var date = [];
       var time = [];
       var Puducherry = [];
+      var district = []
 
       $("#Vaccination_PDY > div > table > tbody > tr > td.text-left").each(
         (i, dt) => {
           var tg = $(dt).text();
           var newtg = tg.trim();
           name.push(newtg);
+          district.push('Pondicherry')
         }
       );
 
@@ -28,6 +30,7 @@ async function get() {
           var tg = $(dt).text().substring(53);
           var newtg = tg.trim();
           name.push(newtg);
+          district.push('Karaikal')
         }
       );
       $(
@@ -36,6 +39,7 @@ async function get() {
         var tg = $(dt).text().substring(53);
         var newtg = tg.trim();
         name.push(newtg);
+        district.push('Mahe')
       });
 
       $(
@@ -44,6 +48,7 @@ async function get() {
         var tg = $(dt).text().substring(53);
         var newtg = tg.trim();
         name.push(newtg);
+        district.push('Yanam')
       });
 
       $("#Vaccination_PDY > div > table > tbody > tr > td:nth-child(5)").each(
@@ -149,9 +154,8 @@ async function get() {
           oxygenBedAvailable: "",
           lastUpdatedDate: "",
           lastUpdatedTime: "",
-          district: "Puducherry",
           phoneNo: "Not Available",
-          state: "TamilNadu",
+          state: "Puducherry",
           googleSearch: "",
         };
 
@@ -173,6 +177,11 @@ async function get() {
       });
 
       Puducherry.map((dt, ind) => {
+        district.map((data,o) => {
+          if(o===ind){
+            dt.district=data
+          }
+        })
         availableo2bed.map((data, i) => {
           if (i === ind) {
             dt.oxygenBedAvailable = data;
@@ -195,16 +204,7 @@ async function get() {
         });
       });
 
-      fs.writeFile(
-        `jsonFiles/tamilnadu.json`,
-        JSON.stringify(Puducherry, null, 2),
-        (error) => {
-          if (error) {
-            console.log(error);
-          } else console.log(`File written TamilNadu`);
-        }
-      );
-
+     
       fs.writeFile(
         `jsonFiles/puducherry.json`,
         JSON.stringify(Puducherry, null, 2),

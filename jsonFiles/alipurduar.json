@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "district": "alipurduar",
+    "state": "Westbengal",
+    "hospitalName": " ALIPURDUAR DISTRICT HOSPITAL (Government Hospital)",
+    "hospitalAddress": "  ALIPURDUAR , ALIPURDUAR",
+    "phoneNo": "   9677028903",
+    "oxygenBedTotal": "10",
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "95",
+    "normalBedAvailable": "95",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= ALIPURDUAR+DISTRICT HOSPITAL (Government Hospital)+ALIPURDUAR&rlz=1C1CHBF_enIN859IN859&oq= ALIPURDUAR+DISTRICT HOSPITAL (Government Hospital)+ALIPURDUAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "district": "alipurduar",
+    "state": "Westbengal",
+    "hospitalName": " BIRPARA SGH (Government Hospital)",
+    "hospitalAddress": "  BIRPARA, MADARIHAT , ALIPURDUAR",
+    "phoneNo": "   9647817916",
+    "oxygenBedTotal": "10",
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "50",
+    "normalBedAvailable": "50",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= BIRPARA+SGH (Government Hospital)+ALIPURDUAR&rlz=1C1CHBF_enIN859IN859&oq= BIRPARA+SGH (Government Hospital)+ALIPURDUAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "district": "alipurduar",
+    "state": "Westbengal",
+    "hospitalName": " FALAKATA SUPER SPECIALITY HOSPITAL (Government Hospital)",
+    "hospitalAddress": "  FALAKATA, ALIPURDUAR , ALIPURDUAR",
+    "phoneNo": "   8420507892",
+    "oxygenBedTotal": "10",
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 0,
+    "normalBedTotal": "50",
+    "normalBedAvailable": "50",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= FALAKATA+SUPER SPECIALITY HOSPITAL (Government Hospital)+ALIPURDUAR&rlz=1C1CHBF_enIN859IN859&oq= FALAKATA+SUPER SPECIALITY HOSPITAL (Government Hospital)+ALIPURDUAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "district": "alipurduar",
+    "state": "Westbengal",
+    "hospitalName": " INTEGRATED AYUSH HOSPITAL, TAPSIKATHA (Government Hospital)",
+    "hospitalAddress": "  TOPSIKHATA,ALIPURDUAR-1 , ALIPURDUAR",
+    "phoneNo": "   9836055469",
+    "oxygenBedTotal": "24",
+    "oxygenBedAvailable": "13",
+    "oxygenBedOccupied": 11,
+    "normalBedTotal": "69",
+    "normalBedAvailable": "40",
+    "normalBedOccupied": 29,
+    "lastUpdatedDate": "-",
+    "lastUpdatedTime": "-",
+    "googleSearch": "https://www.google.com/search?q= INTEGRATED+AYUSH HOSPITAL, TAPSIKATHA (Government Hospital)+ALIPURDUAR&rlz=1C1CHBF_enIN859IN859&oq= INTEGRATED+AYUSH HOSPITAL, TAPSIKATHA (Government Hospital)+ALIPURDUAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+  }
+]
