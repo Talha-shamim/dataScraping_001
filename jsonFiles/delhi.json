@@ -2,6 +2,7 @@
   {
     "state": "delhi",
     "district": "delhi",
+<<<<<<< HEAD
     "hospitalName": "Action Cancer Hospital",
     "hospitalAddress": "A 4, A 4 Block, A 6 Block, Paschim Vihar, Delhi, 110063",
     "normalBedTotal": "0",
@@ -23,6 +24,8 @@
   {
     "state": "delhi",
     "district": "delhi",
+=======
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "hospitalName": "Kottakkal Arya Vaidya Sala",
     "hospitalAddress": " Karkardooma",
     "normalBedTotal": "0",
@@ -391,6 +394,7 @@
   {
     "state": "delhi",
     "district": "delhi",
+<<<<<<< HEAD
     "hospitalName": "Saroj Hospital",
     "hospitalAddress": "Bhagawan Mahavir Marg, Near Madhuban Chowk, Block A, Sector 14, Rohini, New Delhi, Delhi 110085",
     "normalBedTotal": "2",
@@ -412,6 +416,8 @@
   {
     "state": "delhi",
     "district": "delhi",
+=======
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "hospitalName": "Shanti Mukand Hospital",
     "hospitalAddress": "2, Institutional Area, Bhartendu Harish Chandra Marg, Vikas Marg Extension, Karkardooma, New Delhi, Delhi 110092",
     "normalBedTotal": "1",
@@ -517,6 +523,7 @@
   {
     "state": "delhi",
     "district": "delhi",
+<<<<<<< HEAD
     "hospitalName": "Fortis Escorts Heart Institute",
     "hospitalAddress": "Okhla road, Sukhdev Vihar Metro Station, New Delhi, Delhi 110025",
     "normalBedTotal": "9",
@@ -538,6 +545,8 @@
   {
     "state": "delhi",
     "district": "delhi",
+=======
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "hospitalName": "Max Patparganj",
     "normalBedTotal": "10",
     "normalBedOccupied": 3,
@@ -559,6 +568,7 @@
   {
     "state": "delhi",
     "district": "delhi",
+<<<<<<< HEAD
     "hospitalName": "Max Saket (East)",
     "normalBedTotal": "3",
     "normalBedOccupied": 4,
@@ -577,6 +587,8 @@
   {
     "state": "delhi",
     "district": "delhi",
+=======
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "hospitalName": "Jaipur Golden Hospital",
     "hospitalAddress": "Mangalam Place, Sector 3, Rohini, New Delhi, Delhi 110085",
     "normalBedTotal": "3",
@@ -598,6 +610,7 @@
   {
     "state": "delhi",
     "district": "delhi",
+<<<<<<< HEAD
     "hospitalName": "Sri Balaji Action Medical Institute FC-34",
     "hospitalAddress": "A 4 Block, A 6 Block, Paschim Vihar, New Delhi, Delhi 110063",
     "normalBedTotal": "5",
@@ -619,6 +632,8 @@
   {
     "state": "delhi",
     "district": "delhi",
+=======
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "hospitalName": "VIMHANS HOSPITAL",
     "hospitalAddress": "1, Institutional Area, Nehru Nagar, Lajpat Nagar, New Delhi, Delhi 110065",
     "normalBedTotal": "1",
@@ -907,6 +922,7 @@
   {
     "state": "delhi",
     "district": "delhi",
+<<<<<<< HEAD
     "hospitalName": "Birth Right",
     "normalBedTotal": "1",
     "normalBedOccupied": 1,
@@ -925,6 +941,8 @@
   {
     "state": "delhi",
     "district": "delhi",
+=======
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "hospitalName": "Shree Agarsain International Hospital",
     "normalBedTotal": "0",
     "normalBedOccupied": 0,
@@ -988,6 +1006,7 @@
   {
     "state": "delhi",
     "district": "delhi",
+<<<<<<< HEAD
     "hospitalName": "Maharaja Agrasen Dwarka",
     "normalBedTotal": "1",
     "normalBedOccupied": 8,
@@ -1009,6 +1028,8 @@
   {
     "state": "delhi",
     "district": "delhi",
+=======
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "hospitalName": "Human Care Medical Charitable Trust",
     "normalBedTotal": "2",
     "normalBedOccupied": 2,

@@ -25,6 +25,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "36",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "36",
     "oxygenBedTotal": "68",
     "oxygenBedOccupied": "7",
@@ -36,6 +37,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "6",
+    "oxygenBedTotal": "14",
+    "oxygenBedOccupied": "1",
+    "oxygenBedAvailable": "13",
+    "phoneNo": "094603 16977",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:09:10",
+    "googleSearch": "https://www.google.com/search?q=Anand+Multispeciality Hospital and Research Center+Ajmer&rlz=1C1CHBF_enIN859IN859&oq=Anand+Multispeciality Hospital and Research Center+Ajmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "latitude": "26.090971",
+    "longitude": "74.293113",
+    "rank": 2
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
@@ -422,6 +436,7 @@
     "state": "Rajasthan",
     "hospitalName": "Mahila Polytechnic",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "17",
     "normalBedOccupied": "0",
     "normalBedAvailable": "17",
@@ -435,6 +450,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "57",
+    "normalBedOccupied": "12",
+    "normalBedAvailable": "45",
+    "oxygenBedTotal": "16",
+    "oxygenBedOccupied": "16",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "9001196555",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:03:06",
+    "googleSearch": "https://www.google.com/search?q=DIVISIONAL+RAILWAY+Ajmer&rlz=1C1CHBF_enIN859IN859&oq=DIVISIONAL+RAILWAY+Ajmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bharatpur",
@@ -616,6 +644,7 @@
     "normalBedOccupied": "0",
     "normalBedAvailable": "5",
     "oxygenBedTotal": "15",
+<<<<<<< HEAD
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "13",
     "phoneNo": "8003422748",
@@ -625,6 +654,15 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedOccupied": "8",
+    "oxygenBedAvailable": "7",
+    "phoneNo": "8852852152",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:07:34",
+    "googleSearch": "https://www.google.com/search?q=R+S  HOSPITAL+Ajmer&rlz=1C1CHBF_enIN859IN859&oq=R+S  HOSPITAL+Ajmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bhilwara",
@@ -674,6 +712,7 @@
     "normalBedAvailable": "0",
     "oxygenBedTotal": "15",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "15",
     "phoneNo": "+917976969998",
     "lastUpdatedDate": "02-Jun-2021",
@@ -682,6 +721,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "42",
+    "phoneNo": "82099 55458",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:39:03",
+    "googleSearch": "https://www.google.com/search?q=Dental+College Thada , Karoli Tijara+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Dental+College Thada , Karoli Tijara+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bhilwara",
@@ -694,6 +741,7 @@
     "oxygenBedTotal": "15",
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "13",
+<<<<<<< HEAD
     "phoneNo": "01485230102",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:26:28",
@@ -701,6 +749,13 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "phoneNo": "9414490612",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:18:17",
+    "googleSearch": "https://www.google.com/search?q=Arihant+Hospital, Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Arihant+Hospital, Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bhilwara",
@@ -728,6 +783,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "14",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "14",
     "oxygenBedTotal": "6",
     "oxygenBedOccupied": "0",
@@ -739,6 +795,17 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "40",
+    "oxygenBedTotal": "20",
+    "oxygenBedOccupied": "6",
+    "oxygenBedAvailable": "14",
+    "phoneNo": "8529854495",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:26:37",
+    "googleSearch": "https://www.google.com/search?q=Bansur+Hospital and Recharge centar, Bansur, Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Bansur+Hospital and Recharge centar, Bansur, Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bhilwara",
@@ -807,6 +874,7 @@
     "normalBedAvailable": "5",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "10",
     "phoneNo": "Not Available",
     "lastUpdatedDate": "02-Jun-2021",
@@ -815,6 +883,14 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "3",
+    "phoneNo": "9461839530",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:38:41",
+    "googleSearch": "https://www.google.com/search?q=CHC+Kotkashim+Alwar&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kotkashim+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bhilwara",
@@ -940,6 +1016,7 @@
     "normalBedAvailable": "0",
     "oxygenBedTotal": "0",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "0",
     "phoneNo": "000000000000000000",
     "lastUpdatedDate": "02-Jun-2021",
@@ -948,6 +1025,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "5",
+    "phoneNo": "9414922763",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:50:52",
+    "googleSearch": "https://www.google.com/search?q=CHC+Reni+Alwar&rlz=1C1CHBF_enIN859IN859&oq=CHC+Reni+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bhilwara",
@@ -956,6 +1041,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "0",
     "oxygenBedTotal": "50",
     "oxygenBedOccupied": "3",
@@ -967,6 +1053,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "1",
+    "oxygenBedTotal": "4",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "4",
+    "phoneNo": "8955021937",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:46:12",
+    "googleSearch": "https://www.google.com/search?q=CHC+Shahjapur+Alwar&rlz=1C1CHBF_enIN859IN859&oq=CHC+Shahjapur+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bhilwara",
@@ -1055,6 +1152,7 @@
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
+<<<<<<< HEAD
     "phoneNo": "8947091954",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:27:54",
@@ -1062,6 +1160,13 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "phoneNo": "01461232045",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:59:22",
+    "googleSearch": "https://www.google.com/search?q=Chc+Bansur+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Chc+Bansur+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bikaner",
@@ -1092,6 +1197,7 @@
     "normalBedAvailable": "14",
     "oxygenBedTotal": "6",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "6",
     "phoneNo": "9928352750",
     "lastUpdatedDate": "02-Jun-2021",
@@ -1100,6 +1206,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "3",
+    "phoneNo": "9166882264",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:14:16",
+    "googleSearch": "https://www.google.com/search?q=Chc+Harsoli+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Chc+Harsoli+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bikaner",
@@ -1182,6 +1296,7 @@
     "state": "Rajasthan",
     "hospitalName": "CHC NOKHA",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "10",
     "normalBedOccupied": "0",
     "normalBedAvailable": "10",
@@ -1195,6 +1310,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "30",
+    "normalBedOccupied": "15",
+    "normalBedAvailable": "15",
+    "oxygenBedTotal": "6",
+    "oxygenBedOccupied": "6",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "9772150909",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:02:53",
+    "googleSearch": "https://www.google.com/search?q=Chc+Neemrana+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Chc+Neemrana+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bikaner",
@@ -1277,6 +1405,7 @@
     "state": "Rajasthan",
     "hospitalName": "JEEVAN RAKSHA HOSPITAL, HANSA GUEST HOUSE, NOKHA ROAD, BIKANER",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "45",
     "normalBedOccupied": "1",
     "normalBedAvailable": "44",
@@ -1290,6 +1419,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "5",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "0",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "9818978341",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:02:21",
+    "googleSearch": "https://www.google.com/search?q=Deepak+Gupta Hospital+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Deepak+Gupta Hospital+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bikaner",
@@ -1358,6 +1500,7 @@
     "normalBedAvailable": "30",
     "oxygenBedTotal": "50",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "50",
     "phoneNo": "9950330199",
     "lastUpdatedDate": "02-Jun-2021",
@@ -1366,12 +1509,21 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "20",
+    "phoneNo": "9772548688",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:19:30",
+    "googleSearch": "https://www.google.com/search?q=Gupta+Nursing Home, Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Gupta+Nursing Home, Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bikaner",
     "state": "Rajasthan",
     "hospitalName": "SHQ HOSPITAL  BSF BIKANER",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "17",
     "normalBedOccupied": "1",
     "normalBedAvailable": "16",
@@ -1385,6 +1537,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "30",
+    "normalBedOccupied": "6",
+    "normalBedAvailable": "24",
+    "oxygenBedTotal": "15",
+    "oxygenBedOccupied": "4",
+    "oxygenBedAvailable": "11",
+    "phoneNo": "7240000006",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:03:45",
+    "googleSearch": "https://www.google.com/search?q=Hari+ram Hospital, Bhiwadi, Tijara+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Hari+ram Hospital, Bhiwadi, Tijara+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bundi",
@@ -1393,6 +1558,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "8",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "8",
     "oxygenBedTotal": "0",
     "oxygenBedOccupied": "0",
@@ -1404,6 +1570,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "31",
+    "oxygenBedOccupied": "9",
+    "oxygenBedAvailable": "22",
+    "phoneNo": "7839128319",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:46:03",
+    "googleSearch": "https://www.google.com/search?q=Harish+Hospital, Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Harish+Hospital, Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bundi",
@@ -1429,6 +1606,7 @@
     "state": "Rajasthan",
     "hospitalName": "CHC Alod",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "13",
     "normalBedOccupied": "0",
     "normalBedAvailable": "13",
@@ -1442,6 +1620,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "5",
+    "normalBedOccupied": "2",
+    "normalBedAvailable": "3",
+    "oxygenBedTotal": "25",
+    "oxygenBedOccupied": "10",
+    "oxygenBedAvailable": "15",
+    "phoneNo": "01494222444",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:55:23",
+    "googleSearch": "https://www.google.com/search?q=Kailash+Hospital Behror, Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Kailash+Hospital Behror, Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bundi",
@@ -1505,6 +1696,7 @@
     "state": "Rajasthan",
     "hospitalName": "CHC Hindoli",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "14",
     "normalBedOccupied": "1",
     "normalBedAvailable": "13",
@@ -1518,6 +1710,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "20",
+    "normalBedOccupied": "13",
+    "normalBedAvailable": "7",
+    "oxygenBedTotal": "28",
+    "oxygenBedOccupied": "11",
+    "oxygenBedAvailable": "17",
+    "phoneNo": "9024337965",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:22:41",
+    "googleSearch": "https://www.google.com/search?q=MH+Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=MH+Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bundi",
@@ -1526,6 +1731,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "9",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "9",
     "oxygenBedTotal": "2",
     "oxygenBedOccupied": "2",
@@ -1537,6 +1743,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "5",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "5",
+    "phoneNo": "Not Available",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:10:48",
+    "googleSearch": "https://www.google.com/search?q=Manohar+Hospital And Trauma Center Shajapur+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Manohar+Hospital And Trauma Center Shajapur+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 0
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bundi",
@@ -1582,6 +1799,7 @@
     "hospitalName": "CHC Lakheri",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "11",
+<<<<<<< HEAD
     "normalBedOccupied": "3",
     "normalBedAvailable": "8",
     "oxygenBedTotal": "11",
@@ -1594,6 +1812,18 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedOccupied": "1",
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "9",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "9",
+    "phoneNo": "9461000076",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:23:37",
+    "googleSearch": "https://www.google.com/search?q=Multispeciality+Madhuri Hospital, 30 Panchwati Scheme 7+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Multispeciality+Madhuri Hospital, 30 Panchwati Scheme 7+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Bundi",
@@ -1697,6 +1927,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "15",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "15",
     "oxygenBedTotal": "6",
     "oxygenBedOccupied": "0",
@@ -1708,12 +1939,24 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "12",
+    "oxygenBedTotal": "16",
+    "oxygenBedOccupied": "3",
+    "oxygenBedAvailable": "13",
+    "phoneNo": "1494246333",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:41:51",
+    "googleSearch": "https://www.google.com/search?q=Sachkhand+Hospital, Neemrana, Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Sachkhand+Hospital, Neemrana, Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Chittorgarh",
     "state": "Rajasthan",
     "hospitalName": "Community Health Center, Gangrar",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "11",
     "normalBedOccupied": "0",
     "normalBedAvailable": "11",
@@ -1727,12 +1970,26 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "3",
+    "normalBedOccupied": "3",
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "8",
+    "oxygenBedOccupied": "8",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "9116012993",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:09:33",
+    "googleSearch": "https://www.google.com/search?q=Sania+Hospital , Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Sania+Hospital , Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Chittorgarh",
     "state": "Rajasthan",
     "hospitalName": "Community Health Center, Kapasan",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "38",
     "normalBedOccupied": "10",
     "normalBedAvailable": "28",
@@ -1746,6 +2003,19 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "21",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "21",
+    "oxygenBedTotal": "8",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "8",
+    "phoneNo": "9119215879",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:03:05",
+    "googleSearch": "https://www.google.com/search?q=Shubham+Hospital, Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Shubham+Hospital, Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Chittorgarh",
@@ -1776,6 +2046,7 @@
     "normalBedAvailable": "10",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "10",
     "phoneNo": "01476224238",
     "lastUpdatedDate": "02-Jun-2021",
@@ -1784,6 +2055,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "5",
+    "phoneNo": "8392831651",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:11:51",
+    "googleSearch": "https://www.google.com/search?q=Star+Hospital+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Star+Hospital+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Chittorgarh",
@@ -1792,6 +2071,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "10",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "10",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "2",
@@ -1803,6 +2083,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "11",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "11",
+    "phoneNo": "8392831651",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:31:44",
+    "googleSearch": "https://www.google.com/search?q=Star+Hospital , Bhiwadi, Tijara, Alwar+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Star+Hospital , Bhiwadi, Tijara, Alwar+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Chittorgarh",
@@ -1815,6 +2106,7 @@
     "oxygenBedTotal": "0",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
+<<<<<<< HEAD
     "phoneNo": "Not Available",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:17:19",
@@ -1822,6 +2114,13 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "phoneNo": "01442336648",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:59:58",
+    "googleSearch": "https://www.google.com/search?q=Sunil+Nursing Home+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Sunil+Nursing Home+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Chittorgarh",
@@ -1850,6 +2149,7 @@
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
+<<<<<<< HEAD
     "oxygenBedTotal": "70",
     "oxygenBedOccupied": "18",
     "oxygenBedAvailable": "52",
@@ -1860,6 +2160,16 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedTotal": "0",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "9414017227",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:12:09",
+    "googleSearch": "https://www.google.com/search?q=Vaijayanti+Hospital+Alwar&rlz=1C1CHBF_enIN859IN859&oq=Vaijayanti+Hospital+Alwar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Chittorgarh",
@@ -2018,6 +2328,7 @@
     "state": "Rajasthan",
     "hospitalName": "CHC RATANNAGAR",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "2",
     "normalBedOccupied": "0",
     "normalBedAvailable": "2",
@@ -2031,6 +2342,19 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "109",
+    "normalBedOccupied": "6",
+    "normalBedAvailable": "103",
+    "oxygenBedTotal": "148",
+    "oxygenBedOccupied": "12",
+    "oxygenBedAvailable": "136",
+    "phoneNo": "02962242483",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:15:24",
+    "googleSearch": "https://www.google.com/search?q=GOVT+MAHATMA GANDHI HOSPITAL BANSWARA+Banswara&rlz=1C1CHBF_enIN859IN859&oq=GOVT+MAHATMA GANDHI HOSPITAL BANSWARA+Banswara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Churu",
@@ -2176,6 +2500,7 @@
     "oxygenBedTotal": "6",
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "5",
+<<<<<<< HEAD
     "phoneNo": "9828764015",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:50:45",
@@ -2183,6 +2508,13 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "phoneNo": "9166586154",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:10:10",
+    "googleSearch": "https://www.google.com/search?q=CHC+Mangrol+Baran&rlz=1C1CHBF_enIN859IN859&oq=CHC+Mangrol+Baran&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Churu",
@@ -2196,18 +2528,26 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "1",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:53:39",
     "googleSearch": "https://www.google.com/search?q=M.R.M.+Choudhay Hospital, Churu+Churu&rlz=1C1CHBF_enIN859IN859&oq=M.R.M.+Choudhay Hospital, Churu+Churu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:10:54",
+    "googleSearch": "https://www.google.com/search?q=CHC+Nahargarh+Baran&rlz=1C1CHBF_enIN859IN859&oq=CHC+Nahargarh+Baran&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 0
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Churu",
     "state": "Rajasthan",
     "hospitalName": "Mohta  Hospital, Rajgarh",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "25",
     "normalBedOccupied": "0",
     "normalBedAvailable": "25",
@@ -2221,6 +2561,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "35",
+    "normalBedOccupied": "9",
+    "normalBedAvailable": "26",
+    "oxygenBedTotal": "174",
+    "oxygenBedOccupied": "22",
+    "oxygenBedAvailable": "152",
+    "phoneNo": "7453234560",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:11:02",
+    "googleSearch": "https://www.google.com/search?q=Government+Hospital Baran+Baran&rlz=1C1CHBF_enIN859IN859&oq=Government+Hospital Baran+Baran&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Churu",
@@ -2246,6 +2599,7 @@
     "state": "Rajasthan",
     "hospitalName": "Soni Hospital, Rajgarh",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "5",
     "normalBedOccupied": "0",
     "normalBedAvailable": "5",
@@ -2259,6 +2613,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "14",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "14",
+    "oxygenBedTotal": "5",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "5",
+    "phoneNo": "9829615431",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:12:04",
+    "googleSearch": "https://www.google.com/search?q=Radha+Krishna Memorial Hospital and Reseach Center+Baran&rlz=1C1CHBF_enIN859IN859&oq=Radha+Krishna Memorial Hospital and Reseach Center+Baran&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Dausa",
@@ -2324,6 +2691,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "20",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "20",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "4",
@@ -2335,6 +2703,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "25",
+    "oxygenBedTotal": "3",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "3",
+    "phoneNo": "9001230229",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:06:30",
+    "googleSearch": "https://www.google.com/search?q=CHC+Detani+Barmer&rlz=1C1CHBF_enIN859IN859&oq=CHC+Detani+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Dausa",
@@ -2406,6 +2785,7 @@
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
+<<<<<<< HEAD
     "phoneNo": "01463281127",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:42:55",
@@ -2413,6 +2793,13 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "phoneNo": "9799207509",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:10:40",
+    "googleSearch": "https://www.google.com/search?q=CHC+Gida+Barmer&rlz=1C1CHBF_enIN859IN859&oq=CHC+Gida+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -2423,6 +2810,7 @@
     "normalBedOccupied": "0",
     "normalBedAvailable": "10",
     "oxygenBedTotal": "5",
+<<<<<<< HEAD
     "oxygenBedOccupied": "3",
     "oxygenBedAvailable": "2",
     "phoneNo": "9928853075",
@@ -2432,6 +2820,15 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "5",
+    "phoneNo": "Not Available",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:25:31",
+    "googleSearch": "https://www.google.com/search?q=CHC+Jasol+Barmer&rlz=1C1CHBF_enIN859IN859&oq=CHC+Jasol+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 0
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -2459,6 +2856,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "7",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "7",
     "oxygenBedTotal": "8",
     "oxygenBedOccupied": "1",
@@ -2470,6 +2868,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "6",
+    "oxygenBedTotal": "4",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "4",
+    "phoneNo": "8005505669",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:18:44",
+    "googleSearch": "https://www.google.com/search?q=CHC+Kawas+Barmer&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kawas+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -2481,6 +2890,7 @@
     "normalBedAvailable": "3",
     "oxygenBedTotal": "2",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "2",
     "phoneNo": "9643340061",
     "lastUpdatedDate": "02-Jun-2021",
@@ -2489,6 +2899,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "5",
+    "phoneNo": "9001892700",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:24:04",
+    "googleSearch": "https://www.google.com/search?q=CHC+Pachpadra+Barmer&rlz=1C1CHBF_enIN859IN859&oq=CHC+Pachpadra+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -2576,6 +2994,7 @@
     "normalBedAvailable": "0",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "10",
     "phoneNo": "9414213880",
     "lastUpdatedDate": "02-Jun-2021",
@@ -2584,6 +3003,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "3",
+    "phoneNo": "9414754779",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:06:24",
+    "googleSearch": "https://www.google.com/search?q=Citylite+BalOTRA+Barmer&rlz=1C1CHBF_enIN859IN859&oq=Citylite+BalOTRA+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -2595,6 +3022,7 @@
     "normalBedAvailable": "5",
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "5",
     "phoneNo": "9413204173",
     "lastUpdatedDate": "02-Jun-2021",
@@ -2603,6 +3031,31 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "2",
+    "phoneNo": "9610169999",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:21:19",
+    "googleSearch": "https://www.google.com/search?q=Dhanwantri+Hospital, Barmer+Barmer&rlz=1C1CHBF_enIN859IN859&oq=Dhanwantri+Hospital, Barmer+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Barmer",
+    "state": "Rajasthan",
+    "hospitalName": "Govt. Hospital barmer",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "108",
+    "normalBedOccupied": "26",
+    "normalBedAvailable": "82",
+    "oxygenBedTotal": "250",
+    "oxygenBedOccupied": "132",
+    "oxygenBedAvailable": "118",
+    "phoneNo": "01562-250808, 01562-294082",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "14:09:49",
+    "googleSearch": "https://www.google.com/search?q=Govt.+Hospital barmer+Barmer&rlz=1C1CHBF_enIN859IN859&oq=Govt.+Hospital barmer+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -2652,6 +3105,7 @@
     "normalBedAvailable": "5",
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "5",
     "phoneNo": "8980008113",
     "lastUpdatedDate": "02-Jun-2021",
@@ -2660,6 +3114,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "0",
+    "phoneNo": "9983204110",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:53:13",
+    "googleSearch": "https://www.google.com/search?q=Navjeevan+Multispeciality and Maternity Hospital+Barmer&rlz=1C1CHBF_enIN859IN859&oq=Navjeevan+Multispeciality and Maternity Hospital+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -2690,6 +3152,7 @@
     "normalBedAvailable": "2",
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "5",
     "phoneNo": "8306800438",
     "lastUpdatedDate": "02-Jun-2021",
@@ -2698,6 +3161,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "13",
+    "phoneNo": "02982-223008,02982-223006",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:22:55",
+    "googleSearch": "https://www.google.com/search?q=THAR+HOSPITAL AND MULTISPECIALITY CENTRE+Barmer&rlz=1C1CHBF_enIN859IN859&oq=THAR+HOSPITAL AND MULTISPECIALITY CENTRE+Barmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -2807,8 +3278,98 @@
     "hospitalAddress": "Kishangarh Rd, Mitra Niwas Colony, Kishangarh, Rajasthan 305801",
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "0",
     "oxygenBedTotal": "40",
+=======
+    "normalBedAvailable": "2",
+    "oxygenBedTotal": "8",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "8",
+    "phoneNo": "00000000000000000000000",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "14:08:00",
+    "googleSearch": "https://www.google.com/search?q=CHC+Kumher+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kumher+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Bharatpur",
+    "state": "Rajasthan",
+    "hospitalName": "CHC Nadbai",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "5",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "10",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "10",
+    "phoneNo": "9782824889",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "14:29:45",
+    "googleSearch": "https://www.google.com/search?q=CHC+Nadbai+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Nadbai+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Bharatpur",
+    "state": "Rajasthan",
+    "hospitalName": "CHC Nagar",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "19",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "19",
+    "oxygenBedTotal": "6",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "6",
+    "phoneNo": "9875029725",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:20:22",
+    "googleSearch": "https://www.google.com/search?q=CHC+Nagar+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Nagar+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Bharatpur",
+    "state": "Rajasthan",
+    "hospitalName": "CHC Pahadi",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "4",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": "9",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "9",
+    "phoneNo": "Not Available",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "14:00:01",
+    "googleSearch": "https://www.google.com/search?q=CHC+Pahadi+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Pahadi+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 0
+  },
+  {
+    "district": "Bharatpur",
+    "state": "Rajasthan",
+    "hospitalName": "CHC Roopwas",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "3",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "3",
+    "oxygenBedTotal": "7",
+    "oxygenBedOccupied": "2",
+    "oxygenBedAvailable": "5",
+    "phoneNo": "7014908691",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "14:11:26",
+    "googleSearch": "https://www.google.com/search?q=CHC+Roopwas+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Roopwas+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Bharatpur",
+    "state": "Rajasthan",
+    "hospitalName": "CHC Weir",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "4",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": "11",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "38",
     "phoneNo": "7014616109",
@@ -2891,6 +3452,7 @@
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
     "oxygenBedTotal": "70",
+<<<<<<< HEAD
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "61",
     "phoneNo": "091160 02892",
@@ -2902,12 +3464,107 @@
     "rank": 2,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "70",
+    "phoneNo": "05644-223660",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "14:01:15",
+    "googleSearch": "https://www.google.com/search?q=Mahila+Polytechnic+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=Mahila+Polytechnic+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Bharatpur",
+    "state": "Rajasthan",
+    "hospitalName": "Pradeep Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "4",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": "15",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "15",
+    "phoneNo": "8696777784",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "14:24:52",
+    "googleSearch": "https://www.google.com/search?q=Pradeep+Hospital+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=Pradeep+Hospital+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Bharatpur",
+    "state": "Rajasthan",
+    "hospitalName": "R.B.M. Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "26",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "26",
+    "oxygenBedTotal": "225",
+    "oxygenBedOccupied": "39",
+    "oxygenBedAvailable": "186",
+    "phoneNo": "7427862648",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "13:55:20",
+    "googleSearch": "https://www.google.com/search?q=R.B.M.+Hospital+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=R.B.M.+Hospital+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Bharatpur",
+    "state": "Rajasthan",
+    "hospitalName": "RAJ Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "0",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "0",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "8905695525",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "14:09:50",
+    "googleSearch": "https://www.google.com/search?q=RAJ+Hospital+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=RAJ+Hospital+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Bharatpur",
+    "state": "Rajasthan",
+    "hospitalName": "Vijay Hospital",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "5",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "5",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "5",
+    "phoneNo": "7877824527",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "13:38:26",
+    "googleSearch": "https://www.google.com/search?q=Vijay+Hospital+Bharatpur&rlz=1C1CHBF_enIN859IN859&oq=Vijay+Hospital+Bharatpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Bhilwara",
+    "state": "Rajasthan",
+    "hospitalName": "AYUSH",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "0",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "80",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "80",
+    "phoneNo": "01482232643",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:27:04",
+    "googleSearch": "https://www.google.com/search?q=AYUSH+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=AYUSH+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
     "state": "Rajasthan",
     "hospitalName": "MARBLE HOSPITAL KISHANGARH",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "11",
     "normalBedOccupied": "1",
     "normalBedAvailable": "10",
@@ -2921,12 +3578,26 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "35",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "35",
+    "oxygenBedTotal": "65",
+    "oxygenBedOccupied": "30",
+    "oxygenBedAvailable": "35",
+    "phoneNo": "Not Available",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:15:51",
+    "googleSearch": "https://www.google.com/search?q=Agarwal+Utsav Bhawan+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=Agarwal+Utsav Bhawan+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 0
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
     "state": "Rajasthan",
     "hospitalName": "MITTAL HOSPITAL and RESEARCH CENTRE, AJMER",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "18",
     "normalBedOccupied": "10",
     "normalBedAvailable": "8",
@@ -2940,6 +3611,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "13",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "13",
+    "oxygenBedTotal": "51",
+    "oxygenBedOccupied": "3",
+    "oxygenBedAvailable": "48",
+    "phoneNo": "01482253101",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:35:26",
+    "googleSearch": "https://www.google.com/search?q=Arihant+Hospital and Research Sansthan+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=Arihant+Hospital and Research Sansthan+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -2965,6 +3649,7 @@
     "state": "Rajasthan",
     "hospitalName": "Nasirabad",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "75",
     "normalBedOccupied": "6",
     "normalBedAvailable": "69",
@@ -2978,6 +3663,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "0",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "25",
+    "oxygenBedOccupied": "2",
+    "oxygenBedAvailable": "23",
+    "phoneNo": "01480 220 878",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:10:47",
+    "googleSearch": "https://www.google.com/search?q=C.H.C.+ ASIND+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=C.H.C.+ ASIND+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Ajmer",
@@ -3062,6 +3760,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "28",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "28",
     "oxygenBedTotal": "12",
     "oxygenBedOccupied": "3",
@@ -3073,6 +3772,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "10",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "10",
+    "phoneNo": "01480226039",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:11:08",
+    "googleSearch": "https://www.google.com/search?q=CHC+BADNOR+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=CHC+BADNOR+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Alwar",
@@ -3176,6 +3886,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "0",
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "1",
@@ -3187,6 +3898,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "10",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "10",
+    "phoneNo": "Not Available",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:44:55",
+    "googleSearch": "https://www.google.com/search?q=CHC+MANDAL+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=CHC+MANDAL+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 0
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Alwar",
@@ -3214,6 +3936,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "8",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "8",
     "oxygenBedTotal": "2",
     "oxygenBedOccupied": "0",
@@ -3225,6 +3948,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "20",
+    "oxygenBedTotal": "170",
+    "oxygenBedOccupied": "65",
+    "oxygenBedAvailable": "105",
+    "phoneNo": "9664454017",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:33:59",
+    "googleSearch": "https://www.google.com/search?q=MGH+hospital Bhilwara+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=MGH+hospital Bhilwara+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Alwar",
@@ -3274,6 +4008,7 @@
     "normalBedAvailable": "5",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "10",
     "phoneNo": "01493243030",
     "lastUpdatedDate": "02-Jun-2021",
@@ -3301,6 +4036,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "21",
+    "phoneNo": "01482231900",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:38:06",
+    "googleSearch": "https://www.google.com/search?q=SHRI+SIDHI VINAYAK HOSPITAL BHILWARA+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=SHRI+SIDHI VINAYAK HOSPITAL BHILWARA+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Alwar",
@@ -3331,6 +4074,7 @@
     "normalBedAvailable": "5",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "10",
     "phoneNo": "01461232045",
     "lastUpdatedDate": "02-Jun-2021",
@@ -3339,6 +4083,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "0",
+    "phoneNo": "000000000000000000",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:34:59",
+    "googleSearch": "https://www.google.com/search?q=Shri+Ambesh Hospital+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=Shri+Ambesh Hospital+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Alwar",
@@ -3385,6 +4137,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "10",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "10",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "2",
@@ -3396,6 +4149,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "24",
+    "oxygenBedOccupied": "24",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "Not Available",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:36:21",
+    "googleSearch": "https://www.google.com/search?q=TB+HOSPITAL+Bhilwara&rlz=1C1CHBF_enIN859IN859&oq=TB+HOSPITAL+Bhilwara&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 0
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Alwar",
@@ -3615,6 +4379,7 @@
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
     "oxygenBedTotal": "20",
+<<<<<<< HEAD
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "20",
     "phoneNo": "9772548688",
@@ -3624,6 +4389,15 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedOccupied": "7",
+    "oxygenBedAvailable": "13",
+    "phoneNo": "9413105787",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:28:34",
+    "googleSearch": "https://www.google.com/search?q=CHC+NOKHA+Bikaner&rlz=1C1CHBF_enIN859IN859&oq=CHC+NOKHA+Bikaner&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Alwar",
@@ -3652,6 +4426,7 @@
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
+<<<<<<< HEAD
     "oxygenBedTotal": "31",
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "22",
@@ -3662,6 +4437,16 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedTotal": "35",
+    "oxygenBedOccupied": "11",
+    "oxygenBedAvailable": "24",
+    "phoneNo": "6377202857",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:19:35",
+    "googleSearch": "https://www.google.com/search?q=DIVISONAL+RAILWAY HOSPITAL  LALGARH, BIKANER+Bikaner&rlz=1C1CHBF_enIN859IN859&oq=DIVISONAL+RAILWAY HOSPITAL  LALGARH, BIKANER+Bikaner&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Alwar",
@@ -3763,6 +4548,7 @@
     "state": "Rajasthan",
     "hospitalName": "Manohar Hospital And Trauma Center Shajapur",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "10",
     "normalBedOccupied": "0",
     "normalBedAvailable": "10",
@@ -3776,6 +4562,19 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "301",
+    "normalBedOccupied": "13",
+    "normalBedAvailable": "288",
+    "oxygenBedTotal": "588",
+    "oxygenBedOccupied": "191",
+    "oxygenBedAvailable": "397",
+    "phoneNo": "01512520800",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:48:42",
+    "googleSearch": "https://www.google.com/search?q=S+P Medical College Bikaner+Bikaner&rlz=1C1CHBF_enIN859IN859&oq=S+P Medical College Bikaner+Bikaner&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Alwar",
@@ -4224,6 +5023,7 @@
     "normalBedAvailable": "10",
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "5",
     "phoneNo": "Not Available",
     "lastUpdatedDate": "02-Jun-2021",
@@ -4232,6 +5032,14 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "10",
+    "phoneNo": "01476224238",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:02:19",
+    "googleSearch": "https://www.google.com/search?q=Community+Health Center,Bhopal Sagar+Chittorgarh&rlz=1C1CHBF_enIN859IN859&oq=Community+Health Center,Bhopal Sagar+Chittorgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Banswara",
@@ -4298,6 +5106,7 @@
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
+<<<<<<< HEAD
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
@@ -4308,6 +5117,33 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedTotal": "70",
+    "oxygenBedOccupied": "20",
+    "oxygenBedAvailable": "50",
+    "phoneNo": "01472294411",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "13:44:18",
+    "googleSearch": "https://www.google.com/search?q=Covid+Hospital, DCH CoR+Chittorgarh&rlz=1C1CHBF_enIN859IN859&oq=Covid+Hospital, DCH CoR+Chittorgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+  },
+  {
+    "district": "Chittorgarh",
+    "state": "Rajasthan",
+    "hospitalName": "J K Community Center Nimbaheda",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "50",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "50",
+    "oxygenBedTotal": "50",
+    "oxygenBedOccupied": "14",
+    "oxygenBedAvailable": "36",
+    "phoneNo": "01477223137",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:02:33",
+    "googleSearch": "https://www.google.com/search?q=J+K Community Center Nimbaheda+Chittorgarh&rlz=1C1CHBF_enIN859IN859&oq=J+K Community Center Nimbaheda+Chittorgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Baran",
@@ -4357,6 +5193,7 @@
     "normalBedAvailable": "15",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
+<<<<<<< HEAD
     "oxygenBedAvailable": "10",
     "phoneNo": "9166444643",
     "lastUpdatedDate": "02-Jun-2021",
@@ -4365,6 +5202,14 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedAvailable": "0",
+    "phoneNo": "01477223137",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:02:50",
+    "googleSearch": "https://www.google.com/search?q=Sub+District Hospital Nimbahera+Chittorgarh&rlz=1C1CHBF_enIN859IN859&oq=Sub+District Hospital Nimbahera+Chittorgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Baran",
@@ -4428,6 +5273,7 @@
     "state": "Rajasthan",
     "hospitalName": "Priya Hospital Multi Speciality Baran",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
@@ -4441,6 +5287,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "21",
+    "normalBedOccupied": "2",
+    "normalBedAvailable": "19",
+    "oxygenBedTotal": "4",
+    "oxygenBedOccupied": "1",
+    "oxygenBedAvailable": "3",
+    "phoneNo": "9461808477",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:28:05",
+    "googleSearch": "https://www.google.com/search?q=CHC+RAJGARH+Churu&rlz=1C1CHBF_enIN859IN859&oq=CHC+RAJGARH+Churu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Baran",
@@ -4487,6 +5346,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "15",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "15",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "1",
@@ -4498,6 +5358,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "17",
+    "oxygenBedTotal": "8",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "8",
+    "phoneNo": "01564222565",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:51:27",
+    "googleSearch": "https://www.google.com/search?q=CHC+SARDARSHAHAR+Churu&rlz=1C1CHBF_enIN859IN859&oq=CHC+SARDARSHAHAR+Churu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
@@ -4506,6 +5377,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "5",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "5",
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "1",
@@ -4517,6 +5389,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "2",
+    "oxygenBedTotal": "8",
+    "oxygenBedOccupied": "2",
+    "oxygenBedAvailable": "6",
+    "phoneNo": "9414322242",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:32:11",
+    "googleSearch": "https://www.google.com/search?q=CHC+TARANAGAR+Churu&rlz=1C1CHBF_enIN859IN859&oq=CHC+TARANAGAR+Churu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
@@ -4542,6 +5425,7 @@
     "state": "Rajasthan",
     "hospitalName": "CHC Gadraroad",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "5",
     "normalBedOccupied": "0",
     "normalBedAvailable": "5",
@@ -4555,12 +5439,26 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "40",
+    "normalBedOccupied": "2",
+    "normalBedAvailable": "38",
+    "oxygenBedTotal": "4",
+    "oxygenBedOccupied": "1",
+    "oxygenBedAvailable": "3",
+    "phoneNo": "9610117874",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:57:21",
+    "googleSearch": "https://www.google.com/search?q=H.N.+Hospital, Churu+Churu&rlz=1C1CHBF_enIN859IN859&oq=H.N.+Hospital, Churu+Churu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
     "state": "Rajasthan",
     "hospitalName": "CHC Gida",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "20",
     "normalBedOccupied": "2",
     "normalBedAvailable": "18",
@@ -4574,6 +5472,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "14",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "14",
+    "oxygenBedTotal": "13",
+    "oxygenBedOccupied": "13",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "9782306290",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:41:24",
+    "googleSearch": "https://www.google.com/search?q=Heart+Care Hospital, Churu+Churu&rlz=1C1CHBF_enIN859IN859&oq=Heart+Care Hospital, Churu+Churu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
@@ -4583,6 +5494,7 @@
     "normalBedTotal": "10",
     "normalBedOccupied": "0",
     "normalBedAvailable": "10",
+<<<<<<< HEAD
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
@@ -4593,12 +5505,23 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "oxygenBedTotal": "40",
+    "oxygenBedOccupied": "7",
+    "oxygenBedAvailable": "33",
+    "phoneNo": "01567-2226130",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:12:52",
+    "googleSearch": "https://www.google.com/search?q=Jalan+Hospital Ratangarh+Churu&rlz=1C1CHBF_enIN859IN859&oq=Jalan+Hospital Ratangarh+Churu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
     "state": "Rajasthan",
     "hospitalName": "CHC Kalyanpur",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "6",
     "normalBedOccupied": "0",
     "normalBedAvailable": "6",
@@ -4612,6 +5535,19 @@
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "18",
+    "normalBedOccupied": "2",
+    "normalBedAvailable": "16",
+    "oxygenBedTotal": "6",
+    "oxygenBedOccupied": "1",
+    "oxygenBedAvailable": "5",
+    "phoneNo": "9828764015",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:39:43",
+    "googleSearch": "https://www.google.com/search?q=Life+Care Hospital, Churu+Churu&rlz=1C1CHBF_enIN859IN859&oq=Life+Care Hospital, Churu+Churu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
@@ -4643,6 +5579,7 @@
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
+<<<<<<< HEAD
     "phoneNo": "9001892700",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:14:30",
@@ -4650,6 +5587,13 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "phoneNo": "6376060250",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:57:27",
+    "googleSearch": "https://www.google.com/search?q=Mohta+ Hospital, Rajgarh+Churu&rlz=1C1CHBF_enIN859IN859&oq=Mohta+ Hospital, Rajgarh+Churu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
@@ -4713,6 +5657,7 @@
     "state": "Rajasthan",
     "hospitalName": "CHC Siwana",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "30",
     "normalBedOccupied": "4",
     "normalBedAvailable": "26",
@@ -4726,6 +5671,19 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedTotal": "4",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": "10",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "10",
+    "phoneNo": "7976367189",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:50:14",
+    "googleSearch": "https://www.google.com/search?q=Bhandarej+Dausa&rlz=1C1CHBF_enIN859IN859&oq=Bhandarej+Dausa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
@@ -4734,6 +5692,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "7",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "7",
     "oxygenBedTotal": "3",
     "oxygenBedOccupied": "0",
@@ -4745,6 +5704,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "20",
+    "oxygenBedOccupied": "1",
+    "oxygenBedAvailable": "19",
+    "phoneNo": "7891510502",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:30:46",
+    "googleSearch": "https://www.google.com/search?q=CHC+Bandikui+Dausa&rlz=1C1CHBF_enIN859IN859&oq=CHC+Bandikui+Dausa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
@@ -4753,6 +5723,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "11",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "11",
     "oxygenBedTotal": "2",
     "oxygenBedOccupied": "0",
@@ -4764,6 +5735,17 @@
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
     "ServerUpdatetime": "15:16"
+=======
+    "normalBedAvailable": "20",
+    "oxygenBedTotal": "20",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "20",
+    "phoneNo": "9351646587",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:52:09",
+    "googleSearch": "https://www.google.com/search?q=CHC+Lalsot+Dausa&rlz=1C1CHBF_enIN859IN859&oq=CHC+Lalsot+Dausa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 1
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
   },
   {
     "district": "Barmer",
@@ -4950,8 +5932,13 @@
     "oxygenBedOccupied": "26",
     "oxygenBedAvailable": "105",
     "phoneNo": "7691837290",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:23:31",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:17:14",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=District+Hospital+Dholpur&rlz=1C1CHBF_enIN859IN859&oq=District+Hospital+Dholpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -5176,6 +6163,7 @@
     "hospitalName": "Medical Collage Hospital Dungarpur",
     "hospitalAddress": "Hospital Road, New Colony, Dungarpur, Rajasthan 314001",
     "normalBedTotal": "165",
+<<<<<<< HEAD
     "normalBedOccupied": "1",
     "normalBedAvailable": "164",
     "oxygenBedTotal": "117",
@@ -5184,6 +6172,16 @@
     "phoneNo": "9413885392",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:12:46",
+=======
+    "normalBedOccupied": "5",
+    "normalBedAvailable": "160",
+    "oxygenBedTotal": "117",
+    "oxygenBedOccupied": "20",
+    "oxygenBedAvailable": "97",
+    "phoneNo": "9413885392",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:09:59",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Medical+Collage Hospital Dungarpur+Dungarpur&rlz=1C1CHBF_enIN859IN859&oq=Medical+Collage Hospital Dungarpur+Dungarpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "23.8589946",
     "longitude": "73.7117208",
@@ -5285,8 +6283,13 @@
     "oxygenBedOccupied": "4",
     "oxygenBedAvailable": "11",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:01:00",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:13:06",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+ANOOPGARH+Ganganagar&rlz=1C1CHBF_enIN859IN859&oq=CHC+ANOOPGARH+Ganganagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -5304,8 +6307,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "6",
     "phoneNo": "01542763669",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:19:28",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:47:44",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+CHUNWADH+Ganganagar&rlz=1C1CHBF_enIN859IN859&oq=CHC+CHUNWADH+Ganganagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -5363,8 +6371,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "phoneNo": "01505234050",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:05:40",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:52:15",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+PADAMPUR+Ganganagar&rlz=1C1CHBF_enIN859IN859&oq=CHC+PADAMPUR+Ganganagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -5382,8 +6395,13 @@
     "oxygenBedOccupied": "3",
     "oxygenBedAvailable": "12",
     "phoneNo": "233205",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:26:43",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:48:44",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+RAISINGHNAGAR+Ganganagar&rlz=1C1CHBF_enIN859IN859&oq=CHC+RAISINGHNAGAR+Ganganagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -5401,8 +6419,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "4",
     "phoneNo": "9413712290",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:08:36",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:53:42",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+SADULSAHAR+Ganganagar&rlz=1C1CHBF_enIN859IN859&oq=CHC+SADULSAHAR+Ganganagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -5477,8 +6500,13 @@
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "26",
     "phoneNo": "094140 89080",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:52:23",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:55:37",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Jubin+Hospital+Ganganagar&rlz=1C1CHBF_enIN859IN859&oq=Jubin+Hospital+Ganganagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9195491",
     "longitude": "73.8775618",
@@ -5738,8 +6766,13 @@
     "oxygenBedOccupied": "15",
     "oxygenBedAvailable": "11",
     "phoneNo": "0154-223940",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:41:31",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:38:32",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Vivekanand+Swasthya Sewa Samiti+Hanumangarh&rlz=1C1CHBF_enIN859IN859&oq=Vivekanand+Swasthya Sewa Samiti+Hanumangarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -6061,8 +7094,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:05:40",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:13:39",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+AMER+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=CHC+AMER+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.9897992",
     "longitude": "75.8557741",
@@ -6202,8 +7240,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "19",
     "phoneNo": "9530178090",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:36:56",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:24:54",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+NARHEDA+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=CHC+NARHEDA+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -6240,8 +7283,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
     "phoneNo": "8824266929",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:25:28",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:15:44",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Phagi+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Phagi+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.5795934",
     "longitude": "75.5625158",
@@ -6493,8 +7541,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "15",
     "phoneNo": "9928180283",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:08:48",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:21:22",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Criticonix+Khandaka Hospital+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Criticonix+Khandaka Hospital+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.9562303",
     "longitude": "75.6853532",
@@ -6573,8 +7626,13 @@
     "oxygenBedOccupied": "11",
     "oxygenBedAvailable": "4",
     "phoneNo": "6375285763",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:08:09",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:30:40",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Dhanwantri+Hospital and Research Center, Jaipur+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Dhanwantri+Hospital and Research Center, Jaipur+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -6672,8 +7730,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "25",
     "phoneNo": "0141 234 6754",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:58:39",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:33:40",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=GUPTA+CHEST AND GENEREL HOSPITAL KALWAD ROAD HOSPITAL KALWAD ROAD+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=GUPTA+CHEST AND GENEREL HOSPITAL KALWAD ROAD HOSPITAL KALWAD ROAD+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.943049",
     "longitude": "75.760162",
@@ -6756,8 +7819,13 @@
     "oxygenBedOccupied": "15",
     "oxygenBedAvailable": "35",
     "phoneNo": "0141 278 0971",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:06:45",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:08:15",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Indus+Hospital+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Indus+Hospital+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.8676729",
     "longitude": "75.7675217",
@@ -6777,8 +7845,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "phoneNo": "0141 274 2828",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:25:28",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:20:28",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=JAIN+ENT HOSPITAL+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=JAIN+ENT HOSPITAL+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.8914756",
     "longitude": "75.8002477",
@@ -6813,14 +7886,24 @@
     "hospitalName": "Jaipur Durbeen Hospital Sodala",
     "hospitalAddress": "No. 78, 8, Devi Nagar Mod, Metro Pilar, 79, New Sanganer Rd, Jaipur, Rajasthan 302019",
     "normalBedTotal": "20",
+<<<<<<< HEAD
     "normalBedOccupied": "10",
     "normalBedAvailable": "10",
+=======
+    "normalBedOccupied": "11",
+    "normalBedAvailable": "9",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "oxygenBedTotal": "25",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "25",
     "phoneNo": "095098 68888",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:04:42",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:07:44",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Jaipur+Durbeen Hospital Sodala+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Jaipur+Durbeen Hospital Sodala+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.8851533",
     "longitude": "75.7671219",
@@ -6985,8 +8068,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "7",
     "phoneNo": "090015 80468",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:15:25",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:12:02",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Khandelwal+Heart Institute Vidhyadhar Nagar+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Khandelwal+Heart Institute Vidhyadhar Nagar+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.9599524",
     "longitude": "75.7720781",
@@ -7110,8 +8198,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "phoneNo": "097848 37830",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:44:08",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:50:36",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Maharaja+Agarsen Hospital+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Maharaja+Agarsen Hospital+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.9664258",
     "longitude": "75.7842733",
@@ -7173,8 +8266,13 @@
     "oxygenBedOccupied": "24",
     "oxygenBedAvailable": "26",
     "phoneNo": "1800 102 5555",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:14:59",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:26:53",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Manipal+Hospitals Jaipur+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Manipal+Hospitals Jaipur+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.9688935",
     "longitude": "75.7735139",
@@ -7194,8 +8292,13 @@
     "oxygenBedOccupied": "6",
     "oxygenBedAvailable": "14",
     "phoneNo": "8058700000",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:51:53",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:26:29",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Manjeet+Institute of Critical care Viddhyadhar Nagar+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Manjeet+Institute of Critical care Viddhyadhar Nagar+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.968108",
     "longitude": "75.7881993",
@@ -7215,8 +8318,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "25",
     "phoneNo": "0141 235 7570",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "07:52:30",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:03:04",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Marudhar+Hospital+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Marudhar+Hospital+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.9269443",
     "longitude": "75.746224",
@@ -7236,8 +8344,13 @@
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "16",
     "phoneNo": "0141 228 3683",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:02:43",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:13:54",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Maxwell+Hospital+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Maxwell+Hospital+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.9343111",
     "longitude": "75.7948193",
@@ -7278,8 +8391,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "14",
     "phoneNo": "9667059913",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:19:28",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:14:05",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Metro+city Hospital , Jhotwara+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Metro+city Hospital , Jhotwara+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -7417,8 +8535,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "25",
     "phoneNo": "0141 490 1020",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:14:45",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:54:36",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=PINK+VINAYAK HOSPITAL DULESVAR GARDAN+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=PINK+VINAYAK HOSPITAL DULESVAR GARDAN+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.914832",
     "longitude": "75.798436",
@@ -7480,8 +8603,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
     "phoneNo": "0141 402 4043",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "12:27:36",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:11:31",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=RAJ+KHURANA MEMORIYAL ADRASH NAGAR+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=RAJ+KHURANA MEMORIYAL ADRASH NAGAR+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.8971571",
     "longitude": "75.8260958",
@@ -7571,6 +8699,22 @@
   {
     "district": "Jaipur",
     "state": "Rajasthan",
+    "hospitalName": "Raj ENT Hospital Jaipur",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "0",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "0",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "Not Available",
+    "lastUpdatedDate": "N/A",
+    "googleSearch": "https://www.google.com/search?q=Raj+ENT Hospital Jaipur+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Raj+ENT Hospital Jaipur+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 0
+  },
+  {
+    "district": "Jaipur",
+    "state": "Rajasthan",
     "hospitalName": "Rajasthan Hospital",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "0",
@@ -7599,8 +8743,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "15",
     "phoneNo": "7976196121",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "12:30:44",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:12:57",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Raksha+Hospital Jhotwara+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Raksha+Hospital Jhotwara+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -7637,8 +8786,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "13",
     "phoneNo": "01412973926",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:43:23",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:05:48",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Ramanji+Hospital+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Ramanji+Hospital+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -7707,6 +8861,25 @@
     "hospitalName": "S.R.K. HOSPITAL LALKOTHI",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "0",
+<<<<<<< HEAD
+=======
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "0",
+    "oxygenBedTotal": "0",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "phoneNo": "Not Available",
+    "lastUpdatedDate": "N/A",
+    "googleSearch": "https://www.google.com/search?q=S.R.K.+HOSPITAL LALKOTHI+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=S.R.K.+HOSPITAL LALKOTHI+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "rank": 0
+  },
+  {
+    "district": "Jaipur",
+    "state": "Rajasthan",
+    "hospitalName": "S.R.K. HOSPITAL LALKOTHI",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "6",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
     "oxygenBedTotal": "0",
@@ -7722,6 +8895,7 @@
   {
     "district": "Jaipur",
     "state": "Rajasthan",
+<<<<<<< HEAD
     "hospitalName": "S.R.K. HOSPITAL LALKOTHI",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "6",
@@ -7741,6 +8915,8 @@
   {
     "district": "Jaipur",
     "state": "Rajasthan",
+=======
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "hospitalName": "SADHNA HOSPITAL KHATIPURA ROAD",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "14",
@@ -7750,8 +8926,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "6",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:29:50",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:07:39",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=SADHNA+HOSPITAL KHATIPURA ROAD+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=SADHNA+HOSPITAL KHATIPURA ROAD+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -7807,8 +8988,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "9",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:11:14",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:31:38",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=SHANTI+HOSPITAL  BALAJI VIHAR, NIWARU ROAD+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=SHANTI+HOSPITAL  BALAJI VIHAR, NIWARU ROAD+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -7826,8 +9012,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "4",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:09:55",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:16:17",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=SHREE+NIDAN HOSP  AJMER ROAD+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=SHREE+NIDAN HOSP  AJMER ROAD+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -7838,6 +9029,7 @@
     "state": "Rajasthan",
     "hospitalName": "SMS Medical College Jaipur",
     "hospitalAddress": "Not Available",
+<<<<<<< HEAD
     "normalBedTotal": "177",
     "normalBedOccupied": "28",
     "normalBedAvailable": "149",
@@ -7847,6 +9039,17 @@
     "phoneNo": "01412569898",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:47:26",
+=======
+    "normalBedTotal": "189",
+    "normalBedOccupied": "29",
+    "normalBedAvailable": "160",
+    "oxygenBedTotal": "437",
+    "oxygenBedOccupied": "183",
+    "oxygenBedAvailable": "254",
+    "phoneNo": "01412569898",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:33:43",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=SMS+Medical College Jaipur+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=SMS+Medical College Jaipur+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -7883,8 +9086,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
     "phoneNo": "8003077223",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:16:13",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:07:44",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Sardar+Singh Memorial Hospital+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Sardar+Singh Memorial Hospital+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -7902,8 +9110,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "4",
     "phoneNo": "820984387",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:50:25",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:50:43",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Satellite+Chaksu+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Satellite+Chaksu+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -7940,8 +9153,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "8",
     "phoneNo": "8003214000",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:32:44",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:14:06",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Sevyam+Hospital civil line+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Sevyam+Hospital civil line+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -7997,8 +9215,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "15",
     "phoneNo": "9887151962",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:14:42",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:09:06",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Shiv+Adarsh Hospital Bindayka+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Shiv+Adarsh Hospital Bindayka+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8035,8 +9258,13 @@
     "oxygenBedOccupied": "4",
     "oxygenBedAvailable": "13",
     "phoneNo": "8619217018",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "07:46:14",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:04:06",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Shiv+Trident Hospital Vaisali nagar+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Shiv+Trident Hospital Vaisali nagar+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8111,8 +9339,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "7",
     "phoneNo": "9461306588, 8005895003,9351635659",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:10:06",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:26:31",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Somani+Hospital+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Somani+Hospital+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8130,8 +9363,13 @@
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "34",
     "phoneNo": "9001669977",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:11:51",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:14:07",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Soni+Hospital+Jaipur&rlz=1C1CHBF_enIN859IN859&oq=Soni+Hospital+Jaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8279,11 +9517,16 @@
     "normalBedOccupied": "0",
     "normalBedAvailable": "11",
     "oxygenBedTotal": "4",
-    "oxygenBedOccupied": "1",
-    "oxygenBedAvailable": "3",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "4",
     "phoneNo": "9694885233",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:01:58",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:08:22",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Nachna dharmshala+Jaisalmer&rlz=1C1CHBF_enIN859IN859&oq=CHC+Nachna dharmshala+Jaisalmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8320,8 +9563,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "6",
     "phoneNo": "7340065013",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:03:28",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:22:27",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Ramgarh dharmshala+Jaisalmer&rlz=1C1CHBF_enIN859IN859&oq=CHC+Ramgarh dharmshala+Jaisalmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8339,8 +9587,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "5",
     "phoneNo": "8005781359",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:28:43",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:10:28",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Sam dharmshala+Jaisalmer&rlz=1C1CHBF_enIN859IN859&oq=CHC+Sam dharmshala+Jaisalmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8377,8 +9630,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "4",
     "phoneNo": "8800590224",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:29:40",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:21:42",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Golden+City Hospital Jaisalmer+Jaisalmer&rlz=1C1CHBF_enIN859IN859&oq=Golden+City Hospital Jaisalmer+Jaisalmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8396,8 +9654,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "phoneNo": "7023063376",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:39:25",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:12:38",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Maheswari+Hospital+Jaisalmer&rlz=1C1CHBF_enIN859IN859&oq=Maheswari+Hospital+Jaisalmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8415,8 +9678,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "2",
     "phoneNo": "9680039462",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:07:33",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:12:57",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=New+rajasthan hospital and fertility center jaisalmer+Jaisalmer&rlz=1C1CHBF_enIN859IN859&oq=New+rajasthan hospital and fertility center jaisalmer+Jaisalmer&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -8941,14 +10209,24 @@
     "hospitalName": "Jhalawar Medical College Jhalawar",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "50",
+<<<<<<< HEAD
     "normalBedOccupied": "3",
     "normalBedAvailable": "47",
+=======
+    "normalBedOccupied": "5",
+    "normalBedAvailable": "45",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "oxygenBedTotal": "335",
-    "oxygenBedOccupied": "111",
-    "oxygenBedAvailable": "224",
+    "oxygenBedOccupied": "108",
+    "oxygenBedAvailable": "227",
     "phoneNo": "7432233279",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:01:40",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:07:51",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Jhalawar+Medical College Jhalawar+Jhalawar&rlz=1C1CHBF_enIN859IN859&oq=Jhalawar+Medical College Jhalawar+Jhalawar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9004,8 +10282,13 @@
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "25",
     "phoneNo": "7433222299 \n8875029012",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:37:25",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:23:31",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Noon+Hospital and Research Center+Jhalawar&rlz=1C1CHBF_enIN859IN859&oq=Noon+Hospital and Research Center+Jhalawar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9080,8 +10363,13 @@
     "oxygenBedOccupied": "8",
     "oxygenBedAvailable": "21",
     "phoneNo": "9587964111",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "12:35:22",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:02:32",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Apex+Skyline Hospital , Jhunjhunu+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=Apex+Skyline Hospital , Jhunjhunu+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9096,11 +10384,19 @@
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
     "oxygenBedTotal": "110",
+<<<<<<< HEAD
     "oxygenBedOccupied": "36",
     "oxygenBedAvailable": "74",
     "phoneNo": "01592-239999",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:57:23",
+=======
+    "oxygenBedOccupied": "43",
+    "oxygenBedAvailable": "67",
+    "phoneNo": "01592-239999",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:24:14",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=B.D.K+Govt. Hospital+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=B.D.K+Govt. Hospital+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9156,8 +10452,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "14",
     "phoneNo": "9928857924",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:50:28",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:18:36",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Bagar+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=CHC+Bagar+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9194,8 +10495,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "20",
     "phoneNo": "7339723699",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "12:08:26",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:59:57",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Buhana+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=CHC+Buhana+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9210,11 +10516,16 @@
     "normalBedOccupied": "0",
     "normalBedAvailable": "35",
     "oxygenBedTotal": "15",
-    "oxygenBedOccupied": "5",
-    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": "3",
+    "oxygenBedAvailable": "12",
     "phoneNo": "9799353698",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:09:15",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:44:11",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Chirawa+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=CHC+Chirawa+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9232,8 +10543,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
     "phoneNo": "9829572804",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:17:13",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "18:00:52",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Gudha+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=CHC+Gudha+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9308,8 +10624,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "20",
     "phoneNo": "9460017130",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:54:20",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "18:01:28",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Pilani+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=CHC+Pilani+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9365,8 +10686,13 @@
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "8",
     "phoneNo": "9928593999",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:36:25",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:20:33",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Udaipurwati+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=CHC+Udaipurwati+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9403,8 +10729,13 @@
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "16",
     "phoneNo": "9468828346",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:39:24",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:17:31",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CKRD+Memorial Hospital and Research Institute, Jhunjhunu+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=CKRD+Memorial Hospital and Research Institute, Jhunjhunu+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9441,8 +10772,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "8",
     "phoneNo": "9530395577",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:33:25",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:52:09",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Dr.+Taterwal Apex hospital+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=Dr.+Taterwal Apex hospital+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9479,8 +10815,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "phoneNo": "01592-231699",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:20:25",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:55:59",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Jaipur+Heart and Multispeciality+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=Jaipur+Heart and Multispeciality+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9498,8 +10839,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
     "phoneNo": "9462078888",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:10:53",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:27:59",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Jhunjhunu+Hospital, Jhunjhunu+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=Jhunjhunu+Hospital, Jhunjhunu+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9517,8 +10863,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "6",
     "phoneNo": "9413551456",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "12:50:09",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:03:58",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=KEDIA+HOSPITAL+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=KEDIA+HOSPITAL+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9536,8 +10887,13 @@
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "7",
     "phoneNo": "9772971119",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:20:39",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:32:18",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Kalpvriksha+Hosp and RCF Foundation+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=Kalpvriksha+Hosp and RCF Foundation+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9555,8 +10911,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "7",
     "phoneNo": "9664460807",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:10:54",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:49:24",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Metro+Hosp and Taruma Centre+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=Metro+Hosp and Taruma Centre+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9593,8 +10954,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "33",
     "phoneNo": "7230047322",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:28:52",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:54:07",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=R+And R Multispeciality Hospital, Jhunjhunu+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=R+And R Multispeciality Hospital, Jhunjhunu+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9631,8 +10997,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "5",
     "phoneNo": "7568950897",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:50:08",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:36:02",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=S.D.H.+Hospital Nawalgarh+Jhunjhunu&rlz=1C1CHBF_enIN859IN859&oq=S.D.H.+Hospital Nawalgarh+Jhunjhunu&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9688,8 +11059,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "3",
     "phoneNo": "243541",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:07:33",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:15:05",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC,+Asop+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC,+Asop+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9764,8 +11140,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "9",
     "phoneNo": "8949192859",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:43:14",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:23:15",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC,+Bap+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC,+Bap+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9796,14 +11177,19 @@
     "hospitalName": "CHC, Bhopalgarh",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "15",
-    "normalBedOccupied": "0",
-    "normalBedAvailable": "15",
+    "normalBedOccupied": "1",
+    "normalBedAvailable": "14",
     "oxygenBedTotal": "15",
-    "oxygenBedOccupied": "0",
-    "oxygenBedAvailable": "15",
+    "oxygenBedOccupied": "1",
+    "oxygenBedAvailable": "14",
     "phoneNo": "02925224610",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:10:51",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:28:05",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC,+Bhopalgarh+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC,+Bhopalgarh+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9935,8 +11321,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "4",
     "phoneNo": "9214981313",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:19:37",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:14:23",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC,+Fidusar+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC,+Fidusar+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -9973,8 +11364,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "2",
     "phoneNo": "9079270129",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:24:08",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:06:56",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC,+Kelansar+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC,+Kelansar+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10011,8 +11407,13 @@
     "oxygenBedOccupied": "4",
     "oxygenBedAvailable": "1",
     "phoneNo": "9828516015",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "12:25:31",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:24:20",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC,+Lohawat+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC,+Lohawat+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10030,8 +11431,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "1",
     "phoneNo": "02031 284102",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:50:22",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:59:12",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC,+Luni+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC,+Luni+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10049,8 +11455,13 @@
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "6",
     "phoneNo": "7742257429",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:26:55",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:33:09",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC,+Mathania+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC,+Mathania+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10182,8 +11593,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "3",
     "phoneNo": "9001834096",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:28:55",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:47:54",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC,+Tinwari+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC,+Tinwari+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10276,8 +11692,13 @@
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "8",
     "phoneNo": "9983257686",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:48:30",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:47:12",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Dar+al shifa hospital+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=Dar+al shifa hospital+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10290,6 +11711,7 @@
     "hospitalAddress": "Not Available",
     "normalBedTotal": "0",
     "normalBedOccupied": "0",
+<<<<<<< HEAD
     "normalBedAvailable": "0",
     "oxygenBedTotal": "4",
     "oxygenBedOccupied": "4",
@@ -10297,6 +11719,15 @@
     "phoneNo": "9413550362",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:19:29",
+=======
+    "normalBedAvailable": "10",
+    "oxygenBedTotal": "12",
+    "oxygenBedOccupied": "4",
+    "oxygenBedAvailable": "8",
+    "phoneNo": "9413550362",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:11:14",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Daukiya+Pratap nagar+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=Daukiya+Pratap nagar+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10332,8 +11763,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "phoneNo": "02912545311",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:47:57",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:54:27",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=District+Hospital Mahila bagh+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=District+Hospital Mahila bagh+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10388,8 +11824,13 @@
     "oxygenBedOccupied": "19",
     "oxygenBedAvailable": "2",
     "phoneNo": "7506360805",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:19:03",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "18:01:15",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=L.N+Memorial hospital and Research Center (Rathi hospital)+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=L.N+Memorial hospital and Research Center (Rathi hospital)+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10445,8 +11886,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
     "phoneNo": "9413634455",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "07:59:12",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:16:54",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=MUKUNDAM+HOSPITAL+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=MUKUNDAM+HOSPITAL+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10464,8 +11910,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "4",
     "phoneNo": "9001293029",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:45:48",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:57:38",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Marwar+Hospital+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=Marwar+Hospital+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10502,8 +11953,13 @@
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "13",
     "phoneNo": "9549212367",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:30:06",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:57:37",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=MedicityHospital+and Research Center Pno A 72 near SBI bank Aakhliya Circle+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=MedicityHospital+and Research Center Pno A 72 near SBI bank Aakhliya Circle+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10614,8 +12070,13 @@
     "oxygenBedOccupied": "6",
     "oxygenBedAvailable": "40",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:35:39",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:41:30",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Shree+Ram Hospital+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=Shree+Ram Hospital+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -10633,8 +12094,13 @@
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "31",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:37:05",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:44:44",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Shri+Ram Banar+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=Shri+Ram Banar+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -10652,8 +12118,13 @@
     "oxygenBedOccupied": "4",
     "oxygenBedAvailable": "20",
     "phoneNo": "02912770600\n9660887703",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:36:30",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:46:52",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Shri+Ram mahamandir+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=Shri+Ram mahamandir+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10689,8 +12160,13 @@
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "28",
     "phoneNo": "02912709001",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:51:11",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:59:07",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Vasundhara+Hospital ltd+Jodhpur&rlz=1C1CHBF_enIN859IN859&oq=Vasundhara+Hospital ltd+Jodhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10764,8 +12240,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:16:31",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:53:41",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+MAHAVEERJI+Karauli&rlz=1C1CHBF_enIN859IN859&oq=CHC+MAHAVEERJI+Karauli&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -10783,8 +12264,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "4",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:06:18",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:54:27",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+MASALPUR+Karauli&rlz=1C1CHBF_enIN859IN859&oq=CHC+MASALPUR+Karauli&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -10821,8 +12307,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "4",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:05:11",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:26:22",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+TODABHEEM+Karauli&rlz=1C1CHBF_enIN859IN859&oq=CHC+TODABHEEM+Karauli&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -10840,8 +12331,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "8",
     "phoneNo": "07464221221",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:29:13",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:01:24",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=ESSAR+HOSPITAL, GULAB BAG, KARAULI+Karauli&rlz=1C1CHBF_enIN859IN859&oq=ESSAR+HOSPITAL, GULAB BAG, KARAULI+Karauli&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10859,8 +12355,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "25",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:12:48",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:35:13",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=GH+TRAUMA KARAULI+Karauli&rlz=1C1CHBF_enIN859IN859&oq=GH+TRAUMA KARAULI+Karauli&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -10897,8 +12398,13 @@
     "oxygenBedOccupied": "8",
     "oxygenBedAvailable": "62",
     "phoneNo": "07464-221515",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:14:19",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:29:24",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=PMO+KARAULI+Karauli&rlz=1C1CHBF_enIN859IN859&oq=PMO+KARAULI+Karauli&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -10916,8 +12422,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:52:51",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:52:03",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=SAURABH+HOSPITAL KHEDA (PRIVATE)+Karauli&rlz=1C1CHBF_enIN859IN859&oq=SAURABH+HOSPITAL KHEDA (PRIVATE)+Karauli&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -10991,8 +12502,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:45:06",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:21:55",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+ITAWA+Kota&rlz=1C1CHBF_enIN859IN859&oq=CHC+ITAWA+Kota&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -11010,8 +12526,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:39:36",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:47:14",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+KAITHON+Kota&rlz=1C1CHBF_enIN859IN859&oq=CHC+KAITHON+Kota&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -11067,8 +12588,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "7",
     "phoneNo": "9950430545",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:34:50",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:10:52",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+SULTANPUR+Kota&rlz=1C1CHBF_enIN859IN859&oq=CHC+SULTANPUR+Kota&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -11143,8 +12669,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "9",
     "phoneNo": "9116832259",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:52:21",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:10:56",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=JANANI+HOSPITAL+Kota&rlz=1C1CHBF_enIN859IN859&oq=JANANI+HOSPITAL+Kota&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -11313,8 +12844,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "9",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "07:55:44",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:33:45",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Mewar+Hospital+Kota&rlz=1C1CHBF_enIN859IN859&oq=Mewar+Hospital+Kota&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -11326,14 +12862,24 @@
     "hospitalName": "Military hospital kota",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "28",
+<<<<<<< HEAD
     "normalBedOccupied": "14",
     "normalBedAvailable": "14",
+=======
+    "normalBedOccupied": "21",
+    "normalBedAvailable": "7",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "oxygenBedTotal": "16",
     "oxygenBedOccupied": "16",
     "oxygenBedAvailable": "0",
     "phoneNo": "7442450421",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "12:01:39",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:06:34",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Military+hospital kota+Kota&rlz=1C1CHBF_enIN859IN859&oq=Military+hospital kota+Kota&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -11389,8 +12935,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "8",
     "phoneNo": "8005699326",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "11:36:34",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:16:32",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Radha+krishna Hospital+Kota&rlz=1C1CHBF_enIN859IN859&oq=Radha+krishna Hospital+Kota&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -11408,8 +12959,13 @@
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "12",
     "phoneNo": "9610209797",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "12:18:15",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:45:03",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Ramakrishna+Hospital+Kota&rlz=1C1CHBF_enIN859IN859&oq=Ramakrishna+Hospital+Kota&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -11446,8 +13002,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
     "phoneNo": "07442437378",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:07:15",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:04:41",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=SHREE+RAM MULTI SPECIALITY HOSPITAL KOTA+Kota&rlz=1C1CHBF_enIN859IN859&oq=SHREE+RAM MULTI SPECIALITY HOSPITAL KOTA+Kota&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -11636,8 +13197,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "14",
     "phoneNo": "9414796020",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:14:55",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:57:39",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+DEGANA+Nagaur&rlz=1C1CHBF_enIN859IN859&oq=CHC+DEGANA+Nagaur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12168,8 +13734,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "40",
     "phoneNo": "9829225373",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:36:22",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:23:18",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Austria+Hospital, Jadan Ashram+Pali&rlz=1C1CHBF_enIN859IN859&oq=Austria+Hospital, Jadan Ashram+Pali&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12282,8 +13853,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
     "phoneNo": "9828841330",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:54:11",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:14:31",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Jaitaran+Pali&rlz=1C1CHBF_enIN859IN859&oq=CHC+Jaitaran+Pali&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12301,8 +13877,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "4",
     "phoneNo": "02935253115/16",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:53:47",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:39:57",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+KHARCHI+Pali&rlz=1C1CHBF_enIN859IN859&oq=CHC+KHARCHI+Pali&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12358,8 +13939,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "2",
     "phoneNo": "02936268268",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:12:13",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:13:56",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+ROHAT+Pali&rlz=1C1CHBF_enIN859IN859&oq=CHC+ROHAT+Pali&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12415,8 +14001,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "4",
     "phoneNo": "9414523201",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:10:47",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:17:38",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Sadri+Pali&rlz=1C1CHBF_enIN859IN859&oq=CHC+Sadri+Pali&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12605,8 +14196,13 @@
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "5",
     "phoneNo": "7229098486",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:34:52",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:58:51",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Sky+Lifeline Multispeciality Hospital, Pratapgarh+Pratapgarh&rlz=1C1CHBF_enIN859IN859&oq=Sky+Lifeline Multispeciality Hospital, Pratapgarh+Pratapgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12757,8 +14353,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "12",
     "phoneNo": "02952267175",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:31:11",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:16:57",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Railmagra+Rajsamand&rlz=1C1CHBF_enIN859IN859&oq=CHC+Railmagra+Rajsamand&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12776,8 +14377,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "14",
     "phoneNo": "9680335143",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:00:56",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:35:28",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+kelwa+Rajsamand&rlz=1C1CHBF_enIN859IN859&oq=CHC+kelwa+Rajsamand&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12789,6 +14395,7 @@
     "hospitalName": "RK GOVT HOSPITAL RAJSAMAND",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "13",
+<<<<<<< HEAD
     "normalBedOccupied": "9",
     "normalBedAvailable": "4",
     "oxygenBedTotal": "120",
@@ -12797,6 +14404,16 @@
     "phoneNo": "02952222885",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:28:11",
+=======
+    "normalBedOccupied": "6",
+    "normalBedAvailable": "7",
+    "oxygenBedTotal": "120",
+    "oxygenBedOccupied": "45",
+    "oxygenBedAvailable": "75",
+    "phoneNo": "02952222885",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:35:07",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=RK+GOVT HOSPITAL RAJSAMAND+Rajsamand&rlz=1C1CHBF_enIN859IN859&oq=RK+GOVT HOSPITAL RAJSAMAND+Rajsamand&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12890,8 +14507,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "2",
     "phoneNo": "9783268181",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:01:03",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:02:56",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Bahrawdakhurd+Sawai Madhopur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Bahrawdakhurd+Sawai Madhopur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -12985,8 +14607,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "4",
     "phoneNo": "9024725787",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "12:07:54",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:24:42",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Choth Ka Barwara+Sawai Madhopur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Choth Ka Barwara+Sawai Madhopur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -13099,8 +14726,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "2",
     "phoneNo": "8058519127",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:45:24",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "18:01:34",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Piloda+Sawai Madhopur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Piloda+Sawai Madhopur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -13194,8 +14826,13 @@
     "oxygenBedOccupied": "7",
     "oxygenBedAvailable": "13",
     "phoneNo": "8696822323",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "10:03:28",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:53:13",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Amar+Hospital, Fathepur+Sikar&rlz=1C1CHBF_enIN859IN859&oq=Amar+Hospital, Fathepur+Sikar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -13365,8 +15002,13 @@
     "oxygenBedOccupied": "4",
     "oxygenBedAvailable": "16",
     "phoneNo": "01575225218",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:07:13",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:06:56",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Dhayal+Hospital Reengus+Sikar&rlz=1C1CHBF_enIN859IN859&oq=Dhayal+Hospital Reengus+Sikar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -13517,8 +15159,13 @@
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "11",
     "phoneNo": "9785521111",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:58:47",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:44:03",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=SB+Mittal Hospital, Jaipur Road, Sikar City+Sikar&rlz=1C1CHBF_enIN859IN859&oq=SB+Mittal Hospital, Jaipur Road, Sikar City+Sikar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -13669,8 +15316,13 @@
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "4",
     "phoneNo": "Not Available",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "09:26:35",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "16:45:13",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=CHC+Reodar+Sirohi&rlz=1C1CHBF_enIN859IN859&oq=CHC+Reodar+Sirohi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
     "ServerUpdatedate": "2-5-2021",
@@ -14334,8 +15986,13 @@
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "24",
     "phoneNo": "9414734868",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "13:54:54",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "17:50:19",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Kalpana+Nursing Home Pvt Ltd+Udaipur&rlz=1C1CHBF_enIN859IN859&oq=Kalpana+Nursing Home Pvt Ltd+Udaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -14353,8 +16010,13 @@
     "oxygenBedOccupied": "18",
     "oxygenBedAvailable": "17",
     "phoneNo": "9929702777",
+<<<<<<< HEAD
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "08:38:56",
+=======
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:44:48",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Kanak+Hospital Sec. 3+Udaipur&rlz=1C1CHBF_enIN859IN859&oq=Kanak+Hospital Sec. 3+Udaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",
@@ -14480,6 +16142,7 @@
     "hospitalName": "Satellite Hospital Sec. 6",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "15",
+<<<<<<< HEAD
     "normalBedOccupied": "12",
     "normalBedAvailable": "3",
     "oxygenBedTotal": "65",
@@ -14488,6 +16151,16 @@
     "phoneNo": "0294 2462539",
     "lastUpdatedDate": "02-Jun-2021",
     "lastUpdatedTime": "14:03:05",
+=======
+    "normalBedOccupied": "10",
+    "normalBedAvailable": "5",
+    "oxygenBedTotal": "65",
+    "oxygenBedOccupied": "9",
+    "oxygenBedAvailable": "56",
+    "phoneNo": "0294 2462539",
+    "lastUpdatedDate": "01-Jun-2021",
+    "lastUpdatedTime": "15:41:31",
+>>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
     "googleSearch": "https://www.google.com/search?q=Satellite+Hospital Sec. 6+Udaipur&rlz=1C1CHBF_enIN859IN859&oq=Satellite+Hospital Sec. 6+Udaipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
     "ServerUpdatedate": "2-5-2021",

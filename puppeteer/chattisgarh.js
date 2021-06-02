@@ -72,6 +72,8 @@ async function capture() {
     d += 22;
     chattisgarh.push(objData);
   }
+
+  chattisgarh.pop();
   fs.writeFile(
     "jsonFiles/chhattisgarh.json",
     JSON.stringify(chattisgarh, null, 2),
@@ -83,6 +85,5 @@ async function capture() {
   );
   await browser.close();
 }
-
-
+capture();
 exports.getchattisgarh = capture;

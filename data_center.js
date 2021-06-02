@@ -70,8 +70,8 @@
     // }, 43200000);
     
 // setInterval(() => {
-    // merge_Maharashtra.mergemaharashtra();
-    // }, 	43740000);
+// merge_Maharashtra.mergemaharashtra();
+// }, 	43740000);
 
 // setInterval(() => {
 // }, 	45720000);
@@ -103,6 +103,14 @@
     // }, 44280000);
 
 
+// // setInterval(() => {
+// westbengal.getwestbengal();
+// uttrakhand.getuttrakhand();
+// kerala.getKerala();
+// delhi.getdelhi();
+// Ahmedabad.getahmadabad();
+// chattisgarh.getchattisgarh();
+// }, 44280000);
 
 // // uttarcoordmaker;
 // // Goacoordmaker;

@@ -32,32 +32,43 @@ async function get() {
   y = 7;
   o = 11;
   for (var i = 0; o < data.length; i++) {
-    var objData = {
-      state: "delhi",
-      district: "delhi",
-      hospitalName: data[k].split(",")[0],
-      hospitalAddress: data[k].split(",")[1],
-      normalBedTotal: data[a],
-      normalBedOccupied: data[a] - data[c],
-      normalBedAvailable: data[c],
-      oxygenBedTotal: data[x],
-      oxygenBedOccupied: data[x] - data[y],
-      oxygenBedAvailable: data[y],
-      phoneNo: data[o],
-      lastUpdatedDate: "-",
-      lastUpdatedTime: "-",
-    };
+    if (
+      data[a] >= 0 &&
+      data[c] >= 0 &&
+      data[a] - data[c] >= 0 &&
+      data[x] >= 0 &&
+      data[y] >= 0 &&
+      data[x] - data[y] >= 0
+    ) {
+      var objData = {
+        state: "delhi",
+        district: "delhi",
+        hospitalName: data[k].split(",")[0],
+        hospitalAddress: data[k].split(",")[1],
+        normalBedTotal: data[a],
+        normalBedOccupied: data[a] - data[c],
+        normalBedAvailable: data[c],
+        oxygenBedTotal: data[x],
+        oxygenBedOccupied: data[x] - data[y],
+        oxygenBedAvailable: data[y],
+        phoneNo: data[o],
+        lastUpdatedDate: "-",
+        lastUpdatedTime: "-",
+      };
 
-    var replacedString = objData.hospitalName.replace(" ", "+");
-    var finalRepString = replacedString + "+" + objData.district;
-    var gStringpt1 = "https://www.google.com/search?q=";
-    var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
-    var gStringpt5 =
-      "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
-    var finalString =
-      gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5;
+      var replacedString = objData.hospitalName.replace(" ", "+");
+      var finalRepString = replacedString + "+" + objData.district;
+      var gStringpt1 = "https://www.google.com/search?q=";
+      var gStringpt3 = "&rlz=1C1CHBF_enIN859IN859&oq=";
+      var gStringpt5 =
+        "&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8";
+      var finalString =
+        gStringpt1 + finalRepString + gStringpt3 + finalRepString + gStringpt5;
 
-    objData.googleSearch = finalString;
+      objData.googleSearch = finalString;
+
+      delhi.push(objData);
+    }
 
     m += 13;
     k += 13;
@@ -66,7 +77,6 @@ async function get() {
     x += 13;
     y += 13;
     o += 13;
-    delhi.push(objData);
   }
 
   fs.writeFile(
@@ -78,8 +88,6 @@ async function get() {
       } else console.log("File written delhi");
     }
   );
-
-  await page.waitForTimer(10000);
 
   await browser.close();
 }
