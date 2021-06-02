@@ -14,7 +14,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Aayat+Hospital+Dholka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Aayat+Hospital+Dholka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9601981685",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Amrutba General Hospital",
@@ -31,7 +33,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Amrutba+General Hospital+Detroj, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Amrutba+General Hospital+Detroj, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9909235689",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Anaya ICU Hospital",
@@ -50,7 +54,9 @@
     "phoneNo": "090990 46640",
     "latitude": "22.8297878",
     "longitude": "72.3638056",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Angel Maternity & Nursing home",
@@ -61,13 +67,15 @@
     "oxygenBedTotal": "2",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "2",
-    "lastUpdatedDate": "01-06-2021",
-    "lastUpdatedTime": "11:41:26",
+    "lastUpdatedDate": "02-06-2021",
+    "lastUpdatedTime": "11:32:01",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Angel+Maternity & Nursing home+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Angel+Maternity & Nursing home+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9099028137",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Ashtha Multispeciality Hospital",
@@ -86,7 +94,9 @@
     "phoneNo": "02718 282 852",
     "latitude": "22.8555693",
     "longitude": "72.5933339",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Bavla multispeciality hospital",
@@ -103,7 +113,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Bavla+multispeciality hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Bavla+multispeciality hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9925014920",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Bhagyoday Hospital",
@@ -114,15 +126,17 @@
     "oxygenBedTotal": "17",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "17",
-    "lastUpdatedDate": "01-06-2021",
-    "lastUpdatedTime": "11:46:58",
+    "lastUpdatedDate": "02-06-2021",
+    "lastUpdatedTime": "11:30:48",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Bhagyoday+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Bhagyoday+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "02715 233 254",
     "latitude": "23.1280502",
     "longitude": "72.0464472",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "C.M.Seth ICCU Lion Club Society of Viramgam",
@@ -133,13 +147,15 @@
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "10",
-    "lastUpdatedDate": "01-06-2021",
-    "lastUpdatedTime": "11:41:58",
+    "lastUpdatedDate": "02-06-2021",
+    "lastUpdatedTime": "11:32:20",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=C.M.Seth+ICCU Lion Club Society of Viramgam+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=C.M.Seth+ICCU Lion Club Society of Viramgam+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9426958521",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Care Children Hospital",
@@ -158,7 +174,9 @@
     "phoneNo": "098981 99818",
     "latitude": "22.8294004",
     "longitude": "72.3609788",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "DIMH Hospital",
@@ -175,7 +193,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=DIMH+Hospital+Dholka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=DIMH+Hospital+Dholka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9725092727",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Durvesh Hospital",
@@ -194,7 +214,9 @@
     "phoneNo": "9825526911",
     "latitude": "22.730652",
     "longitude": "72.444597",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Gurukrupa Hospital",
@@ -213,7 +235,9 @@
     "phoneNo": "9601781280",
     "latitude": "22.9876499",
     "longitude": "72.3868624",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Hare Krishna Multi Speciality Hospital",
@@ -232,7 +256,9 @@
     "phoneNo": "072280 40111",
     "latitude": "22.727866",
     "longitude": "72.4375964",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Janam Hospital",
@@ -251,7 +277,9 @@
     "phoneNo": "02717 224 144",
     "latitude": "22.9878733",
     "longitude": "72.3873526",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Janta Hospital",
@@ -270,7 +298,9 @@
     "phoneNo": "9825739241",
     "latitude": "22.9873215",
     "longitude": "72.3812672",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Jay Shiv Shakti Hospital",
@@ -289,7 +319,9 @@
     "phoneNo": "080002 22321",
     "latitude": "22.892126",
     "longitude": "72.672898",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Khodiyar Multispeciality Hospital",
@@ -306,7 +338,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Khodiyar+Multispeciality Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Khodiyar+Multispeciality Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "8866648080",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Krishna Hospital",
@@ -317,15 +351,17 @@
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
-    "lastUpdatedDate": "01-06-2021",
-    "lastUpdatedTime": "11:42:23",
+    "lastUpdatedDate": "02-06-2021",
+    "lastUpdatedTime": "11:32:49",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Krishna+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Krishna+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "097146 70600",
     "latitude": "23.1282182",
     "longitude": "72.0512236",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Krishna Hospital - Moraiya",
@@ -342,7 +378,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Krishna+Hospital - Moraiya+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Krishna+Hospital - Moraiya+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9974074147",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Mamta Hospital",
@@ -353,15 +391,17 @@
     "oxygenBedTotal": "2",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "2",
-    "lastUpdatedDate": "01-06-2021",
-    "lastUpdatedTime": "11:41:40",
+    "lastUpdatedDate": "02-06-2021",
+    "lastUpdatedTime": "11:31:40",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Mamta+Hospital+Viramgam&rlz=1C1CHBF_enIN859IN859&oq=Mamta+Hospital+Viramgam&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9426123343",
     "latitude": "23.1258459",
     "longitude": "72.051366",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Muniseva Trust Hospital",
@@ -380,7 +420,9 @@
     "phoneNo": "099980 51881",
     "latitude": "23.0149643",
     "longitude": "72.3829927",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Navjivan Doctor House",
@@ -399,7 +441,9 @@
     "phoneNo": "070411 78333",
     "latitude": "22.9866132",
     "longitude": "72.3808627",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Our Lady Of Pillar Hospital",
@@ -418,7 +462,9 @@
     "phoneNo": "9408933673",
     "latitude": "23.0154414",
     "longitude": "72.380579",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Parekh’s Hospital",
@@ -437,7 +483,9 @@
     "phoneNo": "9898274105",
     "latitude": "22.830652",
     "longitude": "72.3614591",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "RMS Hospital",
@@ -456,7 +504,9 @@
     "phoneNo": "02713 222 543",
     "latitude": "22.3640464",
     "longitude": "71.9779372",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Radhe Hospital",
@@ -473,7 +523,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Radhe+Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Radhe+Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9898240089",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Rudraksh Hospital",
@@ -492,7 +544,9 @@
     "phoneNo": "7802025678",
     "latitude": "22.8571952",
     "longitude": "72.5949536",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Rudraksh Multispeciality Hospital",
@@ -511,7 +565,9 @@
     "phoneNo": "8000808015",
     "latitude": "22.9955518",
     "longitude": "72.3814458",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Sanand APMC Hospital",
@@ -530,7 +586,9 @@
     "phoneNo": "098257 39241",
     "latitude": "22.9873215",
     "longitude": "72.3812672",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Shaligram Hospital",
@@ -541,15 +599,17 @@
     "oxygenBedTotal": "12",
     "oxygenBedOccupied": "2",
     "oxygenBedAvailable": "10",
-    "lastUpdatedDate": "01-06-2021",
-    "lastUpdatedTime": "11:43:45",
+    "lastUpdatedDate": "02-06-2021",
+    "lastUpdatedTime": "11:31:21",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shaligram+Hospital+Viramgam, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shaligram+Hospital+Viramgam, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "072260 25555",
     "latitude": "23.128311",
     "longitude": "72.044989",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Sharnam Hospital",
@@ -560,15 +620,17 @@
     "oxygenBedTotal": "5",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "5",
-    "lastUpdatedDate": "01-06-2021",
-    "lastUpdatedTime": "08:29:19",
+    "lastUpdatedDate": "02-06-2021",
+    "lastUpdatedTime": "08:58:03",
     "district": "Ahmedabad",
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Sharnam+Hospital+Dholka, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Sharnam+Hospital+Dholka, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "8000591122",
     "latitude": "22.7427469",
     "longitude": "72.4430224",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Shiv Hospital",
@@ -587,7 +649,9 @@
     "phoneNo": "074702 12345",
     "latitude": "22.9856059",
     "longitude": "72.7351955",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Shiv Hospital",
@@ -606,7 +670,9 @@
     "phoneNo": "9824767500",
     "latitude": "23.1302747",
     "longitude": "72.0436043",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Shivam Hospital",
@@ -623,7 +689,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Shivam+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Shivam+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "9824275263",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Shreeji Hospital",
@@ -642,7 +710,9 @@
     "phoneNo": "9898042882",
     "latitude": "22.9912897",
     "longitude": "72.3755085",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Shrey Hospital",
@@ -661,7 +731,9 @@
     "phoneNo": "9714344153",
     "latitude": "22.830784",
     "longitude": "72.3627838",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Sola Civil Hospital",
@@ -680,7 +752,9 @@
     "phoneNo": "7567897527",
     "latitude": "23.0831547",
     "longitude": "72.5248844",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Trimurti Hospital",
@@ -697,7 +771,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Trimurti+Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Trimurti+Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "8141454801",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Vardan Hospital",
@@ -714,7 +790,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Vardan+Hospital+Sanand, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Vardan+Hospital+Sanand, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "8780960400",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Vedant Hospital",
@@ -731,7 +809,9 @@
     "state": "Gujrat",
     "googleSearch": "https://www.google.com/search?q=Vedant+Hospital+Bavla, Ahmedabad&rlz=1C1CHBF_enIN859IN859&oq=Vedant+Hospital+Bavla, Ahmedabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "7731932722",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Zydus Sitapur Hospital",
@@ -750,6 +830,8 @@
     "phoneNo": "6354270805",
     "latitude": "23.4440032",
     "longitude": "72.0012069",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   }
 ]

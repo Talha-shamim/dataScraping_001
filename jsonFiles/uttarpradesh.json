@@ -19,7 +19,9 @@
     "googleSearch": "https://www.google.com/search?q=KGMC+Lucknow&rlz=1C1CHBF_enIN859IN859&oq=KGMC+Lucknow&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.8692591",
     "longitude": "80.9162402",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Mahrajganj",
@@ -41,7 +43,9 @@
     "googleSearch": "https://www.google.com/search?q=DCH+Maharajganj+Mahrajganj&rlz=1C1CHBF_enIN859IN859&oq=DCH+Maharajganj+Mahrajganj&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "/maps/place/Maharajganj",
     "longitude": "/maps/place/Maharajganj,",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Mahrajganj",
@@ -63,7 +67,9 @@
     "googleSearch": "https://www.google.com/search?q=CHC+Mithaura+Mahrajganj&rlz=1C1CHBF_enIN859IN859&oq=CHC+Mithaura+Mahrajganj&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "27.2395852",
     "longitude": "83.6747342",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Mainpuri",
@@ -83,7 +89,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=CHC+BHONGOAN+Mainpuri&rlz=1C1CHBF_enIN859IN859&oq=CHC+BHONGOAN+Mainpuri&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Sultanpur",
@@ -105,7 +113,9 @@
     "googleSearch": "https://www.google.com/search?q=CHC+Kurwar+Sultanpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kurwar+Sultanpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.3354704",
     "longitude": "81.9932199",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Sant Ravidas Nagar (Bhadohi)",
@@ -125,7 +135,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "No",
     "googleSearch": "https://www.google.com/search?q=CHC+bhadohi+Sant Ravidas Nagar (Bhadohi)&rlz=1C1CHBF_enIN859IN859&oq=CHC+bhadohi+Sant Ravidas Nagar (Bhadohi)&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Rampur",
@@ -145,7 +157,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "0",
     "googleSearch": "https://www.google.com/search?q=CHC+Milak, Rampur+Rampur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Milak, Rampur+Rampur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Ghazipur",
@@ -165,7 +179,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=District+Hospital Ghazipur+Ghazipur&rlz=1C1CHBF_enIN859IN859&oq=District+Hospital Ghazipur+Ghazipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "SHAMLI",
@@ -187,7 +203,9 @@
     "googleSearch": "https://www.google.com/search?q=CHC+Jhinjhana+SHAMLI&rlz=1C1CHBF_enIN859IN859&oq=CHC+Jhinjhana+SHAMLI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.5263557",
     "longitude": "77.2270746",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Ghazipur",
@@ -207,7 +225,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=CHC+Mohammdabad+Ghazipur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Mohammdabad+Ghazipur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Ghaziabad",
@@ -229,7 +249,9 @@
     "googleSearch": "https://www.google.com/search?q=+Ghaziabad&rlz=1C1CHBF_enIN859IN859&oq=+Ghaziabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "/maps/place/Ghaziabad",
     "longitude": "/maps/place/Ghaziabad,",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Varanasi",
@@ -249,7 +271,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "32",
     "googleSearch": "https://www.google.com/search?q=DDU,ESIC,+BHU,+Varanasi&rlz=1C1CHBF_enIN859IN859&oq=DDU,ESIC,+BHU,+Varanasi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Bahraich",
@@ -271,7 +295,9 @@
     "googleSearch": "https://www.google.com/search?q=ASMC+BAHRAICH+Bahraich&rlz=1C1CHBF_enIN859IN859&oq=ASMC+BAHRAICH+Bahraich&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "27.5640126",
     "longitude": "81.5901804",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Varanasi",
@@ -291,7 +317,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "32",
     "googleSearch": "https://www.google.com/search?q=DDU,ESIC,BHU+Varanasi&rlz=1C1CHBF_enIN859IN859&oq=DDU,ESIC,BHU+Varanasi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Gautam Buddha Nagar",
@@ -313,7 +341,9 @@
     "googleSearch": "https://www.google.com/search?q=+Gautam Buddha Nagar&rlz=1C1CHBF_enIN859IN859&oq=+Gautam Buddha Nagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "/maps/place/Gautam+Buddh+Nagar",
     "longitude": "/maps/place/Gautam+Buddh+Nagar,",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Sant Ravidas Nagar (Bhadohi)",
@@ -335,7 +365,9 @@
     "googleSearch": "https://www.google.com/search?q=MBS+Government Hospital Bhadohi+Sant Ravidas Nagar (Bhadohi)&rlz=1C1CHBF_enIN859IN859&oq=MBS+Government Hospital Bhadohi+Sant Ravidas Nagar (Bhadohi)&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "25.3954543",
     "longitude": "82.5643746",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Ayodhya",
@@ -355,7 +387,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "",
     "googleSearch": "https://www.google.com/search?q=CHCMasaudha+Ayodhya&rlz=1C1CHBF_enIN859IN859&oq=CHCMasaudha+Ayodhya&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Jhansi",
@@ -377,7 +411,9 @@
     "googleSearch": "https://www.google.com/search?q=MLB+Medical College Jhansi+Jhansi&rlz=1C1CHBF_enIN859IN859&oq=MLB+Medical College Jhansi+Jhansi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "25.4600127",
     "longitude": "78.6146465",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Jhansi",
@@ -397,7 +433,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "0",
     "googleSearch": "https://www.google.com/search?q=CHC+Badagaon+Jhansi&rlz=1C1CHBF_enIN859IN859&oq=CHC+Badagaon+Jhansi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Sultanpur",
@@ -419,7 +457,9 @@
     "googleSearch": "https://www.google.com/search?q=CHC+Kurwar L-1+Sultanpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Kurwar L-1+Sultanpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.3354704",
     "longitude": "81.9932199",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Ghaziabad",
@@ -439,7 +479,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "0",
     "googleSearch": "https://www.google.com/search?q=CHC+MURADNAGAR+Ghaziabad&rlz=1C1CHBF_enIN859IN859&oq=CHC+MURADNAGAR+Ghaziabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Ghaziabad",
@@ -461,7 +503,9 @@
     "googleSearch": "https://www.google.com/search?q=SANTOSH+MEDICAL COLLAGE+Ghaziabad&rlz=1C1CHBF_enIN859IN859&oq=SANTOSH+MEDICAL COLLAGE+Ghaziabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "28.6489976",
     "longitude": "77.4085596",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Ghaziabad",
@@ -481,7 +525,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "5",
     "googleSearch": "https://www.google.com/search?q=DISTRICT+COMBINED HOSPITAL+Ghaziabad&rlz=1C1CHBF_enIN859IN859&oq=DISTRICT+COMBINED HOSPITAL+Ghaziabad&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Kushinagar",
@@ -503,7 +549,9 @@
     "googleSearch": "https://www.google.com/search?q=+Kushinagar&rlz=1C1CHBF_enIN859IN859&oq=+Kushinagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "/maps/place/Kushinagar",
     "longitude": "/maps/place/Kushinagar,",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Kushinagar",
@@ -525,7 +573,9 @@
     "googleSearch": "https://www.google.com/search?q=+Kushinagar&rlz=1C1CHBF_enIN859IN859&oq=+Kushinagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "/maps/place/Kushinagar",
     "longitude": "/maps/place/Kushinagar,",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Kushinagar",
@@ -547,7 +597,9 @@
     "googleSearch": "https://www.google.com/search?q=+Kushinagar&rlz=1C1CHBF_enIN859IN859&oq=+Kushinagar&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "/maps/place/Kushinagar",
     "longitude": "/maps/place/Kushinagar,",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Sant Ravidas Nagar (Bhadohi)",
@@ -567,7 +619,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "No",
     "googleSearch": "https://www.google.com/search?q=MCS+Diet hospital gyanpur+Sant Ravidas Nagar (Bhadohi)&rlz=1C1CHBF_enIN859IN859&oq=MCS+Diet hospital gyanpur+Sant Ravidas Nagar (Bhadohi)&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Azamgarh",
@@ -587,7 +641,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "0",
     "googleSearch": "https://www.google.com/search?q=Kolhukhor+Azamgarh&rlz=1C1CHBF_enIN859IN859&oq=Kolhukhor+Azamgarh&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Rampur",
@@ -607,7 +663,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "0",
     "googleSearch": "https://www.google.com/search?q=CHC+MILAK+Rampur&rlz=1C1CHBF_enIN859IN859&oq=CHC+MILAK+Rampur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Rampur",
@@ -627,7 +685,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "0",
     "googleSearch": "https://www.google.com/search?q=DISTRICT+HOSPITAL+Rampur&rlz=1C1CHBF_enIN859IN859&oq=DISTRICT+HOSPITAL+Rampur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Gorakhpur",
@@ -647,7 +707,9 @@
     "phoneNo": "Not Available",
     "ventilatorBed": "4",
     "googleSearch": "https://www.google.com/search?q=District+Hospital Gorakhpur+Gorakhpur&rlz=1C1CHBF_enIN859IN859&oq=District+Hospital Gorakhpur+Gorakhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "district": "Gorakhpur",
@@ -669,6 +731,8 @@
     "googleSearch": "https://www.google.com/search?q=CHC+Chargaon+Gorakhpur&rlz=1C1CHBF_enIN859IN859&oq=CHC+Chargaon+Gorakhpur&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "26.7473754",
     "longitude": "83.365666",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   }
 ]

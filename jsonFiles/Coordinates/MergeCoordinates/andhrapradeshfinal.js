@@ -1,6 +1,7 @@
 const googleGujrat = require("../andhraacoordinates.json");
 const Gujrat = require("../../andhrapradesh.json");
 const fs = require("fs");
+const { data } = require("cheerio/lib/api/attributes");
 
 function get() {
   Gujrat.map((dt) => {
@@ -48,8 +49,17 @@ function get() {
       dt.rank=2
     }
 
-
-    
+    var d = new Date
+    var date = d.getDate()
+    var month = d.getMonth()
+    var year = d.getFullYear()
+    var timehour= d.getHours()
+    var timeminute = d.getMinutes()
+    var finalstringdate= date + '-' + month + '-' + year
+    var finalstringtime = timehour+':' + timeminute
+dt.ServerUpdatedate=finalstringdate
+dt.ServerUpdatetime=finalstringtime
+ 
   })
 
 

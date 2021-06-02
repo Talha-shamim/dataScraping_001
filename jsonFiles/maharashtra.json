@@ -14,7 +14,9 @@
     "lastUpdatedTime": "13:18:33",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Aundh+- baner DCH+Pune&rlz=1C1CHBF_enIN859IN859&oq=Aundh+- baner DCH+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Opp COEP Hostel, Wellesely Road, Shivajinagar, Pune, Maharashtra 411005",
@@ -22,18 +24,20 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 620,
-    "oxygenBedAvaiable": "100",
-    "oxygenBedOccupied": "520",
+    "oxygenBedTotal": 275,
+    "oxygenBedAvaiable": "75",
+    "oxygenBedOccupied": "200",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "15:28:34",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:50:05",
     "phoneNo": "020 2550 7000",
     "googleSearch": "https://www.google.com/search?q=COEP+Jumbo Hospital+Pune&rlz=1C1CHBF_enIN859IN859&oq=COEP+Jumbo Hospital+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5280529",
     "longitude": "73.853224",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Babulal Sheikth Path, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
@@ -52,7 +56,9 @@
     "googleSearch": "https://www.google.com/search?q=Dalvi+Hospital ( Shivajinagar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Dalvi+Hospital ( Shivajinagar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5330075",
     "longitude": "73.8487659",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Survey No. 689 - 690, Panchdeep Bhavan, Bibwewadi, Pune, Maharashtra 411037",
@@ -71,7 +77,9 @@
     "googleSearch": "https://www.google.com/search?q=ESIC+Hospital ( Bibwewadi )+Pune&rlz=1C1CHBF_enIN859IN859&oq=ESIC+Hospital ( Bibwewadi )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4848333",
     "longitude": "73.8605114",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Behind Pune Main Railway station, off, Wellesley Rd, 411001",
@@ -79,18 +87,20 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 156,
-    "oxygenBedAvaiable": "43",
+    "oxygenBedTotal": 151,
+    "oxygenBedAvaiable": "38",
     "oxygenBedOccupied": "113",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "10:36:35",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "08:42:21",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Naidu+Hospital (  Wellesley Rd )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Naidu+Hospital (  Wellesley Rd )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5314002",
     "longitude": "73.8690629",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Opposite Golibar Maidan Camp, Shankar Sheth Rd, Katad Khana, Pune, Maharashtra 411001",
@@ -109,7 +119,9 @@
     "googleSearch": "https://www.google.com/search?q=Sardar+Vallabhbhai Patel Hospital Pune+Pune&rlz=1C1CHBF_enIN859IN859&oq=Sardar+Vallabhbhai Patel Hospital Pune+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5027602",
     "longitude": "73.8771085",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Station Rd, Agarkar Nagar, Pune, Maharashtra 411001",
@@ -117,16 +129,18 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 299,
-    "oxygenBedAvaiable": "31",
+    "oxygenBedTotal": 289,
+    "oxygenBedAvaiable": "21",
     "oxygenBedOccupied": "268",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "08:01:59",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:38:58",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Sasoon+( Station Rd )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Sasoon+( Station Rd )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Keshav Rao Road, Beside Nehru Stadium, Swargate, Pune, Maharashtra 411042",
@@ -143,24 +157,28 @@
     "lastUpdatedTime": "12:49:53",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Ganesh+Kala Krida Covid Center (Swargate)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Ganesh+Kala Krida Covid Center (Swargate)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Bopodi, Pune",
     "hospitalName": "Late Draupadabai Muralidhar Khedekar Hospital ( Bopodi)",
-    "normalBedTotal": 38,
+    "normalBedTotal": 37,
     "normalBedOccupied": "25",
-    "normalBedAvailable": "13",
-    "oxygenBedTotal": 50,
-    "oxygenBedAvaiable": "20",
+    "normalBedAvailable": "12",
+    "oxygenBedTotal": 52,
+    "oxygenBedAvaiable": "22",
     "oxygenBedOccupied": "30",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "11:26:30",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "12:28:22",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Late+Draupadabai Muralidhar Khedekar Hospital ( Bopodi)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Late+Draupadabai Muralidhar Khedekar Hospital ( Bopodi)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Rajyog Society, Rajyog Rd, Vadgaon Khurd, Nanded Fata, Pandurang Industrial Area, Dhayari, Pune, Maharashtra 411041",
@@ -168,18 +186,20 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 34,
-    "oxygenBedAvaiable": "4",
+    "oxygenBedTotal": 32,
+    "oxygenBedAvaiable": "2",
     "oxygenBedOccupied": "30",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:12:26",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:18:30",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Late+Muralidhar Pandurang Laygude Hospital ( Dhayari)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Late+Muralidhar Pandurang Laygude Hospital ( Dhayari)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4624722",
     "longitude": "73.8048944",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "270, Jawaharlal Nehru Rd, Kashewadi Kashewadi Pune, Maharashtra 411042",
@@ -192,30 +212,34 @@
     "oxygenBedOccupied": "0",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "11:45:41",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "11:59:54",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Sonawane+Maternity Hospital ( Kashewadi )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Sonawane+Maternity Hospital ( Kashewadi )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5056579",
     "longitude": "73.868797",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " GOVT ITI, Near Parihar Chowk Dr Panjabrav Deshmukh Boys Hostel, ITI Premises, Aundh,Pune 411067",
     "hospitalName": "AUNDH ITI CCC",
-    "normalBedTotal": 192,
+    "normalBedTotal": 194,
     "normalBedOccupied": "100",
-    "normalBedAvailable": "92",
+    "normalBedAvailable": "94",
     "oxygenBedTotal": 0,
     "oxygenBedAvaiable": "0",
     "oxygenBedOccupied": "0",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "14:14:17",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:27:12",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=AUNDH+ITI CCC+Pune&rlz=1C1CHBF_enIN859IN859&oq=AUNDH+ITI CCC+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Bibwewadi pune 37",
@@ -228,30 +252,34 @@
     "oxygenBedOccupied": "0",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "10:33:52",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:29:16",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Gangadham+covid care center +Pune&rlz=1C1CHBF_enIN859IN859&oq=Gangadham+covid care center +Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "AWHO Hadapsar Colony, Fursungi, Maharashtra 412308",
     "hospitalName": "Late Ramchandra Bankar School CCC",
-    "normalBedTotal": 559,
+    "normalBedTotal": 552,
     "normalBedOccupied": "300",
-    "normalBedAvailable": "259",
+    "normalBedAvailable": "252",
     "oxygenBedTotal": 0,
     "oxygenBedAvaiable": "0",
     "oxygenBedOccupied": "0",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "10:48:43",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:46:56",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Late+Ramchandra Bankar School CCC+Pune&rlz=1C1CHBF_enIN859IN859&oq=Late+Ramchandra Bankar School CCC+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4938375",
     "longitude": "73.956344",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Rakshak Nagar Stadium",
@@ -268,7 +296,9 @@
     "lastUpdatedTime": "14:17:05",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Rakshak+Nagar Stadium+Pune&rlz=1C1CHBF_enIN859IN859&oq=Rakshak+Nagar Stadium+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Mental Corner, 40, Yashwantnagar, Katarwadi, Yerawada, Pune, Maharashtra 411006",
@@ -287,7 +317,9 @@
     "googleSearch": "https://www.google.com/search?q=Sant+Dnyaneshwar Hostel, Yerawada+Pune&rlz=1C1CHBF_enIN859IN859&oq=Sant+Dnyaneshwar Hostel, Yerawada+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5664193",
     "longitude": "73.8757208",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Kondhwa Khurd ,Pune 48",
@@ -304,7 +336,9 @@
     "lastUpdatedTime": "11:45:09",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Shri+Sant gadage maharaj primary school CCC (Kondhawa )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Shri+Sant gadage maharaj primary school CCC (Kondhawa )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " SNDT COLLEGE, KARVENAGAR",
@@ -317,11 +351,13 @@
     "oxygenBedOccupied": "0",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "10:42:47",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:52:32",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=SNDT+CCC+Pune&rlz=1C1CHBF_enIN859IN859&oq=SNDT+CCC+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Main Building, Deenanath Mangeshkar Hospital Road, Vakil Nagar, Erandwane, Pune, Maharashtra 411004",
@@ -340,24 +376,28 @@
     "googleSearch": "https://www.google.com/search?q=Deenanath+mangeshkar hospital (Erandwane)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Deenanath+mangeshkar hospital (Erandwane)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5016096",
     "longitude": "73.8326227",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Shivam, 27, Shivram Matre Rd, Nr. Alka Talkies, Ganjwe Wadi, Sadashiv Peth, Pune, Maharashtra 411030",
     "hospitalName": "Poona Hospital ( Sadashiv Peth )",
-    "normalBedTotal": 54,
+    "normalBedTotal": 56,
     "normalBedOccupied": "29",
-    "normalBedAvailable": "25",
+    "normalBedAvailable": "27",
     "oxygenBedTotal": 205,
     "oxygenBedAvaiable": "78",
     "oxygenBedOccupied": "127",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "13:43:58",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "12:28:01",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Poona+Hospital ( Sadashiv Peth )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Poona+Hospital ( Sadashiv Peth )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Pune",
@@ -374,7 +414,9 @@
     "lastUpdatedTime": "14:00:22",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Symbiosis+Hospital ( Lavale)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Symbiosis+Hospital ( Lavale)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Survey No 154, AIMS Rd, Near AIMS Square, Aundh, Pune, Maharashtra 411007",
@@ -387,11 +429,13 @@
     "oxygenBedOccupied": "88",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "07:13:36",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:14:46",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=AIMS+Hospital & Research Center ( Aundh)+Pune&rlz=1C1CHBF_enIN859IN859&oq=AIMS+Hospital & Research Center ( Aundh)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Plot No, 121, Lane Number 4, Dahanukar Colony, Kothrud, Pune, Maharashtra 411038",
@@ -404,13 +448,15 @@
     "oxygenBedOccupied": "69",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "23:57:43",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:16:51",
     "phoneNo": "020 3962 3962",
     "googleSearch": "https://www.google.com/search?q=Devyani+multispeciality Hospital ( Kothrud)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Devyani+multispeciality Hospital ( Kothrud)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.49591",
     "longitude": "73.8122612",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "32, Sasoon Road Opposite Railway Station, Central Excise Colony, Sangamvadi, Pune, Maharashtra 411001",
@@ -423,13 +469,15 @@
     "oxygenBedOccupied": "112",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "14:04:17",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:00:43",
     "phoneNo": "020 6681 9999",
     "googleSearch": "https://www.google.com/search?q=Jahangir+Hospital Pune ( Sangam wadi )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Jahangir+Hospital Pune ( Sangam wadi )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5304494",
     "longitude": "73.8766532",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "489, Sardar, Mudaliar Rd, Rasta Peth, Pune, Maharashtra 411011",
@@ -448,7 +496,9 @@
     "googleSearch": "https://www.google.com/search?q=KEM+HOSPITAL ( Rasta Peth )+Pune&rlz=1C1CHBF_enIN859IN859&oq=KEM+HOSPITAL ( Rasta Peth )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5199723",
     "longitude": "73.8669765",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Survey No 4, Hissa No 1, Off, Mundhwa - Kharadi Rd, behind Radisson Blu, Kharadi, Pune, Maharashtra 411014",
@@ -467,7 +517,9 @@
     "googleSearch": "https://www.google.com/search?q=Rising+Medicare Hospital ( Kharadi)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Rising+Medicare Hospital ( Kharadi)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5537952",
     "longitude": "73.9391145",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "40, Sasoon Rd, Sangamvadi, Pune, Maharashtra 411001",
@@ -475,18 +527,20 @@
     "normalBedTotal": 244,
     "normalBedOccupied": "122",
     "normalBedAvailable": "122",
-    "oxygenBedTotal": 468,
-    "oxygenBedAvaiable": "231",
+    "oxygenBedTotal": 467,
+    "oxygenBedAvaiable": "230",
     "oxygenBedOccupied": "237",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "09:55:21",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:29:33",
     "phoneNo": "020 6645 5100",
     "googleSearch": "https://www.google.com/search?q=RUBY+HALL CLINIC ( Sasoon rd )+Pune&rlz=1C1CHBF_enIN859IN859&oq=RUBY+HALL CLINIC ( Sasoon rd )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5336133",
     "longitude": "73.877178",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " 7/3B (part), Gulmohor Society, Kharadi, Pune 14",
@@ -503,7 +557,9 @@
     "lastUpdatedTime": "14:03:33",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Shree+Hospital Criticare & Trauma Center Pvt Ltd( Kharadi)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Shree+Hospital Criticare & Trauma Center Pvt Ltd( Kharadi)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "S.No, 49/1, Mumbai Pune Bypass Rd, Narhe, Pune, Maharashtra 411041",
@@ -516,13 +572,15 @@
     "oxygenBedOccupied": "182",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "13:27:48",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:43:41",
     "phoneNo": "020 2410 6215",
     "googleSearch": "https://www.google.com/search?q=smt.Kashibai+Navale medical collge and general Hospital ( Narhe Ambegaon )+Pune&rlz=1C1CHBF_enIN859IN859&oq=smt.Kashibai+Navale medical collge and general Hospital ( Narhe Ambegaon )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4563263",
     "longitude": "73.8208408",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "1317, Agarwal Rd, Near Shaniwar Wada, Lunanagar, Kasba Peth, Pune, Maharashtra 411011",
@@ -535,13 +593,15 @@
     "oxygenBedOccupied": "30",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "09:40:42",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:49:37",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Surya+Sahyadri Hospital ( Kasba Peth)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Surya+Sahyadri Hospital ( Kasba Peth)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5214255",
     "longitude": "73.8558527",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "s.no33, Phale Nagar, Datta Nagar Road Near Reliance Fresh Mall, Ambegaon BK, Pune46, Maharashtra 411046",
@@ -549,18 +609,20 @@
     "normalBedTotal": 30,
     "normalBedOccupied": "20",
     "normalBedAvailable": "10",
-    "oxygenBedTotal": 46,
-    "oxygenBedAvaiable": "0",
+    "oxygenBedTotal": 57,
+    "oxygenBedAvaiable": "11",
     "oxygenBedOccupied": "46",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "09:28:38",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "09:21:14",
     "phoneNo": "076204 45996",
     "googleSearch": "https://www.google.com/search?q=Aura+Multispeciality Hospital,Ambegaon+Pune&rlz=1C1CHBF_enIN859IN859&oq=Aura+Multispeciality Hospital,Ambegaon+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4533594",
     "longitude": "73.8509127",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Pune - Satara Rd, Bharati Vidyapeeth Campus, Dhankawadi, Pune, Maharashtra 411043",
@@ -568,18 +630,20 @@
     "normalBedTotal": 20,
     "normalBedOccupied": "10",
     "normalBedAvailable": "10",
-    "oxygenBedTotal": 402,
-    "oxygenBedAvaiable": "192",
+    "oxygenBedTotal": 403,
+    "oxygenBedAvaiable": "193",
     "oxygenBedOccupied": "210",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "13:20:19",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:49:22",
     "phoneNo": "020 4055 5555",
     "googleSearch": "https://www.google.com/search?q=BHARATI+HOSPITAL ( Dhankawadi )+Pune&rlz=1C1CHBF_enIN859IN859&oq=BHARATI+HOSPITAL ( Dhankawadi )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.459349",
     "longitude": "73.857241",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "53, Bibwewadi Kondhwa Rd, above Vidya Sahakari Bank, Jedhe Nagar, Sangam Society, Bibwewadi, Pune, Maharashtra 411037",
@@ -598,7 +662,9 @@
     "googleSearch": "https://www.google.com/search?q=Chintamani+hospital- Bibwewadi+Pune&rlz=1C1CHBF_enIN859IN859&oq=Chintamani+hospital- Bibwewadi+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4757734",
     "longitude": "73.8620935",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "22, 2A, Mundhwa - Kharadi Rd, Near Nyati Empire, Santipur, Thite Nagar, Kharadi, Pune, Maharashtra 411014",
@@ -606,18 +672,20 @@
     "normalBedTotal": 38,
     "normalBedOccupied": "19",
     "normalBedAvailable": "19",
-    "oxygenBedTotal": 85,
-    "oxygenBedAvaiable": "40",
+    "oxygenBedTotal": 86,
+    "oxygenBedAvaiable": "41",
     "oxygenBedOccupied": "45",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "15:22:35",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "09:14:23",
     "phoneNo": "020 6165 6666",
     "googleSearch": "https://www.google.com/search?q=Columbia+Asia Hospital Kharadi, Pune+Pune&rlz=1C1CHBF_enIN859IN859&oq=Columbia+Asia Hospital Kharadi, Pune+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5410689",
     "longitude": "73.9356306",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "1160/61, University Rd, Revenue Colony, Shivajinagar, Pune, Maharashtra 411005",
@@ -630,13 +698,15 @@
     "oxygenBedOccupied": "1",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "14:23:18",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "11:41:02",
     "phoneNo": "020 4109 5000",
     "googleSearch": "https://www.google.com/search?q=Hardikar+Hospital ( Shivaji nagar)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Hardikar+Hospital ( Shivaji nagar)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5304104",
     "longitude": "73.8474815",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Inamdar Hospital building s No. 15, Fatima Nagar, Pune, Maharashtra 411040",
@@ -649,32 +719,36 @@
     "oxygenBedOccupied": "33",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "15:11:50",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:37:35",
     "phoneNo": "020 6681 2222",
     "googleSearch": "https://www.google.com/search?q=INAMDAR+Multi Specialty HOSPITAL ( Fatima Nagar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=INAMDAR+Multi Specialty HOSPITAL ( Fatima Nagar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5031702",
     "longitude": "73.8999937",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Aruna Asaf Ali Marg, Qila Rai Pithora, New Delhi, Delhi 110067",
     "hospitalName": "INLAKS & BUDHARANI HOSPITAL ( Koregaon park)",
-    "normalBedTotal": 106,
+    "normalBedTotal": 107,
     "normalBedOccupied": "54",
-    "normalBedAvailable": "52",
+    "normalBedAvailable": "53",
     "oxygenBedTotal": 238,
     "oxygenBedAvaiable": "114",
     "oxygenBedOccupied": "124",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "13:53:43",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:17:06",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=INLAKS+& BUDHARANI HOSPITAL ( Koregaon park)+Pune&rlz=1C1CHBF_enIN859IN859&oq=INLAKS+& BUDHARANI HOSPITAL ( Koregaon park)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "28.5310367",
     "longitude": "77.1712626",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "BUILDING, SR.NO 84/2-D, FIRST FLOOR, BHAGIRATHI SQUARE, Morebaug Rd, Katraj, Pune, Maharashtra 411046",
@@ -682,37 +756,41 @@
     "normalBedTotal": 20,
     "normalBedOccupied": "10",
     "normalBedAvailable": "10",
-    "oxygenBedTotal": 73,
-    "oxygenBedAvaiable": "33",
+    "oxygenBedTotal": 74,
+    "oxygenBedAvaiable": "34",
     "oxygenBedOccupied": "40",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "10:26:51",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:40:03",
     "phoneNo": "08071 266 995",
     "googleSearch": "https://www.google.com/search?q=Jeevandhara+Multispeciality Hospital ( Katraj)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Jeevandhara+Multispeciality Hospital ( Katraj)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4490248",
     "longitude": "73.8578437",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Lane 3, Baner - Balewadi Rd, Prathamesh Park, Baner, Pune, Maharashtra 411045",
     "hospitalName": "Jupiter Hospital ( Baner )",
-    "normalBedTotal": 16,
+    "normalBedTotal": 17,
     "normalBedOccupied": "13",
-    "normalBedAvailable": "3",
-    "oxygenBedTotal": 116,
-    "oxygenBedAvaiable": "33",
+    "normalBedAvailable": "4",
+    "oxygenBedTotal": 126,
+    "oxygenBedAvaiable": "43",
     "oxygenBedOccupied": "83",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "15:24:37",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "12:41:11",
     "phoneNo": "020 2799 2799",
     "googleSearch": "https://www.google.com/search?q=Jupiter+Hospital ( Baner )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Jupiter+Hospital ( Baner )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5648165",
     "longitude": "73.7861185",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "163, DP road, Near DAV Public School, Harmony Society, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411007",
@@ -731,7 +809,9 @@
     "googleSearch": "https://www.google.com/search?q=Kotbagi+Hospital Aundh+Pune&rlz=1C1CHBF_enIN859IN859&oq=Kotbagi+Hospital Aundh+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5619325",
     "longitude": "73.8047899",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "2, Paud Road, Anjanwel, beside Vidya Sahakari Bank, Prashant Society, Pune, Maharashtra 411038",
@@ -739,18 +819,20 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 35,
-    "oxygenBedAvaiable": "13",
+    "oxygenBedTotal": 34,
+    "oxygenBedAvaiable": "12",
     "oxygenBedOccupied": "22",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "11:56:16",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "06:43:44",
     "phoneNo": "020 4140 3700",
     "googleSearch": "https://www.google.com/search?q=krishna+hospital ( Kothrud)+Pune&rlz=1C1CHBF_enIN859IN859&oq=krishna+hospital ( Kothrud)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5092257",
     "longitude": "73.8127778",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "402/A Gokhale Nagar Road Off Senapati Bapat Marg, Vetal Baba Chowk, Maharashtra 411016",
@@ -758,18 +840,20 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 133,
-    "oxygenBedAvaiable": "65",
+    "oxygenBedTotal": 136,
+    "oxygenBedAvaiable": "68",
     "oxygenBedOccupied": "68",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "15:01:44",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:43:10",
     "phoneNo": "098508 86909",
     "googleSearch": "https://www.google.com/search?q=Lokmanya+Hospital-Gokhale Nagar+Pune&rlz=1C1CHBF_enIN859IN859&oq=Lokmanya+Hospital-Gokhale Nagar+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5290662",
     "longitude": "73.8287597",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Janardhan Sadan, 1194/23, Ghole Rd, Sud Nagar, Shivajinagar, Pune, Maharashtra 411005",
@@ -788,7 +872,9 @@
     "googleSearch": "https://www.google.com/search?q=MJM+Hospital ( Shivajinagar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=MJM+Hospital ( Shivajinagar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5244752",
     "longitude": "73.8438402",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Anudatta Commercial Complex, Sinhgad Rd, Wadgaon Budruk, Narhe, Pune, Maharashtra 411041",
@@ -807,26 +893,30 @@
     "googleSearch": "https://www.google.com/search?q=Morya+Multi-specialty Hospital ( Sinhgad rd )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Morya+Multi-specialty Hospital ( Sinhgad rd )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4644973",
     "longitude": "73.8154612",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "153, Road, Magarpatta, Hadapsar, Pune, Maharashtra 411013",
     "hospitalName": "NOBLE HOSPITAL, ( Hadapsar )",
-    "normalBedTotal": 67,
+    "normalBedTotal": 70,
     "normalBedOccupied": "35",
-    "normalBedAvailable": "32",
-    "oxygenBedTotal": 353,
-    "oxygenBedAvaiable": "148",
+    "normalBedAvailable": "35",
+    "oxygenBedTotal": 339,
+    "oxygenBedAvaiable": "134",
     "oxygenBedOccupied": "205",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "14:51:57",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:59:58",
     "phoneNo": "080070 06611",
     "googleSearch": "https://www.google.com/search?q=NOBLE+HOSPITAL, ( Hadapsar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=NOBLE+HOSPITAL, ( Hadapsar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5049439",
     "longitude": "73.9270805",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "L-Square, Porwal Road, Sr. No. - 282/3/3, Off. Dhanori Jakat Naka, Lohegaon, Pune, Maharashtra 411047",
@@ -845,7 +935,9 @@
     "googleSearch": "https://www.google.com/search?q=ORCHID+HOSPITAL ( Lohegaon )+Pune&rlz=1C1CHBF_enIN859IN859&oq=ORCHID+HOSPITAL ( Lohegaon )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.6005417",
     "longitude": "73.9096051",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "1671-75, Ganeshkhind Rd, near Hotel Pride, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411016",
@@ -864,7 +956,9 @@
     "googleSearch": "https://www.google.com/search?q=Oyster+and Pearl Hospital ( Shivajinagar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Oyster+and Pearl Hospital ( Shivajinagar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5318833",
     "longitude": "73.8473584",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Survey No. 691A-1A-1 CTS No. 1897-B, Pune - Satara Rd, Bibwewadi, Pune, Maharashtra 411037",
@@ -877,32 +971,36 @@
     "oxygenBedOccupied": "30",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "13:54:56",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:50:45",
     "phoneNo": "091300 06009",
     "googleSearch": "https://www.google.com/search?q=Rao+Nursing Home ( Bibwewadi)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Rao+Nursing Home ( Bibwewadi)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4846648",
     "longitude": "73.8588867",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "968, Senapati Bapat Rd, Sheti Mahamandal, Shivaji Co operative Housing Society, Ramoshivadi, Wadarvadi, Pune, Maharashtra 411053",
     "hospitalName": "Ratna Memorial Hospital ( Senapati Bapat rd )",
-    "normalBedTotal": 66,
+    "normalBedTotal": 65,
     "normalBedOccupied": "34",
-    "normalBedAvailable": "32",
-    "oxygenBedTotal": 74,
-    "oxygenBedAvaiable": "34",
+    "normalBedAvailable": "31",
+    "oxygenBedTotal": 75,
+    "oxygenBedAvaiable": "35",
     "oxygenBedOccupied": "40",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "14:04:34",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:27:19",
     "phoneNo": "020 4109 7777",
     "googleSearch": "https://www.google.com/search?q=Ratna+Memorial Hospital ( Senapati Bapat rd )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Ratna+Memorial Hospital ( Senapati Bapat rd )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5276595",
     "longitude": "73.8296401",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Rajeev Gandhi Infotech Park, MIDC Phase No 1, Plot No, P-33, Hinjawadi - Wakad Rd, Pune, Maharashtra 411057",
@@ -921,7 +1019,9 @@
     "googleSearch": "https://www.google.com/search?q=RUBY+HALL CLINIC, Hinjawadi+Pune&rlz=1C1CHBF_enIN859IN859&oq=RUBY+HALL CLINIC, Hinjawadi+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.592599",
     "longitude": "73.7340401",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "SN 163, Bhosale Garden Rd, beside Bhosale Nagar, Hadapsar, Pune, Maharashtra 411028",
@@ -934,13 +1034,15 @@
     "oxygenBedOccupied": "45",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "14:48:46",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:59:41",
     "phoneNo": "088062 52525",
     "googleSearch": "https://www.google.com/search?q=Sahyadri+Hospital (Hadapsar)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Sahyadri+Hospital (Hadapsar)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5030243",
     "longitude": "73.9321215",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Plot No. 30-C, Erandvane, Karve Rd, Deccan Gymkhana, Pune, Maharashtra 411004",
@@ -948,18 +1050,20 @@
     "normalBedTotal": 30,
     "normalBedOccupied": "26",
     "normalBedAvailable": "4",
-    "oxygenBedTotal": 63,
-    "oxygenBedAvaiable": "10",
+    "oxygenBedTotal": 72,
+    "oxygenBedAvaiable": "19",
     "oxygenBedOccupied": "53",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "09:24:42",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:13:57",
     "phoneNo": "088062 52525",
     "googleSearch": "https://www.google.com/search?q=Sahyadri+Hospital Karve Road Deccan+Pune&rlz=1C1CHBF_enIN859IN859&oq=Sahyadri+Hospital Karve Road Deccan+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.513111",
     "longitude": "73.8392905",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Neena Co-op. Housing Society, Plot No. 9-B, S.No.1484A/B, Opp. Vanaz, Paud Rd, Lokmanya Colony, Kothrud, Pune, Maharashtra 411038",
@@ -967,18 +1071,20 @@
     "normalBedTotal": 8,
     "normalBedOccupied": "4",
     "normalBedAvailable": "4",
-    "oxygenBedTotal": 48,
-    "oxygenBedAvaiable": "18",
+    "oxygenBedTotal": 55,
+    "oxygenBedAvaiable": "25",
     "oxygenBedOccupied": "30",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "14:04:09",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:42:03",
     "phoneNo": "020 6721 3300",
     "googleSearch": "https://www.google.com/search?q=Sahyadri+Hospital Kothrud+Pune&rlz=1C1CHBF_enIN859IN859&oq=Sahyadri+Hospital Kothrud+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5075138",
     "longitude": "73.8056893",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Near Hermes Heritage, Nagar Rd, Shastrinagar, Yerawada, Pune, Maharashtra 411006",
@@ -991,13 +1097,15 @@
     "oxygenBedOccupied": "50",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "14:31:54",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:01:21",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=SAHYADRI+HOSPITAL NAGAR ROAD+Pune&rlz=1C1CHBF_enIN859IN859&oq=SAHYADRI+HOSPITAL NAGAR ROAD+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5542577",
     "longitude": "73.8970961",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "11/12 Thube Park 16, Shivajinagar, Pune, Maharashtra 411005",
@@ -1016,7 +1124,9 @@
     "googleSearch": "https://www.google.com/search?q=Sancheti+Hospital ( Shivajinagar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Sancheti+Hospital ( Shivajinagar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5299342",
     "longitude": "73.8529763",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "F.P23, off Karve Road, Kashibai Khilare Path, Opposite Pune Cenrtal, Pune, Maharashtra 411004",
@@ -1024,18 +1134,20 @@
     "normalBedTotal": 28,
     "normalBedOccupied": "14",
     "normalBedAvailable": "14",
-    "oxygenBedTotal": 74,
-    "oxygenBedAvaiable": "32",
+    "oxygenBedTotal": 80,
+    "oxygenBedAvaiable": "38",
     "oxygenBedOccupied": "42",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "26/05/2021",
-    "lastUpdatedTime": "16:08:43",
+    "lastUpdatedDate": "01/06/2021",
+    "lastUpdatedTime": "18:24:11",
     "phoneNo": "020 6725 0000",
     "googleSearch": "https://www.google.com/search?q=Sanjeevan+Hospital ( karve rd )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Sanjeevan+Hospital ( karve rd )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5102368",
     "longitude": "73.8370689",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Next to DSK Supinfocom International Campus, Near Loni Toll Naka, Pune Solapur Highway, Haveli, Pune, Fursungi, Maharashtra 412308",
@@ -1048,13 +1160,15 @@
     "oxygenBedOccupied": "29",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "11:15:09",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "09:05:16",
     "phoneNo": "080 4275 4125",
     "googleSearch": "https://www.google.com/search?q=Shivam+Hosp.( fursungi)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Shivam+Hosp.( fursungi)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4903747",
     "longitude": "74.0002244",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "next to Sun Bright School, Tukaram Nagar, Ambegaon BK, Pune, Maharashtra 411046",
@@ -1062,18 +1176,20 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 55,
-    "oxygenBedAvaiable": "26",
+    "oxygenBedTotal": 54,
+    "oxygenBedAvaiable": "25",
     "oxygenBedOccupied": "29",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "15:19:29",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:16:39",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Shwas+Multispeciality Hospital ( ambegaon bk )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Shwas+Multispeciality Hospital ( ambegaon bk )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4467895",
     "longitude": "73.8374195",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "SR.NO.74, 6, Raikar Mala Rd, Mahadev Nagar, Dhayari, Pune, Maharashtra 411041",
@@ -1081,18 +1197,20 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 103,
-    "oxygenBedAvaiable": "50",
+    "oxygenBedTotal": 105,
+    "oxygenBedAvaiable": "52",
     "oxygenBedOccupied": "53",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "10:39:35",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:57:55",
     "phoneNo": "080 4805 3409",
     "googleSearch": "https://www.google.com/search?q=SILVER+BIRCH MULTISPECIALITY HOSPITAL ( Dhayari)+Pune&rlz=1C1CHBF_enIN859IN859&oq=SILVER+BIRCH MULTISPECIALITY HOSPITAL ( Dhayari)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.440705",
     "longitude": "73.8095815",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Kamdhenu Estate, near, Mantri Market Rd, Malwadi, Hadapsar, Pune, Maharashtra 403702",
@@ -1111,7 +1229,9 @@
     "googleSearch": "https://www.google.com/search?q=Ushakiran+Hospital ( Hadapsar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Ushakiran+Hospital ( Hadapsar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5020211",
     "longitude": "73.934834",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Survey No. 168/10+11, Behind Sadhana Girl's High School,pp Madhav baug society Keshav Chowk, D P Road, Malwadi, Sadesatara, Nali Road, Hadapsar, Pune, Maharashtra 411028",
@@ -1130,7 +1250,9 @@
     "googleSearch": "https://www.google.com/search?q=Yash+Hospital Hadpasr+Pune&rlz=1C1CHBF_enIN859IN859&oq=Yash+Hospital Hadpasr+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.510314",
     "longitude": "73.9380043",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " s.no.7/40,aambedkar nagar,near crown bakery, kondhwa,pune 48",
@@ -1138,35 +1260,39 @@
     "normalBedTotal": 20,
     "normalBedOccupied": "10",
     "normalBedAvailable": "10",
-    "oxygenBedTotal": 38,
-    "oxygenBedAvaiable": "18",
+    "oxygenBedTotal": 39,
+    "oxygenBedAvaiable": "19",
     "oxygenBedOccupied": "20",
     "state": "Maharashtra",
     "district": "Pune",
     "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "15:25:00",
+    "lastUpdatedTime": "16:40:31",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=aarya+multispecity hospital(kondhwa)+Pune&rlz=1C1CHBF_enIN859IN859&oq=aarya+multispecity hospital(kondhwa)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "1st floor Aadhar hospital Green City, Satav Nagar, Handewadi Rd, Hadapsar, Pune, Maharashtra 411028",
     "hospitalName": "Adhar hospital ( Hadapsar )",
-    "normalBedTotal": 12,
+    "normalBedTotal": 11,
     "normalBedOccupied": "6",
-    "normalBedAvailable": "6",
+    "normalBedAvailable": "5",
     "oxygenBedTotal": 24,
     "oxygenBedAvaiable": "12",
     "oxygenBedOccupied": "12",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "12:28:31",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:38:44",
     "phoneNo": "020 3590 2114",
     "googleSearch": "https://www.google.com/search?q=Adhar+hospital ( Hadapsar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Adhar+hospital ( Hadapsar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4619257",
     "longitude": "73.9323287",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Samrudhhi Heights , opp forest colony paravti gaon pune 411009",
@@ -1179,11 +1305,13 @@
     "oxygenBedOccupied": "10",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "09:28:11",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "09:19:36",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Adhar+Hospital (paravti gaon)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Adhar+Hospital (paravti gaon)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Sangarsh Chowk, Kharadi Rd, Preet Nagar, Pune, Maharashtra 411014",
@@ -1202,7 +1330,9 @@
     "googleSearch": "https://www.google.com/search?q=Agarwal+Maternity & General  Hospital (Chandan Nagar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Agarwal+Maternity & General  Hospital (Chandan Nagar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5589268",
     "longitude": "73.9311098",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "411042, Ghorpade Peth, Swargate, Pune, Maharashtra 411042",
@@ -1215,13 +1345,15 @@
     "oxygenBedOccupied": "14",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "12:21:01",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:06:02",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Allince+Munot Hospital ( Bhawani Peth )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Allince+Munot Hospital ( Bhawani Peth )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5056059",
     "longitude": "73.8647226",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " SUDARSHAN COMPLEX , 2 ND FLOOR, NEAR CHITRA TAKIES, OPP KASHMIRI COLONY, YERWADA,PUNE06 ",
@@ -1238,26 +1370,30 @@
     "lastUpdatedTime": "16:06:35",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=AMRUT+HOSPITAL ( Yerwada)+Pune&rlz=1C1CHBF_enIN859IN859&oq=AMRUT+HOSPITAL ( Yerwada)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Unnamed Road, Raut Bag Society, Pratibha Nagar, Dhankawadi, Pune, Maharashtra 411043",
     "hospitalName": "ANAND HOSP ( DHANKAWADI)",
-    "normalBedTotal": 16,
+    "normalBedTotal": 15,
     "normalBedOccupied": "8",
-    "normalBedAvailable": "8",
+    "normalBedAvailable": "7",
     "oxygenBedTotal": 10,
     "oxygenBedAvaiable": "5",
     "oxygenBedOccupied": "5",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "13:39:08",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:14:51",
     "phoneNo": "098224 38909",
     "googleSearch": "https://www.google.com/search?q=ANAND+HOSP ( DHANKAWADI)+Pune&rlz=1C1CHBF_enIN859IN859&oq=ANAND+HOSP ( DHANKAWADI)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4662234",
     "longitude": "73.8500019",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "1st Floor, Chavan-Mohite Complex, Above Jalgaon Bank, Umbrya Ganpati Chowk, Pune, Maharashtra 411041",
@@ -1265,18 +1401,20 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 9,
-    "oxygenBedAvaiable": "3",
+    "oxygenBedTotal": 12,
+    "oxygenBedAvaiable": "6",
     "oxygenBedOccupied": "6",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "12:34:19",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:04:58",
     "phoneNo": "083800 80059",
     "googleSearch": "https://www.google.com/search?q=Anuja+Hospital ( Dhayari )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Anuja+Hospital ( Dhayari )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.447798",
     "longitude": "73.810522",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Anup Hospital . D-2 Rakshalekha Society, Dattawadi, Pune, Maharashtra 411030",
@@ -1295,7 +1433,9 @@
     "googleSearch": "https://www.google.com/search?q=ANUP+HOSPITAL ( Dattawadi )+Pune&rlz=1C1CHBF_enIN859IN859&oq=ANUP+HOSPITAL ( Dattawadi )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4987391",
     "longitude": "73.8383157",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "S No. 289, Wadgaon Shinde Road, Shivnagar Chirke Colony, Lohegaon, Maharashtra 411047",
@@ -1314,7 +1454,9 @@
     "googleSearch": "https://www.google.com/search?q=APPLE+HOSPITAL ( LOHAGON )+Pune&rlz=1C1CHBF_enIN859IN859&oq=APPLE+HOSPITAL ( LOHAGON )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.603004",
     "longitude": "73.926779",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "S No. 289, Wadgaon Shinde Road, Shivnagar Chirke Colony, Lohegaon, Maharashtra 411047",
@@ -1327,13 +1469,15 @@
     "oxygenBedOccupied": "5",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "14:11:39",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "11:42:25",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Apple+Hospital 2  ( Wadgaon Shinde rd, Lohgaon )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Apple+Hospital 2  ( Wadgaon Shinde rd, Lohgaon )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.603004",
     "longitude": "73.926779",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Heera Arjun Complex, Fursungi Bhekrai Rd, Trimurti Vihar, Pune, Maharashtra 411028",
@@ -1352,7 +1496,9 @@
     "googleSearch": "https://www.google.com/search?q=Asha+Clinic ( Fursungi )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Asha+Clinic ( Fursungi )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4846259",
     "longitude": "73.9557848",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Sadashiv Peth. Near SP College, Tilak rd",
@@ -1369,7 +1515,9 @@
     "lastUpdatedTime": "13:23:54",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Astang+Multispeciality Hospital ( Sadashiv Peth )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Astang+Multispeciality Hospital ( Sadashiv Peth )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Bhakare Super Speciality Hospital And research Institute, Jambuwadi Path, Datta Vihar, Dattanagar, Shani Nagar, Ambegaon BK, Pune, Maharashtra 411046",
@@ -1388,26 +1536,30 @@
     "googleSearch": "https://www.google.com/search?q=Bhakare+Super Speciality Hospital & Research Institute ( Ambegaon BK)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Bhakare+Super Speciality Hospital & Research Institute ( Ambegaon BK)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4481155",
     "longitude": "73.8491351",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "4, Narveer Tanaji Malusare Rd, Anand Nagar, Pune, Maharashtra 411051",
     "hospitalName": "Bhandari Hospital( Anand nagar )",
-    "normalBedTotal": 8,
+    "normalBedTotal": 5,
     "normalBedOccupied": "5",
-    "normalBedAvailable": "3",
+    "normalBedAvailable": "0",
     "oxygenBedTotal": 27,
     "oxygenBedAvaiable": "12",
     "oxygenBedOccupied": "15",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "10:36:43",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:55:45",
     "phoneNo": "020 2435 2147",
     "googleSearch": "https://www.google.com/search?q=Bhandari+Hospital( Anand nagar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Bhandari+Hospital( Anand nagar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4776805",
     "longitude": "73.8234873",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "3, Bharati Vidyapeeth Campus, Dhankawadi, Pune, Maharashtra 411043",
@@ -1420,13 +1572,15 @@
     "oxygenBedOccupied": "12",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "12:15:12",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:14:47",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Bharati+Hospital ( Ayurvedic ) Dhankawadi+Pune&rlz=1C1CHBF_enIN859IN859&oq=Bharati+Hospital ( Ayurvedic ) Dhankawadi+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4588357",
     "longitude": "73.8564635",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "589, Dhor Galli,Ganesh Peth Road, Ganesh Peth, Pune, Maharashtra 411002",
@@ -1445,7 +1599,9 @@
     "googleSearch": "https://www.google.com/search?q=Bora+Hospital ( Ganesh Peth )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Bora+Hospital ( Ganesh Peth )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5115069",
     "longitude": "73.8628048",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "64/A, Airport Rd, Kasturba Housing Society, Visharant Wadi, Pune, Maharashtra 411006",
@@ -1464,7 +1620,9 @@
     "googleSearch": "https://www.google.com/search?q=Chaitanya+clinic ( Vishrantwadi )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Chaitanya+clinic ( Vishrantwadi )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.572801",
     "longitude": "73.881542",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "NDA Rd, Bhagirathi Nagar, Warje, Pune, Maharashtra 411023",
@@ -1477,13 +1635,15 @@
     "oxygenBedOccupied": "10",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "11:06:46",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:05:59",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=chaitanya+hospital ( warje )+Pune&rlz=1C1CHBF_enIN859IN859&oq=chaitanya+hospital ( warje )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4778445",
     "longitude": "73.7977384",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Chandra Heights, Katraj - Kondhwa Rd, near Khadi Machine Chowk, Kondhwa Budruk, Pune, Maharashtra 411048",
@@ -1502,26 +1662,30 @@
     "googleSearch": "https://www.google.com/search?q=CHANDRA+NURSING HOME ( Kondhwa BK )+Pune&rlz=1C1CHBF_enIN859IN859&oq=CHANDRA+NURSING HOME ( Kondhwa BK )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4522402",
     "longitude": "73.8906507",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Chandrika Society, Bibvewadi Rd, Vasant Baug, Vasant Baug Society, Bibwewadi, Pune, Maharashtra 411037",
     "hospitalName": "Chandralok hospital ( Bibwewadi)",
-    "normalBedTotal": 16,
+    "normalBedTotal": 18,
     "normalBedOccupied": "9",
-    "normalBedAvailable": "7",
+    "normalBedAvailable": "9",
     "oxygenBedTotal": 10,
     "oxygenBedAvaiable": "5",
     "oxygenBedOccupied": "5",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "08:10:13",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "13:22:08",
     "phoneNo": "0788 788 1499",
     "googleSearch": "https://www.google.com/search?q=Chandralok+hospital ( Bibwewadi)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Chandralok+hospital ( Bibwewadi)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4803162",
     "longitude": "73.8610096",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Tarachand Complex, Chinmay Hospital and Prasutigruha, NDA Police Chauky, Uttam Nagar, Pune, Maharashtra 411023",
@@ -1540,7 +1704,9 @@
     "googleSearch": "https://www.google.com/search?q=Chinmay+Hospital ( Uttamnagar )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Chinmay+Hospital ( Uttamnagar )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4600148",
     "longitude": "73.7716093",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "near, s no.3 , kamal nagar, datta mandir chowk, near datta mandir chowk, Vitthal Nagar, Digambar Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
@@ -1559,7 +1725,9 @@
     "googleSearch": "https://www.google.com/search?q=City+Care Hospital ( Wadgoan Sheri)+Pune&rlz=1C1CHBF_enIN859IN859&oq=City+Care Hospital ( Wadgoan Sheri)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5449381",
     "longitude": "73.9219414",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Motiram Complex, Paud Rd, Opp. Kachara Depot, Shastri Nagar, Kothrud, Pune, Maharashtra 411029",
@@ -1567,18 +1735,20 @@
     "normalBedTotal": 8,
     "normalBedOccupied": "6",
     "normalBedAvailable": "2",
-    "oxygenBedTotal": 44,
-    "oxygenBedAvaiable": "20",
+    "oxygenBedTotal": 45,
+    "oxygenBedAvaiable": "21",
     "oxygenBedOccupied": "24",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "30/05/2021",
-    "lastUpdatedTime": "10:59:02",
+    "lastUpdatedDate": "01/06/2021",
+    "lastUpdatedTime": "21:10:36",
     "phoneNo": "099213 59090",
     "googleSearch": "https://www.google.com/search?q=city+hospital ( kothrud)+Pune&rlz=1C1CHBF_enIN859IN859&oq=city+hospital ( kothrud)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5072286",
     "longitude": "73.7997657",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "opp. Seth Tarachand Ramnath Charitable Hospital, Rasta Peth, Pune, Maharashtra 411011",
@@ -1597,7 +1767,9 @@
     "googleSearch": "https://www.google.com/search?q=Critical+health care facility, Pune ( Rasta Peth)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Critical+health care facility, Pune ( Rasta Peth)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5178525",
     "longitude": "73.8640501",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "16, Shree Ram Pride, Dhanori Rd, Madhav Nagar, Dhanori, Pune, Maharashtra 411015",
@@ -1616,7 +1788,9 @@
     "googleSearch": "https://www.google.com/search?q=CT+NURSING HOME ( Dhanori )+Pune&rlz=1C1CHBF_enIN859IN859&oq=CT+NURSING HOME ( Dhanori )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5969141",
     "longitude": "73.9001172",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "339-c, next to Kaka Halwai, Rasta Peth, Pune, Maharashtra 411011",
@@ -1629,13 +1803,15 @@
     "oxygenBedOccupied": "9",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "14:58:14",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "14:01:43",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Dhanawantari+hospital ( Rasta peth )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Dhanawantari+hospital ( Rasta peth )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5194438",
     "longitude": "73.8659697",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Plot.No 51/246, Bhairav Nagar, Dhanori, Near Ganpati Mandir, Pune, Maharashtra 411015",
@@ -1654,7 +1830,9 @@
     "googleSearch": "https://www.google.com/search?q=dhanwantari+hospital ( dhanori)+Pune&rlz=1C1CHBF_enIN859IN859&oq=dhanwantari+hospital ( dhanori)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.583414",
     "longitude": "73.8859538",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " Trimurti Vihar BLDG NO 1, Bhekarrai Nagar, Near Daata Mandir, Pune Saswad rd, Fursungi ",
@@ -1671,7 +1849,9 @@
     "lastUpdatedTime": "11:02:27",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Dhanwantari+Hospital ( Fursungi )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Dhanwantari+Hospital ( Fursungi )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": " sr.no.225/9a+97, near uco bank, gadital, pune solapur rd, hadapsar,pune",
@@ -1688,7 +1868,9 @@
     "lastUpdatedTime": "18:47:51",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Dr.Mhaske+hospital ( Hadapsar)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Dr.Mhaske+hospital ( Hadapsar)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Matru Smruti Complex, Pune - Solapur Rd, near Krishnachaya Hotel, Malwadi, Hadapsar, Pune, Maharashtra 411028",
@@ -1707,7 +1889,9 @@
     "googleSearch": "https://www.google.com/search?q=Gaikwad+Hospital ( Hadapsar)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Gaikwad+Hospital ( Hadapsar)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5012309",
     "longitude": "73.9367059",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "25-A, Ayurvedic Rasashala Premises,, Karve Road, Opposite Garware College, Pune, Maharashtra 411004",
@@ -1726,7 +1910,9 @@
     "googleSearch": "https://www.google.com/search?q=Galaxy+Care Hospital (Karve rd)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Galaxy+Care Hospital (Karve rd)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5109506",
     "longitude": "73.8370631",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Rohan Ishita, next to passport office, Pingale Wasti, Mundhwa, Pune, Maharashtra 411036",
@@ -1739,13 +1925,15 @@
     "oxygenBedOccupied": "15",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "14:43:59",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "09:13:57",
     "phoneNo": "020 2688 1990",
     "googleSearch": "https://www.google.com/search?q=GANGA+NURSING HOME (Mundhwa)+Pune&rlz=1C1CHBF_enIN859IN859&oq=GANGA+NURSING HOME (Mundhwa)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5304675",
     "longitude": "73.9129062",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Azad Nagar, Sr No 87, Kothrud, Azad Nagar, Pune, Maharashtra 411038",
@@ -1764,7 +1952,9 @@
     "googleSearch": "https://www.google.com/search?q=GIRIJA+HOSPITAL ( Kothrud)+Pune&rlz=1C1CHBF_enIN859IN859&oq=GIRIJA+HOSPITAL ( Kothrud)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.503618",
     "longitude": "73.8079464",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "577/2, off Sinhgad Road, Police Chaoki Rd, near Dattawadi, Dattawadi, Pune, Maharashtra 411030",
@@ -1783,7 +1973,9 @@
     "googleSearch": "https://www.google.com/search?q=Global+Hospital ( Yerwada )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Global+Hospital ( Yerwada )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5011632",
     "longitude": "73.8413848",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "577/2, off Sinhgad Road, Police Chaoki Rd, near Dattawadi, Dattawadi, Pune, Maharashtra 411030",
@@ -1796,13 +1988,15 @@
     "oxygenBedOccupied": "76",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "15:00:34",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "12:00:32",
     "phoneNo": "020 2452 2452",
     "googleSearch": "https://www.google.com/search?q=Global+Hospital (Sinhgad rd )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Global+Hospital (Sinhgad rd )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5011632",
     "longitude": "73.8413848",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Narveer Tanaji Malusare Rd, Dandekar Pool, Parvati Paytha, Pune, Maharashtra 411030",
@@ -1821,7 +2015,9 @@
     "googleSearch": "https://www.google.com/search?q=Gurukrupa+Hospital ( Dandekar Bridge )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Gurukrupa+Hospital ( Dandekar Bridge )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5003689",
     "longitude": "73.8469538",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "Todkar garden, Bibwewadi Kondhwa Rd, above South Indian Bank, Pune, Maharashtra 411037",
@@ -1829,18 +2025,20 @@
     "normalBedTotal": 0,
     "normalBedOccupied": "0",
     "normalBedAvailable": "0",
-    "oxygenBedTotal": 14,
-    "oxygenBedAvaiable": "5",
+    "oxygenBedTotal": 15,
+    "oxygenBedAvaiable": "6",
     "oxygenBedOccupied": "9",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "10:12:45",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "10:19:12",
     "phoneNo": "020 3590 6718",
     "googleSearch": "https://www.google.com/search?q=Harsh+Hospital ( Bibwewadi)+Pune&rlz=1C1CHBF_enIN859IN859&oq=Harsh+Hospital ( Bibwewadi)+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.4810026",
     "longitude": "73.8662476",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalAddress": "New Nana Peth, Ganesh Peth, Pune, Maharashtra 411002",
@@ -1853,23 +2051,25 @@
     "oxygenBedOccupied": "5",
     "state": "Maharashtra",
     "district": "Pune",
-    "lastUpdatedDate": "01/06/2021",
-    "lastUpdatedTime": "08:21:19",
+    "lastUpdatedDate": "02/06/2021",
+    "lastUpdatedTime": "11:07:09",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Hope+hospital ( New Nana peth )+Pune&rlz=1C1CHBF_enIN859IN859&oq=Hope+hospital ( New Nana peth )+Pune&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "18.5127199",
     "longitude": "73.86949",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Terna Hospital",
     "hospitalAddress": "Plot no 12, Sector 22 Railway Station, opp. Nerul, Nerul West, Navi Mumbai, Maharashtra 400706",
     "normalBedTotal": "110",
-    "normalBedOccupied": "30",
-    "normalBedAvailable": "80",
+    "normalBedOccupied": "34",
+    "normalBedAvailable": "76",
     "oxygenBedTotal": "37",
-    "oxygenBedOccupied": "2",
-    "oxygenBedAvailable": "35",
+    "oxygenBedOccupied": "5",
+    "oxygenBedAvailable": "32",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -1878,17 +2078,19 @@
     "phoneNo": "022 6157 8300",
     "latitude": "19.0315617",
     "longitude": "73.0162449",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Fortis Hospital",
     "hospitalAddress": "Mini, Seashore Rd, Juhu Nagar, Sector 10A, Vashi, Navi Mumbai, Maharashtra 400703",
     "normalBedTotal": "75",
-    "normalBedOccupied": "42",
-    "normalBedAvailable": "33",
+    "normalBedOccupied": "38",
+    "normalBedAvailable": "37",
     "oxygenBedTotal": "45",
-    "oxygenBedOccupied": "23",
-    "oxygenBedAvailable": "22",
+    "oxygenBedOccupied": "21",
+    "oxygenBedAvailable": "24",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -1897,17 +2099,19 @@
     "phoneNo": "022 6285 7001",
     "latitude": "19.0836483",
     "longitude": "72.9959203",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Reliance Hospital",
     "hospitalAddress": "Thane - Belapur Road, opp. Kopar Khairane Station, next to Dhirubhai Ambani Knowledge City, Navi Mumbai, Maharashtra 400710",
     "normalBedTotal": "110",
-    "normalBedOccupied": "80",
-    "normalBedAvailable": "30",
+    "normalBedOccupied": "77",
+    "normalBedAvailable": "33",
     "oxygenBedTotal": "70",
-    "oxygenBedOccupied": "42",
-    "oxygenBedAvailable": "28",
+    "oxygenBedOccupied": "39",
+    "oxygenBedAvailable": "31",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -1916,7 +2120,9 @@
     "phoneNo": "022 7197 9797",
     "latitude": "19.1029013",
     "longitude": "73.0130259",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "MGM Hospital",
@@ -1935,17 +2141,19 @@
     "phoneNo": "022 3514 2400",
     "latitude": "19.0257788",
     "longitude": "73.0414457",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "MPCT Hospital",
     "hospitalAddress": "C7, Budhyadev Mandir Marg, Sector 4, Sanpada, Navi Mumbai, Maharashtra 400705",
     "normalBedTotal": "93",
-    "normalBedOccupied": "50",
-    "normalBedAvailable": "43",
+    "normalBedOccupied": "49",
+    "normalBedAvailable": "44",
     "oxygenBedTotal": "73",
-    "oxygenBedOccupied": "40",
-    "oxygenBedAvailable": "33",
+    "oxygenBedOccupied": "39",
+    "oxygenBedAvailable": "34",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -1954,7 +2162,9 @@
     "phoneNo": "022 2775 0000",
     "latitude": "19.0631491",
     "longitude": "73.0124048",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Apollo Hospital",
@@ -1973,7 +2183,9 @@
     "phoneNo": "022 6280 6280",
     "latitude": "19.0205055",
     "longitude": "73.0289405",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "PKC Hospital",
@@ -1992,17 +2204,19 @@
     "phoneNo": "022 6275 0100",
     "latitude": "19.080553",
     "longitude": "73.003048",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Indravati Hospital",
     "hospitalAddress": "Sector 3K, Behind NMMT Bus Depot Airoli(W, Navi Mumbai, Maharashtra 400708",
     "normalBedTotal": "90",
-    "normalBedOccupied": "26",
-    "normalBedAvailable": "64",
+    "normalBedOccupied": "28",
+    "normalBedAvailable": "62",
     "oxygenBedTotal": "65",
-    "oxygenBedOccupied": "21",
-    "oxygenBedAvailable": "44",
+    "oxygenBedOccupied": "23",
+    "oxygenBedAvailable": "42",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -2011,17 +2225,19 @@
     "phoneNo": "022 6161 7777",
     "latitude": "19.1568018",
     "longitude": "72.9977264",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Sunshine Hospital",
     "hospitalAddress": "C19 Plot No. 3 Sector 16, Opp. Sea Breeze Society, Dharshana Society, Nerul, Navi Mumbai, Maharashtra 400706",
     "normalBedTotal": "33",
-    "normalBedOccupied": "10",
-    "normalBedAvailable": "23",
+    "normalBedOccupied": "8",
+    "normalBedAvailable": "25",
     "oxygenBedTotal": "20",
-    "oxygenBedOccupied": "2",
-    "oxygenBedAvailable": "18",
+    "oxygenBedOccupied": "1",
+    "oxygenBedAvailable": "19",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -2030,7 +2246,9 @@
     "phoneNo": "022 2771 3283",
     "latitude": "19.0362723",
     "longitude": "73.0096652",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Dr. D. Y. Patil Hospital",
@@ -2049,17 +2267,19 @@
     "phoneNo": "022 2773 6901",
     "latitude": "19.0411561",
     "longitude": "73.0246854",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "CIDCO Exhibition Center Vashi",
     "hospitalAddress": "Sector 30, Vashi, Navi Mumbai, Maharashtra 400703",
     "normalBedTotal": "702",
-    "normalBedOccupied": "409",
-    "normalBedAvailable": "293",
+    "normalBedOccupied": "180",
+    "normalBedAvailable": "522",
     "oxygenBedTotal": "702",
-    "oxygenBedOccupied": "409",
-    "oxygenBedAvailable": "293",
+    "oxygenBedOccupied": "180",
+    "oxygenBedAvailable": "522",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -2068,7 +2288,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.0653579",
     "longitude": "72.99514",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "New Millennium hospital",
@@ -2085,7 +2307,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=New+Millennium hospital+Sanpada&rlz=1C1CHBF_enIN859IN859&oq=New+Millennium hospital+Sanpada&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "New Manak hospital",
@@ -2104,17 +2328,19 @@
     "phoneNo": "022 2772 1981",
     "latitude": "19.041431",
     "longitude": "73.015898",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Venus multispeciality hospital",
     "hospitalAddress": "plot no.109, opp. Rajendra Ashram, Sector 1, Savoli, Sector 1, Ghansoli, Navi Mumbai, Maharashtra 400701",
     "normalBedTotal": "12",
-    "normalBedOccupied": "4",
-    "normalBedAvailable": "8",
+    "normalBedOccupied": "2",
+    "normalBedAvailable": "10",
     "oxygenBedTotal": "5",
-    "oxygenBedOccupied": "1",
-    "oxygenBedAvailable": "4",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "5",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -2123,7 +2349,9 @@
     "phoneNo": "077000 19043",
     "latitude": "19.1126537",
     "longitude": "73.0020257",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Rajpal Hospital ",
@@ -2142,7 +2370,9 @@
     "phoneNo": "088792 57603",
     "latitude": "19.0997617",
     "longitude": "73.0021534",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Siddhika Hospital ",
@@ -2161,7 +2391,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.0967945",
     "longitude": "73.0006756",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "MGM ",
@@ -2180,14 +2412,16 @@
     "phoneNo": "022 5066 6777",
     "latitude": "19.0726862",
     "longitude": "72.993435",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "MGM ",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "75",
-    "normalBedOccupied": "4",
-    "normalBedAvailable": "71",
+    "normalBedOccupied": "6",
+    "normalBedAvailable": "69",
     "oxygenBedTotal": "0",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
@@ -2197,7 +2431,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=MGM++Sanpada&rlz=1C1CHBF_enIN859IN859&oq=MGM++Sanpada&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Radha Swami Satsang Hall",
@@ -2216,17 +2452,19 @@
     "phoneNo": "098210 46499",
     "latitude": "19.0674828",
     "longitude": "73.0181324",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Ojas Hospital",
     "hospitalAddress": "Plot No. 8, 3, behind MGM High School, Phase 2, Sector 8, Nerul, Navi Mumbai, Maharashtra 400706",
     "normalBedTotal": "14",
-    "normalBedOccupied": "5",
-    "normalBedAvailable": "9",
+    "normalBedOccupied": "7",
+    "normalBedAvailable": "7",
     "oxygenBedTotal": "9",
-    "oxygenBedOccupied": "3",
-    "oxygenBedAvailable": "6",
+    "oxygenBedOccupied": "5",
+    "oxygenBedAvailable": "4",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -2235,7 +2473,9 @@
     "phoneNo": "022 2772 5634",
     "latitude": "19.0417915",
     "longitude": "73.0167188",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "criticare iccu multispeciality & Trauma center",
@@ -2252,7 +2492,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=criticare+iccu multispeciality & Trauma center+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=criticare+iccu multispeciality & Trauma center+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Global 5 Health Care & Multispeciality Hospital",
@@ -2261,15 +2503,17 @@
     "normalBedOccupied": "8",
     "normalBedAvailable": "13",
     "oxygenBedTotal": "6",
-    "oxygenBedOccupied": "2",
-    "oxygenBedAvailable": "4",
+    "oxygenBedOccupied": "3",
+    "oxygenBedAvailable": "3",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Global+5 Health Care & Multispeciality Hospital+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Global+5 Health Care & Multispeciality Hospital+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Divine Hospital",
@@ -2288,7 +2532,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.1206406",
     "longitude": "73.0028253",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Export House Turbe",
@@ -2307,7 +2553,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.0784181",
     "longitude": "73.010341",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Shree Hospital Vashi",
@@ -2326,7 +2574,9 @@
     "phoneNo": "098202 29691",
     "latitude": "19.0729832",
     "longitude": "72.9983273",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Sai Seva Hospital ",
@@ -2345,14 +2595,16 @@
     "phoneNo": "022 2779 6360",
     "latitude": "19.1554833",
     "longitude": "72.997454",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Satyam Hospital",
     "hospitalAddress": "410218, Sector 3E, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218",
     "normalBedTotal": "30",
-    "normalBedOccupied": "15",
-    "normalBedAvailable": "15",
+    "normalBedOccupied": "19",
+    "normalBedAvailable": "11",
     "oxygenBedTotal": "15",
     "oxygenBedOccupied": "9",
     "oxygenBedAvailable": "6",
@@ -2364,14 +2616,16 @@
     "phoneNo": "022 2742 1266",
     "latitude": "19.0264825",
     "longitude": "73.1049911",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Suyash Hospital",
     "hospitalAddress": "Ugam Complex, 51, Sector 40, Seawoods, Navi Mumbai, Maharashtra 400706",
     "normalBedTotal": "50",
-    "normalBedOccupied": "8",
-    "normalBedAvailable": "42",
+    "normalBedOccupied": "7",
+    "normalBedAvailable": "43",
     "oxygenBedTotal": "10",
     "oxygenBedOccupied": "1",
     "oxygenBedAvailable": "9",
@@ -2383,17 +2637,19 @@
     "phoneNo": "098925 18676",
     "latitude": "19.019628",
     "longitude": "73.016129",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Apple Hospital ",
     "hospitalAddress": "Shree Gurudatta Complex, Sec -8, Gothivali Village, Sector 8A, Airoli, Navi Mumbai, Maharashtra 400708",
     "normalBedTotal": "16",
-    "normalBedOccupied": "4",
-    "normalBedAvailable": "12",
+    "normalBedOccupied": "3",
+    "normalBedAvailable": "13",
     "oxygenBedTotal": "7",
-    "oxygenBedOccupied": "1",
-    "oxygenBedAvailable": "6",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "7",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -2402,7 +2658,9 @@
     "phoneNo": "022 2769 4445",
     "latitude": "19.1444301",
     "longitude": "72.9953012",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "MGM Hospital",
@@ -2421,7 +2679,9 @@
     "phoneNo": "022 2743 7900",
     "latitude": "19.0176353",
     "longitude": "73.1043852",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Om Gagan Giri Koparkhairne",
@@ -2440,7 +2700,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.1023521",
     "longitude": "73.0036525",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Ajayan hospital",
@@ -2457,17 +2719,19 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Ajayan+hospital+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Ajayan+hospital+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Avadhoot hospital",
     "hospitalAddress": "Sector-19, Airoli, Navi Mumbai, Maharashtra 400708",
     "normalBedTotal": "21",
-    "normalBedOccupied": "8",
-    "normalBedAvailable": "13",
+    "normalBedOccupied": "7",
+    "normalBedAvailable": "14",
     "oxygenBedTotal": "5",
-    "oxygenBedOccupied": "3",
-    "oxygenBedAvailable": "2",
+    "oxygenBedOccupied": "2",
+    "oxygenBedAvailable": "3",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
@@ -2476,7 +2740,9 @@
     "phoneNo": "022 2779 0909",
     "latitude": "19.1597806",
     "longitude": "72.9925961",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Nirmal Hospital",
@@ -2495,7 +2761,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.1033874",
     "longitude": "73.0089924",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Ashwini Speciality Hospital",
@@ -2514,7 +2782,9 @@
     "phoneNo": "079001 81498",
     "latitude": "19.0982353",
     "longitude": "72.9997351",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Jasmine Hospital",
@@ -2533,7 +2803,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.1487014",
     "longitude": "72.999729",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Acharya Shri Nanesh hospital CBD",
@@ -2552,7 +2824,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.0333355",
     "longitude": "73.0412008",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Mody Hospital",
@@ -2571,7 +2845,9 @@
     "phoneNo": "022 2779 1851",
     "latitude": "19.1610636",
     "longitude": "72.9988168",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Heritage Health Care",
@@ -2590,24 +2866,28 @@
     "phoneNo": "097686 80000",
     "latitude": "19.1475997",
     "longitude": "72.9973188",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Gavali Hospital",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "12",
-    "normalBedOccupied": "2",
-    "normalBedAvailable": "10",
+    "normalBedOccupied": "3",
+    "normalBedAvailable": "9",
     "oxygenBedTotal": "7",
-    "oxygenBedOccupied": "2",
-    "oxygenBedAvailable": "5",
+    "oxygenBedOccupied": "3",
+    "oxygenBedAvailable": "4",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "district": "Thane",
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Gavali+Hospital+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Gavali+Hospital+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Ashirwad Hospital Koparkhairane",
@@ -2624,7 +2904,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Ashirwad+Hospital Koparkhairane+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Ashirwad+Hospital Koparkhairane+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Palm Beach Multispeciality Hospital",
@@ -2641,7 +2923,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Palm+Beach Multispeciality Hospital+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Palm+Beach Multispeciality Hospital+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "New bombay Hospital Airoli",
@@ -2660,14 +2944,16 @@
     "phoneNo": "097028 52255",
     "latitude": "19.1607539",
     "longitude": "72.9935305",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "CIDCO Exhibition Hall",
     "hospitalAddress": "Sector 30, Vashi, Navi Mumbai, Maharashtra 400703",
     "normalBedTotal": "407",
-    "normalBedOccupied": "81",
-    "normalBedAvailable": "326",
+    "normalBedOccupied": "172",
+    "normalBedAvailable": "235",
     "oxygenBedTotal": "",
     "oxygenBedOccupied": "",
     "oxygenBedAvailable": "",
@@ -2679,14 +2965,16 @@
     "phoneNo": "098704 16640",
     "latitude": "19.0653579",
     "longitude": "72.99514",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Reliance IT Park Ghansoli",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "110",
-    "normalBedOccupied": "50",
-    "normalBedAvailable": "60",
+    "normalBedOccupied": "49",
+    "normalBedAvailable": "61",
     "oxygenBedTotal": "",
     "oxygenBedOccupied": "",
     "oxygenBedAvailable": "",
@@ -2696,14 +2984,16 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Reliance+IT Park Ghansoli+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Reliance+IT Park Ghansoli+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "CCC ETC VASHI",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "200",
-    "normalBedOccupied": "11",
-    "normalBedAvailable": "189",
+    "normalBedOccupied": "0",
+    "normalBedAvailable": "200",
     "oxygenBedTotal": "",
     "oxygenBedOccupied": "",
     "oxygenBedAvailable": "",
@@ -2713,7 +3003,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=CCC+ETC VASHI+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=CCC+ETC VASHI+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Swami Vivekanand Center Vashi Sec 14",
@@ -2730,14 +3022,16 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Swami+Vivekanand Center Vashi Sec 14+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Swami+Vivekanand Center Vashi Sec 14+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Airoli Samaj Mandir",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "100",
-    "normalBedOccupied": "10",
-    "normalBedAvailable": "90",
+    "normalBedOccupied": "6",
+    "normalBedAvailable": "94",
     "oxygenBedTotal": "",
     "oxygenBedOccupied": "",
     "oxygenBedAvailable": "",
@@ -2747,7 +3041,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Airoli+Samaj Mandir+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Airoli+Samaj Mandir+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Koparkharaine Samaj Mandir",
@@ -2764,7 +3060,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Koparkharaine+Samaj Mandir+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Koparkharaine+Samaj Mandir+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Agri Koli Nerul ",
@@ -2783,7 +3081,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.0316352",
     "longitude": "73.0102292",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Leva Patidar Airoli",
@@ -2800,14 +3100,16 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Leva+Patidar Airoli+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Leva+Patidar Airoli+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "CIDCO Exhibition Hall CCC 2",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "250",
-    "normalBedOccupied": "42",
-    "normalBedAvailable": "208",
+    "normalBedOccupied": "9",
+    "normalBedAvailable": "241",
     "oxygenBedTotal": "",
     "oxygenBedOccupied": "",
     "oxygenBedAvailable": "",
@@ -2817,7 +3119,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=CIDCO+Exhibition Hall CCC 2+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=CIDCO+Exhibition Hall CCC 2+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Lords Hostel Kharghar CCC",
@@ -2836,7 +3140,9 @@
     "phoneNo": "098336 32901",
     "latitude": "19.0502651",
     "longitude": "73.0819123",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Indiabulls Green Panvel CCC",
@@ -2853,7 +3159,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Indiabulls+Green Panvel CCC+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Indiabulls+Green Panvel CCC+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Warkari Bhawan belapur",
@@ -2870,7 +3178,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Warkari+Bhawan belapur+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Warkari+Bhawan belapur+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "Nerul Multipurpose Hall",
@@ -2887,7 +3197,9 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=Nerul+Multipurpose Hall+Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=Nerul+Multipurpose Hall+Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "HOTEL MANGO SUITES",
@@ -2906,7 +3218,9 @@
     "phoneNo": "022 6856 1800",
     "latitude": "19.1067511",
     "longitude": "73.019851",
-    "rank": 2
+    "rank": 2,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "HOTEL IVY",
@@ -2925,7 +3239,9 @@
     "phoneNo": "Not Available",
     "latitude": "19.0948068",
     "longitude": "73.0186162",
-    "rank": 1
+    "rank": 1,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   },
   {
     "hospitalName": "HOTEL CENTER POINT ",
@@ -2942,6 +3258,8 @@
     "state": "Maharastra",
     "googleSearch": "https://www.google.com/search?q=HOTEL+CENTER POINT +Navimumbai&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+CENTER POINT +Navimumbai&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "phoneNo": "Not Available",
-    "rank": 0
+    "rank": 0,
+    "ServerUpdatedate": "2-5-2021",
+    "ServerUpdatetime": "15:16"
   }
 ]

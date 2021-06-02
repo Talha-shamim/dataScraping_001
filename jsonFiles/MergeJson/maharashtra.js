@@ -16,5 +16,4 @@ function get() {
   );
 }
 
-get();
 exports.mergemaharashtra = get;
