@@ -38,8 +38,14 @@ function get() {
     ) {
       dt.rank = 1;
     }
-<<<<<<< HEAD
+    if (
+      dt.hospitalAddress !== "Not Available" &&
+      dt.phoneNo !== "Not Available"
+    ) {
+      dt.rank = 2;
+    }
 
+    
     var d = new Date
     var date = d.getDate()
     var month = d.getMonth()
@@ -50,18 +56,8 @@ function get() {
     var finalstringtime = timehour+':' + timeminute
 dt.ServerUpdatedate=finalstringdate
 dt.ServerUpdatetime=finalstringtime
-
-    
-  })
-=======
-    if (
-      dt.hospitalAddress !== "Not Available" &&
-      dt.phoneNo !== "Not Available"
-    ) {
-      dt.rank = 2;
-    }
+ 
   });
->>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
 
   fs.writeFile(
     `jsonFiles/chhattisgarh.json`,
@@ -74,6 +70,5 @@ dt.ServerUpdatetime=finalstringtime
   );
 }
 
-get();
 
 exports.chattisfinal = get;

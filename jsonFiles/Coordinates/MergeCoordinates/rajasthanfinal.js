@@ -48,8 +48,8 @@ function get() {
     ) {
       dt.rank = 2;
     }
-<<<<<<< HEAD
 
+    
     var d = new Date
     var date = d.getDate()
     var month = d.getMonth()
@@ -60,11 +60,8 @@ function get() {
     var finalstringtime = timehour+':' + timeminute
 dt.ServerUpdatedate=finalstringdate
 dt.ServerUpdatetime=finalstringtime
-    
-  })
-=======
+ 
   });
->>>>>>> 7fae24baa9223c8562aec674d3c9716b084a1126
 
   fs.writeFile(
     `jsonFiles/rajasthan.json`,
