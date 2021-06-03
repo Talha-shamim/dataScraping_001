@@ -170,5 +170,5 @@ async function get() {
   }
 }
 
-get()
+
 exports.getharyana2 = get;

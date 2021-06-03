@@ -26,6 +26,10 @@ function get() {
   });
 
   Gujrat.map((dt) => {
+
+    var indexofM =dt.lastUpdatedDate.indexOf("M")
+    var date = dt.lastUpdatedDate.substring(indexofM+1,dt.lastUpdatedDate.length)
+    dt.lastUpdatedDate=date
     if (dt.phoneNo.length <= 4) {
       dt.phoneNo = "Not Available";
     }

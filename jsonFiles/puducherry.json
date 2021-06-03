@@ -8,8 +8,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "155",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "09:32:30",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "11:28:58",
     "phoneNo": "0413 233 6971",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=IGGGH+& PGI+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=IGGGH+& PGI+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -17,8 +17,8 @@
     "latitude": "11.9317756",
     "longitude": "79.832961",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "IGMC",
@@ -27,17 +27,17 @@
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "370",
-    "oxygenBedAvailable": "23",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "09:15:04",
+    "oxygenBedOccupied": "324",
+    "oxygenBedAvailable": "20",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "09:01:13",
     "phoneNo": "Not Available",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=IGMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=IGMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "district": "Pondicherry",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "JIPMER",
@@ -46,10 +46,10 @@
     "normalBedOccupied": "-",
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "346",
-    "oxygenBedAvailable": "20",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "08:24:28",
+    "oxygenBedOccupied": "370",
+    "oxygenBedAvailable": "40",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "08:17:37",
     "phoneNo": "0413 227 1301",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=JIPMER+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=JIPMER+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -57,8 +57,8 @@
     "latitude": "11.9503023",
     "longitude": "79.7996963",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "Dental College",
@@ -69,15 +69,15 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "24",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "07:40:54",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "13:57:40",
     "phoneNo": "Not Available",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=Dental+College+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Dental+College+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "district": "Pondicherry",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "CHC Karikalampakkam",
@@ -88,8 +88,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "0",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "12:58:23",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "15:50:19",
     "phoneNo": "Not Available",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=CHC+Karikalampakkam+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=CHC+Karikalampakkam+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -97,8 +97,8 @@
     "latitude": "11.8651925",
     "longitude": "79.7483119",
     "rank": 1,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "PHC Nettapakkam",
@@ -116,8 +116,27 @@
     "googleSearch": "https://www.google.com/search?q=PHC+Nettapakkam+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=PHC+Nettapakkam+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "district": "Pondicherry",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
+  },
+  {
+    "hospitalName": "Ayush CCC",
+    "hospitalAddress": "Not Available",
+    "normalBedTotal": "-",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "-",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "0",
+    "oxygenBedAvailable": "0",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "09:23:49",
+    "phoneNo": "Not Available",
+    "state": "Puducherry",
+    "googleSearch": "https://www.google.com/search?q=Ayush+CCC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Ayush+CCC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "district": "Pondicherry",
+    "rank": 0,
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "Kalapet CCC",
@@ -127,16 +146,16 @@
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "30",
-    "oxygenBedAvailable": "27",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "13:01:23",
+    "oxygenBedAvailable": "29",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "08:39:15",
     "phoneNo": "Not Available",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=Kalapet+CCC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Kalapet+CCC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "district": "Pondicherry",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "Bahour CCC",
@@ -147,15 +166,15 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "5",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "08:05:58",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "12:45:36",
     "phoneNo": "Not Available",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=Bahour+CCC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Bahour+CCC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "district": "Pondicherry",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "PIMS",
@@ -165,9 +184,9 @@
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "123",
-    "oxygenBedAvailable": "2",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "14:23:12",
+    "oxygenBedAvailable": "4",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "08:48:34",
     "phoneNo": "0413 265 1111",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=PIMS+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=PIMS+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -175,8 +194,8 @@
     "latitude": "12.0462822",
     "longitude": "79.8551148",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "SVMC",
@@ -186,9 +205,9 @@
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "107",
-    "oxygenBedAvailable": "51",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "09:05:44",
+    "oxygenBedAvailable": "65",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "12:31:58",
     "phoneNo": "0413 226 0601",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=SVMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=SVMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -196,8 +215,8 @@
     "latitude": "11.9048862",
     "longitude": "79.6939135",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "MGMC",
@@ -207,9 +226,9 @@
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "150",
-    "oxygenBedAvailable": "20",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "11:54:42",
+    "oxygenBedAvailable": "17",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "14:26:59",
     "phoneNo": "0413 261 5449",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=MGMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=MGMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -217,8 +236,8 @@
     "latitude": "11.812002",
     "longitude": "79.778101",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "SLIMS",
@@ -228,9 +247,9 @@
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "135",
-    "oxygenBedAvailable": "28",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "08:22:58",
+    "oxygenBedAvailable": "34",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "08:41:48",
     "phoneNo": "0413 266 1998",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=SLIMS+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=SLIMS+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -238,8 +257,8 @@
     "latitude": "11.938203",
     "longitude": "79.7360129",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "SMVMC",
@@ -249,9 +268,9 @@
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "100",
-    "oxygenBedAvailable": "29",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "08:25:51",
+    "oxygenBedAvailable": "39",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "08:16:09",
     "phoneNo": "0413 264 3014",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=SMVMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=SMVMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -259,8 +278,8 @@
     "latitude": "11.921277",
     "longitude": "79.6280548",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "AVMC",
@@ -272,7 +291,7 @@
     "oxygenBedOccupied": "130",
     "oxygenBedAvailable": "67",
     "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "11:21:27",
+    "lastUpdatedTime": "19:36:20",
     "phoneNo": "1800 425 5550",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=AVMC+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=AVMC+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -280,8 +299,8 @@
     "latitude": "11.8310966",
     "longitude": "79.7798013",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "Be Well Hospital",
@@ -301,8 +320,8 @@
     "latitude": "11.9508098",
     "longitude": "79.8153199",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "Rani Hospital",
@@ -322,8 +341,8 @@
     "latitude": "11.9412493",
     "longitude": "79.8070789",
     "rank": 1,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "New Medical Centre",
@@ -334,8 +353,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "5",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "08:16:21",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "06:29:14",
     "phoneNo": "0413 226 1200",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=New+Medical Centre+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=New+Medical Centre+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -343,8 +362,8 @@
     "latitude": "11.9299061",
     "longitude": "79.8280512",
     "rank": 2,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "MVR",
@@ -355,15 +374,15 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "3",
     "oxygenBedAvailable": "0",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "13:12:00",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "12:24:57",
     "phoneNo": "Not Available",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=MVR+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=MVR+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "district": "Pondicherry",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "Karaikal",
@@ -373,9 +392,9 @@
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "100",
-    "oxygenBedAvailable": "3",
+    "oxygenBedAvailable": "5",
     "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "10:51:22",
+    "lastUpdatedTime": "18:47:21",
     "phoneNo": "Not Available",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=Karaikal+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Karaikal+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -383,8 +402,8 @@
     "latitude": "/maps/place/Karaikal",
     "longitude": "/maps/place/Karaikal,",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "VMMC Karaikal",
@@ -402,8 +421,8 @@
     "googleSearch": "https://www.google.com/search?q=VMMC+Karaikal+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=VMMC+Karaikal+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "district": "Karaikal",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "Mahe",
@@ -413,9 +432,9 @@
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "20",
-    "oxygenBedAvailable": "18",
-    "lastUpdatedDate": "02-06-2021",
-    "lastUpdatedTime": "08:42:41",
+    "oxygenBedAvailable": "19",
+    "lastUpdatedDate": "03-06-2021",
+    "lastUpdatedTime": "08:37:43",
     "phoneNo": "Not Available",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=Mahe+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Mahe+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -423,8 +442,8 @@
     "latitude": "/maps/place/Mah%C3%A9",
     "longitude": "/maps/place/Mah%C3%A9,",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   },
   {
     "hospitalName": "Yanam",
@@ -434,9 +453,9 @@
     "normalBedAvailable": "-",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "40",
-    "oxygenBedAvailable": "8",
-    "lastUpdatedDate": "01-06-2021",
-    "lastUpdatedTime": "17:12:12",
+    "oxygenBedAvailable": "9",
+    "lastUpdatedDate": "02-06-2021",
+    "lastUpdatedTime": "17:57:36",
     "phoneNo": "Not Available",
     "state": "Puducherry",
     "googleSearch": "https://www.google.com/search?q=Yanam+Puducherry&rlz=1C1CHBF_enIN859IN859&oq=Yanam+Puducherry&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
@@ -444,7 +463,7 @@
     "latitude": "/maps/place/Yanam",
     "longitude": "/maps/place/Yanam,",
     "rank": 0,
-    "ServerUpdatedate": "2-5-2021",
-    "ServerUpdatetime": "15:16"
+    "ServerUpdatedate": "3-5-2021",
+    "ServerUpdatetime": "17:27"
   }
 ]
