@@ -8,8 +8,8 @@
     "normalBedOccupied": 0,
     "normalBedAvailable": "0",
     "oxygenBedTotal": "1",
-    "oxygenBedOccupied": 0,
-    "oxygenBedAvailable": "1",
+    "oxygenBedOccupied": 1,
+    "oxygenBedAvailable": "0",
     "phoneNo": "011 4922 2222",
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
@@ -17,8 +17,8 @@
     "latitude": "28.6735957",
     "longitude": "77.1110733",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -36,8 +36,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Kottakkal+Arya Vaidya Sala+delhi&rlz=1C1CHBF_enIN859IN859&oq=Kottakkal+Arya Vaidya Sala+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -57,8 +57,8 @@
     "latitude": "28.5130972",
     "longitude": "77.2457897",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -76,8 +76,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Bhagwan +Mahavir  Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Bhagwan +Mahavir  Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -97,8 +97,8 @@
     "latitude": "28.6433105",
     "longitude": "77.1796932",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -118,8 +118,8 @@
     "latitude": "28.5399609",
     "longitude": "77.292121",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -139,8 +139,8 @@
     "latitude": "28.5192105",
     "longitude": "77.1602895",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -160,8 +160,8 @@
     "latitude": "28.5280968",
     "longitude": "77.2134714",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -181,8 +181,8 @@
     "latitude": "28.5331214",
     "longitude": "77.1421843",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -202,8 +202,8 @@
     "latitude": "28.7070971",
     "longitude": "77.1550797",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -223,8 +223,8 @@
     "latitude": "28.6187501",
     "longitude": "77.0783142",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -244,8 +244,8 @@
     "latitude": "28.6739823",
     "longitude": "77.1339444",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -263,8 +263,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Mai+Kamli Wali Ch. Hospital Plot No.12+delhi&rlz=1C1CHBF_enIN859IN859&oq=Mai+Kamli Wali Ch. Hospital Plot No.12+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -284,8 +284,8 @@
     "latitude": "28.6289883",
     "longitude": "77.1413259",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -293,8 +293,8 @@
     "hospitalName": "National Heart Institute",
     "hospitalAddress": " 49",
     "normalBedTotal": "3",
-    "normalBedOccupied": 1,
-    "normalBedAvailable": "2",
+    "normalBedOccupied": 2,
+    "normalBedAvailable": "1",
     "oxygenBedTotal": "0",
     "oxygenBedOccupied": 0,
     "oxygenBedAvailable": "0",
@@ -303,29 +303,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=National+Heart Institute+delhi&rlz=1C1CHBF_enIN859IN859&oq=National+Heart Institute+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
-  },
-  {
-    "state": "delhi",
-    "district": "delhi",
-    "hospitalName": "Primus Super Speciality (Veeranwali International Hospital) Chander Gupta Road",
-    "hospitalAddress": "Chandragupta Marg, Opp Russian Embassy, Chanakyapuri, New Delhi, Delhi 110021",
-    "normalBedTotal": "0",
-    "normalBedOccupied": 0,
-    "normalBedAvailable": "0",
-    "oxygenBedTotal": "0",
-    "oxygenBedOccupied": 0,
-    "oxygenBedAvailable": "0",
-    "phoneNo": "011 6620 6630",
-    "lastUpdatedDate": "-",
-    "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=Primus+Super Speciality (Veeranwali International Hospital) Chander Gupta Road+delhi&rlz=1C1CHBF_enIN859IN859&oq=Primus+Super Speciality (Veeranwali International Hospital) Chander Gupta Road+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "latitude": "28.5929448",
-    "longitude": "77.1812159",
-    "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -343,8 +322,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=Jeevan+Anmol Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Jeevan+Anmol Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -364,8 +343,8 @@
     "latitude": "28.533131",
     "longitude": "77.2254405",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -385,8 +364,8 @@
     "latitude": "28.5373235",
     "longitude": "77.1812009",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -406,8 +385,8 @@
     "latitude": "28.6457155",
     "longitude": "77.3016707",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -427,8 +406,8 @@
     "latitude": "28.6384582",
     "longitude": "77.1895559",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -448,8 +427,8 @@
     "latitude": "28.5345208",
     "longitude": "77.2244179",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -469,29 +448,8 @@
     "latitude": "28.7191455",
     "longitude": "77.1295439",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
-  },
-  {
-    "state": "delhi",
-    "district": "delhi",
-    "hospitalName": "Dharamshila Narayana Superspeciality Hospital",
-    "normalBedTotal": "0",
-    "normalBedOccupied": 0,
-    "normalBedAvailable": "0",
-    "oxygenBedTotal": "1",
-    "oxygenBedOccupied": 1,
-    "oxygenBedAvailable": "0",
-    "phoneNo": "080675 06880",
-    "lastUpdatedDate": "-",
-    "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=Dharamshila+Narayana Superspeciality Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=Dharamshila+Narayana Superspeciality Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "hospitalAddress": "Metro Station, Dharamshila marg, Vasundhara Enclave Near Ashok Nagar, Dallupura, New Delhi, Delhi 110096",
-    "latitude": "28.6025216",
-    "longitude": "77.3141282",
-    "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -511,8 +469,8 @@
     "latitude": "28.632938",
     "longitude": "77.3090026",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -532,8 +490,8 @@
     "latitude": "28.6997737",
     "longitude": "77.1154589",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -553,8 +511,8 @@
     "latitude": "28.5692702",
     "longitude": "77.2510561",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -574,8 +532,8 @@
     "latitude": "28.5664245",
     "longitude": "77.2351427",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -592,8 +550,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=AYUSHMAN+HOSPITAL & HEALTH SERVICES+delhi&rlz=1C1CHBF_enIN859IN859&oq=AYUSHMAN+HOSPITAL & HEALTH SERVICES+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -613,8 +571,8 @@
     "latitude": "28.727664",
     "longitude": "77.152599",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -634,8 +592,8 @@
     "latitude": "28.6986231",
     "longitude": "77.1870393",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -652,8 +610,8 @@
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q=MGS+Super Specialty Hospital+delhi&rlz=1C1CHBF_enIN859IN859&oq=MGS+Super Specialty Hospital+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -673,8 +631,8 @@
     "latitude": "28.6491981",
     "longitude": "77.1511469",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -694,8 +652,8 @@
     "latitude": "25.5956669",
     "longitude": "85.2256294",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -715,29 +673,8 @@
     "latitude": "28.6930443",
     "longitude": "77.1726291",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
-  },
-  {
-    "state": "delhi",
-    "district": "delhi",
-    "hospitalName": "Sitaram Bharti Institute of Science & Research",
-    "normalBedTotal": "0",
-    "normalBedOccupied": 0,
-    "normalBedAvailable": "0",
-    "oxygenBedTotal": "1",
-    "oxygenBedOccupied": 0,
-    "oxygenBedAvailable": "1",
-    "phoneNo": "011 4211 1111",
-    "lastUpdatedDate": "-",
-    "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q=Sitaram+Bharti Institute of Science & Research+delhi&rlz=1C1CHBF_enIN859IN859&oq=Sitaram+Bharti Institute of Science & Research+delhi&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "hospitalAddress": "B-16, Qutab Institutional Area Block B Rd, NRPC Colony, Block B, Qutab Institutional Area, New Delhi, Delhi 110016",
-    "latitude": "28.5378608",
-    "longitude": "77.1845894",
-    "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -757,8 +694,8 @@
     "latitude": "28.5814745",
     "longitude": "77.2619929",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -778,8 +715,8 @@
     "latitude": "28.5962235",
     "longitude": "77.0455043",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -799,8 +736,8 @@
     "latitude": "28.6511745",
     "longitude": "77.1547547",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -820,8 +757,8 @@
     "latitude": "28.529288",
     "longitude": "77.20464",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -841,8 +778,8 @@
     "latitude": "28.7185005",
     "longitude": "77.064986",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -862,8 +799,8 @@
     "latitude": "28.5885973",
     "longitude": "77.0380428",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -883,8 +820,8 @@
     "latitude": "28.8431455",
     "longitude": "77.101444",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -904,8 +841,8 @@
     "latitude": "28.5950514",
     "longitude": "77.069375",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -925,8 +862,8 @@
     "latitude": "28.4856043",
     "longitude": "77.1048118",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   },
   {
     "state": "delhi",
@@ -946,7 +883,7 @@
     "latitude": "28.5148645",
     "longitude": "77.2521167",
     "rank": 2,
-    "ServerUpdatedate": "3-5-2021",
-    "ServerUpdatetime": "17:27"
+    "ServerUpdatedate": "6-6-2021",
+    "ServerUpdatetime": "20:52"
   }
 ]

@@ -56,43 +56,45 @@ const rajasthanfinal = require('./jsonFiles/Coordinates/MergeCoordinates/rajasth
 const chhattisgarhfinal = require('./jsonFiles/Coordinates/MergeCoordinates/chhattisgarhfinal.js')
 
 // setInterval(() => {
-    //     andrapradesh.getandrapradesh();
-    //     allahabad.getAllahabad();
-    //     ranchi.getranchi();
-    //     rajasthan.getrajasthan();
-    //     uttarpradesh.getuttarpradesh();
-    //     Goa.getgoa();
-    // madhya.getmadhyapradesh();
-    // haryana.getharyana();
-    // Puducherry.getpuducherry();
-    // Navi.getnavi();
-    // pune.getpune();
-        
+//     andrapradesh.getandrapradesh();
+//     allahabad.getAllahabad();
+//     ranchi.getranchi();
+//     rajasthan.getrajasthan();
+//     uttarpradesh.getuttarpradesh();
+//     Goa.getgoa();
+// madhya.getmadhyapradesh();
+// haryana.getharyana();
+// Puducherry.getpuducherry();
+// Navi.getnavi();
+// pune.getpune();
+    
     // }, 43200000);
+
+
+
 // setInterval(() => {
     // merge_Maharashtra.mergemaharashtra();
     // }, 	43740000);
 
 // setInterval(() => {
-// }, 	45720000);
-
-    maharastrafinal.maharashtrafinal();
-    goafinal.goafinal();
-    Puducherryfinal.puducherryfinal();
-    jharkhandfinal.mergejharkhand();
-    uttarfinal.uttarfinal();
-gujratfinal.gujratfinal();
-    uttarakhandfinal.uttarakhandfinal();
-    dehifinal.delhifinal();
-madhyapradeshfinal.madhyafinal()
-haryanafinal.haryanafinal()
-westbengalfinal.bengalfinal()
-andhrafinal.andhrafinal()
-rajasthanfinal.rajasthanfinal()
-chhattisgarhfinal.chattisfinal()
+    // }, 	45720000);
+    
+        maharastrafinal.maharashtrafinal();
+        goafinal.goafinal();
+        Puducherryfinal.puducherryfinal();
+        jharkhandfinal.mergejharkhand();
+        uttarfinal.uttarfinal();
+    gujratfinal.gujratfinal();
+        uttarakhandfinal.uttarakhandfinal();
+        dehifinal.delhifinal();
+    madhyapradeshfinal.madhyafinal()
+    haryanafinal.haryanafinal()
+    westbengalfinal.bengalfinal()
+    rajasthanfinal.rajasthanfinal()
+    chhattisgarhfinal.chattisfinal()
+    andhrafinal.andhrafinal()
 
 // // setInterval(() => {  
-    
     
     // westbengal.getwestbengal();
     // uttrakhand.getuttrakhand();
@@ -101,6 +103,7 @@ chhattisgarhfinal.chattisfinal()
     // Ahmedabad.getahmadabad();
     // chattisgarh.getchattisgarh();
     // }, 44280000);
+    
 
 
 // // setInterval(() => {

@@ -55,7 +55,7 @@ function get() {
 
     var d = new Date
     var date = d.getDate()
-    var month = d.getMonth()
+    var month = d.getMonth() + 1
     var year = d.getFullYear()
     var timehour= d.getHours()
     var timeminute = d.getMinutes()
