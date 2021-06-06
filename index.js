@@ -9,11 +9,15 @@ dotenv.config({ path: "./config.env" });
 const app = express();
 app.use(cors());
 
-mongoose.connect(process.env.DATABASE, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-  useCreateIndex: true,
-});
+try{
+  mongoose.connect(process.env.DATABASE, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+  });
+}catch(error){
+  console.log(error)
+}
 
 const covinetViewCount = mongoose.model(
   "covinetViewCount",
@@ -78,4 +82,7 @@ app.get("/api_covinet", (req, res) => {
   }
 });
 
-app.listen(process.env.PORT || 3001, () => console.log(`listening`));
+// let PORT = 7765
+let PORT = process.env.PORT || 3001
+
+app.listen(PORT, () => console.log(`listening${PORT}`));
