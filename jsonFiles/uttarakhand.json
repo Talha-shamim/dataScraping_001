@@ -6,17 +6,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9837251413",
     "oxygenBedTotal": "150",
-    "oxygenBedAvailable": "117",
-    "oxygenBedOccupied": 33,
+    "oxygenBedAvailable": "132",
+    "oxygenBedOccupied": 18,
     "normalBedTotal": "100",
-    "normalBedAvailable": "81",
-    "normalBedOccupied": 19,
-    "lastUpdatedDate": "02/06/2021",
-    "lastUpdatedTime": "08:43:06",
+    "normalBedAvailable": "92",
+    "normalBedOccupied": 8,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:24:27",
     "googleSearch": "https://www.google.com/search?q=BASE+HOSPITAL ALMORA+ALMORA&rlz=1C1CHBF_enIN859IN859&oq=BASE+HOSPITAL ALMORA+ALMORA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "ALMORA",
@@ -28,16 +28,16 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "40",
-    "normalBedAvailable": "33",
-    "normalBedOccupied": 7,
-    "lastUpdatedDate": "02/06/2021",
-    "lastUpdatedTime": "08:44:04",
+    "normalBedAvailable": "36",
+    "normalBedOccupied": 4,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:25:09",
     "googleSearch": "https://www.google.com/search?q=DISTRICT+INSTITUTE OF EDUCATION AND TRAINING+ALMORA&rlz=1C1CHBF_enIN859IN859&oq=DISTRICT+INSTITUTE OF EDUCATION AND TRAINING+ALMORA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.6083448",
     "longitude": "79.6631785",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "ALMORA",
@@ -49,14 +49,14 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "30",
-    "normalBedAvailable": "19",
-    "normalBedOccupied": 11,
-    "lastUpdatedDate": "02/06/2021",
-    "lastUpdatedTime": "08:43:53",
+    "normalBedAvailable": "30",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:25:01",
     "googleSearch": "https://www.google.com/search?q=ETC+ALMORA&rlz=1C1CHBF_enIN859IN859&oq=ETC+ALMORA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "ALMORA",
@@ -68,14 +68,14 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "30",
-    "normalBedAvailable": "25",
-    "normalBedOccupied": 5,
-    "lastUpdatedDate": "02/06/2021",
-    "lastUpdatedTime": "08:43:40",
+    "normalBedAvailable": "30",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:24:53",
     "googleSearch": "https://www.google.com/search?q=TOURIST+REST HOUSE DEENAPANI ALMORA+ALMORA&rlz=1C1CHBF_enIN859IN859&oq=TOURIST+REST HOUSE DEENAPANI ALMORA+ALMORA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "ALMORA",
@@ -87,14 +87,14 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "17",
-    "normalBedAvailable": "17",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "02/06/2021",
-    "lastUpdatedTime": "08:43:30",
+    "normalBedAvailable": "13",
+    "normalBedOccupied": 4,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:24:43",
     "googleSearch": "https://www.google.com/search?q=TRC+DUDHOLI+ALMORA&rlz=1C1CHBF_enIN859IN859&oq=TRC+DUDHOLI+ALMORA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "ALMORA",
@@ -108,14 +108,14 @@
     "normalBedTotal": "30",
     "normalBedAvailable": "30",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "02/06/2021",
-    "lastUpdatedTime": "08:43:20",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:24:35",
     "googleSearch": "https://www.google.com/search?q=TRH+JAGESHWAR+ALMORA&rlz=1C1CHBF_enIN859IN859&oq=TRH+JAGESHWAR+ALMORA&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.6380473",
     "longitude": "79.850415",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "BAGESHWAR",
@@ -129,14 +129,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "12:15:40",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:56:30",
     "googleSearch": "https://www.google.com/search?q=CHC+BAIJNATH+BAGESHWAR&rlz=1C1CHBF_enIN859IN859&oq=CHC+BAIJNATH+BAGESHWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9069992",
     "longitude": "79.6179575",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "BAGESHWAR",
@@ -150,14 +150,14 @@
     "normalBedTotal": "50",
     "normalBedAvailable": "50",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "12:15:56",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:56:21",
     "googleSearch": "https://www.google.com/search?q=GOVERNMENT+PG COLLEGE+BAGESHWAR&rlz=1C1CHBF_enIN859IN859&oq=GOVERNMENT+PG COLLEGE+BAGESHWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.8464137",
     "longitude": "79.7818565",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "BAGESHWAR",
@@ -171,12 +171,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "17:52:40",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:56:07",
     "googleSearch": "https://www.google.com/search?q=SHYAM+LAL SAH DH BAGESHWAR+BAGESHWAR&rlz=1C1CHBF_enIN859IN859&oq=SHYAM+LAL SAH DH BAGESHWAR+BAGESHWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMOLI",
@@ -190,12 +190,12 @@
     "normalBedTotal": "689",
     "normalBedAvailable": "689",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "16:19:33",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:26:53",
     "googleSearch": "https://www.google.com/search?q=BHARADISAIN+VIDHAN SABHA BHAWAN GAIRSAIN+CHAMOLI&rlz=1C1CHBF_enIN859IN859&oq=BHARADISAIN+VIDHAN SABHA BHAWAN GAIRSAIN+CHAMOLI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMOLI",
@@ -204,19 +204,19 @@
     "hospitalAddress": "Gopeshwar Chamoli Rd, near Head Post Office, Gopeshwar, Uttarakhand 246401",
     "phoneNo": "01372 252 245",
     "oxygenBedTotal": "85",
-    "oxygenBedAvailable": "64",
-    "oxygenBedOccupied": 21,
+    "oxygenBedAvailable": "70",
+    "oxygenBedOccupied": 15,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "16:19:20",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:26:28",
     "googleSearch": "https://www.google.com/search?q=DISTRICT+HOSPITAL CHAMOLI+CHAMOLI&rlz=1C1CHBF_enIN859IN859&oq=DISTRICT+HOSPITAL CHAMOLI+CHAMOLI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.4100855",
     "longitude": "79.3201357",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMOLI",
@@ -230,12 +230,12 @@
     "normalBedTotal": "40",
     "normalBedAvailable": "37",
     "normalBedOccupied": 3,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "16:45:32",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:27:27",
     "googleSearch": "https://www.google.com/search?q=FIELD+HOSPITAL ARMY JOSHIMATH+CHAMOLI&rlz=1C1CHBF_enIN859IN859&oq=FIELD+HOSPITAL ARMY JOSHIMATH+CHAMOLI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMOLI",
@@ -247,16 +247,16 @@
     "oxygenBedAvailable": "16",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "16",
-    "normalBedAvailable": "15",
-    "normalBedOccupied": 1,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "16:45:57",
+    "normalBedAvailable": "16",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:27:55",
     "googleSearch": "https://www.google.com/search?q=GMVN+KALESHWAR+CHAMOLI&rlz=1C1CHBF_enIN859IN859&oq=GMVN+KALESHWAR+CHAMOLI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.2892267",
     "longitude": "79.2539918",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMOLI",
@@ -265,17 +265,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8755643946",
     "oxygenBedTotal": "15",
-    "oxygenBedAvailable": "12",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "15",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "25",
-    "normalBedAvailable": "18",
-    "normalBedOccupied": 7,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "16:46:56",
+    "normalBedAvailable": "23",
+    "normalBedOccupied": 2,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:28:25",
     "googleSearch": "https://www.google.com/search?q=SIMLI+BASE HOSPITAL+CHAMOLI&rlz=1C1CHBF_enIN859IN859&oq=SIMLI+BASE HOSPITAL+CHAMOLI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMPAWAT",
@@ -284,17 +284,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9412097099\n 9759130534",
     "oxygenBedTotal": "60",
-    "oxygenBedAvailable": "57",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "56",
+    "oxygenBedOccupied": 4,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:37:17",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:40:56",
     "googleSearch": "https://www.google.com/search?q=DH+CHAMPAWAT+CHAMPAWAT&rlz=1C1CHBF_enIN859IN859&oq=DH+CHAMPAWAT+CHAMPAWAT&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMPAWAT",
@@ -306,16 +306,16 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "26",
-    "normalBedAvailable": "25",
-    "normalBedOccupied": 1,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:39:25",
+    "normalBedAvailable": "24",
+    "normalBedOccupied": 2,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:18:11",
     "googleSearch": "https://www.google.com/search?q=HOTEL+TIWARI+CHAMPAWAT&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+TIWARI+CHAMPAWAT&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.3359686",
     "longitude": "80.0910281",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMPAWAT",
@@ -324,17 +324,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9410718191\n 9997322514",
     "oxygenBedTotal": "15",
-    "oxygenBedAvailable": "11",
-    "oxygenBedOccupied": 4,
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 5,
     "normalBedTotal": "19",
-    "normalBedAvailable": "17",
-    "normalBedOccupied": 2,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:37:56",
+    "normalBedAvailable": "19",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:17:40",
     "googleSearch": "https://www.google.com/search?q=JEEVAN+ANMOL MULTI SPECIALITY HOSPITAL+CHAMPAWAT&rlz=1C1CHBF_enIN859IN859&oq=JEEVAN+ANMOL MULTI SPECIALITY HOSPITAL+CHAMPAWAT&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMPAWAT",
@@ -348,14 +348,14 @@
     "normalBedTotal": "12",
     "normalBedAvailable": "12",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:38:33",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:19:26",
     "googleSearch": "https://www.google.com/search?q=SDH+TANAKPUR+CHAMPAWAT&rlz=1C1CHBF_enIN859IN859&oq=SDH+TANAKPUR+CHAMPAWAT&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.0702498",
     "longitude": "80.115707",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "CHAMPAWAT",
@@ -369,14 +369,14 @@
     "normalBedTotal": "17",
     "normalBedAvailable": "17",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:38:52",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:19:47",
     "googleSearch": "https://www.google.com/search?q=TRH+TANAKPUR+CHAMPAWAT&rlz=1C1CHBF_enIN859IN859&oq=TRH+TANAKPUR+CHAMPAWAT&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.0761359",
     "longitude": "80.1072192",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -390,12 +390,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:53:49",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:06:53",
     "googleSearch": "https://www.google.com/search?q=AAROGYADHAM+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=AAROGYADHAM+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -409,12 +409,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:53:42",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:06:47",
     "googleSearch": "https://www.google.com/search?q=AARYAN+HOSPITAL DOIWALA+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=AARYAN+HOSPITAL DOIWALA+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -423,19 +423,19 @@
     "hospitalAddress": "Virbhadra Road Shivaji Nagar, near Barrage, Sturida Colony, Rishikesh, Uttarakhand 249203",
     "phoneNo": "0135 246 2927",
     "oxygenBedTotal": "550",
-    "oxygenBedAvailable": "440",
-    "oxygenBedOccupied": 110,
+    "oxygenBedAvailable": "439",
+    "oxygenBedOccupied": 111,
     "normalBedTotal": "100",
     "normalBedAvailable": "94",
     "normalBedOccupied": 6,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:53:07",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:01:47",
     "googleSearch": "https://www.google.com/search?q=AIIMS+RISHIKESH+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=AIIMS+RISHIKESH+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.0818351",
     "longitude": "78.2887633",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -449,12 +449,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:53:54",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:07:00",
     "googleSearch": "https://www.google.com/search?q=ARIHANT+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=ARIHANT+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -468,14 +468,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:54:00",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:07:05",
     "googleSearch": "https://www.google.com/search?q=CITY+HEART CENTER+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=CITY+HEART CENTER+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3133762",
     "longitude": "78.0497074",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -489,12 +489,12 @@
     "normalBedTotal": "4",
     "normalBedAvailable": "4",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:54:06",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:07:20",
     "googleSearch": "https://www.google.com/search?q=CIVIL+HOSPITAL MUSSOORIE+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=CIVIL+HOSPITAL MUSSOORIE+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -503,19 +503,19 @@
     "hospitalAddress": "54, Haridwar Rd, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
     "phoneNo": "0135 272 0238",
     "oxygenBedTotal": "48",
-    "oxygenBedAvailable": "43",
-    "oxygenBedOccupied": 5,
+    "oxygenBedAvailable": "42",
+    "oxygenBedOccupied": 6,
     "normalBedTotal": "3",
     "normalBedAvailable": "3",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:53:14",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:05:29",
     "googleSearch": "https://www.google.com/search?q=CMI+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=CMI+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3123446",
     "longitude": "78.0477508",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -529,14 +529,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:54:12",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:07:28",
     "googleSearch": "https://www.google.com/search?q=CORONATION+HOSPITAL DEHRADUN+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=CORONATION+HOSPITAL DEHRADUN+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3207041",
     "longitude": "78.0574377",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -544,20 +544,20 @@
     "hospitalName": "DOON MEDICAL COLLEGE",
     "hospitalAddress": "Vishwakarma Colony, Dehrakhas, Patel Nagar, Dehradun, Uttarakhand 248001",
     "phoneNo": "0135 272 6020",
-    "oxygenBedTotal": "210",
-    "oxygenBedAvailable": "181",
-    "oxygenBedOccupied": 29,
+    "oxygenBedTotal": "180",
+    "oxygenBedAvailable": "141",
+    "oxygenBedOccupied": 39,
     "normalBedTotal": "30",
     "normalBedAvailable": "30",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:53:19",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:01:07",
     "googleSearch": "https://www.google.com/search?q=DOON+MEDICAL COLLEGE+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=DOON+MEDICAL COLLEGE+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3080671",
     "longitude": "78.0240864",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -571,12 +571,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:54:18",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:07:36",
     "googleSearch": "https://www.google.com/search?q=GLOBAL+TRAUMA CENTER+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=GLOBAL+TRAUMA CENTER+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -590,12 +590,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:54:31",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:07:43",
     "googleSearch": "https://www.google.com/search?q=HEALTH+CARE HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=HEALTH+CARE HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -604,19 +604,19 @@
     "hospitalAddress": "Joly Grant, Bhania Wala, Uttarakhand 248140",
     "phoneNo": "0135 247 1135",
     "oxygenBedTotal": "100",
-    "oxygenBedAvailable": "83",
-    "oxygenBedOccupied": 17,
+    "oxygenBedAvailable": "90",
+    "oxygenBedOccupied": 10,
     "normalBedTotal": "100",
-    "normalBedAvailable": "93",
-    "normalBedOccupied": 7,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:53:25",
+    "normalBedAvailable": "92",
+    "normalBedOccupied": 8,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:04:45",
     "googleSearch": "https://www.google.com/search?q=HIMALAYAN+INSTITUTE OF MEDICAL SCIENCES+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=HIMALAYAN+INSTITUTE OF MEDICAL SCIENCES+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.1931239",
     "longitude": "78.1650065",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -630,14 +630,14 @@
     "normalBedTotal": "64",
     "normalBedAvailable": "44",
     "normalBedOccupied": 20,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:54:39",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:07:51",
     "googleSearch": "https://www.google.com/search?q=KAILASH+HOSPITAL DEHRADUN+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=KAILASH+HOSPITAL DEHRADUN+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.2882875",
     "longitude": "78.0642021",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -651,12 +651,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:54:45",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:07:58",
     "googleSearch": "https://www.google.com/search?q=KALINDI+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=KALINDI+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -670,14 +670,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:54:52",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:08:15",
     "googleSearch": "https://www.google.com/search?q=KANISHK+HOSPITAL DEHRADUN+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=KANISHK+HOSPITAL DEHRADUN+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.291778",
     "longitude": "78.050745",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -691,12 +691,12 @@
     "normalBedTotal": "7",
     "normalBedAvailable": "7",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:54:59",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:08:21",
     "googleSearch": "https://www.google.com/search?q=LEMAN+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=LEMAN+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -705,19 +705,19 @@
     "hospitalAddress": "Mussoorie Diversion Road, Dehradun, Uttarakhand 248001",
     "phoneNo": "0135 719 3000",
     "oxygenBedTotal": "37",
-    "oxygenBedAvailable": "26",
-    "oxygenBedOccupied": 11,
+    "oxygenBedAvailable": "22",
+    "oxygenBedOccupied": 15,
     "normalBedTotal": "10",
-    "normalBedAvailable": "1",
-    "normalBedOccupied": 9,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:53:30",
+    "normalBedAvailable": "0",
+    "normalBedOccupied": 10,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:06:15",
     "googleSearch": "https://www.google.com/search?q=MAX+SUPER SPECIALTY HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=MAX+SUPER SPECIALTY HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3733921",
     "longitude": "78.0744877",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -731,14 +731,14 @@
     "normalBedTotal": "4",
     "normalBedAvailable": "4",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:55:05",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:08:28",
     "googleSearch": "https://www.google.com/search?q=MEDICARE+MULTI SPECIALIST HOSPITAL SELAQUI+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=MEDICARE+MULTI SPECIALIST HOSPITAL SELAQUI+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3591859",
     "longitude": "77.849113",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -752,12 +752,12 @@
     "normalBedTotal": "6",
     "normalBedAvailable": "6",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:55:12",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:08:35",
     "googleSearch": "https://www.google.com/search?q=MRITYUNJAY+CRITICAL HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=MRITYUNJAY+CRITICAL HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -771,14 +771,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:55:18",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:08:42",
     "googleSearch": "https://www.google.com/search?q=ONGC+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=ONGC+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3345933",
     "longitude": "78.0166143",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -792,14 +792,14 @@
     "normalBedTotal": "5",
     "normalBedAvailable": "2",
     "normalBedOccupied": 3,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:55:25",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:08:50",
     "googleSearch": "https://www.google.com/search?q=PARAS+DOON HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=PARAS+DOON HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3345816",
     "longitude": "78.0537813",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -813,12 +813,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:57:14",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:10:58",
     "googleSearch": "https://www.google.com/search?q=PHC+KALSI+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=PHC+KALSI+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -832,14 +832,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:55:32",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:08:56",
     "googleSearch": "https://www.google.com/search?q=PRASAD+DOON HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=PRASAD+DOON HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.2927597",
     "longitude": "78.0529558",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -853,14 +853,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:55:39",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:09:03",
     "googleSearch": "https://www.google.com/search?q=PREM+SUKH HOSPITAL TURNER ROAD+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=PREM+SUKH HOSPITAL TURNER ROAD+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3183284",
     "longitude": "78.0241509",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -874,14 +874,14 @@
     "normalBedTotal": "350",
     "normalBedAvailable": "348",
     "normalBedOccupied": 2,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:57:30",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:11:09",
     "googleSearch": "https://www.google.com/search?q=RAJIV+GANDHI INTERNATIONAL STADIUM+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=RAJIV+GANDHI INTERNATIONAL STADIUM+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.2968546",
     "longitude": "78.1055373",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -895,14 +895,14 @@
     "normalBedTotal": "5",
     "normalBedAvailable": "4",
     "normalBedOccupied": 1,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:55:45",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:09:11",
     "googleSearch": "https://www.google.com/search?q=SHED+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=SHED+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.1774479",
     "longitude": "78.1296979",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -916,12 +916,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:56:01",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:09:38",
     "googleSearch": "https://www.google.com/search?q=SHRI+YASHODA AND TRAUMA CENTER+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=SHRI+YASHODA AND TRAUMA CENTER+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -935,14 +935,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:56:11",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:09:46",
     "googleSearch": "https://www.google.com/search?q=SPS+HOSPITAL RISHIKESH+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=SPS+HOSPITAL RISHIKESH+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.1087109",
     "longitude": "78.2958473",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -950,18 +950,18 @@
     "hospitalName": "SRI MAHANT INDRESH HOSPITAL",
     "hospitalAddress": "Not Available",
     "phoneNo": " 9939557537",
-    "oxygenBedTotal": "271",
-    "oxygenBedAvailable": "193",
+    "oxygenBedTotal": "215",
+    "oxygenBedAvailable": "137",
     "oxygenBedOccupied": 78,
     "normalBedTotal": "47",
     "normalBedAvailable": "47",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:53:36",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:04:07",
     "googleSearch": "https://www.google.com/search?q=SRI+MAHANT INDRESH HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=SRI+MAHANT INDRESH HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -975,12 +975,12 @@
     "normalBedTotal": "100",
     "normalBedAvailable": "100",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:56:20",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:09:56",
     "googleSearch": "https://www.google.com/search?q=SUBHARTI+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=SUBHARTI+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -994,14 +994,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:56:30",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:10:06",
     "googleSearch": "https://www.google.com/search?q=SYNERGY+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=SYNERGY+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3372316",
     "longitude": "78.0132456",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -1015,14 +1015,14 @@
     "normalBedTotal": "8",
     "normalBedAvailable": "3",
     "normalBedOccupied": 5,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:57:42",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:11:18",
     "googleSearch": "https://www.google.com/search?q=TIBETAN+PHC DEKYILING DEHRADUN+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=TIBETAN+PHC DEKYILING DEHRADUN+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.3713554",
     "longitude": "78.0981991",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -1036,12 +1036,12 @@
     "normalBedTotal": "92",
     "normalBedAvailable": "89",
     "normalBedOccupied": 3,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:57:51",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:11:28",
     "googleSearch": "https://www.google.com/search?q=TILU+RAUTALI+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=TILU+RAUTALI+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -1055,14 +1055,14 @@
     "normalBedTotal": "35",
     "normalBedAvailable": "34",
     "normalBedOccupied": 1,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:56:41",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:10:33",
     "googleSearch": "https://www.google.com/search?q=UTTARANCHAL+HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=UTTARANCHAL+HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.38179",
     "longitude": "78.0891291",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -1076,12 +1076,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:56:51",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:10:40",
     "googleSearch": "https://www.google.com/search?q=VELMED+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=VELMED+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -1095,12 +1095,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:56:59",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:10:47",
     "googleSearch": "https://www.google.com/search?q=VIBHUTI+SUPER SPECILAITY HOSPITAL+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=VIBHUTI+SUPER SPECILAITY HOSPITAL+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "DEHRADUN",
@@ -1114,12 +1114,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "00:58:01",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "11:11:35",
     "googleSearch": "https://www.google.com/search?q=VIVEKANANDA+NETRALAYA+DEHRADUN&rlz=1C1CHBF_enIN859IN859&oq=VIVEKANANDA+NETRALAYA+DEHRADUN&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1133,14 +1133,14 @@
     "normalBedTotal": "100",
     "normalBedAvailable": "99",
     "normalBedOccupied": 1,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:39:55",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:49:00",
     "googleSearch": "https://www.google.com/search?q=AKUMS+PLANT-3 SIDCUL HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=AKUMS+PLANT-3 SIDCUL HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9571215",
     "longitude": "78.0609256",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1149,19 +1149,19 @@
     "hospitalAddress": "Jamalpur Kalan, Uttarakhand 249404",
     "phoneNo": " 9412022857",
     "oxygenBedTotal": "15",
-    "oxygenBedAvailable": "10",
-    "oxygenBedOccupied": 5,
+    "oxygenBedAvailable": "12",
+    "oxygenBedOccupied": 3,
     "normalBedTotal": "2",
     "normalBedAvailable": "2",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:05:46",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:29:02",
     "googleSearch": "https://www.google.com/search?q=ANANDAM+HOSPITAL LAKSAR JAGJEETPUR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=ANANDAM+HOSPITAL LAKSAR JAGJEETPUR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9041064",
     "longitude": "78.1317456",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1170,17 +1170,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9756725628",
     "oxygenBedTotal": "30",
-    "oxygenBedAvailable": "29",
-    "oxygenBedOccupied": 1,
+    "oxygenBedAvailable": "30",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "30",
     "normalBedAvailable": "30",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:49:24",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:29:53",
     "googleSearch": "https://www.google.com/search?q=AROGYAM+HOSPITAL+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=AROGYAM+HOSPITAL+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1189,17 +1189,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9927037474",
     "oxygenBedTotal": "60",
-    "oxygenBedAvailable": "56",
-    "oxygenBedOccupied": 4,
+    "oxygenBedAvailable": "58",
+    "oxygenBedOccupied": 2,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:58:34",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:30:13",
     "googleSearch": "https://www.google.com/search?q=BABA+BARFANI HOSPITAL HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=BABA+BARFANI HOSPITAL HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1213,12 +1213,12 @@
     "normalBedTotal": "114",
     "normalBedAvailable": "114",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:04:02",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:31:19",
     "googleSearch": "https://www.google.com/search?q=BASE+HOSPITAL+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=BASE+HOSPITAL+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1232,12 +1232,12 @@
     "normalBedTotal": "47",
     "normalBedAvailable": "47",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:07:12",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:32:02",
     "googleSearch": "https://www.google.com/search?q=COER+HOSPITAL ROORKEE+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=COER+HOSPITAL ROORKEE+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1249,16 +1249,16 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "100",
-    "normalBedAvailable": "99",
-    "normalBedOccupied": 1,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:35:14",
+    "normalBedAvailable": "100",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:50:30",
     "googleSearch": "https://www.google.com/search?q=GURUKUL+KANGARI HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=GURUKUL+KANGARI HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9200441",
     "longitude": "78.1229689",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1272,12 +1272,12 @@
     "normalBedTotal": "50",
     "normalBedAvailable": "50",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:38:12",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:50:55",
     "googleSearch": "https://www.google.com/search?q=HOTEL+GREEN LEAF JWALAPUR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+GREEN LEAF JWALAPUR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1289,16 +1289,16 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "60",
-    "normalBedAvailable": "60",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:37:09",
+    "normalBedAvailable": "59",
+    "normalBedOccupied": 1,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:48:45",
     "googleSearch": "https://www.google.com/search?q=HOTEL+JAHANVI DALE HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+JAHANVI DALE HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9303218",
     "longitude": "78.1388292",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1312,14 +1312,14 @@
     "normalBedTotal": "34",
     "normalBedAvailable": "34",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:34:46",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:54:21",
     "googleSearch": "https://www.google.com/search?q=HOTEL+JASMIN SIDCUL HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+JASMIN SIDCUL HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9463729",
     "longitude": "78.0654949",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1333,14 +1333,14 @@
     "normalBedTotal": "35",
     "normalBedAvailable": "35",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:36:40",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:52:08",
     "googleSearch": "https://www.google.com/search?q=HOTEL+PACIFIC ROORKEE HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+PACIFIC ROORKEE HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.8251576",
     "longitude": "77.8823842",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1354,14 +1354,14 @@
     "normalBedTotal": "50",
     "normalBedAvailable": "50",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:38:50",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:52:43",
     "googleSearch": "https://www.google.com/search?q=HOTEL+PARMILA BY PASS ROAD HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+PARMILA BY PASS ROAD HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9324246",
     "longitude": "78.1423236",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1375,12 +1375,12 @@
     "normalBedTotal": "45",
     "normalBedAvailable": "45",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:39:28",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:51:44",
     "googleSearch": "https://www.google.com/search?q=HOTEL+PREM DEEP SHIVMURTI HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+PREM DEEP SHIVMURTI HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1394,14 +1394,14 @@
     "normalBedTotal": "120",
     "normalBedAvailable": "119",
     "normalBedOccupied": 1,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:35:53",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:49:17",
     "googleSearch": "https://www.google.com/search?q=HOTEL+SACHIN INTERNATIONAL NEAR RAILWAY STATION+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+SACHIN INTERNATIONAL NEAR RAILWAY STATION+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9460231",
     "longitude": "78.154392",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1415,14 +1415,14 @@
     "normalBedTotal": "250",
     "normalBedAvailable": "250",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:40:10",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:53:18",
     "googleSearch": "https://www.google.com/search?q=IIT+ROORKEE+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=IIT+ROORKEE+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.8648744",
     "longitude": "77.8964583",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1431,17 +1431,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8126158028",
     "oxygenBedTotal": "40",
-    "oxygenBedAvailable": "34",
-    "oxygenBedOccupied": 6,
+    "oxygenBedAvailable": "37",
+    "oxygenBedOccupied": 3,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:55:21",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:32:33",
     "googleSearch": "https://www.google.com/search?q=J.N.+SINHA MEMORIAL SDH ROORKEE+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=J.N.+SINHA MEMORIAL SDH ROORKEE+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1450,17 +1450,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 637373482\n 6398864848",
     "oxygenBedTotal": "10",
-    "oxygenBedAvailable": "6",
-    "oxygenBedOccupied": 4,
+    "oxygenBedAvailable": "7",
+    "oxygenBedOccupied": 3,
     "normalBedTotal": "10",
-    "normalBedAvailable": "9",
-    "normalBedOccupied": 1,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:08:23",
+    "normalBedAvailable": "10",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:35:00",
     "googleSearch": "https://www.google.com/search?q=JAGJEETPUR+MEDICARE HOSPITAL HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=JAGJEETPUR+MEDICARE HOSPITAL HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1469,17 +1469,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9897536677",
     "oxygenBedTotal": "30",
-    "oxygenBedAvailable": "23",
-    "oxygenBedOccupied": 7,
+    "oxygenBedAvailable": "21",
+    "oxygenBedOccupied": 9,
     "normalBedTotal": "10",
     "normalBedAvailable": "10",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:47:37",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:27:36",
     "googleSearch": "https://www.google.com/search?q=JAYAMAXWELL+HOSPITAL+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=JAYAMAXWELL+HOSPITAL+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1493,12 +1493,12 @@
     "normalBedTotal": "3",
     "normalBedAvailable": "3",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:03:31",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:35:20",
     "googleSearch": "https://www.google.com/search?q=KAPOOR+MULTISPECIALITY HOSPITAL MANGLOUR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=KAPOOR+MULTISPECIALITY HOSPITAL MANGLOUR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1510,16 +1510,16 @@
     "oxygenBedAvailable": "15",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "12",
-    "normalBedAvailable": "9",
-    "normalBedOccupied": 3,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:06:27",
+    "normalBedAvailable": "12",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:35:56",
     "googleSearch": "https://www.google.com/search?q=LIFE+LINE SUPERSPECIALITY KGN MEDICAL CENTRE HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=LIFE+LINE SUPERSPECIALITY KGN MEDICAL CENTRE HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9265396",
     "longitude": "78.1022729",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1528,19 +1528,19 @@
     "hospitalAddress": "BHEL Township, Bharat Heavy Electrical Limited Ran, Uttarakhand 249403",
     "phoneNo": "01334 285 225",
     "oxygenBedTotal": "32",
-    "oxygenBedAvailable": "19",
-    "oxygenBedOccupied": 13,
+    "oxygenBedAvailable": "25",
+    "oxygenBedOccupied": 7,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:01:31",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:36:22",
     "googleSearch": "https://www.google.com/search?q=MAIN+HOSPITAL BHEL+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=MAIN+HOSPITAL BHEL+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9483629",
     "longitude": "78.1150366",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1554,12 +1554,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:07:37",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:37:24",
     "googleSearch": "https://www.google.com/search?q=MAXWELL+HOSPITAL JAGJEETPUR HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=MAXWELL+HOSPITAL JAGJEETPUR HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1568,17 +1568,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8532835631",
     "oxygenBedTotal": "50",
-    "oxygenBedAvailable": "47",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "49",
+    "oxygenBedOccupied": 1,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:48:06",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:37:51",
     "googleSearch": "https://www.google.com/search?q=MELA+HOSPITAL HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=MELA+HOSPITAL HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1587,17 +1587,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7017678152",
     "oxygenBedTotal": "40",
-    "oxygenBedAvailable": "33",
-    "oxygenBedOccupied": 7,
+    "oxygenBedAvailable": "34",
+    "oxygenBedOccupied": 6,
     "normalBedTotal": "10",
-    "normalBedAvailable": "7",
-    "normalBedOccupied": 3,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:48:27",
+    "normalBedAvailable": "10",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:38:14",
     "googleSearch": "https://www.google.com/search?q=METRO+HOSPITAL HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=METRO+HOSPITAL HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1606,17 +1606,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9079946561",
     "oxygenBedTotal": "25",
-    "oxygenBedAvailable": "25",
-    "oxygenBedOccupied": 0,
+    "oxygenBedAvailable": "19",
+    "oxygenBedOccupied": 6,
     "normalBedTotal": "115",
-    "normalBedAvailable": "112",
-    "normalBedOccupied": 3,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:46:57",
+    "normalBedAvailable": "110",
+    "normalBedOccupied": 5,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:27:06",
     "googleSearch": "https://www.google.com/search?q=MILITARY+HOSPITAL MH ROORKEE+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=MILITARY+HOSPITAL MH ROORKEE+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1634,8 +1634,8 @@
     "lastUpdatedTime": "17:31:17",
     "googleSearch": "https://www.google.com/search?q=MULTISPECIALITY+HOSPITAL MUSTAFABD LAKSAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=MULTISPECIALITY+HOSPITAL MUSTAFABD LAKSAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1649,12 +1649,12 @@
     "normalBedTotal": "14",
     "normalBedAvailable": "14",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:02:54",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:38:41",
     "googleSearch": "https://www.google.com/search?q=NEW+DEV BHUMI HOSPITAL MEDICAL RESEARCH HOSPITAL+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=NEW+DEV BHUMI HOSPITAL MEDICAL RESEARCH HOSPITAL+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1668,12 +1668,12 @@
     "normalBedTotal": "12",
     "normalBedAvailable": "12",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:55:40",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:39:09",
     "googleSearch": "https://www.google.com/search?q=QWADRA+HOSPITAL ROORKEE+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=QWADRA+HOSPITAL ROORKEE+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1682,17 +1682,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7983816880",
     "oxygenBedTotal": "93",
-    "oxygenBedAvailable": "85",
-    "oxygenBedOccupied": 8,
+    "oxygenBedAvailable": "81",
+    "oxygenBedOccupied": 12,
     "normalBedTotal": "42",
     "normalBedAvailable": "42",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:54:59",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:40:00",
     "googleSearch": "https://www.google.com/search?q=RAM+KRISHAN MISSION HOSPITAL HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=RAM+KRISHAN MISSION HOSPITAL HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1706,12 +1706,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:02:00",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:40:27",
     "googleSearch": "https://www.google.com/search?q=S.R.+MEDICITY JAGJEETPUR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=S.R.+MEDICITY JAGJEETPUR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1723,14 +1723,14 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "84",
-    "normalBedAvailable": "82",
-    "normalBedOccupied": 2,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:36:10",
+    "normalBedAvailable": "83",
+    "normalBedOccupied": 1,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:50:08",
     "googleSearch": "https://www.google.com/search?q=SHANTI+KUNJ+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=SHANTI+KUNJ+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1744,12 +1744,12 @@
     "normalBedTotal": "20",
     "normalBedAvailable": "20",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:00:35",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:42:29",
     "googleSearch": "https://www.google.com/search?q=SHREE+DHRUV CHARITABLE TRUST+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=SHREE+DHRUV CHARITABLE TRUST+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1758,17 +1758,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9838996111",
     "oxygenBedTotal": "23",
-    "oxygenBedAvailable": "21",
-    "oxygenBedOccupied": 2,
+    "oxygenBedAvailable": "20",
+    "oxygenBedOccupied": 3,
     "normalBedTotal": "10",
     "normalBedAvailable": "10",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:54:08",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:43:02",
     "googleSearch": "https://www.google.com/search?q=SWAMI+BHUMANAND HOSPITAL+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=SWAMI+BHUMANAND HOSPITAL+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1777,17 +1777,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8864920132",
     "oxygenBedTotal": "45",
-    "oxygenBedAvailable": "41",
-    "oxygenBedOccupied": 4,
+    "oxygenBedAvailable": "45",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "21",
     "normalBedAvailable": "21",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:57:04",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:43:35",
     "googleSearch": "https://www.google.com/search?q=SWAMI+RAM PRAKASH CHARITABLE HOSPITAL HARIDWAR+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=SWAMI+RAM PRAKASH CHARITABLE HOSPITAL HARIDWAR+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1801,14 +1801,14 @@
     "normalBedTotal": "10",
     "normalBedAvailable": "10",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "13:04:50",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:43:55",
     "googleSearch": "https://www.google.com/search?q=TULSI+HOSPITAL GANESHPUR ROORKEE+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=TULSI+HOSPITAL GANESHPUR ROORKEE+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.8585849",
     "longitude": "77.8771448",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1817,19 +1817,19 @@
     "hospitalAddress": "Gandhi Nagar, Roorkee, Uttarakhand 247667",
     "phoneNo": "070785 99991",
     "oxygenBedTotal": "80",
-    "oxygenBedAvailable": "53",
-    "oxygenBedOccupied": 27,
+    "oxygenBedAvailable": "65",
+    "oxygenBedOccupied": 15,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:47:19",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:28:25",
     "googleSearch": "https://www.google.com/search?q=VINAY+VISHAL+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=VINAY+VISHAL+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.8670082",
     "longitude": "77.8771981",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1843,14 +1843,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "05/06/2021",
-    "lastUpdatedTime": "12:58:10",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:44:26",
     "googleSearch": "https://www.google.com/search?q=YOG+MATA PILOT BABA HOSPITAL+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=YOG+MATA PILOT BABA HOSPITAL+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9244535",
     "longitude": "78.1368973",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "HARIDWAR",
@@ -1862,16 +1862,16 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "40",
-    "normalBedAvailable": "24",
-    "normalBedOccupied": 16,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "11:34:27",
+    "normalBedAvailable": "3",
+    "normalBedOccupied": 37,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "16:49:43",
     "googleSearch": "https://www.google.com/search?q=ZILA+JAIL ROSHANABAD+HARIDWAR&rlz=1C1CHBF_enIN859IN859&oq=ZILA+JAIL ROSHANABAD+HARIDWAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.9785668",
     "longitude": "78.059844",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -1885,12 +1885,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:20:55",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:34:06",
     "googleSearch": "https://www.google.com/search?q=BABA+NEEM KAROLI+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=BABA+NEEM KAROLI+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -1899,17 +1899,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7455009297",
     "oxygenBedTotal": "11",
-    "oxygenBedAvailable": "8",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 1,
     "normalBedTotal": "20",
     "normalBedAvailable": "19",
     "normalBedOccupied": 1,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:21:31",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:35:33",
     "googleSearch": "https://www.google.com/search?q=BOMBAY+HOSPITAL+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=BOMBAY+HOSPITAL+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -1918,17 +1918,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9759063358",
     "oxygenBedTotal": "18",
-    "oxygenBedAvailable": "11",
-    "oxygenBedOccupied": 7,
+    "oxygenBedAvailable": "12",
+    "oxygenBedOccupied": 6,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:22:21",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:35:51",
     "googleSearch": "https://www.google.com/search?q=BRIJALAL+HOSPITAL RESEARCH+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=BRIJALAL+HOSPITAL RESEARCH+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -1937,17 +1937,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7500445111",
     "oxygenBedTotal": "50",
-    "oxygenBedAvailable": "47",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "45",
+    "oxygenBedOccupied": 5,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:23:00",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:36:20",
     "googleSearch": "https://www.google.com/search?q=CENTRAL+HOSPITAL+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=CENTRAL+HOSPITAL+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -1961,12 +1961,12 @@
     "normalBedTotal": "2",
     "normalBedAvailable": "2",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:23:51",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:36:43",
     "googleSearch": "https://www.google.com/search?q=KALYAN+HOSPITAL+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=KALYAN+HOSPITAL+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -1980,12 +1980,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:24:28",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:40:26",
     "googleSearch": "https://www.google.com/search?q=KRISHNA+HOSPITAL RESEARCH CENTRE+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=KRISHNA+HOSPITAL RESEARCH CENTRE+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -1999,12 +1999,12 @@
     "normalBedTotal": "15",
     "normalBedAvailable": "15",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:25:16",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:42:13",
     "googleSearch": "https://www.google.com/search?q=MAA+JAGDAMBA HOSPITAL+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=MAA+JAGDAMBA HOSPITAL+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -2012,20 +2012,20 @@
     "hospitalName": "NEELKANTH HOSPITAL",
     "hospitalAddress": "NEW I.T.I. ROAD Government Hospital, near Susheela Tiwari, Haldwani, Uttarakhand 263139",
     "phoneNo": " 8077622358",
-    "oxygenBedTotal": "17",
-    "oxygenBedAvailable": "5",
-    "oxygenBedOccupied": 12,
+    "oxygenBedTotal": "12",
+    "oxygenBedAvailable": "3",
+    "oxygenBedOccupied": 9,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:26:08",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:42:42",
     "googleSearch": "https://www.google.com/search?q=NEELKANTH+HOSPITAL+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=NEELKANTH+HOSPITAL+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.2061056",
     "longitude": "79.5162127",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -2034,17 +2034,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9639864155",
     "oxygenBedTotal": "28",
-    "oxygenBedAvailable": "23",
-    "oxygenBedOccupied": 5,
+    "oxygenBedAvailable": "25",
+    "oxygenBedOccupied": 3,
     "normalBedTotal": "5",
     "normalBedAvailable": "5",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:27:26",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:43:17",
     "googleSearch": "https://www.google.com/search?q=SAI+HOSPITAL+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=SAI+HOSPITAL+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -2053,17 +2053,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9634623901\n 9997192777",
     "oxygenBedTotal": "376",
-    "oxygenBedAvailable": "314",
-    "oxygenBedOccupied": 62,
+    "oxygenBedAvailable": "307",
+    "oxygenBedOccupied": 69,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:31:32",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:46:08",
     "googleSearch": "https://www.google.com/search?q=SHUSHILA+TIWARI GOVERNMENT HOSPITAL HALDWANI+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=SHUSHILA+TIWARI GOVERNMENT HOSPITAL HALDWANI+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -2077,14 +2077,14 @@
     "normalBedTotal": "8",
     "normalBedAvailable": "8",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:28:27",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:43:46",
     "googleSearch": "https://www.google.com/search?q=SIDHIVINAY+HOSPITAL+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=SIDHIVINAY+HOSPITAL+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.2211739",
     "longitude": "79.5107643",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -2093,17 +2093,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8194019311",
     "oxygenBedTotal": "15",
-    "oxygenBedAvailable": "6",
-    "oxygenBedOccupied": 9,
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 5,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:29:03",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:44:18",
     "googleSearch": "https://www.google.com/search?q=SK+NURSING HOME HALDWANI+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=SK+NURSING HOME HALDWANI+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -2117,12 +2117,12 @@
     "normalBedTotal": "5",
     "normalBedAvailable": "5",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:29:52",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:45:01",
     "googleSearch": "https://www.google.com/search?q=SMT.+USHA BHUGUNA ALFA HEALTH+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=SMT.+USHA BHUGUNA ALFA HEALTH+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "NAINITAL",
@@ -2136,14 +2136,14 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "16:30:53",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "13:45:34",
     "googleSearch": "https://www.google.com/search?q=VIVEKANAND+HOSPITAL+NAINITAL&rlz=1C1CHBF_enIN859IN859&oq=VIVEKANAND+HOSPITAL+NAINITAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "29.2187286",
     "longitude": "79.5187493",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2163,8 +2163,8 @@
     "latitude": "29.7509686",
     "longitude": "78.5242116",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2182,8 +2182,8 @@
     "lastUpdatedTime": "10:28:28",
     "googleSearch": "https://www.google.com/search?q=DCCC+BARAT GHAR+PAURI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=DCCC+BARAT GHAR+PAURI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2201,8 +2201,8 @@
     "lastUpdatedTime": "10:28:41",
     "googleSearch": "https://www.google.com/search?q=DCCC+SATPULI+PAURI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=DCCC+SATPULI+PAURI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2220,8 +2220,8 @@
     "lastUpdatedTime": "10:28:05",
     "googleSearch": "https://www.google.com/search?q=DISTRICT+HOSPITAL PAURI+PAURI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=DISTRICT+HOSPITAL PAURI+PAURI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2239,8 +2239,8 @@
     "lastUpdatedTime": "15:12:35",
     "googleSearch": "https://www.google.com/search?q=GEETA+BHAWAN+PAURI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=GEETA+BHAWAN+PAURI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2258,8 +2258,8 @@
     "lastUpdatedTime": "15:12:49",
     "googleSearch": "https://www.google.com/search?q=GMVN+KOUDIYA CAMP+PAURI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=GMVN+KOUDIYA CAMP+PAURI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2279,8 +2279,8 @@
     "latitude": "30.2227013",
     "longitude": "78.7845804",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2300,8 +2300,8 @@
     "latitude": "29.9442257",
     "longitude": "78.692556",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2319,8 +2319,8 @@
     "lastUpdatedTime": "10:28:23",
     "googleSearch": "https://www.google.com/search?q=MAA+KAMAKHYA MULTISPECIALTY HOSPITAL+PAURI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=MAA+KAMAKHYA MULTISPECIALTY HOSPITAL+PAURI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2338,8 +2338,8 @@
     "lastUpdatedTime": "10:27:32",
     "googleSearch": "https://www.google.com/search?q=MEDICAL+COLLEGE SRINAGAR+PAURI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=MEDICAL+COLLEGE SRINAGAR+PAURI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PAURI GARHWAL",
@@ -2357,8 +2357,8 @@
     "lastUpdatedTime": "15:12:59",
     "googleSearch": "https://www.google.com/search?q=SWAMI+SUKHDEVANAND TRUST PARMARTH NIKETAN+PAURI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=SWAMI+SUKHDEVANAND TRUST PARMARTH NIKETAN+PAURI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PITHORAGARH",
@@ -2367,17 +2367,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9412977242\n 05964-225687",
     "oxygenBedTotal": "87",
-    "oxygenBedAvailable": "75",
-    "oxygenBedOccupied": 12,
+    "oxygenBedAvailable": "76",
+    "oxygenBedOccupied": 11,
     "normalBedTotal": "33",
-    "normalBedAvailable": "33",
-    "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "15:56:48",
+    "normalBedAvailable": "32",
+    "normalBedOccupied": 1,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "15:32:13",
     "googleSearch": "https://www.google.com/search?q=B.D.PANDEY+DISTRICT HOSPITAL PITHORAGARH+PITHORAGARH&rlz=1C1CHBF_enIN859IN859&oq=B.D.PANDEY+DISTRICT HOSPITAL PITHORAGARH+PITHORAGARH&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "PITHORAGARH",
@@ -2389,14 +2389,14 @@
     "oxygenBedAvailable": "100",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "150",
-    "normalBedAvailable": "142",
-    "normalBedOccupied": 8,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "15:57:00",
+    "normalBedAvailable": "147",
+    "normalBedOccupied": 3,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "15:32:59",
     "googleSearch": "https://www.google.com/search?q=BASE+HOSPITAL PITHORAGARH+PITHORAGARH&rlz=1C1CHBF_enIN859IN859&oq=BASE+HOSPITAL PITHORAGARH+PITHORAGARH&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "RUDRAPRAYAG",
@@ -2405,17 +2405,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7253049619",
     "oxygenBedTotal": "15",
-    "oxygenBedAvailable": "7",
-    "oxygenBedOccupied": 8,
+    "oxygenBedAvailable": "15",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "08:56:09",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "15:39:46",
     "googleSearch": "https://www.google.com/search?q=DEGREE+COLLEGE AUGUSTMUNI BOYS/GIRLS HOSTEL+RUDRAPRAYAG&rlz=1C1CHBF_enIN859IN859&oq=DEGREE+COLLEGE AUGUSTMUNI BOYS/GIRLS HOSTEL+RUDRAPRAYAG&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "RUDRAPRAYAG",
@@ -2424,19 +2424,19 @@
     "hospitalAddress": "Suvidha Nagar, Rudraprayag, Uttarakhand 246171",
     "phoneNo": " 9897663755",
     "oxygenBedTotal": "120",
-    "oxygenBedAvailable": "100",
-    "oxygenBedOccupied": 20,
+    "oxygenBedAvailable": "113",
+    "oxygenBedOccupied": 7,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "08:55:46",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "14:45:49",
     "googleSearch": "https://www.google.com/search?q=DISTRICT+HOSPITAL RUDRAPRAYAG+RUDRAPRAYAG&rlz=1C1CHBF_enIN859IN859&oq=DISTRICT+HOSPITAL RUDRAPRAYAG+RUDRAPRAYAG&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "30.2863685",
     "longitude": "78.9816266",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "RUDRAPRAYAG",
@@ -2450,12 +2450,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "03/06/2021",
-    "lastUpdatedTime": "08:55:57",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "14:46:10",
     "googleSearch": "https://www.google.com/search?q=SPORTS+COMPLEX AUGUSTYAMUNI+RUDRAPRAYAG&rlz=1C1CHBF_enIN859IN859&oq=SPORTS+COMPLEX AUGUSTYAMUNI+RUDRAPRAYAG&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "TEHRI GARHWAL",
@@ -2473,8 +2473,8 @@
     "lastUpdatedTime": "13:02:36",
     "googleSearch": "https://www.google.com/search?q=CLASSIC+HILL TOP CHAMBA+TEHRI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=CLASSIC+HILL TOP CHAMBA+TEHRI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "TEHRI GARHWAL",
@@ -2492,8 +2492,8 @@
     "lastUpdatedTime": "12:22:52",
     "googleSearch": "https://www.google.com/search?q=GANGA+RESORT MUNI KI RETI+TEHRI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=GANGA+RESORT MUNI KI RETI+TEHRI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "TEHRI GARHWAL",
@@ -2505,14 +2505,14 @@
     "oxygenBedAvailable": "77",
     "oxygenBedOccupied": 5,
     "normalBedTotal": "58",
-    "normalBedAvailable": "18",
-    "normalBedOccupied": 40,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "10:29:13",
+    "normalBedAvailable": "28",
+    "normalBedOccupied": 30,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "10:29:31",
     "googleSearch": "https://www.google.com/search?q=RISHILOK+MUNI KI RETI+TEHRI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=RISHILOK+MUNI KI RETI+TEHRI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "TEHRI GARHWAL",
@@ -2530,8 +2530,8 @@
     "lastUpdatedTime": "13:36:44",
     "googleSearch": "https://www.google.com/search?q=SDH+NARENDRA NAGAR+TEHRI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=SDH+NARENDRA NAGAR+TEHRI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "TEHRI GARHWAL",
@@ -2549,8 +2549,8 @@
     "lastUpdatedTime": "13:02:49",
     "googleSearch": "https://www.google.com/search?q=SHIVASH+INN+TEHRI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=SHIVASH+INN+TEHRI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "TEHRI GARHWAL",
@@ -2568,8 +2568,8 @@
     "lastUpdatedTime": "13:03:00",
     "googleSearch": "https://www.google.com/search?q=TCR+CHAMBA+TEHRI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=TCR+CHAMBA+TEHRI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "TEHRI GARHWAL",
@@ -2581,14 +2581,14 @@
     "oxygenBedAvailable": "99",
     "oxygenBedOccupied": 1,
     "normalBedTotal": "350",
-    "normalBedAvailable": "348",
-    "normalBedOccupied": 2,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "15:01:52",
+    "normalBedAvailable": "350",
+    "normalBedOccupied": 0,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "15:17:48",
     "googleSearch": "https://www.google.com/search?q=THDC+BPURAM+TEHRI GARHWAL&rlz=1C1CHBF_enIN859IN859&oq=THDC+BPURAM+TEHRI GARHWAL&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2606,8 +2606,8 @@
     "lastUpdatedTime": "11:45:05",
     "googleSearch": "https://www.google.com/search?q=AMRIT+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=AMRIT+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2616,17 +2616,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8477999957",
     "oxygenBedTotal": "40",
-    "oxygenBedAvailable": "38",
-    "oxygenBedOccupied": 2,
+    "oxygenBedAvailable": "37",
+    "oxygenBedOccupied": 3,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:27:44",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:41:31",
     "googleSearch": "https://www.google.com/search?q=AYUSHMAN+HOSPITAL KASHIPUR+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=AYUSHMAN+HOSPITAL KASHIPUR+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2635,17 +2635,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9412436242",
     "oxygenBedTotal": "22",
-    "oxygenBedAvailable": "7",
-    "oxygenBedOccupied": 15,
+    "oxygenBedAvailable": "20",
+    "oxygenBedOccupied": 2,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:22:20",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:33:48",
     "googleSearch": "https://www.google.com/search?q=CIVIL+HOSPITAL KHATIMA+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=CIVIL+HOSPITAL KHATIMA+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2654,17 +2654,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9412512432",
     "oxygenBedTotal": "21",
-    "oxygenBedAvailable": "18",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "21",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:17:06",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:29:25",
     "googleSearch": "https://www.google.com/search?q=D.+ARVIND SHARMA PRAKSASH HOSPITAL AND RESEARCH FOUNDATION+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=D.+ARVIND SHARMA PRAKSASH HOSPITAL AND RESEARCH FOUNDATION+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2673,17 +2673,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8477999957",
     "oxygenBedTotal": "16",
-    "oxygenBedAvailable": "13",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "16",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:09:42",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:18:43",
     "googleSearch": "https://www.google.com/search?q=DEVBHOOMI+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=DEVBHOOMI+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2697,12 +2697,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:16:03",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:28:36",
     "googleSearch": "https://www.google.com/search?q=DR.+MANDEEP METROCITY HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=DR.+MANDEEP METROCITY HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2711,17 +2711,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 983760832",
     "oxygenBedTotal": "16",
-    "oxygenBedAvailable": "13",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "16",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:19:40",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:30:06",
     "googleSearch": "https://www.google.com/search?q=DR.+MAYANK AGARWAL SHREE KRISHNA HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=DR.+MAYANK AGARWAL SHREE KRISHNA HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2730,17 +2730,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7319895786",
     "oxygenBedTotal": "120",
-    "oxygenBedAvailable": "97",
-    "oxygenBedOccupied": 23,
+    "oxygenBedAvailable": "114",
+    "oxygenBedOccupied": 6,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:24:09",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:37:42",
     "googleSearch": "https://www.google.com/search?q=ESI+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=ESI+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2754,12 +2754,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:20:45",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:31:43",
     "googleSearch": "https://www.google.com/search?q=FUTELA+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=FUTELA+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2773,12 +2773,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "30/05/2021",
-    "lastUpdatedTime": "10:06:54",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:47:02",
     "googleSearch": "https://www.google.com/search?q=GAHTORI+HOSPITAL AND RESEARCH CENTRE+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=GAHTORI+HOSPITAL AND RESEARCH CENTRE+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2787,17 +2787,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7017360015",
     "oxygenBedTotal": "23",
-    "oxygenBedAvailable": "22",
-    "oxygenBedOccupied": 1,
+    "oxygenBedAvailable": "23",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:12:08",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:22:52",
     "googleSearch": "https://www.google.com/search?q=GAUTAM+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=GAUTAM+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2806,17 +2806,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 729811508",
     "oxygenBedTotal": "12",
-    "oxygenBedAvailable": "6",
-    "oxygenBedOccupied": 6,
+    "oxygenBedAvailable": "9",
+    "oxygenBedOccupied": 3,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:23:45",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:37:09",
     "googleSearch": "https://www.google.com/search?q=GLOBAL+MULTISPECIALTY HOSPITAL KASHIPUR+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=GLOBAL+MULTISPECIALTY HOSPITAL KASHIPUR+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2825,17 +2825,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9411108242",
     "oxygenBedTotal": "312",
-    "oxygenBedAvailable": "289",
-    "oxygenBedOccupied": 23,
+    "oxygenBedAvailable": "304",
+    "oxygenBedOccupied": 8,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:08:42",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:17:33",
     "googleSearch": "https://www.google.com/search?q=JAWAHAR+LAL NEHRU DISTRICT HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=JAWAHAR+LAL NEHRU DISTRICT HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2844,17 +2844,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9837020014",
     "oxygenBedTotal": "10",
-    "oxygenBedAvailable": "10",
-    "oxygenBedOccupied": 0,
+    "oxygenBedAvailable": "7",
+    "oxygenBedOccupied": 3,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:14:06",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:24:36",
     "googleSearch": "https://www.google.com/search?q=KVR+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=KVR+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2863,17 +2863,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7300580000",
     "oxygenBedTotal": "16",
-    "oxygenBedAvailable": "4",
-    "oxygenBedOccupied": 12,
+    "oxygenBedAvailable": "12",
+    "oxygenBedOccupied": 4,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:23:12",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:36:20",
     "googleSearch": "https://www.google.com/search?q=LD+BHATT SDH HOSPITAL KASHIPUR+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=LD+BHATT SDH HOSPITAL KASHIPUR+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2887,12 +2887,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:29:37",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:43:16",
     "googleSearch": "https://www.google.com/search?q=MAHAJAN+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=MAHAJAN+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2901,17 +2901,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7011766292",
     "oxygenBedTotal": "15",
-    "oxygenBedAvailable": "10",
-    "oxygenBedOccupied": 5,
+    "oxygenBedAvailable": "15",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:22:47",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:34:20",
     "googleSearch": "https://www.google.com/search?q=MAHARAJA+AGARSEN HOSPITAL KICHAA+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=MAHARAJA+AGARSEN HOSPITAL KICHAA+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2920,17 +2920,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8218487018",
     "oxygenBedTotal": "90",
-    "oxygenBedAvailable": "85",
-    "oxygenBedOccupied": 5,
+    "oxygenBedAvailable": "89",
+    "oxygenBedOccupied": 1,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:09:17",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:18:14",
     "googleSearch": "https://www.google.com/search?q=MEDICITY+MULTISPECIALITY HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=MEDICITY+MULTISPECIALITY HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2939,17 +2939,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8077717150\n 3",
     "oxygenBedTotal": "10",
-    "oxygenBedAvailable": "10",
-    "oxygenBedOccupied": 0,
+    "oxygenBedAvailable": "8",
+    "oxygenBedOccupied": 2,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:21:18",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:32:22",
     "googleSearch": "https://www.google.com/search?q=NAVYA+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=NAVYA+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2963,12 +2963,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:28:42",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:42:11",
     "googleSearch": "https://www.google.com/search?q=PANT+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=PANT+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2977,19 +2977,19 @@
     "hospitalAddress": "Khatima Chauraha, Khatima, Uttarakhand 262308",
     "phoneNo": " 8650121111",
     "oxygenBedTotal": "33",
-    "oxygenBedAvailable": "23",
-    "oxygenBedOccupied": 10,
+    "oxygenBedAvailable": "33",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:10:15",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:20:00",
     "googleSearch": "https://www.google.com/search?q=PRAYAS+HOSPITAL KHATIMA+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=PRAYAS+HOSPITAL KHATIMA+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "latitude": "28.9236737",
     "longitude": "79.9741172",
     "rank": 2,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -2998,17 +2998,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9027162755",
     "oxygenBedTotal": "16",
-    "oxygenBedAvailable": "13",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "16",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:10:56",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:21:28",
     "googleSearch": "https://www.google.com/search?q=PRAYAS+HOSPITAL SITARGANJ+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=PRAYAS+HOSPITAL SITARGANJ+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -3017,17 +3017,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9837755585",
     "oxygenBedTotal": "27",
-    "oxygenBedAvailable": "9",
-    "oxygenBedOccupied": 18,
+    "oxygenBedAvailable": "16",
+    "oxygenBedOccupied": 11,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:14:32",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:26:15",
     "googleSearch": "https://www.google.com/search?q=RAJ+GUMBER SANJEEVANI MULTI SPECIALTY HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=RAJ+GUMBER SANJEEVANI MULTI SPECIALTY HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -3041,12 +3041,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "30/05/2021",
-    "lastUpdatedTime": "10:11:16",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:46:34",
     "googleSearch": "https://www.google.com/search?q=S.H+MULTI SPECIALTY HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=S.H+MULTI SPECIALTY HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -3055,17 +3055,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7055020002",
     "oxygenBedTotal": "11",
-    "oxygenBedAvailable": "5",
-    "oxygenBedOccupied": 6,
+    "oxygenBedAvailable": "8",
+    "oxygenBedOccupied": 3,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:27:21",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:40:25",
     "googleSearch": "https://www.google.com/search?q=SAHOTA+SUPER SPECIALTY HOSPITAL AND NEUROTRAUMA CENTRAL KASHIPUR+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=SAHOTA+SUPER SPECIALTY HOSPITAL AND NEUROTRAUMA CENTRAL KASHIPUR+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -3074,17 +3074,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 8006011306",
     "oxygenBedTotal": "10",
-    "oxygenBedAvailable": "7",
-    "oxygenBedOccupied": 3,
+    "oxygenBedAvailable": "10",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:12:53",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:24:02",
     "googleSearch": "https://www.google.com/search?q=SIDHI+VINAYAK HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=SIDHI+VINAYAK HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -3093,17 +3093,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9897618595",
     "oxygenBedTotal": "11",
-    "oxygenBedAvailable": "9",
-    "oxygenBedOccupied": 2,
+    "oxygenBedAvailable": "11",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:20:13",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:45:43",
     "googleSearch": "https://www.google.com/search?q=SPARSH+HOSPITAL KASHIPUR+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=SPARSH+HOSPITAL KASHIPUR+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -3112,17 +3112,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9458998103",
     "oxygenBedTotal": "23",
-    "oxygenBedAvailable": "21",
-    "oxygenBedOccupied": 2,
+    "oxygenBedAvailable": "23",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:29:08",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:42:46",
     "googleSearch": "https://www.google.com/search?q=SPARSH+HOSPITAL KHATIMA+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=SPARSH+HOSPITAL KHATIMA+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -3131,17 +3131,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 7830078111",
     "oxygenBedTotal": "21",
-    "oxygenBedAvailable": "16",
-    "oxygenBedOccupied": 5,
+    "oxygenBedAvailable": "21",
+    "oxygenBedOccupied": 0,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:21:55",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:33:19",
     "googleSearch": "https://www.google.com/search?q=SWASTIK+HOSPITAL KHATIMA+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=SWASTIK+HOSPITAL KHATIMA+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -3150,17 +3150,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9927076432",
     "oxygenBedTotal": "28",
-    "oxygenBedAvailable": "28",
-    "oxygenBedOccupied": 0,
+    "oxygenBedAvailable": "23",
+    "oxygenBedOccupied": 5,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:30:02",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:44:06",
     "googleSearch": "https://www.google.com/search?q=TAPAN+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=TAPAN+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UDHAM SINGH NAGAR",
@@ -3169,17 +3169,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9990740109",
     "oxygenBedTotal": "26",
-    "oxygenBedAvailable": "20",
-    "oxygenBedOccupied": 6,
+    "oxygenBedAvailable": "25",
+    "oxygenBedOccupied": 1,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "31/05/2021",
-    "lastUpdatedTime": "15:11:27",
+    "lastUpdatedDate": "07/06/2021",
+    "lastUpdatedTime": "18:22:15",
     "googleSearch": "https://www.google.com/search?q=UJALA+HOSPITAL+UDHAM SINGH NAGAR&rlz=1C1CHBF_enIN859IN859&oq=UJALA+HOSPITAL+UDHAM SINGH NAGAR&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UTTARKASHI",
@@ -3193,12 +3193,12 @@
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:29:52",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "08:23:21",
     "googleSearch": "https://www.google.com/search?q=DH+UTTARKASHI+UTTARKASHI&rlz=1C1CHBF_enIN859IN859&oq=DH+UTTARKASHI+UTTARKASHI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UTTARKASHI",
@@ -3212,12 +3212,12 @@
     "normalBedTotal": "33",
     "normalBedAvailable": "31",
     "normalBedOccupied": 2,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:30:19",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "08:23:33",
     "googleSearch": "https://www.google.com/search?q=GMVN+BARKOT+UTTARKASHI&rlz=1C1CHBF_enIN859IN859&oq=GMVN+BARKOT+UTTARKASHI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UTTARKASHI",
@@ -3231,12 +3231,12 @@
     "normalBedTotal": "26",
     "normalBedAvailable": "26",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:30:29",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "08:23:49",
     "googleSearch": "https://www.google.com/search?q=GMVN+PUROLA+UTTARKASHI&rlz=1C1CHBF_enIN859IN859&oq=GMVN+PUROLA+UTTARKASHI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UTTARKASHI",
@@ -3245,17 +3245,17 @@
     "hospitalAddress": "Not Available",
     "phoneNo": " 9557616302",
     "oxygenBedTotal": "32",
-    "oxygenBedAvailable": "28",
-    "oxygenBedOccupied": 4,
+    "oxygenBedAvailable": "30",
+    "oxygenBedOccupied": 2,
     "normalBedTotal": "58",
-    "normalBedAvailable": "53",
-    "normalBedOccupied": 5,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:30:55",
+    "normalBedAvailable": "56",
+    "normalBedOccupied": 2,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "08:24:05",
     "googleSearch": "https://www.google.com/search?q=GMVN+UTTARKASHI+UTTARKASHI&rlz=1C1CHBF_enIN859IN859&oq=GMVN+UTTARKASHI+UTTARKASHI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UTTARKASHI",
@@ -3267,14 +3267,14 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "80",
-    "normalBedAvailable": "72",
-    "normalBedOccupied": 8,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:31:35",
+    "normalBedAvailable": "71",
+    "normalBedOccupied": 9,
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "08:24:17",
     "googleSearch": "https://www.google.com/search?q=HOTEL+SATYAM+UTTARKASHI&rlz=1C1CHBF_enIN859IN859&oq=HOTEL+SATYAM+UTTARKASHI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   },
   {
     "district": "UTTARKASHI",
@@ -3288,11 +3288,11 @@
     "normalBedTotal": "90",
     "normalBedAvailable": "90",
     "normalBedOccupied": 0,
-    "lastUpdatedDate": "06/06/2021",
-    "lastUpdatedTime": "14:31:47",
+    "lastUpdatedDate": "08/06/2021",
+    "lastUpdatedTime": "08:24:27",
     "googleSearch": "https://www.google.com/search?q=MAHIMA+RESORT NETALA+UTTARKASHI&rlz=1C1CHBF_enIN859IN859&oq=MAHIMA+RESORT NETALA+UTTARKASHI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 1,
-    "ServerUpdatedate": "6-6-2021",
-    "ServerUpdatetime": "20:52"
+    "ServerUpdatedate": "8-6-2021",
+    "ServerUpdatetime": "19:59"
   }
 ]

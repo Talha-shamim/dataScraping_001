@@ -9,8 +9,8 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 40,
     "normalBedTotal": "280",
-    "normalBedAvailable": "220",
-    "normalBedOccupied": 60,
+    "normalBedAvailable": "243",
+    "normalBedOccupied": 37,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q= Biswa+Bangla Krirangan COVID Hospital (Government Hospital)+JALPAIGURI&rlz=1C1CHBF_enIN859IN859&oq= Biswa+Bangla Krirangan COVID Hospital (Government Hospital)+JALPAIGURI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
@@ -22,8 +22,8 @@
     "hospitalAddress": "  WARD NO: 06, MAL MUNICIPALITY, JALPAIGURI-735221 , JALPAIGURI",
     "phoneNo": "   8101093533",
     "oxygenBedTotal": "30",
-    "oxygenBedAvailable": "5",
-    "oxygenBedOccupied": 25,
+    "oxygenBedAvailable": "1",
+    "oxygenBedOccupied": 29,
     "normalBedTotal": "0",
     "normalBedAvailable": "0",
     "normalBedOccupied": 0,
@@ -41,8 +41,8 @@
     "oxygenBedAvailable": "0",
     "oxygenBedOccupied": 0,
     "normalBedTotal": "150",
-    "normalBedAvailable": "134",
-    "normalBedOccupied": 16,
+    "normalBedAvailable": "116",
+    "normalBedOccupied": 34,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
     "googleSearch": "https://www.google.com/search?q= Night+Shelter, COVID Hospital, Jalpaiguri (Government Hospital)+JALPAIGURI&rlz=1C1CHBF_enIN859IN859&oq= Night+Shelter, COVID Hospital, Jalpaiguri (Government Hospital)+JALPAIGURI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
@@ -66,7 +66,7 @@
   {
     "district": "jalpaiguri",
     "state": "Westbengal",
-    "hospitalName": " Sari Hospital, Mal Super speciality (Government Hospital)",
+    "hospitalName": " SARI Hospital, Mal Super speciality (Government Hospital)",
     "hospitalAddress": "  NH 17, Mal Bazar, Jalpaiguri Pin-735221, West Bengal , JALPAIGURI",
     "phoneNo": "   7478964071",
     "oxygenBedTotal": "0",
@@ -77,6 +77,6 @@
     "normalBedOccupied": 0,
     "lastUpdatedDate": "-",
     "lastUpdatedTime": "-",
-    "googleSearch": "https://www.google.com/search?q= Sari+Hospital, Mal Super speciality (Government Hospital)+JALPAIGURI&rlz=1C1CHBF_enIN859IN859&oq= Sari+Hospital, Mal Super speciality (Government Hospital)+JALPAIGURI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
+    "googleSearch": "https://www.google.com/search?q= SARI+Hospital, Mal Super speciality (Government Hospital)+JALPAIGURI&rlz=1C1CHBF_enIN859IN859&oq= SARI+Hospital, Mal Super speciality (Government Hospital)+JALPAIGURI&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8"
   }
 ]
