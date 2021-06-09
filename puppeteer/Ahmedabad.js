@@ -110,7 +110,6 @@ const mergeData = () => {
       });
 
       finaldata = value[0].value;
-   
 
       fs.writeFile(
         `jsonFiles/gujarat.json`,
@@ -121,7 +120,7 @@ const mergeData = () => {
           } else console.log(`File written Ahmedabad`);
         }
       );
-      
+
       fs.writeFile(
         `jsonFiles/ahmedabad.json`,
         JSON.stringify(finaldata, null, 2),

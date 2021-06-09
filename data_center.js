@@ -34,11 +34,6 @@ const chattisgarh = require("./puppeteer/chattisgarh.js");
 // const rajasthancoordmaker = require('./jsonFiles/Coordmaker/rajasthancoordmaker.js')
 // const chhattisgrahcoordmaker = require('./jsonFiles/Coordmaker/chhattisgarhcoordmaker.js')
 
-// setInterval ( () => {
-// const merge_Maharashtra = require('./jsonFiles/MergeJson/maharashtra.js');
-
-// },45360000)
-
 const maharastrafinal = require("./jsonFiles/Coordinates/MergeCoordinates/Maharastrafinal.js");
 const uttarfinal = require("./jsonFiles/Coordinates/MergeCoordinates/uttarpradeshfinal.js");
 const gujratfinal = require("./jsonFiles/Coordinates/MergeCoordinates/Gujratfinal.js");
@@ -92,7 +87,6 @@ chhattisgarhfinal.chattisfinal();
 andhrafinal.andhrafinal();
 
 // // setInterval(() => {
-
 // westbengal.getwestbengal();
 // uttrakhand.getuttrakhand();
 // kerala.getKerala();

@@ -4,12 +4,12 @@
     "hospitalAddress": "NH 66, Fatorda, Margao, Goa 403602",
     "normalBedTotal": "568",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "395",
+    "normalBedAvailable": "390",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
     "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "03:26pm",
+    "lastUpdatedTime": "10:10pm",
     "district": "",
     "state": "Goa",
     "phoneNo": "Not Available",
@@ -17,20 +17,20 @@
     "latitude": "15.2950132",
     "longitude": "73.953641",
     "rank": 1,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Goa Medical College & Hospital, Bambolim",
     "hospitalAddress": "N17, Bambolim, Goa 403202",
-    "normalBedTotal": "680",
+    "normalBedTotal": "642",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "298",
+    "normalBedAvailable": "277",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "07/06/21",
-    "lastUpdatedTime": "09:22pm",
+    "lastUpdatedDate": "08/06/21",
+    "lastUpdatedTime": "10:38pm",
     "district": "",
     "state": "Goa",
     "phoneNo": "0832 245 8727",
@@ -38,27 +38,27 @@
     "latitude": "15.4643263",
     "longitude": "73.8584025",
     "rank": 2,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "ESI Hospital, Margao",
     "hospitalAddress": "Not Available",
     "normalBedTotal": "235",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "194",
+    "normalBedAvailable": "192",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "04:36pm",
+    "lastUpdatedDate": "09/06/21",
+    "lastUpdatedTime": "09:55am",
     "district": "",
     "state": "Goa",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=ESI+Hospital, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=ESI+Hospital, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Sub District Hospital, Ponda",
@@ -69,8 +69,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "03:51pm",
+    "lastUpdatedDate": "09/06/21",
+    "lastUpdatedTime": "10:01am",
     "district": "",
     "state": "Goa",
     "phoneNo": "Not Available",
@@ -78,8 +78,8 @@
     "latitude": "15.3930424",
     "longitude": "74.0057194",
     "rank": 1,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "North Goa District Hospital, Mapusa",
@@ -99,8 +99,8 @@
     "latitude": "15.5968924",
     "longitude": "73.8201766",
     "rank": 1,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "SMRC Hospital, Vasco",
@@ -111,15 +111,15 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "09:33am",
+    "lastUpdatedDate": "09/06/21",
+    "lastUpdatedTime": "09:52am",
     "district": "",
     "state": "Goa",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=SMRC+Hospital, Vasco+Goa&rlz=1C1CHBF_enIN859IN859&oq=SMRC+Hospital, Vasco+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Majestic Pride Covid Care Centre",
@@ -137,8 +137,8 @@
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Majestic+Pride Covid Care Centre+Goa&rlz=1C1CHBF_enIN859IN859&oq=Majestic+Pride Covid Care Centre+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Healthway Hospital, Goa velha",
@@ -158,8 +158,8 @@
     "latitude": "15.4856164",
     "longitude": "73.9111814",
     "rank": 2,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Sub District Hospital Chicalim",
@@ -177,20 +177,20 @@
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Sub+District Hospital Chicalim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Sub+District Hospital Chicalim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Victor Hospital, Margao",
     "hospitalAddress": "Old Station Rd, near Carmelite Monastery, Malbhat, Margao, Goa 403601",
     "normalBedTotal": "27",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "23",
+    "normalBedAvailable": "22",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "05:41pm",
+    "lastUpdatedDate": "09/06/21",
+    "lastUpdatedTime": "10:04am",
     "district": "",
     "state": "Goa",
     "phoneNo": "0832 672 8888",
@@ -198,8 +198,8 @@
     "latitude": "15.2689598",
     "longitude": "73.9663188",
     "rank": 2,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Manipal Hospital, Donapaula",
@@ -219,8 +219,8 @@
     "latitude": "15.4600059",
     "longitude": "73.813462",
     "rank": 2,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Aster Hospital Pvt Ltd, Margao",
@@ -232,7 +232,7 @@
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
     "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "01:02pm",
+    "lastUpdatedTime": "09:55pm",
     "district": "",
     "state": "Goa",
     "phoneNo": "0832 270 5001",
@@ -240,8 +240,8 @@
     "latitude": "15.2808348",
     "longitude": "73.9614898",
     "rank": 2,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Horizon ICU Hospital, Margao",
@@ -252,8 +252,8 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "04:14pm",
+    "lastUpdatedDate": "09/06/21",
+    "lastUpdatedTime": "08:34am",
     "district": "",
     "state": "Goa",
     "phoneNo": "0832 271 4141",
@@ -261,8 +261,8 @@
     "latitude": "15.2735923",
     "longitude": "73.9630284",
     "rank": 2,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Dr. Kedar Hospital, Panjim",
@@ -273,15 +273,15 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "03:46pm",
+    "lastUpdatedDate": "09/06/21",
+    "lastUpdatedTime": "09:54am",
     "district": "",
     "state": "Goa",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Dr.+Kedar Hospital, Panjim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Dr.+Kedar Hospital, Panjim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Campal Clinic, Panjim",
@@ -299,8 +299,8 @@
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Campal+Clinic, Panjim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Campal+Clinic, Panjim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Imperial Plus Hospital LLP, Margao",
@@ -311,27 +311,27 @@
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "04:01pm",
+    "lastUpdatedDate": "09/06/21",
+    "lastUpdatedTime": "09:30am",
     "district": "",
     "state": "Goa",
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=Imperial+Plus Hospital LLP, Margao+Goa&rlz=1C1CHBF_enIN859IN859&oq=Imperial+Plus Hospital LLP, Margao+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Dr Redkars Hospital, Pernem",
     "hospitalAddress": "Mumbai - Goa Hwy, Dhargal, Dargalim, Goa 403513",
     "normalBedTotal": "20",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "3",
+    "normalBedAvailable": "4",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
     "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "07:48am",
+    "lastUpdatedTime": "09:58pm",
     "district": "",
     "state": "Goa",
     "phoneNo": "Not Available",
@@ -339,20 +339,41 @@
     "latitude": "15.6875535",
     "longitude": "73.8307475",
     "rank": 1,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
+  },
+  {
+    "hospitalName": "Dr Samuel Nursing Home (Nagzarkar Hospital), Chinchinim",
+    "hospitalAddress": "Chinchinim, Goa 403715",
+    "normalBedTotal": "12",
+    "normalBedOccupied": "-",
+    "normalBedAvailable": "2",
+    "oxygenBedTotal": "-",
+    "oxygenBedOccupied": "-",
+    "oxygenBedAvailable": "-",
+    "lastUpdatedDate": "09/06/21",
+    "lastUpdatedTime": "09:03am",
+    "district": "",
+    "state": "Goa",
+    "phoneNo": "Not Available",
+    "googleSearch": "https://www.google.com/search?q=Dr+Samuel Nursing Home (Nagzarkar Hospital), Chinchinim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Dr+Samuel Nursing Home (Nagzarkar Hospital), Chinchinim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
+    "latitude": "15.2129526",
+    "longitude": "73.975496",
+    "rank": 1,
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Mother Care Hospital, Borda, Margao",
     "hospitalAddress": "St Joaquim Road, near St. Joaquim Chapel, Borda, Margao, Goa 403601",
     "normalBedTotal": "6",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "2",
+    "normalBedAvailable": "0",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "07/06/21",
-    "lastUpdatedTime": "10:56am",
+    "lastUpdatedDate": "08/06/21",
+    "lastUpdatedTime": "09:39pm",
     "district": "",
     "state": "Goa",
     "phoneNo": "0832 270 0103",
@@ -360,8 +381,8 @@
     "latitude": "15.2816838",
     "longitude": "73.9640248",
     "rank": 2,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Vision Hospital, Mapusa",
@@ -381,29 +402,8 @@
     "latitude": "15.6045829",
     "longitude": "73.8203984",
     "rank": 2,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
-  },
-  {
-    "hospitalName": "Dr Samuel Nursing Home (Nagzarkar Hospital), Chinchinim",
-    "hospitalAddress": "Chinchinim, Goa 403715",
-    "normalBedTotal": "12",
-    "normalBedOccupied": "-",
-    "normalBedAvailable": "0",
-    "oxygenBedTotal": "-",
-    "oxygenBedOccupied": "-",
-    "oxygenBedAvailable": "-",
-    "lastUpdatedDate": "08/06/21",
-    "lastUpdatedTime": "05:05pm",
-    "district": "",
-    "state": "Goa",
-    "phoneNo": "Not Available",
-    "googleSearch": "https://www.google.com/search?q=Dr+Samuel Nursing Home (Nagzarkar Hospital), Chinchinim+Goa&rlz=1C1CHBF_enIN859IN859&oq=Dr+Samuel Nursing Home (Nagzarkar Hospital), Chinchinim+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
-    "latitude": "15.2129526",
-    "longitude": "73.975496",
-    "rank": 1,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "Mapusa Clinic, Mapusa",
@@ -423,15 +423,15 @@
     "latitude": "15.5920059",
     "longitude": "73.8121629",
     "rank": 2,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": "TOTAL",
     "hospitalAddress": "Not Available",
-    "normalBedTotal": "2119",
+    "normalBedTotal": "2081",
     "normalBedOccupied": "-",
-    "normalBedAvailable": "1316",
+    "normalBedAvailable": "1288",
     "oxygenBedTotal": "-",
     "oxygenBedOccupied": "-",
     "oxygenBedAvailable": "-",
@@ -442,8 +442,8 @@
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q=TOTAL+Goa&rlz=1C1CHBF_enIN859IN859&oq=TOTAL+Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   },
   {
     "hospitalName": " ",
@@ -461,7 +461,7 @@
     "phoneNo": "Not Available",
     "googleSearch": "https://www.google.com/search?q= +Goa&rlz=1C1CHBF_enIN859IN859&oq= +Goa&aqs=chrome..69i57j46i10i175i199j0i10l7.11711j0j15&sourceid=chrome&ie=UTF-8",
     "rank": 0,
-    "ServerUpdatedate": "8-6-2021",
-    "ServerUpdatetime": "19:59"
+    "ServerUpdatedate": "9-6-2021",
+    "ServerUpdatetime": "10:45"
   }
 ]
