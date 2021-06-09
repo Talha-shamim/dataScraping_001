@@ -61,7 +61,6 @@ const chhattisgarhfinal = require("./jsonFiles/Coordinates/MergeCoordinates/chha
 // Puducherry.getpuducherry();
 // Navi.getnavi();
 // pune.getpune();
-
 // }, 43200000);
 
 // setInterval(() => {
@@ -69,22 +68,21 @@ const chhattisgarhfinal = require("./jsonFiles/Coordinates/MergeCoordinates/chha
 // }, 	43740000);
 
 // setInterval(() => {
+// maharastrafinal.maharashtrafinal();
+// goafinal.goafinal();
+// Puducherryfinal.puducherryfinal();
+// jharkhandfinal.mergejharkhand();
+// uttarfinal.uttarfinal();
+// gujratfinal.gujratfinal();
+// uttarakhandfinal.uttarakhandfinal();
+// dehifinal.delhifinal();
+// madhyapradeshfinal.madhyafinal();
+// haryanafinal.haryanafinal();
+// westbengalfinal.bengalfinal();
+// rajasthanfinal.rajasthanfinal();
+// chhattisgarhfinal.chattisfinal();
+// andhrafinal.andhrafinal();
 // }, 	45720000);
-
-maharastrafinal.maharashtrafinal();
-goafinal.goafinal();
-Puducherryfinal.puducherryfinal();
-jharkhandfinal.mergejharkhand();
-uttarfinal.uttarfinal();
-gujratfinal.gujratfinal();
-uttarakhandfinal.uttarakhandfinal();
-dehifinal.delhifinal();
-madhyapradeshfinal.madhyafinal();
-haryanafinal.haryanafinal();
-westbengalfinal.bengalfinal();
-rajasthanfinal.rajasthanfinal();
-chhattisgarhfinal.chattisfinal();
-andhrafinal.andhrafinal();
 
 // // setInterval(() => {
 // westbengal.getwestbengal();
