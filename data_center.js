@@ -48,48 +48,54 @@ const westbengalfinal = require("./jsonFiles/Coordinates/MergeCoordinates/westbe
 const rajasthanfinal = require("./jsonFiles/Coordinates/MergeCoordinates/rajasthanfinal.js");
 const chhattisgarhfinal = require("./jsonFiles/Coordinates/MergeCoordinates/chhattisgarhfinal.js");
 
-setInterval(() => {
-  andrapradesh.getandrapradesh();
-  allahabad.getAllahabad();
-  ranchi.getranchi();
-  rajasthan.getrajasthan();
-  uttarpradesh.getuttarpradesh();
-  Goa.getgoa();
-  madhya.getmadhyapradesh();
-  haryana.getharyana();
-  Puducherry.getpuducherry();
-  Navi.getnavi();
-  pune.getpune();
-}, 43200000);
+function getAllData() {
+  console.log("collecting data...");
 
-setInterval(() => {
-  merge_Maharashtra.mergemaharashtra();
-}, 43740000);
+  setInterval(() => {
+    andrapradesh.getandrapradesh();
+    allahabad.getAllahabad();
+    ranchi.getranchi();
+    rajasthan.getrajasthan();
+    uttarpradesh.getuttarpradesh();
+    Goa.getgoa();
+    madhya.getmadhyapradesh();
+    haryana.getharyana();
+    Puducherry.getpuducherry();
+    Navi.getnavi();
+    pune.getpune();
+  }, 43200000);
 
-setInterval(() => {
-  maharastrafinal.maharashtrafinal();
-  goafinal.goafinal();
-  Puducherryfinal.puducherryfinal();
-  jharkhandfinal.mergejharkhand();
-  uttarfinal.uttarfinal();
-  gujratfinal.gujratfinal();
-  uttarakhandfinal.uttarakhandfinal();
-  dehifinal.delhifinal();
-  madhyapradeshfinal.madhyafinal();
-  haryanafinal.haryanafinal();
-  westbengalfinal.bengalfinal();
-  rajasthanfinal.rajasthanfinal();
-  chhattisgarhfinal.chattisfinal();
-  andhrafinal.andhrafinal();
-}, 45720000);
+  setInterval(() => {
+    merge_Maharashtra.mergemaharashtra();
+  }, 43740000);
 
-setInterval(() => {
-  westbengal.getwestbengal();
-  uttrakhand.getuttrakhand();
-  kerala.getKerala();
-  delhi.getdelhi();
-  chattisgarh.getchattisgarh();
-}, 44280000);
+  setInterval(() => {
+    maharastrafinal.maharashtrafinal();
+    goafinal.goafinal();
+    Puducherryfinal.puducherryfinal();
+    jharkhandfinal.mergejharkhand();
+    uttarfinal.uttarfinal();
+    gujratfinal.gujratfinal();
+    uttarakhandfinal.uttarakhandfinal();
+    dehifinal.delhifinal();
+    madhyapradeshfinal.madhyafinal();
+    haryanafinal.haryanafinal();
+    westbengalfinal.bengalfinal();
+    rajasthanfinal.rajasthanfinal();
+    chhattisgarhfinal.chattisfinal();
+    andhrafinal.andhrafinal();
+  }, 45720000);
+
+  setInterval(() => {
+    westbengal.getwestbengal();
+    uttrakhand.getuttrakhand();
+    kerala.getKerala();
+    delhi.getdelhi();
+    chattisgarh.getchattisgarh();
+  }, 44280000);
+}
+
+exports.getAllData = getAllData;
 
 //============================================================
 // uttarcoordmaker;
