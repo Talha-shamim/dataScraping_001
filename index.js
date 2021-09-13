@@ -161,6 +161,6 @@ app.get("/api_covinet", (req, res) => {
   }
 });
 
-let PORT = 7765;
-// let PORT = process.env.PORT || 3001
+// let PORT = 7765;
+let PORT = process.env.PORT || 3001
 app.listen(PORT, () => console.log(`listening${PORT}`));
